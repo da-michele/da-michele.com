@@ -175,6 +175,8 @@ You only need to heat up the meal in your oven at home.
 
 ### Veal carrée with Taleggio-cheese and Truffles
 
+<img :src="$withBase('/food/carne/carree_di_vitello.webp')" alt="Veal carrée with Taleggio-cheese and Truffles" loading="lazy">
+
 25 €
 
 ### Dry Aged Black Angus Tagliata

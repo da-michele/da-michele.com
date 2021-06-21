@@ -173,6 +173,8 @@ Wir bereiten alles für Dich vor, damit Du den Fisch zuhause nur noch in den Ofe
 
 ### Kalbskarrée mit Taleggio und Trüffel
 
+<img :src="$withBase('/food/carne/carree_di_vitello.webp')" alt="Kalbskarrée mit Taleggio und Trüffel" loading="lazy">
+
 25 €
 
 ### Tagliata vom Dry Aged Black Angus
