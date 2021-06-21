@@ -1,6 +1,6 @@
 ---
 lang: de-DE
-date: 2021-06-18
+date: 2021-06-21
 sidebar: false
 pageClass: custom-menu
 tags:
@@ -30,7 +30,7 @@ meta:
   - property: article:author
     content: Vincenzo Romano
   - property: article:modified_time
-    content: 2021-06-18
+    content: 2021-06-21
 ---
 
 # Menü
@@ -69,15 +69,15 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 13 €
 
+### Parmaschinken, Melone
+
+13 €
+
 ### Burrata, Tomaten <Badge text="vegetarisch"/>
 
 <img :src="$withBase('/food/antipasti/burrata.webp')" alt="Burrata mit Tomaten" loading="lazy">
 
 > cremiger Mozzarella auf geschmorten Auberginen und anderem Gemüse der Saison in einer frischen Tomatensauce
-
-14 €
-
-### Parmaschinken, Melone
 
 14 €
 
@@ -119,6 +119,12 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 > Fisch
 
+### Sepia gegrillt
+
+> Tintenfisch
+
+21 €
+
 ### Wolfsbarschfilet gegrillt
 
 21 €
@@ -138,10 +144,6 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 <img :src="$withBase('/food/pesce/bistecca_di_tonno.webp')" alt="Thunfischsteak" loading="lazy">
 
 25 €
-
-### Dorade (ganz)
-
-28 €
 
 ## Pesci Interi <Badge text="nur auf Vorbestellung" type="warning"/>
 
@@ -181,10 +183,6 @@ Wir bereiten alles für Dich vor, damit Du den Fisch zuhause nur noch in den Ofe
 
 29 €
 
-### Rinderfilet mit Trüffel-Paste
-
-29 €
-
 ## Pasta
 
 > Pasta
@@ -207,7 +205,7 @@ Wir bieten auch glutenfreie Pasta an.
 
 14 €
 
-### Tagliatelle Pfifferlinge <Badge text="vegetarisch"/>
+### Pasta Pfifferlinge <Badge text="vegetarisch"/>
 
 14 €
 
@@ -237,7 +235,7 @@ Wir bieten auch glutenfreie Pasta an.
 
 16 €
 
-### Tagliatelle Trüffel <Badge text="vegetarisch"/>
+### Pasta Trüffel <Badge text="vegetarisch"/>
 
 18 €
 

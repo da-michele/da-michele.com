@@ -1,6 +1,6 @@
 ---
 lang: en-US
-date: 2021-06-18
+date: 2021-06-21
 sidebar: false
 pageClass: custom-menu
 tags:
@@ -29,7 +29,7 @@ meta:
   - property: article:author
     content: Vincenzo Romano
   - property: article:modified_time
-    content: 2021-06-18
+    content: 2021-06-21
 ---
 
 # Menu
@@ -68,15 +68,15 @@ Today we serve our classics such as Spaghetti Aglio é Olio, Spaghetti Napoli, S
 
 13 €
 
+### Parma ham, melon
+
+13 €
+
 ### Burrata, Tomatoes <Badge text="vegetarian"/>
 
 <img :src="$withBase('/food/antipasti/burrata.webp')" alt="Burrata with Tomatoes" loading="lazy">
 
 > creamy mozzarella cheese on braised eggplant and other seasonal vegetables in a fresh tomato sauce
-
-14 €
-
-### Parma ham, melon
 
 14 €
 
@@ -120,6 +120,12 @@ Today we serve our classics such as Spaghetti Aglio é Olio, Spaghetti Napoli, S
 
 > Fish
 
+### Grilled sepia
+
+> squid
+
+21 €
+
 ### Grilled sea bass fillet
 
 21 €
@@ -139,10 +145,6 @@ Today we serve our classics such as Spaghetti Aglio é Olio, Spaghetti Napoli, S
 <img :src="$withBase('/food/pesce/bistecca_di_tonno.webp')" alt="Thuna steak" loading="lazy">
 
 25 €
-
-### Sea bream (whole)
-
-28 €
 
 ## Pesci Interi <Badge text="only via pre-order" type="warning"/>
 
@@ -183,10 +185,6 @@ You only need to heat up the meal in your oven at home.
 
 29 €
 
-### Beef fillet with truffles-paste
-
-29 €
-
 ## Pasta
 
 > Pasta
@@ -209,7 +207,7 @@ We also serve gluten free pasta.
 
 14 €
 
-### Tagliatelle Chanterelles <Badge text="vegetarian"/>
+### Pasta Chanterelles <Badge text="vegetarian"/>
 
 14 €
 
@@ -239,7 +237,7 @@ We also serve gluten free pasta.
 
 16 €
 
-### Tagliatelle Truffles <Badge text="vegetarian"/>
+### Pasta Truffles <Badge text="vegetarian"/>
 
 18 €
 
