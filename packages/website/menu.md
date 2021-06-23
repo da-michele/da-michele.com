@@ -1,6 +1,6 @@
 ---
 lang: de-DE
-date: 2021-06-21
+date: 2021-06-23
 sidebar: false
 pageClass: custom-menu
 tags:
@@ -30,7 +30,7 @@ meta:
   - property: article:author
     content: Vincenzo Romano
   - property: article:modified_time
-    content: 2021-06-21
+    content: 2021-06-23
 ---
 
 # Menü
