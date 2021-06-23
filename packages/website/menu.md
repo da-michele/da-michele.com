@@ -65,13 +65,13 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 13 €
 
-### Parmaschinken mit Büffelmozzarella
-
-13 €
-
 ### Parmaschinken, Melone
 
 13 €
+
+### Parmaschinken mit Burrata
+
+14 €
 
 ### Burrata, Tomaten <Badge text="vegetarisch"/>
 
@@ -97,12 +97,6 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 16 €
 
-### Polpo al Pomodoro
-
-> Tintenfisch
-
-16 €
-
 ### Carpaccio vom Polpo
 
 <img :src="$withBase('/food/antipasti/polpo_carpaccio.webp')" alt="Polpo Carpaccio" loading="lazy">
@@ -111,7 +105,7 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 16 €
 
-### Kalbsbries, Pfifferlinge, Spargel
+### Kalbsbries, Morcheln
 
 18 €
 
@@ -134,10 +128,6 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 <img :src="$withBase('/food/pesce/pesce_spada.webp')" alt="Schwertfisch gegrillt" loading="lazy">
 
 23 €
-
-### Wolfsbarschfilet auf Ratatouille
-
-23.50 €
 
 ### Thunfischsteak auf Rucola
 
@@ -166,10 +156,6 @@ Wir bereiten alles für Dich vor, damit Du den Fisch zuhause nur noch in den Ofe
 ### Kalbsleber alla Veneziana
 
 16 €
-
-### Kalbsmedallions in Weißweinsauce
-
-19.50 €
 
 ### Kalbskarrée mit Taleggio und Trüffel
 
@@ -211,21 +197,9 @@ Wir bieten auch glutenfreie Pasta an.
 
 14 €
 
-### Spaghetti Cozze
-
-> Miesmuscheln
-
-14 €
-
 ### Pasta Salsiccia Trüffel
 
 > ital. Frischwurst
-
-16 €
-
-### Spaghetti Polpo
-
-> Tintenfisch
 
 16 €
 

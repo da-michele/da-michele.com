@@ -64,13 +64,13 @@ Today we serve our classics such as Spaghetti Aglio é Olio, Spaghetti Napoli, S
 
 13 €
 
-### Parma ham with buffalo mozzarella
-
-13 €
-
 ### Parma ham, melon
 
 13 €
+
+### Parma ham with burrata
+
+14 €
 
 ### Burrata, Tomatoes <Badge text="vegetarian"/>
 
@@ -96,12 +96,6 @@ Today we serve our classics such as Spaghetti Aglio é Olio, Spaghetti Napoli, S
 
 16 €
 
-### Polpo al Pomodoro
-
-> octopus with tomatoes
-
-16 €
-
 ### Polpo Carpaccio
 
 <img :src="$withBase('/food/antipasti/polpo_carpaccio.webp')" alt="Polpo Carpaccio" loading="lazy">
@@ -110,7 +104,7 @@ Today we serve our classics such as Spaghetti Aglio é Olio, Spaghetti Napoli, S
 
 16 €
 
-### Sweetbreads, Chanterelles, Asparagus
+### Sweetbreads, Morels
 
 > veal
 
@@ -135,10 +129,6 @@ Today we serve our classics such as Spaghetti Aglio é Olio, Spaghetti Napoli, S
 <img :src="$withBase('/food/pesce/pesce_spada.webp')" alt="Grilled swordfish" loading="lazy">
 
 23 €
-
-### Sea bass fillet on Ratatouille
-
-23.50 €
 
 ### Thuna steak on Rucola salad
 
@@ -168,10 +158,6 @@ You only need to heat up the meal in your oven at home.
 ### Veal liver alla Veneziana
 
 16 €
-
-### Veal medallions in white wine sauce
-
-19.50 €
 
 ### Veal carrée with Taleggio-cheese and Truffles
 
@@ -213,21 +199,9 @@ We also serve gluten free pasta.
 
 14 €
 
-### Spaghetti Cozze
-
-> mussels
-
-14 €
-
 ### Pasta Salsiccia Truffles
 
 > Italian raw meat sausage
-
-16 €
-
-### Spaghetti Polpo
-
-> octopus
 
 16 €
 
