@@ -109,6 +109,10 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 18 €
 
+### Entenmuscheln
+
+18 €
+
 ## Pesce
 
 > Fisch
@@ -129,11 +133,11 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 23 €
 
-### Thunfischsteak
+### Thunfischsteak mit Rucola
 
 <img :src="$withBase('/food/pesce/bistecca_di_tonno.webp')" alt="Thunfischsteak" loading="lazy">
 
-23 €
+25 €
 
 ## Pesci Interi <Badge text="nur auf Vorbestellung" type="warning"/>
 
@@ -194,6 +198,12 @@ Wir bieten auch glutenfreie Pasta an.
 14 €
 
 ### Pasta Pfifferlinge <Badge text="vegetarisch"/>
+
+14 €
+
+### Pasta Salsiccia, Aubergine
+
+> ital. Frischwurst
 
 14 €
 

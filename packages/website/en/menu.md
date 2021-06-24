@@ -110,6 +110,10 @@ Today we serve our classics such as Spaghetti Aglio é Olio, Spaghetti Napoli, S
 
 18 €
 
+### Barnacles
+
+18 €
+
 ## Pesce
 
 > Fish
@@ -130,11 +134,11 @@ Today we serve our classics such as Spaghetti Aglio é Olio, Spaghetti Napoli, S
 
 23 €
 
-### Thuna steak
+### Thuna steak with Rucola
 
 <img :src="$withBase('/food/pesce/bistecca_di_tonno.webp')" alt="Thuna steak" loading="lazy">
 
-23 €
+25 €
 
 ## Pesci Interi <Badge text="only via pre-order" type="warning"/>
 
@@ -196,6 +200,12 @@ We also serve gluten free pasta.
 14 €
 
 ### Pasta Chanterelles <Badge text="vegetarian"/>
+
+14 €
+
+### Pasta Salsiccia, Eggplant
+
+> Italian raw meat sausage
 
 14 €
 
