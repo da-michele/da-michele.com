@@ -130,11 +130,11 @@ Today we serve our classics such as Spaghetti Aglio é Olio, Spaghetti Napoli, S
 
 23 €
 
-### Thuna steak on Rucola salad
+### Thuna steak
 
 <img :src="$withBase('/food/pesce/bistecca_di_tonno.webp')" alt="Thuna steak" loading="lazy">
 
-25 €
+23 €
 
 ## Pesci Interi <Badge text="only via pre-order" type="warning"/>
 
@@ -163,7 +163,7 @@ You only need to heat up the meal in your oven at home.
 
 <img :src="$withBase('/food/carne/carree_di_vitello.webp')" alt="Veal carrée with Taleggio-cheese and Truffles" loading="lazy">
 
-25 €
+28.50 €
 
 ### Dry Aged Black Angus Tagliata
 
@@ -202,6 +202,10 @@ We also serve gluten free pasta.
 ### Pasta Salsiccia Truffles
 
 > Italian raw meat sausage
+
+16 €
+
+### Tagliatelle with porcini mushrooms
 
 16 €
 

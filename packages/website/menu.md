@@ -129,11 +129,11 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 23 €
 
-### Thunfischsteak auf Rucola
+### Thunfischsteak
 
 <img :src="$withBase('/food/pesce/bistecca_di_tonno.webp')" alt="Thunfischsteak" loading="lazy">
 
-25 €
+23 €
 
 ## Pesci Interi <Badge text="nur auf Vorbestellung" type="warning"/>
 
@@ -161,7 +161,7 @@ Wir bereiten alles für Dich vor, damit Du den Fisch zuhause nur noch in den Ofe
 
 <img :src="$withBase('/food/carne/carree_di_vitello.webp')" alt="Kalbskarrée mit Taleggio und Trüffel" loading="lazy">
 
-25 €
+28.50 €
 
 ### Tagliata vom Dry Aged Black Angus
 
@@ -200,6 +200,10 @@ Wir bieten auch glutenfreie Pasta an.
 ### Pasta Salsiccia Trüffel
 
 > ital. Frischwurst
+
+16 €
+
+### Tagliatelle Steinpilze
 
 16 €
 
