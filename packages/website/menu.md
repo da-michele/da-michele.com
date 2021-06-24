@@ -203,7 +203,7 @@ Wir bieten auch glutenfreie Pasta an.
 
 16 €
 
-### Tagliatelle Steinpilze
+### Tagliatelle Steinpilze <Badge text="vegetarisch"/>
 
 16 €
 

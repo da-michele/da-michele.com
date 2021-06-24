@@ -205,7 +205,7 @@ We also serve gluten free pasta.
 
 16 €
 
-### Tagliatelle with porcini mushrooms
+### Tagliatelle with porcini mushrooms <Badge text="vegetarian"/>
 
 16 €
 
