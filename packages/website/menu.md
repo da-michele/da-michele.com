@@ -45,10 +45,6 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 > Vorspeisen
 
-### Austern
-
-3.50 € / Stück
-
 ### Fenchelsalat <Badge text="vegetarisch"/> <Badge text="vegan"/>
 
 9 €

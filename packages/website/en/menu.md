@@ -44,10 +44,6 @@ Today we serve our classics such as Spaghetti Aglio é Olio, Spaghetti Napoli, S
 
 > Starters
 
-### Oysters
-
-3.50 € / piece
-
 ### Fennel salad <Badge text="vegetarian"/> <Badge text="vegan"/>
 
 9 €
