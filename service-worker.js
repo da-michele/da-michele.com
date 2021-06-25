@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "98a269bef99afb4bb2b21cd243b1d207"
+    "revision": "e9584172eceb7911645f7fbc70d39e81"
   },
   {
     "url": "assets/css/0.styles.975c0afc.css",
@@ -90,16 +90,16 @@ self.__precacheManifest = [
     "revision": "141edd456dc3a99ed181dd0e690e3be6"
   },
   {
-    "url": "assets/js/22.697c557b.js",
-    "revision": "90d86d959a75a6824b20629461ca97d6"
+    "url": "assets/js/22.193b5912.js",
+    "revision": "0124d3da39ab1d79a2bc6fa9e8271735"
   },
   {
-    "url": "assets/js/23.f387aa8b.js",
-    "revision": "aaff0fb04e99cbd7c73f8018ed102ac1"
+    "url": "assets/js/23.446e08c0.js",
+    "revision": "c2385572025dede5d8ab910ad4054066"
   },
   {
-    "url": "assets/js/24.e5c8efd0.js",
-    "revision": "7cb7b186286b5400bac509218a3c8a96"
+    "url": "assets/js/24.3f6c0eb1.js",
+    "revision": "1eeb21324dff021902db3b72b2816e02"
   },
   {
     "url": "assets/js/25.5f47e767.js",
@@ -126,20 +126,20 @@ self.__precacheManifest = [
     "revision": "14a5ff36409f05f2c67ab2a478f03bd3"
   },
   {
-    "url": "assets/js/30.2d64d299.js",
-    "revision": "da825481f92472798982d92142c828fa"
+    "url": "assets/js/30.cb20ad9b.js",
+    "revision": "a39e843f24e1954bdc7ffc9f3af85263"
   },
   {
     "url": "assets/js/31.636cfec3.js",
     "revision": "04e41d2f77ee4c4a5e8f94911526949c"
   },
   {
-    "url": "assets/js/32.c2206fd1.js",
-    "revision": "b73d7fbd929e74a40a563a2d212fcbdb"
+    "url": "assets/js/32.3cf7e812.js",
+    "revision": "74c73c7b104d76720a8184d7c5f164d5"
   },
   {
-    "url": "assets/js/33.e950f017.js",
-    "revision": "41563c20873f73d4f700f80585615c46"
+    "url": "assets/js/33.f299e5d1.js",
+    "revision": "386a7ea438e9afa58c35157bebc3d65f"
   },
   {
     "url": "assets/js/34.419f8d54.js",
@@ -170,40 +170,40 @@ self.__precacheManifest = [
     "revision": "7842cfcbc7ede27100a423820554a259"
   },
   {
-    "url": "assets/js/app.bf80477c.js",
-    "revision": "1503fe54951e2ec3ca35ad1ea48118a1"
+    "url": "assets/js/app.1df5f5e4.js",
+    "revision": "96e28530a668ea09989e008bc76925d1"
   },
   {
     "url": "en/imprint.html",
-    "revision": "433683c8da7ba995ce712971111f0bd3"
+    "revision": "947520539c70f6fe644b757a8d2f831e"
   },
   {
     "url": "en/index.html",
-    "revision": "e6ec55c0dc1d8751d512a4834de1530f"
+    "revision": "f4f0640d75d8b768396dac051d9d1504"
   },
   {
     "url": "en/legal/privacy.html",
-    "revision": "0b90ec53bd42af14daf56e64723ffdf3"
+    "revision": "eaf583abef4e0280954c5077f84909de"
   },
   {
     "url": "en/legal/terms.html",
-    "revision": "07abf75fc0e555ba5ac1ccdc3664f2bb"
+    "revision": "c0cf873cb15802b5b98c94909912319c"
   },
   {
     "url": "en/menu.html",
-    "revision": "347e2d93d62da746b1af3ba3963f5852"
+    "revision": "f6adc7e79cda94d430e5a9b7aa93eb50"
   },
   {
     "url": "en/restaurant/about.html",
-    "revision": "d3e390c875ef7cd399f1e2c0a14cb2c9"
+    "revision": "c10797408689ae890e15ed74a8181a35"
   },
   {
     "url": "en/restaurant/career.html",
-    "revision": "f59d470f345eaf9d813739a0bd3c4291"
+    "revision": "aa3bf23f7c6d22b43166d67938123559"
   },
   {
     "url": "en/restaurant/voucher.html",
-    "revision": "b8c1fa84868227a20c167b25339166d3"
+    "revision": "67d63e6fe1d2a86e37a30a1820f105d0"
   },
   {
     "url": "favicons/android-chrome-192x192.png",
@@ -339,19 +339,19 @@ self.__precacheManifest = [
   },
   {
     "url": "imprint.html",
-    "revision": "c76e67017e53b03f31fe8a706e2eee76"
+    "revision": "2883dafdfd9c640426efcee2650c7001"
   },
   {
     "url": "index.html",
-    "revision": "dcbc57e66959cb04623731e9e83d7ec9"
+    "revision": "73a02ae7140992259e8efdcce7d476dc"
   },
   {
     "url": "legal/privacy.html",
-    "revision": "d0c45ee606db30a6d9876583fe488c33"
+    "revision": "9d4615c5635ca472993ec0dd21eb5153"
   },
   {
     "url": "legal/terms.html",
-    "revision": "9dd14a230f4e1c46ee13b6ad909149bf"
+    "revision": "aab19c0dd36cf712a5b617320c43e644"
   },
   {
     "url": "logo.png",
@@ -359,19 +359,19 @@ self.__precacheManifest = [
   },
   {
     "url": "menu.html",
-    "revision": "25ae5a1e4b1fe889f77671cbbf2df8a9"
+    "revision": "a30dd152884b4d4952bfb6cd4c579a81"
   },
   {
     "url": "restaurant/about.html",
-    "revision": "0d3bdf1dea80e40ba398c6f81e658153"
+    "revision": "10c4f7d83a933c03b2309a5efbfbd53a"
   },
   {
     "url": "restaurant/career.html",
-    "revision": "bf3d58ce29c2dce401a77303f2db1ff5"
+    "revision": "cd8849f3aae12016d33d0511cf0b8d7b"
   },
   {
     "url": "restaurant/voucher.html",
-    "revision": "814c5ee2b3deed879d9a7f35852352da"
+    "revision": "76ca413716a851113457d61e8081e833"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
