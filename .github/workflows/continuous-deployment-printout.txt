@@ -1,0 +1,42 @@
+name: continuous-deployment-printout
+
+on:
+  push:
+    branches:
+      - master
+    paths:
+      - 'packages/printout/**'
+
+jobs:
+
+  deploy-printout:
+    runs-on: ubuntu-18.04
+    steps:
+      # Compare https://github.com/actions/checkout
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          persist-credentials: false
+      # Compare https://github.com/actions-rs/toolchain
+      - name: Install Rust toolchain with rustup help
+        uses: actions-rs/toolchain@v1
+        with:
+          toolchain: stable
+      - name: Check version of installed rust toolchain
+        run: |
+          rustup --version
+          cargo --version
+      # Compare https://github.com/actions-rs/cargo
+      - name: Install crowbook via cargo
+        uses: actions-rs/cargo@v1
+        with:
+          command: install
+          args: crowbook
+      - name: Make output folder for the following step
+        run: mkdir docs
+      # Uses https://github.com/lise-henry/crowbook
+      # which uses https://github.com/trishume/syntect
+      - name: Build print-out PDF of menu
+        run: |
+          cd packages/printout
+          crowbook --verbose --to pdf .crowbook.yaml
