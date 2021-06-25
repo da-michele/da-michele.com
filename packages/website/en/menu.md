@@ -94,8 +94,6 @@ Today we serve our classics such as Spaghetti Aglio é Olio, Spaghetti Napoli, S
 
 ### Polpo Carpaccio
 
-<img :src="$withBase('/food/antipasti/polpo_carpaccio.webp')" alt="Polpo Carpaccio" loading="lazy">
-
 > octopus
 
 16 €
@@ -115,6 +113,8 @@ Today we serve our classics such as Spaghetti Aglio é Olio, Spaghetti Napoli, S
 > Fish
 
 ### Grilled sepia
+
+<img :src="$withBase('/food/pesce/seppia.webp')" alt="Grilled sepia" loading="lazy">
 
 > squid
 

@@ -95,8 +95,6 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 ### Carpaccio vom Polpo
 
-<img :src="$withBase('/food/antipasti/polpo_carpaccio.webp')" alt="Polpo Carpaccio" loading="lazy">
-
 > Tintenfisch
 
 16 €
@@ -114,6 +112,8 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 > Fisch
 
 ### Sepia gegrillt
+
+<img :src="$withBase('/food/pesce/seppia.webp')" alt="Sepia gegrillt" loading="lazy">
 
 > Tintenfisch
 
