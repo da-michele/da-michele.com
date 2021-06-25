@@ -57,6 +57,8 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 ### Vitello tonnato
 
+<img :src="$withBase('/food/antipasti/vitello_tonnato.webp')" alt="Vitello tonnato" loading="lazy">
+
 > Kalbfleisch mit Thunfischsauce
 
 13 €

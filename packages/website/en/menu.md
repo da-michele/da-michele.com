@@ -56,6 +56,8 @@ Today we serve our classics such as Spaghetti Aglio é Olio, Spaghetti Napoli, S
 
 ### Vitello tonnato
 
+<img :src="$withBase('/food/antipasti/vitello_tonnato.webp')" alt="Vitello tonnato" loading="lazy">
+
 > veal with thuna sauce
 
 13 €
