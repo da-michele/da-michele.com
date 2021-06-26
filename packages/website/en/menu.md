@@ -1,6 +1,6 @@
 ---
 lang: en-US
-date: 2021-06-25
+date: 2021-06-26
 sidebar: false
 pageClass: custom-menu
 tags:
@@ -29,7 +29,7 @@ meta:
   - property: article:author
     content: Vincenzo Romano
   - property: article:modified_time
-    content: 2021-06-25
+    content: 2021-06-26
 ---
 
 # Menu
@@ -43,6 +43,10 @@ Today we serve our classics such as Spaghetti Aglio é Olio, Spaghetti Napoli, S
 ## Antipasti
 
 > Starters
+
+### Oysters
+
+3.50 € a piece
 
 ### Fennel salad <Badge text="vegetarian"/> <Badge text="vegan"/>
 
@@ -62,15 +66,7 @@ Today we serve our classics such as Spaghetti Aglio é Olio, Spaghetti Napoli, S
 
 13 €
 
-### Parma ham, melon
-
-13 €
-
-### Parma ham with burrata
-
-14 €
-
-### Burrata, Tomatoes <Badge text="vegetarian"/>
+### Burrata, Caponata <Badge text="vegetarian"/>
 
 <img :src="$withBase('/food/antipasti/burrata.webp')" alt="Burrata with Tomatoes" loading="lazy">
 
@@ -100,27 +96,9 @@ Today we serve our classics such as Spaghetti Aglio é Olio, Spaghetti Napoli, S
 
 16 €
 
-### Sweetbreads, Morels
-
-> veal
-
-18 €
-
-### Barnacles
-
-18 €
-
 ## Pesce
 
 > Fish
-
-### Grilled sepia
-
-<img :src="$withBase('/food/pesce/seppia.webp')" alt="Grilled sepia" loading="lazy">
-
-> squid
-
-21 €
 
 ### Grilled sea bass fillet
 
@@ -131,6 +109,10 @@ Today we serve our classics such as Spaghetti Aglio é Olio, Spaghetti Napoli, S
 <img :src="$withBase('/food/pesce/pesce_spada.webp')" alt="Grilled swordfish" loading="lazy">
 
 23 €
+
+### Ray in a broth
+
+24 €
 
 ### Thuna steak with Rucola
 
@@ -165,7 +147,7 @@ You only need to heat up the meal in your oven at home.
 
 <img :src="$withBase('/food/carne/carree_di_vitello.webp')" alt="Veal carrée with Taleggio-cheese and Truffles" loading="lazy">
 
-28.50 €
+25 €
 
 ### Dry Aged Black Angus Tagliata
 
@@ -197,7 +179,7 @@ We also serve gluten free pasta.
 
 14 €
 
-### Pasta Chanterelles <Badge text="vegetarian"/>
+### Tagliatelle Chanterelles <Badge text="vegetarian"/>
 
 14 €
 
@@ -207,13 +189,23 @@ We also serve gluten free pasta.
 
 14 €
 
+### Pasta Ricotta, rucola, dried tomatoes <Badge text="vegetarian"/>
+
+14 €
+
+### Pasta zucchini blossoms, potatoes <Badge text="vegetarian"/>
+
+14 €
+
+### Spaghetti Cozze
+
+> mussels
+
+14 €
+
 ### Pasta Salsiccia Truffles
 
 > Italian raw meat sausage
-
-16 €
-
-### Tagliatelle with porcini mushrooms <Badge text="vegetarian"/>
 
 16 €
 
@@ -225,7 +217,7 @@ We also serve gluten free pasta.
 
 16 €
 
-### Pasta Truffles <Badge text="vegetarian"/>
+### Tagliatelle Truffles <Badge text="vegetarian"/>
 
 18 €
 

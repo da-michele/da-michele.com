@@ -1,6 +1,6 @@
 ---
 lang: de-DE
-date: 2021-06-25
+date: 2021-06-26
 sidebar: false
 pageClass: custom-menu
 tags:
@@ -30,7 +30,7 @@ meta:
   - property: article:author
     content: Vincenzo Romano
   - property: article:modified_time
-    content: 2021-06-25
+    content: 2021-06-26
 ---
 
 # Menü
@@ -44,6 +44,10 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 ## Antipasti
 
 > Vorspeisen
+
+### Austern
+
+3.50 € pro Stück
 
 ### Fenchelsalat <Badge text="vegetarisch"/> <Badge text="vegan"/>
 
@@ -63,15 +67,7 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 13 €
 
-### Parmaschinken, Melone
-
-13 €
-
-### Parmaschinken mit Burrata
-
-14 €
-
-### Burrata, Tomaten <Badge text="vegetarisch"/>
+### Burrata, Caponata <Badge text="vegetarisch"/>
 
 <img :src="$withBase('/food/antipasti/burrata.webp')" alt="Burrata mit Tomaten" loading="lazy">
 
@@ -101,25 +97,9 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 16 €
 
-### Kalbsbries, Morcheln
-
-18 €
-
-### Entenmuscheln
-
-18 €
-
 ## Pesce
 
 > Fisch
-
-### Sepia gegrillt
-
-<img :src="$withBase('/food/pesce/seppia.webp')" alt="Sepia gegrillt" loading="lazy">
-
-> Tintenfisch
-
-21 €
 
 ### Wolfsbarschfilet gegrillt
 
@@ -130,6 +110,10 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 <img :src="$withBase('/food/pesce/pesce_spada.webp')" alt="Schwertfisch gegrillt" loading="lazy">
 
 23 €
+
+### Rochen im Sud
+
+24 €
 
 ### Thunfischsteak mit Rucola
 
@@ -163,7 +147,7 @@ Wir bereiten alles für Dich vor, damit Du den Fisch zuhause nur noch in den Ofe
 
 <img :src="$withBase('/food/carne/carree_di_vitello.webp')" alt="Kalbskarrée mit Taleggio und Trüffel" loading="lazy">
 
-28.50 €
+25 €
 
 ### Tagliata vom Dry Aged Black Angus
 
@@ -195,7 +179,7 @@ Wir bieten auch glutenfreie Pasta an.
 
 14 €
 
-### Pasta Pfifferlinge <Badge text="vegetarisch"/>
+### Tagliatelle Pfifferlinge <Badge text="vegetarisch"/>
 
 14 €
 
@@ -205,13 +189,23 @@ Wir bieten auch glutenfreie Pasta an.
 
 14 €
 
+### Pasta Ricotta, Rucola, getr. Tomaten <Badge text="vegetarisch"/>
+
+14 €
+
+### Spaghetti Cozze
+
+> Miesmuscheln
+
+14 €
+
+### Pasta Zucchiniblüten, Kartoffeln <Badge text="vegetarisch"/>
+
+14 €
+
 ### Pasta Salsiccia Trüffel
 
 > ital. Frischwurst
-
-16 €
-
-### Tagliatelle Steinpilze <Badge text="vegetarisch"/>
 
 16 €
 
@@ -223,7 +217,7 @@ Wir bieten auch glutenfreie Pasta an.
 
 16 €
 
-### Pasta Trüffel <Badge text="vegetarisch"/>
+### Tagliatelle Trüffel <Badge text="vegetarisch"/>
 
 18 €
 
