@@ -153,10 +153,6 @@ We also serve gluten free pasta.
 
 12 €
 
-### Pasta Salmon and Spinach
-
-14 €
-
 ### Tagliatelle Chanterelles <Badge text="vegetarian"/>
 
 14 €
@@ -164,10 +160,6 @@ We also serve gluten free pasta.
 ### Pasta Salsiccia, Eggplant
 
 > Italian raw meat sausage
-
-14 €
-
-### Pasta Ricotta, rucola, dried tomatoes <Badge text="vegetarian"/>
 
 14 €
 
