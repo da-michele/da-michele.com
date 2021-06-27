@@ -1,6 +1,6 @@
 ---
 lang: en-US
-date: 2021-06-26
+date: 2021-06-27
 sidebar: false
 pageClass: custom-menu
 tags:
@@ -29,7 +29,7 @@ meta:
   - property: article:author
     content: Vincenzo Romano
   - property: article:modified_time
-    content: 2021-06-26
+    content: 2021-06-27
 ---
 
 # Menu
@@ -74,25 +74,9 @@ Today we serve our classics such as Spaghetti Aglio é Olio, Spaghetti Napoli, S
 
 14 €
 
-### Calamaretti
+### Moscardini con piselli
 
-<img :src="$withBase('/food/antipasti/calamaretti.webp')" alt="Calamaretti" loading="lazy">
-
-> baby squids, artichokes, tomatoes, rucola salad
-
-16 €
-
-### Salmon ceviche
-
-<img :src="$withBase('/food/antipasti/ceviche_di_salmone.webp')" alt="Salmon ceviche" loading="lazy">
-
-> with a brew of citrus juice
-
-16 €
-
-### Polpo Carpaccio
-
-> octopus
+> small octopus, peas
 
 16 €
 
@@ -100,25 +84,19 @@ Today we serve our classics such as Spaghetti Aglio é Olio, Spaghetti Napoli, S
 
 > Fish
 
-### Grilled sea bass fillet
-
-21 €
-
 ### Grilled Swordfish
 
 <img :src="$withBase('/food/pesce/pesce_spada.webp')" alt="Grilled swordfish" loading="lazy">
 
 23 €
 
+### Mixed fish in a broth
+
+23.50 €
+
 ### Ray in a broth
 
 24 €
-
-### Thuna steak with Rucola
-
-<img :src="$withBase('/food/pesce/bistecca_di_tonno.webp')" alt="Thuna steak" loading="lazy">
-
-25 €
 
 ## Pesci Interi <Badge text="only via pre-order" type="warning"/>
 
@@ -190,10 +168,6 @@ We also serve gluten free pasta.
 14 €
 
 ### Pasta Ricotta, rucola, dried tomatoes <Badge text="vegetarian"/>
-
-14 €
-
-### Pasta zucchini blossoms, potatoes <Badge text="vegetarian"/>
 
 14 €
 

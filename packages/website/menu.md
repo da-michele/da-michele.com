@@ -1,6 +1,6 @@
 ---
 lang: de-DE
-date: 2021-06-26
+date: 2021-06-27
 sidebar: false
 pageClass: custom-menu
 tags:
@@ -30,7 +30,7 @@ meta:
   - property: article:author
     content: Vincenzo Romano
   - property: article:modified_time
-    content: 2021-06-26
+    content: 2021-06-27
 ---
 
 # Menü
@@ -75,11 +75,9 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 14 €
 
-### Moscardini con piselli 
+### Moscardini con piselli
 
-<img :src="$withBase('/food/antipasti/calamaretti.webp')" alt="Calamaretti" loading="lazy">
-
-> kleine Tintenfische, Erbsen 
+> kleine Tintenfische, Erbsen
 
 16 €
 
@@ -94,13 +92,13 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 23 €
 
-### Rochen im Sud
-
-24 €
-
 ### Gemischter Fisch im Sud 
 
 23.50 €
+
+### Rochen im Sud
+
+24 €
 
 ## Pesci Interi <Badge text="nur auf Vorbestellung" type="warning"/>
 
