@@ -154,10 +154,6 @@ Wir bieten auch glutenfreie Pasta an.
 
 12 €
 
-### Pasta Lachs und Spinat
-
-14 €
-
 ### Tagliatelle Pfifferlinge <Badge text="vegetarisch"/>
 
 14 €
@@ -168,9 +164,6 @@ Wir bieten auch glutenfreie Pasta an.
 
 14 €
 
-### Pasta Ricotta, Rucola, getr. Tomaten <Badge text="vegetarisch"/>
-
-14 €
 
 ### Spaghetti Cozze
 
