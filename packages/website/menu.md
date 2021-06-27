@@ -75,25 +75,11 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 14 €
 
-### Calamaretti
+### Moscardini con piselli 
 
 <img :src="$withBase('/food/antipasti/calamaretti.webp')" alt="Calamaretti" loading="lazy">
 
-> kleine Tintenfische, Artischocken, Tomaten, Rucola
-
-16 €
-
-### Lachsceviche
-
-<img :src="$withBase('/food/antipasti/ceviche_di_salmone.webp')" alt="Lachsceviche" loading="lazy">
-
-> mit einem Sud aus Zitrussaft
-
-16 €
-
-### Carpaccio vom Polpo
-
-> Tintenfisch
+> kleine Tintenfische, Erbsen 
 
 16 €
 
@@ -101,9 +87,6 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 > Fisch
 
-### Wolfsbarschfilet gegrillt
-
-21 €
 
 ### Schwertfisch gegrillt
 
@@ -115,11 +98,9 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 24 €
 
-### Thunfischsteak mit Rucola
+### Gemischter Fisch im Sud 
 
-<img :src="$withBase('/food/pesce/bistecca_di_tonno.webp')" alt="Thunfischsteak" loading="lazy">
-
-25 €
+23.50 €
 
 ## Pesci Interi <Badge text="nur auf Vorbestellung" type="warning"/>
 
@@ -199,9 +180,6 @@ Wir bieten auch glutenfreie Pasta an.
 
 14 €
 
-### Pasta Zucchiniblüten, Kartoffeln <Badge text="vegetarisch"/>
-
-14 €
 
 ### Pasta Salsiccia Trüffel
 
