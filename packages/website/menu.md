@@ -57,6 +57,10 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 16 €
 
+### Lachsceviche 
+
+16€
+
 ### Melone, Basilikum - Gazpacho <Badge text="vegetarisch"/> <Badge text="vegan"/>
 
 > kalte Tomatensuppe
