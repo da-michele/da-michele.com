@@ -74,9 +74,17 @@ Today we serve our classics such as Spaghetti Aglio é Olio, Spaghetti Napoli, S
 
 14 €
 
-### Moscardini con piselli
+### Rucola salad with rabbit liver
 
-> small octopus, peas
+16 €
+
+### Lachsceviche
+
+16 €
+
+### Calamaretti
+
+> small octopus
 
 16 €
 
@@ -90,13 +98,13 @@ Today we serve our classics such as Spaghetti Aglio é Olio, Spaghetti Napoli, S
 
 23 €
 
-### Mixed fish in a broth
+### Turbot on spinach
 
-23.50 €
+25 €
 
-### Ray in a broth
+### Thunasteak on rucola salad
 
-24 €
+25 €
 
 ## Pesci Interi <Badge text="only via pre-order" type="warning"/>
 

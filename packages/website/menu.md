@@ -53,14 +53,6 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 9 €
 
-### Rucolasalat mit Kaninchenleber 
-
-16 €
-
-### Lachsceviche 
-
-16€
-
 ### Melone, Basilikum - Gazpacho <Badge text="vegetarisch"/> <Badge text="vegan"/>
 
 > kalte Tomatensuppe
@@ -83,18 +75,23 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 14 €
 
-### Calamaretti 
+### Rucolasalat mit Kaninchenleber
 
-> kleine Tintenfische,
+16 €
+
+### Lachsceviche
+
+16 €
+
+### Calamaretti
+
+> kleine Tintenfische
 
 16 €
 
 ## Pesce
 
 > Fisch
-
-### 
-
 
 ### Schwertfisch gegrillt
 
@@ -106,10 +103,9 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 25 €
 
-### Thunfisch steak auf Rucolasalat 
+### Thunfischsteak auf Rucolasalat 
 
 25 €
-
 
 ## Pesci Interi <Badge text="nur auf Vorbestellung" type="warning"/>
 
@@ -175,13 +171,11 @@ Wir bieten auch glutenfreie Pasta an.
 
 14 €
 
-
 ### Spaghetti Cozze
 
 > Miesmuscheln
 
 14 €
-
 
 ### Pasta Salsiccia Trüffel
 
