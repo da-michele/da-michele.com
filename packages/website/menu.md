@@ -53,6 +53,10 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 9 €
 
+### Rucolasalat mit Kaninchenleber 
+
+16 €
+
 ### Melone, Basilikum - Gazpacho <Badge text="vegetarisch"/> <Badge text="vegan"/>
 
 > kalte Tomatensuppe
@@ -75,15 +79,17 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 14 €
 
-### Moscardini con piselli
+### Calamaretti 
 
-> kleine Tintenfische, Erbsen
+> kleine Tintenfische,
 
 16 €
 
 ## Pesce
 
 > Fisch
+
+### 
 
 
 ### Schwertfisch gegrillt
@@ -92,13 +98,14 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 23 €
 
-### Gemischter Fisch im Sud 
+### Steinbutt auf Spinat 
 
-23.50 €
+25 €
 
-### Rochen im Sud
+### Thunfisch steak auf Rucolasalat 
 
-24 €
+25 €
+
 
 ## Pesci Interi <Badge text="nur auf Vorbestellung" type="warning"/>
 
