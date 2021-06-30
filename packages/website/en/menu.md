@@ -1,6 +1,6 @@
 ---
 lang: en-US
-date: 2021-06-28
+date: 2021-06-30
 sidebar: false
 pageClass: custom-menu
 tags:
@@ -29,7 +29,7 @@ meta:
   - property: article:author
     content: Vincenzo Romano
   - property: article:modified_time
-    content: 2021-06-28
+    content: 2021-06-30
 ---
 
 # Menu
@@ -44,19 +44,9 @@ Today we serve our classics such as Spaghetti Aglio é Olio, Spaghetti Napoli, S
 
 > Starters
 
-### Oysters
+### Frittura
 
-3.50 € a piece
-
-### Fennel salad <Badge text="vegetarian"/> <Badge text="vegan"/>
-
-9 €
-
-### Melon, Basil - Gazpacho <Badge text="vegetarian"/> <Badge text="vegan"/>
-
-> cold tomatoe soup
-
-9 €
+14 €
 
 ### Vitello tonnato
 
@@ -66,7 +56,7 @@ Today we serve our classics such as Spaghetti Aglio é Olio, Spaghetti Napoli, S
 
 13 €
 
-### Burrata, Caponata <Badge text="vegetarian"/>
+### Burrata, Tomatoes <Badge text="vegetarian"/>
 
 <img :src="$withBase('/food/antipasti/burrata.webp')" alt="Burrata with Tomatoes" loading="lazy">
 
@@ -98,7 +88,7 @@ Today we serve our classics such as Spaghetti Aglio é Olio, Spaghetti Napoli, S
 
 23 €
 
-### Turbot on spinach
+### Cod on spinach
 
 25 €
 

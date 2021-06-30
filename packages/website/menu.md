@@ -1,6 +1,6 @@
 ---
 lang: de-DE
-date: 2021-06-28
+date: 2021-06-30
 sidebar: false
 pageClass: custom-menu
 tags:
@@ -30,7 +30,7 @@ meta:
   - property: article:author
     content: Vincenzo Romano
   - property: article:modified_time
-    content: 2021-06-28
+    content: 2021-06-30
 ---
 
 # Menü
@@ -43,8 +43,7 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 ## Antipasti
 
-
-### Frittura 
+### Frittura
 
 14 €
 
@@ -56,7 +55,7 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 13 €
 
-### Burrata, Tomate<Badge text="vegetarisch"/>
+### Burrata, Tomate <Badge text="vegetarisch"/>
 
 <img :src="$withBase('/food/antipasti/burrata.webp')" alt="Burrata mit Tomaten" loading="lazy">
 
@@ -88,7 +87,7 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 23 €
 
-### kabeljau auf Spinat 
+### Kabeljau auf Spinat 
 
 25 €
 
