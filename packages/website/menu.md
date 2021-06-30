@@ -43,21 +43,10 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 ## Antipasti
 
-> Vorspeisen
 
-### Austern
+### Frittura 
 
-3.50 € pro Stück
-
-### Fenchelsalat <Badge text="vegetarisch"/> <Badge text="vegan"/>
-
-9 €
-
-### Melone, Basilikum - Gazpacho <Badge text="vegetarisch"/> <Badge text="vegan"/>
-
-> kalte Tomatensuppe
-
-9 €
+14 €
 
 ### Vitello tonnato
 
@@ -67,7 +56,7 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 13 €
 
-### Burrata, Caponata <Badge text="vegetarisch"/>
+### Burrata, Tomate<Badge text="vegetarisch"/>
 
 <img :src="$withBase('/food/antipasti/burrata.webp')" alt="Burrata mit Tomaten" loading="lazy">
 
@@ -99,7 +88,7 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 23 €
 
-### Steinbutt auf Spinat 
+### kabeljau auf Spinat 
 
 25 €
 
