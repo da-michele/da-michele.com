@@ -1,0 +1,104 @@
+{% extends "main.html" %}
+
+{% block content %}
+  {{ super() }}
+  {% if page and page.meta and page.meta.food %}
+    {% if page and page.meta and page.meta.food and page.meta.food.antipasti %}
+      <h2 id="antipasti">Antipasti<a class="headerlink" href="#antipasti" title="Permanent link">&para;</a></h2>
+      <blockquote><p>Vorspeisen</p></blockquote>
+      {% for item in page.meta.food.antipasti if not item.hidden %}
+        <h3 id="{{ item.id }}">{{ item.title }}<a class="headerlink" href="#{{ item.id }}" title="Permanent link">&para;</a></h3>
+        {% if item.image %}
+          <img src="//da-michele.com/assets/images/food/antipasti/{{ item.image }}.webp" alt="{{ item.title }}" loading="lazy">
+        {% endif %}
+        {% if item.description %}
+          <blockquote><p>{{ item.description }}</p></blockquote>
+        {% endif %}
+        <p>{{ item.price }} €</p>
+      {% endfor %}
+    {% endif %}
+    {% if page and page.meta and page.meta.food and page.meta.food.pesce %}
+      <h2 id="pesce">Pesce<a class="headerlink" href="#pesce" title="Permanent link">&para;</a></h2>
+      <blockquote><p>Fisch</p></blockquote>
+      <div class="admonition info">
+        <p>Du kannst als Beilage zwischen Gemüse und Pasta wählen.</p>
+      </div>
+      {% for item in page.meta.food.pesce if not item.hidden %}
+        <h3 id="{{ item.id }}">{{ item.title }}<a class="headerlink" href="#{{ item.id }}" title="Permanent link">&para;</a></h3>
+        {% if item.image %}
+          <img src="//da-michele.com/assets/images/food/pesce/{{ item.image }}.webp" alt="{{ item.title }}" loading="lazy">
+        {% endif %}
+        {% if item.description %}
+          <blockquote><p>{{ item.description }}</p></blockquote>
+        {% endif %}
+        <p>{{ item.price }} €</p>
+      {% endfor %}
+    {% endif %}
+    {% if page and page.meta and page.meta.food and page.meta.food.carne %}
+      <h2 id="carne">Carne<a class="headerlink" href="#carne" title="Permanent link">&para;</a></h2>
+      <blockquote><p>Fleisch</p></blockquote>
+      <div class="admonition info">
+        <p>Du kannst als Beilage zwischen Gemüse und Pasta wählen.</p>
+      </div>
+      {% for item in page.meta.food.carne if not item.hidden %}
+        <h3 id="{{ item.id }}">{{ item.title }}<a class="headerlink" href="#{{ item.id }}" title="Permanent link">&para;</a></h3>
+        {% if item.image %}
+          <img src="//da-michele.com/assets/images/food/carne/{{ item.image }}.webp" alt="{{ item.title }}" loading="lazy">
+        {% endif %}
+        {% if item.description %}
+          <blockquote><p>{{ item.description }}</p></blockquote>
+        {% endif %}
+        <p>{{ item.price }} €</p>
+      {% endfor %}
+    {% endif %}
+    {% if page and page.meta and page.meta.food and page.meta.food.pasta %}
+      <h2 id="pasta">Pasta<a class="headerlink" href="#pasta" title="Permanent link">&para;</a></h2>
+      <blockquote><p>Nudeln</p></blockquote>
+      <div class="admonition info">
+        <p>Wir bieten auch glutenfreie Pasta an.</p>
+      </div>
+      {% for item in page.meta.food.pasta if not item.hidden %}
+        <h3 id="{{ item.id }}">{{ item.title }}<a class="headerlink" href="#{{ item.id }}" title="Permanent link">&para;</a></h3>
+        {% if item.image %}
+          <img src="//da-michele.com/assets/images/food/pasta/{{ item.image }}.webp" alt="{{ item.title }}" loading="lazy">
+        {% endif %}
+        {% if item.description %}
+          <blockquote><p>{{ item.description }}</p></blockquote>
+        {% endif %}
+        <p>{{ item.price }} €</p>
+      {% endfor %}
+    {% endif %}
+    {% if page and page.meta and page.meta.food and page.meta.food.pizze %}
+      <h2 id="pizze">Pizze<a class="headerlink" href="#pizze" title="Permanent link">&para;</a></h2>
+      <blockquote><p>Pizza</p></blockquote>
+      <div class="admonition info">
+        <p>Du kannst Dir Deine Pizzen nach Wunsch belegen lassen.</p>
+      </div>
+      {% for item in page.meta.food.pizze if not item.hidden %}
+        <h3 id="{{ item.id }}">{{ item.title }}<a class="headerlink" href="#{{ item.id }}" title="Permanent link">&para;</a></h3>
+        {% if item.image %}
+          <img src="//da-michele.com/assets/images/food/pizze/{{ item.image }}.webp" alt="{{ item.title }}" loading="lazy">
+        {% endif %}
+        {% if item.description %}
+          <blockquote><p>{{ item.description }}</p></blockquote>
+        {% endif %}
+        <p>{{ item.price }} €</p>
+      {% endfor %}
+    {% endif %}
+    {% if page and page.meta and page.meta.food and page.meta.food.dolci %}
+      <h2 id="dolci">Dolci<a class="headerlink" href="#dolci" title="Permanent link">&para;</a></h2>
+      <blockquote><p>Nachspeisen</p></blockquote>
+      {% for item in page.meta.food.dolci if not item.hidden %}
+        <h3 id="{{ item.id }}">{{ item.title }}<a class="headerlink" href="#{{ item.id }}" title="Permanent link">&para;</a></h3>
+        {% if item.image %}
+          <img src="//da-michele.com/assets/images/food/dolci/{{ item.image }}.webp" alt="{{ item.title }}" loading="lazy">
+        {% endif %}
+        {% if item.description %}
+          <blockquote><p>{{ item.description }}</p></blockquote>
+        {% endif %}
+        <p>{{ item.price }} €</p>
+      {% endfor %}
+    {% endif %}
+  {% else %}
+  {% endif %}
+{% endblock %}

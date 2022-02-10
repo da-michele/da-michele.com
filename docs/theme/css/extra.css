@@ -1,0 +1,19 @@
+html a[title="Facebook"].md-social__link svg {
+    color: #1877f2;
+}
+
+html a[title="Google Maps"].md-social__link svg {
+    color: #4285f4;
+}
+
+html a[title="HERE Maps"].md-social__link svg {
+    color: #00afaa;
+}
+
+html a[title="Instagram"].md-social__link svg {
+    color: #e4405f;
+}
+
+html a[title="Waze"].md-social__link svg {
+    color: #33ccff;
+}

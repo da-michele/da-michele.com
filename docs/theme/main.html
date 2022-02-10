@@ -1,0 +1,41 @@
+{% extends "base.html" %}
+
+{% block extrahead %}
+  {{ super() }}
+  <meta name="geo.position" content="48.786975;8.1936724">
+  <meta name="geo.region" content="DE">
+  <meta name="geo.placename" content="Baden-Baden">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{{ config.site_name }}">
+  <meta name="twitter:description" content="{{ config.site_description }}">
+  <meta name="twitter:image:src" content="//da-michele.com/assets/images/social/social_banner_16x9.webp">
+  <meta property="og:title" content="{{ config.site_name }}">
+  <meta property="og:description" content="{{ config.site_description }}">
+  <meta property="og:site_name" content="{{ config.site_name }}">
+  <meta property="og:url" content="{{ page.canonical_url }}">
+  <meta property="og:image" content="//da-michele.com/assets/images/social/social_banner_1x1.webp">
+  <meta property="og:image:secure_url" content="//da-michele.com/assets/images/social/social_banner_1x1.webp">
+  <meta property="og:image:alt" content="{{ config.site_name }}">
+  <meta property="og:image:type" content="image/webp">
+  <meta property="og:image:width" content="416">
+  <meta property="og:image:height" content="416">
+  <meta property="og:image" content="//da-michele.com/assets/images/social/social_banner_4x3.webp">
+  <meta property="og:image:secure_url" content="//da-michele.com/assets/images/social/social_banner_4x3.webp">
+  <meta property="og:image:alt" content="{{ config.site_name }}">
+  <meta property="og:image:type" content="image/webp">
+  <meta property="og:image:width" content="555">
+  <meta property="og:image:height" content="416">
+  <meta property="og:image" content="//da-michele.com/assets/images/social/social_banner_16x9.webp">
+  <meta property="og:image:secure_url" content="//da-michele.com/assets/images/social/social_banner_16x9.webp">
+  <meta property="og:image:alt" content="{{ config.site_name }}">
+  <meta property="og:image:type" content="image/webp">
+  <meta property="og:image:width" content="740">
+  <meta property="og:image:height" content="416">
+{% endblock %}
+
+{% block announce %}
+  <p>
+    <a href="tel:+49722161541">Ruf an</a>, um zu bestellen,<br>
+    oder importiere <a href="//da-michele.com/assets/vcards/Da_Michele_Baden-Baden.vcf">unsere Visitenkarte</a> in dein Telefonbuch.
+  </p>
+{% endblock %}

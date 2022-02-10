@@ -1,0 +1,63 @@
+name: cd
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - '.github/workflows/cd.yml'
+      - 'docs/src/**'
+      - 'mkdocs.yml'
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    name: Deploy (`mkdocs` on ${{ matrix.os }} with py${{ matrix.python-version }})
+    runs-on: ${{ matrix.os }}
+    continue-on-error: ${{ matrix.optional }}
+    timeout-minutes: 15 # default is 6 hours!
+    strategy:
+      max-parallel: 1
+      fail-fast: false
+      matrix:
+        include:
+          - os: ubuntu-latest
+            python-version: 3.9
+            optional: false
+    steps:
+
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+          persist-credentials: false
+
+      - name: Set up Python ${{ matrix.python-version }}
+        uses: actions/setup-python@v2
+        with:
+          python-version: ${{ matrix.python-version }}
+
+      - name: Install dependencies
+        run: |
+          python3 -m pip install --upgrade pip setuptools build
+          python3 -m pip install -r ./requirements.txt
+
+      - name: Build docs
+        run: |
+          mkdocs build --clean --strict
+
+      # - name: Check GitHub Pages status
+      #   uses: crazy-max/ghaction-github-status@v2
+      #   with:
+      #     pages_threshold: major_outage
+
+      - name: Deploy to GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v2
+        with:
+          build_dir: ./site
+          fqdn: da-michele.com
+          # keep_history: false
+          # target_branch: gh-pages
+          verbose: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
