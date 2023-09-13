@@ -1,0 +1,610 @@
+{
+    "antipasti": [
+        {
+            "show": false,
+            "anchor": "insalata-di-arance",
+            "name": "Insalata di Arance",
+            "desc": {
+                "de": "Orangensalat mit roten Zwiebeln",
+                "en": "orange salad with red onions"
+            },
+            "tags": [
+                "vegan",
+                "vegetarian"
+            ],
+            "priceeuro": 9,
+            "img": "antipasti/insalata_di_arance.webp"
+        },
+        {
+            "show": true,
+            "anchor": "insalata-di-finnochio",
+            "name": "Insalata di Finnochio",
+            "desc": {
+                "de": "Fenchelsalat",
+                "en": "fennel salad"
+            },
+            "tags": [
+                "vegan",
+                "vegetarian"
+            ],
+            "priceeuro": 10
+        },
+        {
+            "show": false,
+            "anchor": "gazpacho",
+            "name": "Gazpacho",
+            "desc": {
+                "de": "kalte Tomatensuppe",
+                "en": "cold tomatoe soup"
+            },
+            "tags": [
+                "vegan",
+                "vegetarian"
+            ],
+            "priceeuro": 12
+        },
+        {
+            "show": false,
+            "anchor": "insalata-capricciosa",
+            "name": "Insalata Capricciosa",
+            "tags": [
+                "vegan",
+                "vegetarian"
+            ],
+            "priceeuro": 14
+        },
+        {
+            "show": false,
+            "anchor": "carciofi",
+            "name": "Carciofi",
+            "desc": {
+                "de": "Artischocken",
+                "en": "artichokes"
+            },
+            "tags": [
+                "vegan",
+                "vegetarian"
+            ],
+            "priceeuro": 14,
+            "img": "antipasti/carciofi.webp"
+        },
+        {
+            "show": false,
+            "anchor": "formaggio-di-capra-pomodoro",
+            "name": "Formaggio di Capra & Pomodoro",
+            "desc": {
+                "de": "Ziegenkäse mit Tomate",
+                "en": "goat cheese with tomato"
+            },
+            "tags": [
+                "vegetarian"
+            ],
+            "priceeuro": 14
+        },
+        {
+            "show": false,
+            "anchor": "insalata-caprese",
+            "name": "Insalata Caprese",
+            "desc": {
+                "de": "Tomaten, Mozzarella, Basilikum",
+                "en": "tomatoes, mozzarella-cheese, basil"
+            },
+            "tags": [
+                "vegetarian"
+            ],
+            "priceeuro": 14
+        },
+        {
+            "show": false,
+            "anchor": "insalata-di-asparagi",
+            "name": "Insalata di Asparagi",
+            "desc": {
+                "de": "Spargelsalat",
+                "en": "asparagus salad"
+            },
+            "tags": [
+                "vegan",
+                "vegetarian"
+            ],
+            "priceeuro": 14
+        },
+        {
+            "show": false,
+            "anchor": "sardelle-marinate",
+            "name": "Sardelle marinate",
+            "desc": {
+                "de": "marinierte Sardellen",
+                "en": "marinated anchovies"
+            },
+            "priceeuro": 14
+        },
+        {
+            "show": false,
+            "anchor": "mozzarella-di-buffala-pomodoro",
+            "name": "Mozzarella di Buffala & Pomodoro",
+            "desc": {
+                "de": "Büffelmozzarella mit Tomate",
+                "en": "Buffalo mozzarella-cheese with tomatoes"
+            },
+            "tags": [
+                "vegetarian"
+            ],
+            "priceeuro": 14
+        },
+        {
+            "show": true,
+            "anchor": "prosciutto-di-parma-parmiggiano",
+            "name": "Prosciutto di Parma & Parmiggiano",
+            "desc": {
+                "de": "Parmaschinken mit Parmiggiano",
+                "en": "Parma ham with parmiggiano-cheese"
+            },
+            "priceeuro": 14
+        },
+        {
+            "show": false,
+            "anchor": "moscardini-al-pomodoro-patate",
+            "name": "Moscardini al Pomodoro & Patate",
+            "desc": {
+                "de": "kl. Kraken im Tomatensud mit Kartoffeln",
+                "en": "small squid in tomato sauce with potatoes"
+            },
+            "priceeuro": 16
+        },
+        {
+            "show": false,
+            "anchor": "parmigiana",
+            "name": "Parmigiana",
+            "desc": {
+                "de": "Auberginen-Auflauf",
+                "en": "eggplant casserole"
+            },
+            "tags": [
+                "vegetarian"
+            ],
+            "priceeuro": 16,
+            "img": "antipasti/parmigiana.webp"
+        },
+        {
+            "show": false,
+            "anchor": "insalata-di-frutti-di-mare",
+            "name": "Insalata di Frutti di Mare",
+            "desc": {
+                "de": "Meeresfrüchtesalat",
+                "en": "seafood salad"
+            },
+            "priceeuro": 16
+        },
+        {
+            "show": false,
+            "anchor": "insalata-di-asparagi-burrata",
+            "name": "Insalata di Asparagi & Burrata",
+            "desc": {
+                "de": "Spargelsalat mit Burrata (cremiger Mozzarella)",
+                "en": "asparagus salad with burrata (creamy mozzarella-cheese)"
+            },
+            "tags": [
+                "vegetarian"
+            ],
+            "priceeuro": 16
+        },
+        {
+            "show": false,
+            "anchor": "insalata-di-asparagi-prosciutto-di-parma",
+            "name": "Insalata di Asparagi & Prosciutto di Parma",
+            "desc": {
+                "de": "Spargelsalat mit Parmaschinken",
+                "en": "asparagus salad with parma ham"
+            },
+            "priceeuro": 16
+        },
+        {
+            "show": false,
+            "anchor": "cozze-al-vino",
+            "name": "Cozze al vino",
+            "desc": {
+                "de": "Miesmuscheln in Wein",
+                "en": "mussels in wine"
+            },
+            "priceeuro": 16
+        },
+        {
+            "show": false,
+            "anchor": "burrata-caponata",
+            "name": "Burrata & Caponata",
+            "desc": {
+                "de": "Burrata (cremiger Mozzarella) mit geschmortem Gemüse",
+                "en": "Burrata (creamy mozzarella-cheese) with braised vegetables"
+            },
+            "tags": [
+                "vegetarian"
+            ],
+            "priceeuro": 16,
+            "img": "antipasti/burrata_caponata.webp"
+        },
+        {
+            "show": false,
+            "anchor": "prosciutto-di-parma-burrata",
+            "name": "Prosciutto di Parma & Burrata",
+            "desc": {
+                "de": "Parmaschinken mit Burrata (cremiger Mozzarella)",
+                "en": "Parma ham with burrata (creamy mozzarella-cheese)"
+            },
+            "priceeuro": 16
+        },
+        {
+            "show": false,
+            "anchor": "prosciutto-di-parma-mozzarella-di-buffala",
+            "name": "Prosciutto di Parma & Mozzarella di Buffala",
+            "desc": {
+                "de": "Parmaschinken mit Büffelmozzarella",
+                "en": "Parma ham with buffalo mozzarella"
+            },
+            "priceeuro": 16
+        },
+        {
+            "show": false,
+            "anchor": "trippe-patate",
+            "name": "Trippe & Patate",
+            "desc": {
+                "de": "Kutteln mit Kartoffeln",
+                "en": "tripe with potatoes"
+            },
+            "priceeuro": 16
+        },
+        {
+            "show": true,
+            "anchor": "mozzarella-buffala-pomodori-colorati",
+            "name": "Mozzarella di Buffala & Pomodori colorati",
+            "desc": {
+                "de": "Büffelmozzarella mit bunten Tomaten",
+                "en": "Buffalo mozzarella-cheese with colorful tomatoes"
+            },
+            "tags": [
+                "vegetarian"
+            ],
+            "priceeuro": 16
+        },
+        {
+            "show": false,
+            "anchor": "burrata-pomodori-colorati",
+            "name": "Burrata & Pomodori colorati",
+            "desc": {
+                "de": "Burrata (cremiger Mozzarella) mit bunten Tomaten",
+                "en": "Burrata (creamy mozzarella-cheese) with colorful tomatoes"
+            },
+            "tags": [
+                "vegetarian"
+            ],
+            "priceeuro": 18
+        },
+        {
+            "show": true,
+            "anchor": "Vitello tonnato",
+            "name": "Vitello tonnato",
+            "desc": {
+                "de": "hauchdünnes Kalbsfleisch mit Thunfischsauce",
+                "en": "thinly sliced veal with thuna sauce"
+            },
+            "priceeuro": 18,
+            "img": "antipasti/vitello_tonnato.webp"
+        },
+        {
+            "show": false,
+            "anchor": "ceviche-di-salmone",
+            "name": "Ceviche di Salmone",
+            "desc": {
+                "de": "Ceviche vom Lachs mit einem Sud aus Zitrussaft",
+                "en": "salmon ceviche with lemon juice"
+            },
+            "priceeuro": 18,
+            "img": "antipasti/ceviche_di_salmone.webp"
+        },
+        {
+            "show": false,
+            "anchor": "frittura",
+            "name": "Frittura",
+            "desc": {
+                "de": "Frittura",
+                "en": "Frittura"
+            },
+            "priceeuro": 18
+        },
+        {
+            "show": false,
+            "anchor": "arosto-di-manzo",
+            "name": "Arosto di Manzo",
+            "desc": {
+                "de": "Roastbeef",
+                "en": "Roastbeef"
+            },
+            "priceeuro": 18
+        },
+        {
+            "show": true,
+            "anchor": "calamaretti",
+            "name": "Calamaretti",
+            "desc": {
+                "de": "kleine Tintenfische",
+                "en": "small octopus"
+            },
+            "priceeuro": 18,
+            "img": "antipasti/calamaretti.webp"
+        },
+        {
+            "show": false,
+            "anchor": "capesante",
+            "name": "Capesante",
+            "desc": {
+                "de": "Jakobsmuscheln, bunte Beete, Hummersauce",
+                "en": "scallops, multicolored beets, lobster sauce"
+            },
+            "priceeuro": 18
+        },
+        {
+            "show": true,
+            "anchor": "tartare-di-salmone",
+            "name": "Tartare di Salmone",
+            "desc": {
+                "de": "Lachstartar",
+                "en": "salmon tartare"
+            },
+            "priceeuro": 18,
+            "img": "antipasti/tartare_di_salmone.webp"
+        },
+        {
+            "show": false,
+            "anchor": "carpaccio-del-lingua-bovina",
+            "name": "Carpaccio del Lingua bovina",
+            "desc": {
+                "de": "Rinderzungencarpaccio",
+                "en": "beef tongue carpaccio"
+            },
+            "priceeuro": 18
+        },
+        {
+            "show": false,
+            "anchor": "carpaccio-di-manzo",
+            "name": "Carpaccio di Manzo",
+            "desc": {
+                "de": "Rindercarpaccio",
+                "en": "beef carpaccio"
+            },
+            "priceeuro": 18
+        },
+        {
+            "show": false,
+            "anchor": "insalata-di-manzo",
+            "name": "Insalata di Manzo",
+            "desc": {
+                "de": "Salat mit Rindstreifen",
+                "en": "Salad with beef cut"
+            },
+            "priceeuro": 18
+        },
+        {
+            "show": false,
+            "anchor": "rucola-fegato-di-coniglio",
+            "name": "Rucola & Fegato di Coniglio",
+            "desc": {
+                "de": "Rucolasalat mit Kaninchenleber",
+                "en": "lamb's lettuce with rabbit liver"
+            },
+            "priceeuro": 18
+        },
+        {
+            "show": false,
+            "anchor": "rucola-fegato-di-vitello",
+            "name": "Rucola & Fegato di Vitello",
+            "desc": {
+                "de": "Rucolasalat mit Kalbsleber",
+                "en": "lamb's lettuce with veal liver"
+            },
+            "priceeuro": 18
+        },
+        {
+            "show": false,
+            "anchor": "tagliata-di-pesce-spada",
+            "name": "Tagliata di Pesce Spada",
+            "desc": {
+                "de": "Scheiben vom Schwertfisch",
+                "en": "sliced swordfish"
+            },
+            "priceeuro": 18
+        },
+        {
+            "show": false,
+            "anchor": "tonno-vitellato",
+            "name": "Tonno vitellato",
+            "desc": {
+                "de": "Roher Thunfisch & Kalbsfleisch mit Kalbfleischsauce, Kapern, Spinat und Süßkartoffel",
+                "en": "raw thuna with veal sauce, capers, spinach and sweet potato"
+            },
+            "priceeuro": 18,
+            "img": "antipasti/tonno_vitellato.webp"
+        },
+        {
+            "show": true,
+            "anchor": "burrata-finferli-cavolo-cinese",
+            "name": "Burrata, Finferli & Cavolo cinese",
+            "desc": {
+                "de": "Burrata (cremiger Mozzarella) mit Pfifferlingen und Chinakohl",
+                "en": "burrat (creamy mozzarella-cheese) with chanterelles and chinese cabbage"
+            },
+            "priceeuro": 18
+        },
+        {
+            "show": false,
+            "anchor": "ceviche-di-pesce-spada",
+            "name": "Ceviche di Pesce Spada",
+            "desc": {
+                "de": "Ceviche vom Schwertfisch mit Melone und Minze",
+                "en": "swordfish ceviche with melon and mint"
+            },
+            "priceeuro": 19
+        },
+        {
+            "show": false,
+            "anchor": "tonno-crudo-rapa-rossa-spinaci",
+            "name": "Tonno crudo, Rapa rossa & Spinaci",
+            "desc": {
+                "de": "roher Thunfisch mit rote Beete und Spinat",
+                "en": "raw thuna with red beets and spinach"
+            },
+            "priceeuro": 19,
+            "img": "antipasti/tonno_crudo_rapa_rossa_spinaci.webp"
+        },
+        {
+            "show": false,
+            "anchor": "calamari-zucchini",
+            "name": "Calamari & Zucchini",
+            "desc": {
+                "de": "Tintenfisch & Zucchini",
+                "en": "octopus & zucchini"
+            },
+            "priceeuro": 19
+        },
+        {
+            "show": false,
+            "anchor": "insalata-di-asparagi-gambas",
+            "name": "Insalata di Asparagi & Gambas",
+            "desc": {
+                "de": "Spargelsalat mit Gambas",
+                "en": "asparagus salad with gambas"
+            },
+            "priceeuro": 19
+        },
+        {
+            "show": false,
+            "anchor": "capesante-salsola-soda",
+            "name": "Capesante & Salsola Soda",
+            "desc": {
+                "de": "Jakobsmuscheln mit Mönchsbart",
+                "en": "scallops with opposite-leaved saltwort"
+            },
+            "priceeuro": 20
+        },
+        {
+            "show": false,
+            "anchor": "ricciola-del-pacifico-salsola-soda",
+            "name": "Ricciola del Pacifico & Salsola Soda",
+            "desc": {
+                "de": "Hamachi mit Mönchsbart",
+                "en": "Hamachi (young Japanese Amberjack) with opposite-leaved saltwort"
+            },
+            "priceeuro": 20
+        },
+        {
+            "show": false,
+            "anchor": "bocca-d-oro",
+            "name": "Bocca d'oro",
+            "desc": {
+                "de": "Adlerfisch, Morcheln, Spargel",
+                "en": "meagre, morel, asparagus"
+            },
+            "priceeuro": 21
+        },
+        {
+            "show": false,
+            "anchor": "carpaccio-di-gambero-rosso",
+            "name": "Carpaccio di Gambero Rosso",
+            "desc": {
+                "de": "Carpaccio von der roten Garnele",
+                "en": "red shrimp carpaccio"
+            },
+            "priceeuro": 21,
+            "img": "antipasti/carpaccio_di_gambero_rosso.webp"
+        },
+        {
+            "show": false,
+            "anchor": "insalata-di-polpo",
+            "name": "Insalata di Polpo",
+            "desc": {
+                "de": "Tintenfisch-Salat",
+                "en": "octopus salad"
+            },
+            "priceeuro": 21
+        },
+        {
+            "show": false,
+            "anchor": "polpo-al-pomodoro",
+            "name": "Polpo al Pomodoro",
+            "desc": {
+                "de": "Tintenfisch im Tomatensud",
+                "en": "octupus in tomato sauce"
+            },
+            "priceeuro": 21
+        },
+        {
+            "show": false,
+            "anchor": "tartare-di-manzo",
+            "name": "Tartare di Manzo",
+            "desc": {
+                "de": "Rindertartar mit Trüffel & Parmesan",
+                "en": "beef tartare with truffles & parmesan cheese"
+            },
+            "priceeuro": 21,
+            "img": "antipasti/tartare_di_manzo_tartufo_rucola.webp"
+        },
+        {
+            "show": false,
+            "anchor": "tartare-di-tonno",
+            "name": "Tartare di Tonno",
+            "desc": {
+                "de": "Thunfischtartar",
+                "en": "thuna tartare"
+            },
+            "priceeuro": 21
+        },
+        {
+            "show": false,
+            "anchor": "tartare-di-tonno-cavolo-cinese-tartufo",
+            "name": "Tartare di Tonno, Cavolo cinese & Tartufo",
+            "desc": {
+                "de": "Thunfischtartar mit Chinakohl und Trüffel",
+                "en": "thuna tartare with chinese cabbage and truffles"
+            },
+            "priceeuro": 21
+        },
+        {
+            "show": false,
+            "anchor": "tartare-di-tonno-pesche-basilico",
+            "name": "Tartare di Tonno, Pesche & Basilico",
+            "desc": {
+                "de": "Thunfischtartar mit Pfirsich und Basilikum",
+                "en": "thuna tartare with peach & basil"
+            },
+            "priceeuro": 21
+        },
+        {
+            "show": false,
+            "anchor": "Tonno crudo",
+            "name": "Tonno crudo",
+            "desc": {
+                "de": "roher Thunfisch",
+                "en": "raw thuna"
+            },
+            "priceeuro": 21
+        },
+        {
+            "show": false,
+            "anchor": "tonno-crudo-pesca-verde-basilico",
+            "name": "Tonno crudo, pesca verde & basilico",
+            "desc": {
+                "de": "roher Thunfisch mit grünem Pfirsich und Basilikum",
+                "en": "raw thuna with green peach and basil"
+            },
+            "priceeuro": 21
+        },
+        {
+            "show": false,
+            "anchor": "tartare-di-tonno-pomodorini-colorati",
+            "name": "Tartare di Tonno & Pomodorini colorati",
+            "desc": {
+                "de": "Thunfischtartar mit bunten Tomaten",
+                "en": "thuna tartare with colorful tomatoes"
+            },
+            "priceeuro": 23
+        }
+    ]
+}

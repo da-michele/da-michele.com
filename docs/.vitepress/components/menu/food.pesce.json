@@ -1,0 +1,207 @@
+{
+    "pesce": [
+        {
+            "show": false,
+            "anchor": "merluzzo",
+            "name": "Merluzzo",
+            "desc": {
+                "de": "Kabeljau",
+                "en": "Cod"
+            },
+            "priceeuro": 25
+        },
+        {
+            "show": false,
+            "anchor": "pesce-spada-al-vino",
+            "name": "Pesce Spada al vino",
+            "desc": {
+                "de": "Schwertfisch in Weißweinsauce",
+                "en": "Swordfish in white wine"
+            },
+            "priceeuro": 27
+        },
+        {
+            "show": false,
+            "anchor": "filetto-di-pesce-rombo",
+            "name": "Filetto di Pesce Rombo",
+            "desc": {
+                "de": "Steinbuttfilet",
+                "en": "Turbot fillet"
+            },
+            "priceeuro": 27
+        },
+        {
+            "show": false,
+            "anchor": "seppia-alla-griglia",
+            "name": "Seppia alla griglia",
+            "desc": {
+                "de": "Krake vom Grill",
+                "en": "Grilled squid"
+            },
+            "priceeuro": 27,
+            "img": "pesce/seppia.webp"
+        },
+        {
+            "show": true,
+            "anchor": "filetto-di-spigula-alla-griglia",
+            "name": "Filetto di Spigula alla griglia",
+            "desc": {
+                "de": "Wolfsbarschfilet vom Grill",
+                "en": "Grilled sea bass fillet"
+            },
+            "priceeuro": 28
+        },
+        {
+            "show": false,
+            "anchor": "spigula-alla-griglia",
+            "name": "Spigula alla griglia",
+            "desc": {
+                "de": "Wolfsbarsch (gegrillt)",
+                "en": "Grilled sea bass"
+            },
+            "priceeuro": 28
+        },
+        {
+            "show": false,
+            "anchor": "pesce-spada-alla-griglia",
+            "name": "Pesce Spada alla griglia",
+            "desc": {
+                "de": "Schwertfisch vom Grill",
+                "en": "Grilled swordfish"
+            },
+            "priceeuro": 28
+        },
+        {
+            "show": false,
+            "anchor": "pesce-spada-alla-griglia-caponata",
+            "name": "Pesce Spada alla griglia & Caponata",
+            "desc": {
+                "de": "Schwertfisch vom Grill & geschmortes Gemüse",
+                "en": "Grilled swordfish & braised vegetables"
+            },
+            "priceeuro": 28
+        },
+        {
+            "show": false,
+            "anchor": "spigula-caponata",
+            "name": "Spigula & Caponata",
+            "desc": {
+                "de": "Wolfsbarsch mit geschmortem Gemüse",
+                "en": "Grilled sea bass with braised vegetables"
+            },
+            "priceeuro": 28
+        },
+        {
+            "show": false,
+            "anchor": "spigula",
+            "name": "Spigula",
+            "desc": {
+                "de": "Wolfsbarsch",
+                "en": "Sea bass"
+            },
+            "priceeuro": 29
+        },
+        {
+            "show": false,
+            "anchor": "rana-pescatrice-spinaci",
+            "name": "Rana pescatrice & Spinaci",
+            "desc": {
+                "de": "Seeteufel auf Spinat",
+                "en": "Monkfish with spinach"
+            },
+            "priceeuro": 29
+        },
+        {
+            "show": false,
+            "anchor": "pesce-miste-alla-griglia",
+            "name": "Pesce miste alla griglia",
+            "desc": {
+                "de": "gemischter Fisch gegrillt",
+                "en": "grilled mixed fish"
+            },
+            "priceeuro": 29
+        },
+        {
+            "show": false,
+            "anchor": "pesce-miste-nel-sud",
+            "name": "Pesce miste nel Sud",
+            "desc": {
+                "de": "gemischter Fisch im Sud",
+                "en": "mixed fish in a broth"
+            },
+            "priceeuro": 29,
+            "img": "pesce/spigola_nel_brodo.webp"
+        },
+        {
+            "show": false,
+            "anchor": "filetto-di-orrata",
+            "name": "Filetto di Orrata",
+            "desc": {
+                "de": "Doradenfilet",
+                "en": "Seabream fillet"
+            },
+            "priceeuro": 29
+        },
+        {
+            "show": false,
+            "anchor": "filetto-di-orrata-alla-griglia",
+            "name": "Filetto di Orrata alla griglia",
+            "desc": {
+                "de": "gegrilltes Doradenfilet",
+                "en": "grilled Seabream fillet"
+            },
+            "priceeuro": 29
+        },
+        {
+            "show": false,
+            "anchor": "merluzzo-spinaci",
+            "name": "Merluzzo & Spinaci",
+            "desc": {
+                "de": "Kabeljau auf Spinat",
+                "en": "Cod with spinach"
+            },
+            "priceeuro": 29
+        },
+        {
+            "show": false,
+            "anchor": "merluzzo-nel-sud-pomodoro",
+            "name": "Merluzzo nel sud pomodoro",
+            "desc": {
+                "de": "Kabeljau im Tomatensud",
+                "en": "Cod in a tomato broth"
+            },
+            "priceeuro": 31
+        },
+        {
+            "show": false,
+            "anchor": "l-orrata",
+            "name": "L'Orrata",
+            "desc": {
+                "de": "Dorade (ganz)",
+                "en": "Seabream (whole)"
+            },
+            "priceeuro": 31
+        },
+        {
+            "show": false,
+            "anchor": "pesce-rombo-spinaci",
+            "name": "Pesce Rombo & Spinaci",
+            "desc": {
+                "de": "Steinbutt auf Spinat",
+                "en": "Turbot with spinach"
+            },
+            "priceeuro": 31
+        },
+        {
+            "show": true,
+            "anchor": "bistecca-di-tonno-rucola",
+            "name": "Bistecca di Tonno & Rucola",
+            "desc": {
+                "de": "Thunfischsteak auf Rucola",
+                "en": "Thuna steak with lamb's lettuce"
+            },
+            "priceeuro": 32,
+            "img": "pesce/bistecca_di_tonno.webp"
+        }
+    ]
+}

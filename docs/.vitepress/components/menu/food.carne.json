@@ -1,0 +1,136 @@
+{
+    "carne": [
+        {
+            "show": false,
+            "anchor": "maialino-di-latte-carota-piselli",
+            "name": "Maialino di Latte, Carota & Piselli",
+            "desc": {
+                "de": "Spanferkel mit Karotte und Erbsen",
+                "en": "Suckling pig with carrot and peas"
+            },
+            "priceeuro": 16
+        },
+        {
+            "show": false,
+            "anchor": "spezzatino",
+            "name": "Spezzatino",
+            "desc": {
+                "de": "Rinderfleisch, langsam im Eintopf gegart",
+                "en": "beef, slow-cooked in a stew"
+            },
+            "priceeuro": 16
+        },
+        {
+            "show": true,
+            "anchor": "vitello-alla-veneziana",
+            "name": "Vitello alla Veneziana",
+            "desc": {
+                "de": "Kalbsleber alla Veneziana",
+                "en": "veal liver alla Veneziana"
+            },
+            "priceeuro": 18
+        },
+        {
+            "show": false,
+            "anchor": "pollo-grigliato",
+            "name": "Pollo grigliato",
+            "desc": {
+                "de": "gegrilltes Hähnchen",
+                "en": "grilled chicken"
+            },
+            "priceeuro": 18
+        },
+        {
+            "show": false,
+            "anchor": "coda-di-bue-stufato",
+            "name": "Coda di bue stufato",
+            "desc": {
+                "de": "Ochsenschwanzragout",
+                "en": "oxtail stew"
+            },
+            "priceeuro": 21
+        },
+        {
+            "show": false,
+            "anchor": "saltimbocca-alla-romana",
+            "name": "Saltimbocca alla Romana",
+            "desc": {
+                "de": "Kalbfleisch umwickelt mit Prosciutto und Salbei",
+                "en": "veal wrapped with prosciutto and sage"
+            },
+            "priceeuro": 25
+        },
+        {
+            "show": false,
+            "anchor": "agnello",
+            "name": "Agnello",
+            "desc": {
+                "de": "Lamm",
+                "en": "Lamb"
+            },
+            "priceeuro": 25
+        },
+        {
+            "show": false,
+            "anchor": "scaloppine-al-limone",
+            "name": "Scaloppine al Limone",
+            "desc": {
+                "de": "Kalbsschnitzel mit Zitrone",
+                "en": "Veal escalopes with lemon"
+            },
+            "priceeuro": 25
+        },
+        {
+            "show": false,
+            "anchor": "carree-di-agnello",
+            "name": "Carree di Agnello",
+            "desc": {
+                "de": "Lammkarrée",
+                "en": "Lamb carrée"
+            },
+            "priceeuro": 27
+        },
+        {
+            "show": false,
+            "anchor": "sella-di-vitello-taleggio-tartufo",
+            "name": "Sella di Vitello, Taleggio & Tartufo",
+            "desc": {
+                "de": "Kalbsrücken mit Taleggio (ital. Rohmilchkäse) und Trüffel",
+                "en": "veal back with Taleggio (Italian raw milk cheese) and truffles"
+            },
+            "priceeuro": 31
+        },
+        {
+            "show": true,
+            "anchor": "tagliata",
+            "name": "Tagliata",
+            "desc": {
+                "de": "Scheiben vom Rinderfilet eines Dry-Aged Black Angus auf Rucola mit frischen Cocktail-Tomaten und Parmesan",
+                "en": "sliced beef fillet of a Dry-Aged Black Angus with lamb's lettuce, fresh cocktail tomatoes and Parmesan cheese"
+            },
+            "priceeuro": 32,
+            "img": "carne/tagliata.webp"
+        },
+        {
+            "show": true,
+            "anchor": "carree-di-vitello-taleggio-tartufo",
+            "name": "Carree di Vitello, Taleggio & Tartufo",
+            "desc": {
+                "de": "Kalbskarrée mit Taleggio (ital. Rohmilchkäse) und Trüffel",
+                "en": "veal carrée with Taleggio (Italian raw milk cheese) and truffles"
+            },
+            "priceeuro": 36,
+            "img": "carne/carree_di_vitello.webp"
+        },
+        {
+            "show": false,
+            "anchor": "filetto-di-manzo-taleggio-tartufo",
+            "name": "Filetto di Manzo, Taleggio & Tartufo",
+            "desc": {
+                "de": "Rinderfilet mit Taleggio (ital. Rohmilchkäse) und Trüffel",
+                "en": "beef fillet with Taleggio (Italian raw milk cheese) and truffles"
+            },
+            "priceeuro": 42
+        }
+    ]
+}

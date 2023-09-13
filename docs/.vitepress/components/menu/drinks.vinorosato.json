@@ -1,0 +1,19 @@
+{
+    "vinorosato": [
+        {
+            "show": true,
+            "anchor": "rosato-vetere",
+            "name": "Rosato Vetere Paestum, San Salvatore 1988",
+            "desc": {
+                "de": "Zeigt in der Nase wunderbare Aromen von Johannisbeeren und Maraschino-Kirschen. Er begeistert mit einer wunderbaren Frische und Eleganz. Ein ausgesprochen mineralischer und süffiger Roséwein.",
+                "en": "Shows wonderful aromas of currants and maraschino cherries on the nose & inspires with a wonderful freshness and elegance. A very mineral and tasty rosé wine."
+            },
+            "img": "vino_rosato/rosato_vetere.webp",
+            "region": "Campagnia",
+            "winery": "San Salvatore 1988",
+            "grapes": "Aglianico",
+            "bottlesize": 750,
+            "alcoholcontent": 12
+        }
+    ]
+}

@@ -1,0 +1,413 @@
+{
+    "pasta": [
+        {
+            "show": false,
+            "anchor": "pasta-pesto",
+            "name": "Pasta Pesto",
+            "desc": {
+                "de": "Pasta mit Pesto",
+                "en": "Pasta with pesto"
+            },
+            "tags": [
+                "vegetarian"
+            ],
+            "priceeuro": 12
+        },
+        {
+            "show": false,
+            "anchor": "gnocchi-gorgonzola-spinaci",
+            "name": "Gnocchi Gorgonzola & Spinaci",
+            "desc": {
+                "de": "Gnocchi mit Gorgonzola und Spinat",
+                "en": "Gnocchi with Gorgonzola cheese and spinach"
+            },
+            "tags": [
+                "vegetarian"
+            ],
+            "priceeuro": 14
+        },
+        {
+            "show": false,
+            "anchor": "pasta-salmone-asparagi",
+            "name": "Pasta Salmone & Asparagi",
+            "desc": {
+                "de": "Pasta mit Lachs und Spargel",
+                "en": "Pasta with salmon and asparagus"
+            },
+            "priceeuro": 14
+        },
+        {
+            "show": false,
+            "anchor": "pasta-salsiccia-melanzane",
+            "name": "Pasta Salsiccia & Melanzane",
+            "desc": {
+                "de": "Pasta mit Salsiccia (ital. Frischwurst) und Auberginen",
+                "en": "Pasta with Salsiccia (Italian raw meat sausage) and eggplant"
+            },
+            "priceeuro": 14
+        },
+        {
+            "show": false,
+            "anchor": "ravioli-ricotta-spinaci",
+            "name": "Ravioli Ricotta & Spinaci",
+            "desc": {
+                "de": "Ravioli mit Ricotta und Spinat",
+                "en": "Ravioli with ricotta cheese and spinach"
+            },
+            "tags": [
+                "vegetarian"
+            ],
+            "priceeuro": 14
+        },
+        {
+            "show": false,
+            "anchor": "pasta-amatriciana",
+            "name": "Pasta Amatriciana",
+            "desc": {
+                "de": "Pasta mit Guanciale (Speck), Pecorino (ital. Hartkäse) und Tomaten",
+                "en": "Pasta with guanciale (bacon), Pecorino cheese and tomatoes"
+            },
+            "priceeuro": 14
+        },
+        {
+            "show": false,
+            "anchor": "spaghetti-bolognese",
+            "name": "Spaghetti Bolognese",
+            "desc": {
+                "de": "Spaghetti mit Hackfleischsauce",
+                "en": "Spaghetti with meat sauce"
+            },
+            "priceeuro": 16
+        },
+        {
+            "show": false,
+            "anchor": "spaghetti-cozze",
+            "name": "Spaghetti Cozze",
+            "desc": {
+                "de": "Spaghetti mit Miesmuscheln",
+                "en": "Spaghetti with mussels"
+            },
+            "priceeuro": 16
+        },
+        {
+            "show": false,
+            "anchor": "pasta-pesto-burrata",
+            "name": "Pasta Pesto Burrata",
+            "desc": {
+                "de": "Pasta mit Pesto und Burrata (cremiger Mozzarella)",
+                "en": "Pasta with pesto and burrata (creamy mozzarella-cheese)"
+            },
+            "tags": [
+                "vegetarian"
+            ],
+            "priceeuro": 16,
+            "img": "pasta/pasta_pesto_burrata.webp"
+        },
+        {
+            "show": false,
+            "anchor": "pasta-pollo-pomodoro",
+            "name": "Pasta Pollo & Pomodoro",
+            "desc": {
+                "de": "Pasta mit Hühnchen und Tomate",
+                "en": "Pasta with chicken and tomato"
+            },
+            "priceeuro": 16
+        },
+        {
+            "show": true,
+            "anchor": "pasta-polpette-al-sugo",
+            "name": "Pasta Polpette al sugo",
+            "desc": {
+                "de": "Pasta mit Hackfleischbällchen in Tomatensauce",
+                "en": "Spaghetti with meat balls in tomato sauce"
+            },
+            "priceeuro": 16,
+            "img": "pasta/pasta_polpette_al_sugo.webp"
+        },
+        {
+            "show": false,
+            "anchor": "pasta-salsiccia-rapa",
+            "name": "Pasta Salsiccia & Rapa",
+            "desc": {
+                "de": "Pasta mit Salsiccia (ital. Frischwurst) und Rapa (Stängelkohl)",
+                "en": "Pasta with Salsiccia (Italian raw meat sausage) and Rapa (slightly bitter Italian broccoli-like vegetable)"
+            },
+            "priceeuro": 16,
+            "img": "pasta/calamarata_salsiccia_rapa.webp"
+        },
+        {
+            "show": true,
+            "anchor": "pasta-salmone-spinaci",
+            "name": "Pasta Salmone & Spinaci",
+            "desc": {
+                "de": "Pasta mit Lachs und Spinat",
+                "en": "Pasta with salmon and spinach"
+            },
+            "priceeuro": 16
+        },
+        {
+            "show": false,
+            "anchor": "gnocchi-asparagi",
+            "name": "Gnocchi Asparagi",
+            "desc": {
+                "de": "Gnocchi mit Spargel",
+                "en": "Gnocchi with asparagus"
+            },
+            "tags": [
+                "vegetarian"
+            ],
+            "priceeuro": 16
+        },
+        {
+            "show": false,
+            "anchor": "gnocchi-burrata",
+            "name": "Gnocchi Burrata",
+            "desc": {
+                "de": "Gnocchi mit Burrata (cremiger Mozzarella)",
+                "en": "Gnocchi with burrata (creamy mozzarella-cheese)"
+            },
+            "tags": [
+                "vegetarian"
+            ],
+            "priceeuro": 16
+        },
+        {
+            "show": false,
+            "anchor": "gnocchi-spinaci-formaggio-di-capra",
+            "name": "Gnocchi Spinaci & Formaggio di capra",
+            "desc": {
+                "de": "Gnocchi mit Spinat und Ziegenkäse",
+                "en": "Gnocchi with spinach and goat cheese"
+            },
+            "tags": [
+                "vegetarian"
+            ],
+            "priceeuro": 16
+        },
+        {
+            "show": false,
+            "anchor": "orecchiette-cozze-fagioli-cossi",
+            "name": "Orecchiette Cozze & Fagioli Cossi",
+            "desc": {
+                "de": "Orecchiette (Pasta aus Apulien) mit Miesmuscheln und Bohnen",
+                "en": "Orecchiette (pasta from Apulia) with mussels and beans"
+            },
+            "priceeuro": 16
+        },
+        {
+            "show": false,
+            "anchor": "pasta-asparagi",
+            "name": "Pasta Asparagi",
+            "desc": {
+                "de": "Pasta mit Spargel",
+                "en": "Pasta with asparagus"
+            },
+            "tags": [
+                "vegan",
+                "vegetarian"
+            ],
+            "priceeuro": 16
+        },
+        {
+            "show": false,
+            "anchor": "ravioli-gorgonzola-noci",
+            "name": "Ravioli Gorgonzola & Noci",
+            "desc": {
+                "de": "Ravioli mit Gorgonzola und Walnüssen",
+                "en": "Ravioli with Gorgonzola cheese and walnuts"
+            },
+            "tags": [
+                "vegetarian"
+            ],
+            "priceeuro": 16
+        },
+        {
+            "show": false,
+            "anchor": "ravioli-spinaci-noci",
+            "name": "Ravioli Spinaci & Noci",
+            "desc": {
+                "de": "Ravioli mit Spinat und Walnüssen",
+                "en": "Ravioli with spinach and walnuts"
+            },
+            "tags": [
+                "vegetarian"
+            ],
+            "priceeuro": 16
+        },
+        {
+            "show": false,
+            "anchor": "tagliatelle-finferli",
+            "name": "Tagliatelle Finferli",
+            "desc": {
+                "de": "Tagliatelle mit Pfifferlingen",
+                "en": "Tagliatelle with chanterelles"
+            },
+            "tags": [
+                "vegetarian"
+            ],
+            "priceeuro": 16
+        },
+        {
+            "show": true,
+            "anchor": "pasta-salsiccia-tartufo",
+            "name": "Pasta Salsiccia & Tartufo",
+            "desc": {
+                "de": "Pasta mit Salsiccia (ital. Frischwurst) und Trüffel",
+                "en": "Pasta with Salsiccia (Italian raw meat sausage) and truffles"
+            },
+            "priceeuro": 18,
+            "img": "pasta/pasta_con_salsiccia_e_tartufo.webp"
+        },
+        {
+            "show": false,
+            "anchor": "ravioli-baccala-gambero",
+            "name": "Ravioli Baccalà & Gambero",
+            "desc": {
+                "de": "Ravioli mit Stockfisch (Kabeljau) und Garnelen",
+                "en": "Ravioli with dried cod and shrimps"
+            },
+            "priceeuro": 18
+        },
+        {
+            "show": false,
+            "anchor": "tagliatelle-gambas",
+            "name": "Tagliatelle Gambas",
+            "desc": {
+                "de": "Tagliatelle Gambas",
+                "en": "Tagliatelle Gambas"
+            },
+            "priceeuro": 18
+        },
+        {
+            "show": false,
+            "anchor": "pasta-ragu-bianco",
+            "name": "Pasta Ragu bianco",
+            "desc": {
+                "de": "Pasta mit heller Hackfleischsauce",
+                "en": "Pasta with a cream-based ('white') meat sauce"
+            },
+            "priceeuro": 19
+        },
+        {
+            "show": false,
+            "anchor": "pasta-ragu-di-coniglio",
+            "name": "Pasta Ragu di Coniglio",
+            "desc": {
+                "de": "Pasta mit Kaninchenragout",
+                "en": "Pasta with rabbit ragout"
+            },
+            "priceeuro": 19
+        },
+        {
+            "show": false,
+            "anchor": "spaghetti-polpo",
+            "name": "Spaghetti Polpo",
+            "desc": {
+                "de": "Spaghetti mit Tintenfisch",
+                "en": "Spaghetti with octopus"
+            },
+            "priceeuro": 19
+        },
+        {
+            "show": true,
+            "anchor": "spaghetti-vongole",
+            "name": "Spaghetti Vongole",
+            "desc": {
+                "de": "Spaghetti mit Venusmuscheln",
+                "en": "Spaghetti with clams"
+            },
+            "priceeuro": 19,
+            "img": "pasta/spaghetti_vongole.webp"
+        },
+        {
+            "show": false,
+            "anchor": "tagliatelle-ragu-di-pesce",
+            "name": "Tagliatelle Ragu di Pesce",
+            "desc": {
+                "de": "Tagliatelle mit Fischragout",
+                "en": "Tagliatelle with fish ragout"
+            },
+            "priceeuro": 19
+        },
+        {
+            "show": false,
+            "anchor": "tagliolini-al-nero-di-seppia",
+            "name": "Tagliolini al Nero di Seppia",
+            "desc": {
+                "de": "Tagliolini mit Krakentinte",
+                "en": "Tagliolini with squid ink"
+            },
+            "priceeuro": 19
+        },
+        {
+            "show": false,
+            "anchor": "gnocchi-gambas-asparagi",
+            "name": "Gnocchi Gambas Asparagi",
+            "desc": {
+                "de": "Gnocchi mit Gambas und Spargel",
+                "en": "Gnocchi with gambas and asparagus"
+            },
+            "priceeuro": 21,
+            "img": "pasta/gnocchi_gambas.webp"
+        },
+        {
+            "show": false,
+            "anchor": "pasta-aragosta",
+            "name": "Pasta Aragosta",
+            "desc": {
+                "de": "Pasta mit Hummer",
+                "en": "Pasta with lobster"
+            },
+            "priceeuro": 21,
+            "img": "pasta/pasta_aragosta.webp"
+        },
+        {
+            "show": true,
+            "anchor": "ravioli-tartufo",
+            "name": "Ravioli Tartufo",
+            "desc": {
+                "de": "Ravioli mit Trüffel",
+                "en": "Ravioli with truffles"
+            },
+            "tags": [
+                "vegetarian"
+            ],
+            "priceeuro": 21
+        },
+        {
+            "show": false,
+            "anchor": "caramelle-al-tartufo",
+            "name": "Caramelle al Tartufo",
+            "tags": [
+                "vegetarian"
+            ],
+            "priceeuro": 23
+        },
+        {
+            "show": true,
+            "anchor": "tagliatelle-tartufo",
+            "name": "Tagliatelle Tartufo",
+            "desc": {
+                "de": "Tagliatelle mit Trüffel",
+                "en": "Tagliatelle with truffles"
+            },
+            "tags": [
+                "vegetarian"
+            ],
+            "priceeuro": 25
+        },
+        {
+            "show": false,
+            "anchor": "tagliolini-tartufo",
+            "name": "Tagliolini Tartufo",
+            "desc": {
+                "de": "Tagliolini mit Trüffel",
+                "en": "Tagliolini with truffles"
+            },
+            "tags": [
+                "vegetarian"
+            ],
+            "priceeuro": 25
+        }
+    ]
+}

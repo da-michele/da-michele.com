@@ -1,0 +1,28 @@
+{
+    "team": [
+        {
+            "show": true,
+            "anchor": "pierina-romano",
+            "name": "Pierina Romano",
+            "desc": {
+                "de": "Service",
+                "en": "Service"
+            },
+            "links": [
+                { "icon": "github", "link": "https://github.com/damichele" }
+            ]
+        },
+        {
+            "show": true,
+            "anchor": "vincenzo-romano",
+            "name": "Vincenzo Romano",
+            "desc": {
+                "de": "Küche",
+                "en": "Kitchen"
+            },
+            "links": [
+                { "icon": "github", "link": "https://github.com/Vinci2020" }
+            ]
+        }
+    ]
+}

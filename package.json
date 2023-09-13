@@ -1,0 +1,35 @@
+{
+    "name": "da-michele-website",
+    "private": true,
+    "type": "module",
+    "author": {
+        "name": "Vincenzo Romano",
+        "email": "info@da-michele.com"
+    },
+    "homepage": "https://da-michele.com/",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/da-michele/da-michele.com.git"
+    },
+    "bugs": {
+        "url": "https://github.com/da-michele/da-michele.com/issues/",
+        "email": "info@da-michele.com"
+    },
+    "license": "ISC",
+    "scripts": {
+        "docs-build": "vitepress build ./docs"
+    },
+    "packageManager": "pnpm@8.6.7",
+    "pnpm": {
+        "peerDependencyRules": {
+            "ignoreMissing": [
+                "@algolia/client-search"
+            ]
+        }
+    },
+    "devDependencies": {
+        "@types/node": "latest",
+        "sass": "latest",
+        "vitepress": "latest"
+    }
+}

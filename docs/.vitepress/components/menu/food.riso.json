@@ -1,0 +1,70 @@
+{
+    "riso": [
+        {
+            "show": false,
+            "anchor": "risotto-asparagi",
+            "name": "Risotto Asparagi",
+            "desc": {
+                "de": "Risotto mit Spargel",
+                "en": "Risotto with asparagus"
+            },
+            "tags": [
+                "vegetarian"
+            ],
+            "priceeuro": 16
+        },
+        {
+            "show": false,
+            "anchor": "risotto-gambas",
+            "name": "Risotto Gambas",
+            "desc": {
+                "de": "Risotto mit Gambas",
+                "en": "Risotto with gambas"
+            },
+            "priceeuro": 16
+        },
+        {
+            "show": false,
+            "anchor": "risotto-ragu-di-pesce",
+            "name": "Risotto Ragu di Pesce",
+            "desc": {
+                "de": "Risotto mit Fischragout",
+                "en": "Risotto with fish ragout"
+            },
+            "priceeuro": 16
+        },
+        {
+            "show": false,
+            "anchor": "risotto-frutti-di-mare",
+            "name": "Risotto Frutti di Mare",
+            "desc": {
+                "de": "Risotto mit Meeresfrüchten",
+                "en": "Risotto with seafood"
+            },
+            "priceeuro": 19
+        },
+        {
+            "show": false,
+            "anchor": "risotto-tartufo",
+            "name": "Risotto Tartufo",
+            "desc": {
+                "de": "Risotto mit Trüffel",
+                "en": "Risotto with truffles"
+            },
+            "tags": [
+                "vegetarian"
+            ],
+            "priceeuro": 21
+        },
+        {
+            "show": false,
+            "anchor": "risotto-aragosta",
+            "name": "Risotto Aragosta",
+            "desc": {
+                "de": "Risotto mit Hummer",
+                "en": "Risotto with lobster"
+            },
+            "priceeuro": 23
+        }
+    ]
+}

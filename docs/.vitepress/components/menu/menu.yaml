@@ -1,0 +1,1637 @@
+%YAML 1.2
+---
+vinobianco:
+
+  - show: true
+    anchor: collio-cormons
+    name: Collio, Cormòns
+    desc:
+      de: >-
+        Die Nase öffnet sich mit einem Hauch von Erdnussbutter, angereichert mit
+        angenehmen Mandelnoten. Am Gaumen ist er voll, angenehm breit und weich,
+        mit einem Nachgeschmack von gerösteten Mandeln.
+      en: >-
+        The nose opens with hints of peanut butter, enriched with pleasant
+        almond notes. On the palate it is full, pleasantly broad and soft, with
+        an aftertaste of toasted almonds.
+    img: vino_bianco/collio_cormons.webp
+    region: Cormòns
+    winery: Collio, Friuli-Venezia Giulia
+    grapes: Friulano
+    bottlesize: 750
+    alcoholcontent: 13.5
+
+  - show: true
+    anchor: gfill-sauvignon
+    name: GFILL Sauvignon, St. Pauls
+    desc:
+      de: >-
+        Fruchtige Sortenaromen von Pink Grapefruit, Melone, Stachelbeere und
+        Passionsfrucht, leicht würzige Noten, die an Brennnessel und
+        Tomatenblatt erinnern. Aromatisch lebendiges Mundgefühl. Blumig und
+        extraktiv mit einem mineralischen Abgang.
+      en: >-
+        Fruity varietal aromas of pink grapefruit, melon, gooseberry and passion
+        fruit, slightly spicy notes reminiscent of nettle and tomato leaf.
+        Flavourful lively mouthfeel. Floral and extractive with a salty finish.
+    img: vino_bianco/gfill_sauvignon.webp
+    region: Trentino
+    winery: St. Pauls
+    grapes: Sauvignon Blanc
+    bottlesize: 750
+    alcoholcontent: 13.5
+
+  - show: true
+    anchor: alexandros-greco-di-tufo
+    name: Alèxandros Greco di Tufo, Colli di Lapio di Romano Clelia
+    desc:
+      de: >-
+        Die Aromen von hellem Steinobst, Blumen und einer feinen Mineralität
+        vereinen sich im harmonischen Bouquet. Knackig klarer Geschmack mit
+        einem frischen Abgang.
+      en: >-
+        The aromas of light stone fruit, flowers and a fine minerality come
+        together in the harmonious bouquet. Crisp clean taste with a fresh
+        finish.
+    img: vino_bianco/alexandros_greco_di_tufo.webp
+    region: Greco di Tufo, Campagnia
+    winery: Colli di Lapio di Romano Clelia
+    grapes: Greco
+    bottlesize: 750
+    alcoholcontent: 13.5
+
+  - show: true
+    anchor: trentenare-paestum
+    name: Trentenare Paestum, San Salvatore 1988
+    desc:
+      de: >-
+        Zeigt in der Nase eine herrliche Aromatik von Honig- und Nussnoten. Am
+        Gaumen kommt eine angenehme Frische und Mineralik hinzu, die Aromen von
+        Honig und Nuss wiederholen sich. Lang anhaltender Abgang.
+      en: >-
+        Shows a wonderful aroma of honey and nuts on the nose. On the palate
+        there is a pleasant freshness and minerality, aromas of honey and nuts
+        are repeated. Long lasting finish.
+    img: vino_bianco/trentenare_paestum.webp
+    region: Campagnia
+    winery: San Salvatore 1988
+    grapes: Fiano
+    bottlesize: 750
+    alcoholcontent: 13.5
+
+  - show: true
+    anchor: pietracalda
+    name: Pietracalda, Feudi di San Gregorio
+    desc:
+      de: >-
+        Intensiver Duft von saftigem Pfirsich, kandierten Orangen und Kamille.
+        Sanft ist der erste Eindruck am Gaumen, der aber von vitaler Frische und
+        einer begeisternden Mineralität und feiner Würze untermalt wird.
+      en: >-
+        Intense scent of juicy peach, candied orange and chamomile. The first
+        impression on the palate is gentle, but accompanied by vital freshness
+        and an inspiring minerality and fine spiciness.
+    img: vino_bianco/pietracalda.webp
+    region: Campagnia
+    winery: Feudi di San Gregorio
+    grapes: Fiano
+    bottlesize: 750
+    alcoholcontent: 13.5
+
+vinorosato:
+
+  - show: true
+    anchor: rosato-vetere
+    name: Rosato Vetere Paestum, San Salvatore 1988
+    desc:
+      de: >-
+        Zeigt in der Nase wunderbare Aromen von Johannisbeeren und
+        Maraschino-Kirschen. Er begeistert mit einer wunderbaren Frische und
+        Eleganz. Ein ausgesprochen mineralischer und süffiger Roséwein.
+      en: >-
+        Shows wonderful aromas of currants and maraschino cherries on the nose
+        & inspires with a wonderful freshness and elegance. A very mineral and
+        tasty rosé wine.
+    img: vino_rosato/rosato_vetere.webp
+    region: Campagnia
+    winery: San Salvatore 1988
+    grapes: Aglianico
+    bottlesize: 750
+    alcoholcontent: 12
+
+vinorosso:
+
+  - show: true
+    anchor: rosso-di-montalcino-caparzo
+    name: Rosso di Montalcino, Caparzo
+    desc:
+      de: >-
+        Mit wunderbar reintöniger Frucht, die an reife Pflaumen erinnert,
+        umspielt von Kräuternuancen. Seidige, aromatische Tannine lassen den
+        Wein harmonisch ausklingen.
+      en: >-
+        With wonderfully pure fruit reminiscent of ripe plums, surrounded by
+        herbal nuances. Silky, aromatic tannins let the wine end harmoniously.
+    img: vino_rosso/rosso_di_montalcino_caparzo.webp
+    region: Rosso di Mantalcino, Toscana
+    winery: Caparzo
+    grapes: Sangiovese
+    bottlesize: 750
+    alcoholcontent: 13.5
+
+  - show: true
+    anchor: chianti-riserva
+    name: Chianti Riserva, La Guardiola
+    desc:
+      de: >-
+        In der Nase voll und intensiv, sein Aroma von Kirschmarmelade weicht
+        einer Note von Veilchen und einem Hauch von Vanille. Am Gaumen ist er
+        weich und abgerundet. Ein leicht zu trinkender Wein, der dank seiner
+        ausgewogenen Struktur sowohl frisch als auch angenehm locker ist.
+      en: >-
+        Full and intense on the nose, its aroma of cherry jam gives way to notes
+        of violet and a hint of vanilla. It is mellow and rounded on the palate.
+        An easy drinking wine, thanks to its well-balanced structure which is
+        both fresh and pleasantly easy going.
+    img: vino_rosso/chianti_riserva.webp
+    region: Chianti, Toscana
+    winery: La Guardiola
+    grapes: Sangiovese
+    bottlesize: 750
+    alcoholcontent: 13.5
+
+  - show: true
+    anchor: pietranera
+    name: Pietranera Toscana, Mauro Vannucci
+    desc:
+      de: >-
+        In der Nase Kirschen und Maraska-Kirschen mit eleganten balsamischen und
+        würzigen Noten. Am Gaumen vollmundig und einhüllend, mit charmanter
+        Eleganz. Ausgezeichnetes Gleichgewicht zwischen Säuren und Tanninen, mit
+        einem anhaltenden Abgang und einem angenehm süßen, frischen und
+        fruchtigen Abgang.
+      en: >-
+        On the Nose cherries and Marasca cherries with elegant balsamic and
+        spicy notes. On the Palate full bodied and enveloping, with charming
+        elegance. Excellent balance between acids and tannins, with a persistent
+        finish and a pleasant sweet, fresh and fruity follow-through.
+    img: vino_rosso/pietranera.webp
+    region: Toscana
+    winery: Piaggia
+    grapes: 80% Sangiovese, 20% Cabernet Franc
+    bottlesize: 750
+    alcoholcontent: 14.5
+
+  - show: true
+    anchor: rosso-di-montalcino-castello-banfi
+    name: Rosso di Montalcino, Castello Banfi
+    desc:
+      de: >-
+        In der Nase treffen Aromen von Brombeeren und Himbeere auf leichte Noten
+        von Kaffee und Tabak. Im Mund ist die Struktur breit, harmonisch und gut
+        ausbalanciert durch eine ausgeprägte Säure. Hervorragende Nachhaltigkeit
+        am Gaumen.
+      en: >-
+        On the nose, aromas of blackberries and raspberry meet light notes of
+        coffee and tobacco. In the mouth the structure is wide, harmonious and
+        well balanced by a marked acidity. Excellent persistence on the palate.
+    img: vino_rosso/rosso_di_montalcino_castello_banfi.webp
+    region: Rosso di Mantalcino, Toscana
+    winery: Castello Banfi
+    grapes: Sangiovese
+    bottlesize: 750
+    alcoholcontent: 14
+
+  - show: true
+    anchor: jungano
+    name: Jungano, San Salvatore 1988
+    desc:
+      de: >-
+        Die Nase ist aromatisch, schön kraftvoll und bietet Tiefe sowie eine
+        aromatische Reinheit und Kontrolle. Es offenbart Noten von Brombeere,
+        heller Cassis, kleine Noten von kleinen schwarzen Beeren, verbunden mit
+        einem Hauch von Erdbeere, Bigarreau-Kirsche sowie Anklängen von Lakritz,
+        Karamellisierung, feinen Anklängen von Tonkabohne, dezenten Anklängen
+        von Rosmarin, frischer lokaler Garrigue, schwarzer Olive und dezente
+        Röstnoten. Der Gaumen ist elegant, zart, fruchtig, schön gebaut und
+        bietet Kraft (in Kontrolle), Tiefe, eine aromatische Reinheit, einen
+        säuerlichen Rahmen und eine kleine Spannung. Am Gaumen drückt dieser
+        Wein Noten von Schwarzkirsche, Bigarreau-Kirsche, helle Cassis, kleine
+        Noten von kleinen leuchtend schwarzen Beeren verbunden mit einem Hauch
+        von kleinen roten Waldbeeren, Blumen, Ortsgefühl (lokales Biotop) sowie
+        eine dezente Andeutung aus Olivenbaum, schwarze Olive, milder Tabak, ein
+        dezenter Hauch von Lakritze, Schokolade und Vanille (im Hintergrund).
+      en: >-
+        The nose is aromatic, beautifully power and offers deepness as well as
+        an aromatic purity and control. It reveals notes of blackberry, bright
+        cassis, small nots of small black berries associated with touches of
+        strawberry, bigarreau cherry as well as hints of liquorice,
+        caramelization, fine hints of tonka bean, discreet hints of rosemary,
+        fresh local garrigue, black olive and discreet hints of toasted. The
+        palate is elegant, delicate, fruity, beautifully build and offers power
+        (in control), deepness, an aromatic purity, an acidulous frame and a
+        small tension. On the palate this wine expresses notes of black cherry,
+        bigarreau cherry, bright cassis, small notes of small bright black
+        berries associated with a touch of small red wild berries, flowers,
+        sense of the place (local biotope) as well as a discreet hint of olive
+        tree, black olive, mild tobacco, a subtle hint of liquorice, chocolate
+        and vanilla (in the background).
+    img: vino_rosso/jungano.webp
+    region: Paestum, Campagnia
+    winery: San Salvatore 1988
+    grapes: Aglianico
+    bottlesize: 750
+    alcoholcontent: 14
+
+  - show: true
+    anchor: brunello-di-montalcino
+    name: Brunello di Montalcino, Castello Banfi
+    desc:
+      de: >-
+        In der Nase zeichnet er sich durch ein intensives und fruchtiges Bouquet
+        mit süßen Noten von Pflaumen, Sauerkirschen, Orange und würzigen
+        Anklängen von Myrte, Wacholder und Weihrauch aus. Vollmundig und
+        kraftvoll. Weiche und geschmeidige Tannine sind gut integriert mit einer
+        starken Säure.
+      en: >-
+        In the nose, it is distinguished by an intense and fruity bouquet with
+        sweet notes of plums, sour cherries, orange and spicy hints of myrtle,
+        juniper and incense. Full-bodied and powerful. Soft and smooth tannins
+        are well-integrated with a strong acidity.
+    img: vino_rosso/brunello_di_montalcino.webp
+    region: Brunello di Mantalcino, Toscana
+    winery: Castello Banfi
+    grapes: Sangiovese
+    bottlesize: 750
+    alcoholcontent: 14.5
+
+  - show: true
+    anchor: costa-grimaldi
+    name: Barolo Costa Grimaldi, Poderi Luigi Einaudi
+    desc:
+      de: >-
+        Rosenblätter, Lavendel, Magnolie, Agapanthus und Zitronensaft
+        beschreiben das sensorische Profil dieses sehr jungen und dynamischen
+        Barolo. Mittlerer bis voller Körper, sehr sanft und überzeugend im
+        Geschmacksprofil mit einem ausgewogenen, harmonischen Abgang. Nahtlos,
+        sofort liebenswert für seine Angenehmheit und Saftigkeit.
+      en: >-
+        Rose petals, lavender, magnolia, agapanthus and lemon juice descibe the
+        sensory profile of this very young and dynamic Barolo. Medium to full
+        bodied, very gentle and persuasive in the gustatory profile with a
+        balanced, harmonic closure. Seamless, immediately loveable for its
+        pleasantness and juiciness.
+    img: vino_rosso/costa_grimaldi.webp
+    region: Barolo, Piemonte
+    winery: Poderi Luigi Einaudi
+    grapes: Nebbiolo
+    bottlesize: 750
+    alcoholcontent: 14.5
+
+  - show: true
+    anchor: brunate-barolo
+    name: Brunate Barolo, Michele Chiarlo
+    img: vino_rosso/brunate_barolo.webp
+    region: Barolo, Piemonte
+    winery: Michele Chiarlo
+    grapes: Nebbiolo
+    bottlesize: 750
+    alcoholcontent: 13.5
+
+  - show: true
+    anchor: baffonero
+    name: Baffonero, Rocca di Frassinello
+    desc:
+      de: >-
+        In der Nase fruchtig mit Aromen, die an verschiedene schwarze Früchte
+        erinnern, insbesondere an Brombeeren, Heidelbeeren und Vanille. Im Glas
+        verändert sich die aromatische Komponente hin zu Tabak, Schokolade und
+        einer leichten Kaffeenote. Im Mund hat er eine wahrnehmbare Komplexität.
+        Voll und robust mit einer Frische, die ihn lang und angenehm macht.
+      en: >-
+        The nose is fruity with aromas reminiscent of various black fruits, in
+        particular blackberries, blueberries and vanilla. In the glass, the
+        aromatic component changes, evolving towards tobacco, chocolate and a
+        slight hint of coffee. In the mouth it has a perceptible complexity.
+        Full and robust with a freshness that makes it long and pleasing.
+    img: vino_rosso/baffonero.webp
+    region: Maremma, Toscana
+    winery: Rocca di Frassinello
+    grapes: Merlot
+    bottlesize: 750
+    alcoholcontent: 15
+
+  - show: true
+    anchor: concerto-di-fonterutoli
+    name: Concerto di Fonterutoli, Mazzei
+    desc:
+      de: >-
+        Dieser ist sehr feinkörnig, mit polierten, seidigen Tanninen, die dem
+        Wein eine wunderbare Textur und Länge verleihen. Viel Kirsch-,
+        Brombeer-, Schokoladen- und Mahagoni-Aromen, die sich bis zum Gaumen
+        fortsetzen. Komplex und raffiniert.
+      en: >-
+        This is very fine grained, with polished, silky tannins that provide
+        wonderful texture and length to the wine. Plenty of cherry, blackberry,
+        chocolate and mahogany flavors that follow through to the palate.
+        Complex and refined.
+    img: vino_rosso/concerto_di_fonterutoli.webp
+    region: Toscana
+    winery: Mazzei
+    grapes: 80% Sangiovese, 20% Cabernet Sauvignon
+    bottlesize: 750
+    alcoholcontent: 14
+
+  - show: true
+    anchor: cepparello
+    name: Cepparello, Isole e Olena
+    desc:
+      de: >-
+        An der Nase eröffent sich ein außergewöhnlich intensives, konzentriertes
+        fruchtiges Bouquet mit Aromen von reifen roten Früchten, Schwarzkirsche,
+        Pflaumen, Cranberry, karamlisierten Orangen- und Zitrusschalen, blumige
+        Noten, geröstete Kräuter, Pfeffer, Tabak, sowie mineralische Nuancen.
+        Körperreich, vollmundig, mit reifen und vollen Tanninen, getragen von
+        guter Säurestruktur, ausgewogen und schon sehr elegant. Im Abgang ist er
+        endlos lang, voller Finesse, aromatischer Komplexität und
+        Nachhaltigkeit.
+      en: >-
+        An extraordinarily intense, concentrated fruity bouquet opens up on the
+        nose with aromas of ripe red fruits, black cherries, plums, cranberries,
+        caramelized orange and citrus peel, floral notes, roasted herbs, pepper,
+        tobacco and mineral nuances. Full-bodied, full-bodied, with ripe and
+        full tannins, supported by good acidity, balanced and very elegant.
+        The finish is endlessly long, full of finesse, aromatic complexity and
+        persistence.
+    img: vino_rosso/cepparello.webp
+    region: Toscana
+    winery: Isole e Olena
+    grapes: Sangiovese
+    bottlesize: 750
+    alcoholcontent: 14.5
+
+  - show: true
+    anchor: tignanello
+    name: Tignanello, Rosso di Toscana
+    desc:
+      de: >-
+        An der Nase betören Waldbeeren und rote Früchte, dunkle Kirsche sowie
+        Gewürz- und Kräuternoten. Erdig und von Veilchen umflort. Noch jung,
+        dennoch bereits mit harmonischem Auftritt. Tannine, Säure und
+        Aromenkonzert finden wunderbar zusammen, um im langen Finale noch einmal
+        ordentlich aufzuspielen.
+      en: >-
+        Wild berries and red fruits, dark cherries as well as spice and herbal
+        notes beguile on the nose. Earthy and tinged with violets. Still young,
+        but already with a harmonious appearance. Tannins, acidity and a concert
+        of aromas come together wonderfully to play properly again in the long
+        finale.
+    img: vino_rosso/tignanello.webp
+    region: Rosso di Toscana
+    winery: Tenuta Marchesi Antinori
+    grapes: 80% Sangiovese, 15% Cabernet sauvignon, 5% Cabernet Franc
+    bottlesize: 750
+    alcoholcontent: 14.5
+
+antipasti:
+
+  - show: false
+    anchor: insalata-di-arance
+    name: Insalata di Arance
+    desc:
+      de: Orangensalat mit roten Zwiebeln
+      en: orange salad with red onions
+    tags:
+      - vegan
+      - vegetarian
+    priceeuro: 9
+    img: antipasti/insalata_di_arance.webp
+
+  - show: true
+    anchor: insalata-di-finnochio
+    name: Insalata di Finnochio
+    desc:
+      de: Fenchelsalat
+      en: fennel salad
+    tags:
+      - vegan
+      - vegetarian
+    priceeuro: 10
+
+  - show: false
+    anchor: gazpacho
+    name: Gazpacho
+    desc:
+      de: kalte Tomatensuppe
+      en: cold tomatoe soup
+    tags:
+      - vegan
+      - vegetarian
+    priceeuro: 12
+
+  - show: false
+    anchor: insalata-capricciosa
+    name: Insalata Capricciosa
+    tags:
+      - vegan
+      - vegetarian
+    priceeuro: 14
+
+  - show: false
+    anchor: carciofi
+    name: Carciofi
+    desc:
+      de: Artischocken
+      en: artichokes
+    tags:
+      - vegan
+      - vegetarian
+    priceeuro: 14
+    img: antipasti/carciofi.webp
+
+  - show: false
+    anchor: formaggio-di-capra-pomodoro
+    name: Formaggio di Capra & Pomodoro
+    desc:
+      de: Ziegenkäse mit Tomate
+      en: goat cheese with tomato
+    tags:
+      - vegetarian
+    priceeuro: 14
+
+  - show: false
+    anchor: insalata-caprese
+    name: Insalata Caprese
+    desc:
+      de: Tomaten, Mozzarella, Basilikum
+      en: tomatoes, mozzarella-cheese, basil
+    tags:
+      - vegetarian
+    priceeuro: 14
+
+  - show: false
+    anchor: insalata-di-asparagi
+    name: Insalata di Asparagi
+    desc:
+      de: Spargelsalat
+      en: asparagus salad
+    tags:
+      - vegan
+      - vegetarian
+    priceeuro: 14
+
+  - show: false
+    anchor: sardelle-marinate
+    name: Sardelle marinate
+    desc:
+      de: marinierte Sardellen
+      en: marinated anchovies
+    priceeuro: 14
+
+  - show: false
+    anchor: mozzarella-di-buffala-pomodoro
+    name: Mozzarella di Buffala & Pomodoro
+    desc:
+      de: Büffelmozzarella mit Tomate
+      en: Buffalo mozzarella-cheese with tomatoes
+    tags:
+      - vegetarian
+    priceeuro: 14
+
+  - show: false
+    anchor: moscardini-al-pomodoro-patate
+    name: Moscardini al Pomodoro & Patate
+    desc:
+      de: kl. Kraken im Tomatensud mit Kartoffeln
+      en: small squid in tomato sauce with potatoes
+    priceeuro: 16
+
+  - show: true
+    anchor: parmigiana
+    name: Parmigiana
+    desc:
+      de: Auberginen-Auflauf
+      en: eggplant casserole
+    tags:
+      - vegetarian
+    priceeuro: 16
+    img: antipasti/parmigiana.webp
+
+  - show: false
+    anchor: insalata-di-frutti-di-mare
+    name: Insalata di Frutti di Mare
+    desc:
+      de: Meeresfrüchtesalat
+      en: seafood salad
+    priceeuro: 16
+
+  - show: false
+    anchor: insalata-di-asparagi-burrata
+    name: Insalata di Asparagi & Burrata
+    desc:
+      de: Spargelsalat mit Burrata (cremiger Mozzarella)
+      en: asparagus salad with burrata (creamy mozzarella-cheese)
+    tags:
+      - vegetarian
+    priceeuro: 16
+
+  - show: false
+    anchor: insalata-di-asparagi-prosciutto-di-parma
+    name: Insalata di Asparagi & Prosciutto di Parma
+    desc:
+      de: Spargelsalat mit Parmaschinken
+      en: asparagus salad with parma ham
+    priceeuro: 16
+
+  - show: false
+    anchor: cozze-al-vino
+    name: Cozze al vino
+    desc:
+      de: Miesmuscheln in Wein
+      en: mussels in wine
+    priceeuro: 16
+
+  - show: true
+    anchor: burrata-caponata
+    name: Burrata & Caponata
+    desc:
+      de: Burrata (cremiger Mozzarella) mit geschmortem Gemüse
+      en: Burrata (creamy mozzarella-cheese) with braised vegetables
+    tags:
+      - vegetarian
+    priceeuro: 16
+    img: antipasti/burrata_caponata.webp
+
+  - show: false
+    anchor: prosciutto-di-parma-burrata
+    name: Prosciutto di Parma & Burrata
+    desc:
+      de: Parmaschinken mit Burrata (cremiger Mozzarella)
+      en: Parma ham with burrata (creamy mozzarella-cheese)
+    priceeuro: 16
+
+  - show: true
+    anchor: prosciutto-di-parma-mozzarella-di-buffala
+    name: Prosciutto di Parma & Mozzarella di Buffala
+    desc:
+      de: Parmaschinken mit Büffelmozzarella
+      en: Parma ham with buffalo mozzarella
+    priceeuro: 16
+
+  - show: false
+    anchor: trippe-patate
+    name: Trippe & Patate
+    desc:
+      de: Kutteln mit Kartoffeln
+      en: tripe with potatoes
+    priceeuro: 16
+
+  - show: false
+    anchor: burrata-pomodori-colorati
+    name: Burrata & Pomodori colorati
+    desc:
+      de: Burrata (cremiger Mozzarella) mit bunten Tomaten
+      en: Burrata (creamy mozzarella-cheese) with colorful tomatoes
+    tags:
+      - vegetarian
+    priceeuro: 18
+
+  - show: false
+    anchor: Vitello tonnato
+    name: Vitello tonnato
+    desc:
+      de: hauchdünnes Kalbsfleisch mit Thunfischsauce
+      en: thinly sliced veal with thuna sauce
+    priceeuro: 18
+    img: antipasti/vitello_tonnato.webp
+
+  - show: false
+    anchor: ceviche-di-salmone
+    name: Ceviche di Salmone
+    desc:
+      de: Ceviche vom Lachs mit einem Sud aus Zitrussaft
+      en: salmon ceviche with lemon juice
+    priceeuro: 18
+    img: antipasti/ceviche_di_salmone.webp
+
+  - show: false
+    anchor: frittura
+    name: Frittura
+    desc:
+      de: Frittura
+      en: Frittura
+    priceeuro: 18
+
+  - show: false
+    anchor: arosto-di-manzo
+    name: Arosto di Manzo
+    desc:
+      de: Roastbeef
+      en: Roastbeef
+    priceeuro: 18
+
+  - show: true
+    anchor: calamaretti
+    name: Calamaretti
+    desc:
+      de: kleine Tintenfische
+      en: small octopus
+    priceeuro: 18
+    img: antipasti/calamaretti.webp
+
+  - show: false
+    anchor: capesante
+    name: Capesante
+    desc:
+      de: Jakobsmuscheln, bunte Beete, Hummersauce
+      en: scallops, multicolored beets, lobster sauce
+    priceeuro: 18
+
+  - show: true
+    anchor: tartare-di-salmone
+    name: Tartare di Salmone
+    desc:
+      de: Lachstartar
+      en: salmon tartare
+    priceeuro: 18
+    img: antipasti/tartare_di_salmone.webp
+
+  - show: false
+    anchor: carpaccio-del-lingua-bovina
+    name: Carpaccio del Lingua bovina
+    desc:
+      de: Rinderzungencarpaccio
+      en: beef tongue carpaccio
+    priceeuro: 18
+
+  - show: true
+    anchor: carpaccio-di-manzo
+    name: Carpaccio di Manzo
+    desc:
+      de: Rindercarpaccio
+      en: beef carpaccio
+    priceeuro: 18
+
+  - show: false
+    anchor: insalata-di-manzo
+    name: Insalata di Manzo
+    desc:
+      de: Salat mit Rindstreifen
+      en: Salad with beef cut
+    priceeuro: 18
+
+  - show: false
+    anchor: rucola-fegato-di-coniglio
+    name: Rucola & Fegato di Coniglio
+    desc:
+      de: Rucolasalat mit Kaninchenleber
+      en: lamb's lettuce with rabbit liver
+    priceeuro: 18
+
+  - show: false
+    anchor: rucola-fegato-di-vitello
+    name: Rucola & Fegato di Vitello
+    desc:
+      de: Rucolasalat mit Kalbsleber
+      en: lamb's lettuce with veal liver
+    priceeuro: 18
+
+  - show: false
+    anchor: tagliata-di-pesce-spada
+    name: Tagliata di Pesce Spada
+    desc:
+      de: Scheiben vom Schwertfisch
+      en: sliced swordfish
+    priceeuro: 18
+
+  - show: false
+    anchor: tonno-vitellato
+    name: Tonno vitellato
+    desc:
+      de: >-
+        Roher Thunfisch & Kalbsfleisch mit Kalbfleischsauce, Kapern, Spinat
+        und Süßkartoffel
+      en: raw thuna with veal sauce, capers, spinach and sweet potato
+    priceeuro: 18
+    img: antipasti/tonno_vitellato.webp
+
+  - show: false
+    anchor: ceviche-di-pesce-spada
+    name: Ceviche di Pesce Spada
+    desc:
+      de: Ceviche vom Schwertfisch mit Melone und Minze
+      en: swordfish ceviche with melon and mint
+    priceeuro: 19
+
+  - show: false
+    anchor: tonno-crudo-rapa-rossa-spinaci
+    name: Tonno crudo, Rapa rossa & Spinaci
+    desc:
+      de: roher Thunfisch mit rote Beete und Spinat
+      en: raw thuna with red beets and spinach
+    priceeuro: 19
+    img: antipasti/tonno_crudo_rapa_rossa_spinaci.webp
+
+  - show: false
+    anchor: insalata-di-asparagi-gambas
+    name: Insalata di Asparagi & Gambas
+    desc:
+      de: Spargelsalat mit Gambas
+      en: asparagus salad with gambas
+    priceeuro: 19
+
+  - show: false
+    anchor: capesante-salsola-soda
+    name: Capesante & Salsola Soda
+    desc:
+      de: Jakobsmuscheln mit Mönchsbart
+      en: scallops with opposite-leaved saltwort
+    priceeuro: 20
+
+  - show: false
+    anchor: ricciola-del-pacifico-salsola-soda
+    name: Ricciola del Pacifico & Salsola Soda
+    desc:
+      de: Hamachi mit Mönchsbart
+      en: Hamachi (young Japanese Amberjack) with opposite-leaved saltwort
+    priceeuro: 20
+
+  - show: false
+    anchor: bocca-d-oro
+    name: Bocca d'oro
+    desc:
+      de: Adlerfisch, Morcheln, Spargel
+      en: meagre, morel, asparagus
+    priceeuro: 21
+
+  - show: false
+    anchor: carpaccio-di-gambero-rosso
+    name: Carpaccio di Gambero Rosso
+    desc:
+      de: Carpaccio von der roten Garnele
+      en: red shrimp carpaccio
+    priceeuro: 21
+    img: antipasti/carpaccio_di_gambero_rosso.webp
+
+  - show: false
+    anchor: insalata-di-polpo
+    name: Insalata di Polpo
+    desc:
+      de: Tintenfisch-Salat
+      en: octopus salad
+    priceeuro: 21
+
+  - show: false
+    anchor: polpo-al-pomodoro
+    name: Polpo al Pomodoro
+    desc:
+      de: Tintenfisch im Tomatensud
+      en: octupus in tomato sauce
+    priceeuro: 21
+
+  - show: false
+    anchor: tartare-di-manzo
+    name: Tartare di Manzo
+    desc:
+      de: Rindertartar mit Trüffel & Parmesan
+      en: beef tartare with truffles & parmesan cheese
+    priceeuro: 21
+    img: antipasti/tartare_di_manzo_tartufo_rucola.webp
+
+  - show: false
+    anchor: tartare-di-tonno
+    name: Tartare di Tonno
+    desc:
+      de: Thunfischtartar
+      en: thuna tartare
+    priceeuro: 21
+
+  - show: false
+    anchor: tartare-di-tonno-cavolo-cinese-tartufo
+    name: Tartare di Tonno, Cavolo cinese & Tartufo
+    desc:
+      de: Thunfischtartar mit Chinakohl und Trüffel
+      en: thuna tartare with chinese cabbage and truffles
+    priceeuro: 21
+
+  - show: false
+    anchor: tartare-di-tonno-pesche-basilico
+    name: Tartare di Tonno, Pesche & Basilico
+    desc:
+      de: Thunfischtartar mit Pfirsich und Basilikum
+      en: thuna tartare with peach & basil
+    priceeuro: 21
+
+  - show: false
+    anchor: Tonno crudo
+    name: Tonno crudo
+    desc:
+      de: roher Thunfisch
+      en: raw thuna
+    priceeuro: 21
+
+  - show: false
+    anchor: tonno-crudo-pesca-verde-basilico
+    name: Tonno crudo, pesca verde & basilico
+    desc:
+      de: roher Thunfisch mit grünem Pfirsich und Basilikum
+      en: raw thuna with green peach and basil
+    priceeuro: 21
+
+  - show: false
+    anchor: tartare-di-tonno-pomodorini-colorati
+    name: Tartare di Tonno & Pomodorini colorati
+    desc:
+      de: Thunfischtartar mit bunten Tomaten
+      en: thuna tartare with colorful tomatoes
+    priceeuro: 23
+
+carne:
+
+  - show: false
+    anchor: maialino-di-latte-carota-piselli
+    name: Maialino di Latte, Carota & Piselli
+    desc:
+      de: Spanferkel mit Karotte und Erbsen
+      en: Suckling pig with carrot and peas
+    priceeuro: 16
+
+  - show: false
+    anchor: spezzatino
+    name: Spezzatino
+    desc:
+      de: Rinderfleisch, langsam im Eintopf gegart
+      en: beef, slow-cooked in a stew
+    priceeuro: 16
+
+  - show: true
+    anchor: vitello-alla-veneziana
+    name: Vitello alla Veneziana
+    desc:
+      de: Kalbsleber alla Veneziana
+      en: veal liver alla Veneziana
+    priceeuro: 18
+
+  - show: false
+    anchor: pollo-grigliato
+    name: Pollo grigliato
+    desc:
+      de: gegrilltes Hähnchen
+      en: grilled chicken
+    priceeuro: 18
+
+  - show: false
+    anchor: saltimbocca-alla-romana
+    name: Saltimbocca alla Romana
+    desc:
+      de: Kalbfleisch umwickelt mit Prosciutto und Salbei
+      en: veal wrapped with prosciutto and sage
+    priceeuro: 25
+
+  - show: false
+    anchor: agnello
+    name: Agnello
+    desc:
+      de: Lamm
+      en: Lamb
+    priceeuro: 25
+
+  - show: true
+    anchor: scaloppine-al-limone
+    name: Scaloppine al Limone
+    desc:
+      de: Kalbsschnitzel mit Zitrone
+      en: Veal escalopes with lemon
+    priceeuro: 25
+
+  - show: false
+    anchor: carree-di-agnello
+    name: Carree di Agnello
+    desc:
+      de: Lammkarrée
+      en: Lamb carrée
+    priceeuro: 27
+
+  - show: false
+    anchor: sella-di-vitello-taleggio-tartufo
+    name: Sella di Vitello, Taleggio & Tartufo
+    desc:
+      de: Kalbsrücken mit Taleggio (ital. Rohmilchkäse) und Trüffel
+      en: veal back with Taleggio (Italian raw milk cheese) and truffles
+    priceeuro: 31
+
+  - show: true
+    anchor: tagliata
+    name: Tagliata
+    desc:
+      de: >-
+        Scheiben vom Rinderfilet eines Dry-Aged Black Angus auf Rucola mit
+        frischen Cocktail-Tomaten und Parmesan
+      en: >-
+        sliced beef fillet of a Dry-Aged Black Angus with lamb's lettuce, fresh
+        cocktail tomatoes and Parmesan cheese
+    priceeuro: 32
+    img: carne/tagliata.webp
+
+  - show: false
+    anchor: carree-di-vitello-taleggio-tartufo
+    name: Carree di Vitello, Taleggio & Tartufo
+    desc:
+      de: Kalbskarrée mit Taleggio (ital. Rohmilchkäse) und Trüffel
+      en: veal carrée with Taleggio (Italian raw milk cheese) and truffles
+    priceeuro: 38
+    img: carne/carree_di_vitello.webp
+
+  - show: false
+    anchor: filetto-di-manzo-taleggio-tartufo
+    name: Filetto di Manzo, Taleggio & Tartufo
+    desc:
+      de: Rinderfilet mit Taleggio (ital. Rohmilchkäse) und Trüffel
+      en: beef fillet with Taleggio (Italian raw milk cheese) and truffles
+    priceeuro: 42
+
+dolci:
+
+  - show: true
+    anchor: tiramisu
+    name: Tiramisu
+    desc:
+      de: Tiramisu
+      en: Tiramisu
+    priceeuro: 5
+
+  - show: true
+    anchor: calzone-nutella
+    name: Calzone Nutella
+    desc:
+      de: Calzone Nutella
+      en: Calzone Nutella
+    priceeuro: 6
+    img: dolci/calzone_nutella.webp
+
+pasta:
+
+  - show: false
+    anchor: pasta-pesto
+    name: Pasta Pesto
+    desc:
+      de: Pasta mit Pesto
+      en: Pasta with pesto
+    tags:
+      - vegetarian
+    priceeuro: 12
+
+  - show: false
+    anchor: gnocchi-gorgonzola-spinaci
+    name: Gnocchi Gorgonzola & Spinaci
+    desc:
+      de: Gnocchi mit Gorgonzola und Spinat
+      en: Gnocchi with Gorgonzola cheese and spinach
+    tags:
+      - vegetarian
+    priceeuro: 14
+
+  - show: false
+    anchor: pasta-salmone-asparagi
+    name: Pasta Salmone & Asparagi
+    desc:
+      de: Pasta mit Lachs und Spargel
+      en: Pasta with salmon and asparagus
+    priceeuro: 14
+
+  - show: false
+    anchor: pasta-salsiccia-melanzane
+    name: Pasta Salsiccia & Melanzane
+    desc:
+      de: Pasta mit Salsiccia (ital. Frischwurst) und Auberginen
+      en: Pasta with Salsiccia (Italian raw meat sausage) and eggplant
+    priceeuro: 14
+
+  - show: false
+    anchor: ravioli-ricotta-spinaci
+    name: Ravioli Ricotta & Spinaci
+    desc:
+      de: Ravioli mit Ricotta und Spinat
+      en: Ravioli with ricotta cheese and spinach
+    tags:
+      - vegetarian
+    priceeuro: 14
+
+  - show: false
+    anchor: pasta-amatriciana
+    name: Pasta Amatriciana
+    desc:
+      de: Pasta mit Guanciale (Speck), Pecorino (ital. Hartkäse) und Tomaten
+      en: Pasta with guanciale (bacon), Pecorino cheese and tomatoes
+    priceeuro: 14
+
+  - show: false
+    anchor: spaghetti-bolognese
+    name: Spaghetti Bolognese
+    desc:
+      de: Spaghetti mit Hackfleischsauce
+      en: Spaghetti with meat sauce
+    priceeuro: 16
+
+  - show: false
+    anchor: spaghetti-cozze
+    name: Spaghetti Cozze
+    desc:
+      de: Spaghetti mit Miesmuscheln
+      en: Spaghetti with mussels
+    priceeuro: 16
+
+  - show: false
+    anchor: pasta-pesto-burrata
+    name: Pasta Pesto Burrata
+    desc:
+      de: Pasta mit Pesto und Burrata (cremiger Mozzarella)
+      en: Pasta with pesto and burrata (creamy mozzarella-cheese)
+    tags:
+      - vegetarian
+    priceeuro: 16
+    img: pasta/pasta_pesto_burrata.webp
+
+  - show: true
+    anchor: pasta-polpette-al-sugo
+    name: Pasta Polpette al sugo
+    desc:
+      de: Pasta mit Hackfleischbällchen in Tomatensauce
+      en: Spaghetti with meat balls in tomato sauce
+    priceeuro: 16
+    img: pasta/pasta_polpette_al_sugo.webp
+
+  - show: false
+    anchor: pasta-salsiccia-rapa
+    name: Pasta Salsiccia & Rapa
+    desc:
+      de: Pasta mit Salsiccia (ital. Frischwurst) und Rapa (Stängelkohl)
+      en: >-
+        Pasta with Salsiccia (Italian raw meat sausage) and Rapa (slightly
+        bitter Italian broccoli-like vegetable)
+    priceeuro: 16
+    img: pasta/calamarata_salsiccia_rapa.webp
+
+  - show: true
+    anchor: pasta-salmone-spinaci
+    name: Pasta Salmone & Spinaci
+    desc:
+      de: Pasta mit Lachs und Spinat
+      en: Pasta with salmon and spinach
+    priceeuro: 16
+
+  - show: false
+    anchor: gnocchi-asparagi
+    name: Gnocchi Asparagi
+    desc:
+      de: Gnocchi mit Spargel
+      en: Gnocchi with asparagus
+    tags:
+      - vegetarian
+    priceeuro: 16
+
+  - show: false
+    anchor: gnocchi-burrata
+    name: Gnocchi Burrata
+    desc:
+      de: Gnocchi mit Burrata (cremiger Mozzarella)
+      en: Gnocchi with burrata (creamy mozzarella-cheese)
+    tags:
+      - vegetarian
+    priceeuro: 16
+
+  - show: false
+    anchor: gnocchi-spinaci-formaggio-di-capra
+    name: Gnocchi Spinaci & Formaggio di capra
+    desc:
+      de: Gnocchi mit Spinat und Ziegenkäse
+      en: Gnocchi with spinach and goat cheese
+    tags:
+      - vegetarian
+    priceeuro: 16
+
+  - show: false
+    anchor: orecchiette-cozze-fagioli-cossi
+    name: Orecchiette Cozze & Fagioli Cossi
+    desc:
+      de: Orecchiette (Pasta aus Apulien) mit Miesmuscheln und Bohnen
+      en: Orecchiette (pasta from Apulia) with mussels and beans
+    priceeuro: 16
+
+  - show: false
+    anchor: pasta-asparagi
+    name: Pasta Asparagi
+    desc:
+      de: Pasta mit Spargel
+      en: Pasta with asparagus
+    tags:
+      - vegan
+      - vegetarian
+    priceeuro: 16
+
+  - show: false
+    anchor: ravioli-gorgonzola-noci
+    name: Ravioli Gorgonzola & Noci
+    desc:
+      de: Ravioli mit Gorgonzola und Walnüssen
+      en: Ravioli with Gorgonzola cheese and walnuts
+    tags:
+      - vegetarian
+    priceeuro: 16
+
+  - show: false
+    anchor: ravioli-spinaci-noci
+    name: Ravioli Spinaci & Noci
+    desc:
+      de: Ravioli mit Spinat und Walnüssen
+      en: Ravioli with spinach and walnuts
+    tags:
+      - vegetarian
+    priceeuro: 16
+
+  - show: true
+    anchor: tagliatelle-finferli
+    name: Tagliatelle Finferli
+    desc:
+      de: Tagliatelle mit Pfifferlingen
+      en: Tagliatelle with chanterelles
+    tags:
+      - vegetarian
+    priceeuro: 16
+
+  - show: true
+    anchor: pasta-salsiccia-tartufo
+    name: Pasta Salsiccia & Tartufo
+    desc:
+      de: Pasta mit Salsiccia (ital. Frischwurst) und Trüffel
+      en: Pasta with Salsiccia (Italian raw meat sausage) and truffles
+    priceeuro: 18
+    img: pasta/pasta_con_salsiccia_e_tartufo.webp
+
+  - show: false
+    anchor: ravioli-baccala-gambero
+    name: Ravioli Baccalà & Gambero
+    desc:
+      de: Ravioli mit Stockfisch (Kabeljau) und Garnelen
+      en: Ravioli with dried cod and shrimps
+    priceeuro: 18
+
+  - show: false
+    anchor: tagliatelle-gambas
+    name: Tagliatelle Gambas
+    desc:
+      de: Tagliatelle Gambas
+      en: Tagliatelle Gambas
+    priceeuro: 18
+
+  - show: false
+    anchor: pasta-ragu-bianco
+    name: Pasta Ragu bianco
+    desc:
+      de: Pasta mit heller Hackfleischsauce
+      en: Pasta with a cream-based ('white') meat sauce
+    priceeuro: 19
+
+  - show: false
+    anchor: spaghetti-polpo
+    name: Spaghetti Polpo
+    desc:
+      de: Spaghetti mit Tintenfisch
+      en: Spaghetti with octopus
+    priceeuro: 19
+
+  - show: true
+    anchor: spaghetti-vongole
+    name: Spaghetti Vongole
+    desc:
+      de: Spaghetti mit Venusmuscheln
+      en: Spaghetti with clams
+    priceeuro: 19
+    img: pasta/spaghetti_vongole.webp
+
+  - show: false
+    anchor: tagliatelle-ragu-di-pesce
+    name: Tagliatelle Ragu di Pesce
+    desc:
+      de: Tagliatelle mit Fischragout
+      en: Tagliatelle with fish ragout
+    priceeuro: 19
+
+  - show: false
+    anchor: tagliolini-al-nero-di-seppia
+    name: Tagliolini al Nero di Seppia
+    desc:
+      de: Tagliolini mit Krakentinte
+      en: Tagliolini with squid ink
+    priceeuro: 19
+
+  - show: false
+    anchor: gnocchi-gambas-asparagi
+    name: Gnocchi Gambas Asparagi
+    desc:
+      de: Gnocchi mit Gambas und Spargel
+      en: Gnocchi with gambas and asparagus
+    priceeuro: 21
+    img: pasta/gnocchi_gambas.webp
+
+  - show: false
+    anchor: pasta-aragosta
+    name: Pasta Aragosta
+    desc:
+      de: Pasta mit Hummer
+      en: Pasta with lobster
+    priceeuro: 21
+    img: pasta/pasta_aragosta.webp
+
+  - show: true
+    anchor: tagliatelle-tartufo
+    name: Tagliatelle Tartufo
+    desc:
+      de: Tagliatelle mit Trüffel
+      en: Tagliatelle with truffles
+    tags:
+      - vegetarian
+    priceeuro: 25
+
+  - show: false
+    anchor: tagliolini-tartufo
+    name: Tagliolini Tartufo
+    desc:
+      de: Tagliolini mit Trüffel
+      en: Tagliolini with truffles
+    tags:
+      - vegetarian
+    priceeuro: 25
+
+pesce:
+
+  - show: false
+    anchor: merluzzo
+    name: Merluzzo
+    desc:
+      de: Kabeljau
+      en: Cod
+    priceeuro: 25
+
+  - show: false
+    anchor: pesce-spada-al-vino
+    name: Pesce Spada al vino
+    desc:
+      de: Schwertfisch in Weißweinsauce
+      en: Swordfish in white wine
+    priceeuro: 27
+
+  - show: false
+    anchor: filetto-di-pesce-rombo
+    name: Filetto di Pesce Rombo
+    desc:
+      de: Steinbuttfilet
+      en: Turbot fillet
+    priceeuro: 27
+
+  - show: false
+    anchor: merluzzo-nel-sud-pomodoro
+    name: Merluzzo nel sud pomodoro
+    desc:
+      de: Kabeljau im Tomatensud
+      en: Cod in a tomato broth
+    priceeuro: 27
+
+  - show: false
+    anchor: seppia-alla-griglia
+    name: Seppia alla griglia
+    desc:
+      de: Krake vom Grill
+      en: Grilled squid
+    priceeuro: 27
+    img: pesce/seppia.webp
+
+  - show: false
+    anchor: filetto-di-spigula-alla-griglia
+    name: Filetto di Spigula alla griglia
+    desc:
+      de: Wolfsbarschfilet vom Grill
+      en: Grilled sea bass fillet
+    priceeuro: 28
+
+  - show: true
+    anchor: spigula-alla-griglia
+    name: Spigula alla griglia
+    desc:
+      de: Wolfsbarsch (gegrillt)
+      en: Grilled sea bass
+    priceeuro: 28
+
+  - show: false
+    anchor: pesce-spada-alla-griglia
+    name: Pesce Spada alla griglia
+    desc:
+      de: Schwertfisch vom Grill
+      en: Grilled swordfish
+    priceeuro: 28
+
+  - show: false
+    anchor: spigula-caponata
+    name: Spigula & Caponata
+    desc:
+      de: Wolfsbarsch mit geschmortem Gemüse
+      en: Grilled sea bass with braised vegetables
+    priceeuro: 28
+
+  - show: false
+    anchor: spigula
+    name: Spigula
+    desc:
+      de: Wolfsbarsch
+      en: Sea bass
+    priceeuro: 29
+
+  - show: false
+    anchor: rana-pescatrice-spinaci
+    name: Rana pescatrice & Spinaci
+    desc:
+      de: Seeteufel auf Spinat
+      en: Monkfish with spinach
+    priceeuro: 29
+
+  - show: true
+    anchor: pesce-miste-alla-griglia
+    name: Pesce miste alla griglia
+    desc:
+      de: gemischter Fisch gegrillt
+      en: grilled mixed fish
+    priceeuro: 29
+
+  - show: false
+    anchor: pesce-miste-nel-sud
+    name: Pesce miste nel Sud
+    desc:
+      de: gemischter Fisch im Sud
+      en: mixed fish in a broth
+    priceeuro: 29
+    img: pesce/spigola_nel_brodo.webp
+
+  - show: false
+    anchor: filetto-di-orrata
+    name: Filetto di Orrata
+    desc:
+      de: Doradenfilet
+      en: Seabream fillet
+    priceeuro: 29
+
+  - show: false
+    anchor: filetto-di-orrata-alla-griglia
+    name: Filetto di Orrata alla griglia
+    desc:
+      de: gegrilltes Doradenfilet
+      en: grilled Seabream fillet
+    priceeuro: 29
+
+  - show: false
+    anchor: merluzzo-spinaci
+    name: Merluzzo & Spinaci
+    desc:
+      de: Kabeljau auf Spinat
+      en: Cod with spinach
+    priceeuro: 29
+
+  - show: true
+    anchor: bistecca-di-tonno-rucola
+    name: Bistecca di Tonno & Rucola
+    desc:
+      de: Thunfischsteak auf Rucola
+      en: Thuna steak with lamb's lettuce
+    priceeuro: 31
+    img: pesce/bistecca_di_tonno.webp
+
+  - show: false
+    anchor: l-orrata
+    name: L'Orrata
+    desc:
+      de: Dorade (ganz)
+      en: Seabream (whole)
+    priceeuro: 31
+
+  - show: false
+    anchor: pesce-rombo-spinaci
+    name: Pesce Rombo & Spinaci
+    desc:
+      de: Steinbutt auf Spinat
+      en: Turbot with spinach
+    priceeuro: 31
+
+pizze:
+
+  - show: false
+    anchor: pizza-gorgonzola-noci
+    name: Pizza Gorgonzola Noci
+    desc:
+      de: mit Gorgonzola und Walnüssen
+      en: with Gorgonzola cheese and walnuts
+    tags:
+      - vegetarian
+    priceeuro: 13
+
+  - show: false
+    anchor: pizza-crudaiola
+    name: Pizza Crudaiola
+    desc:
+      de: >-
+        eine 'weiße' Pizza (ohne Tomatensauce) mit Mozzarella, Rucola und
+        Cocktail-Tomaten
+      en: >-
+        a 'white' pizza with Mozzarella cheese, lamb's lettuce and cocktail
+        tomatoes
+    tags:
+      - vegetarian
+    priceeuro: 13
+
+  - show: true
+    anchor: pizza-finferli
+    name: Pizza Finferli
+    desc:
+      de: mit Pfifferlingen
+      en: with chanterelles
+    tags:
+      - vegetarian
+    priceeuro: 14
+
+  - show: true
+    anchor: pizza-alle-verdure
+    name: Pizza alle Verdure
+    desc:
+      de: mit geschmortem Gemüse, Gorgonzola
+      en: with braised vegetables and Gorgonzola cheese
+    tags:
+      - vegetarian
+    priceeuro: 14
+    img: pizze/pizza_alle_verdure.webp
+
+  - show: true
+    anchor: pizza-calabrese
+    name: Pizza Calabrese
+    desc:
+      de: mit scharfer Salami
+      en: with spicy salami
+    priceeuro: 14
+
+  - show: false
+    anchor: pizza-caprese
+    name: Pizza Caprese
+    desc:
+      de: mit Büffelmozzarella & frischen Cocktail-Tomaten
+      en: with buffalo mozzarella & fresh cocktail tomatoes
+    tags:
+      - vegetarian
+    priceeuro: 14
+
+  - show: false
+    anchor: pizza-gorgonzola-spinaci
+    name: Pizza Gorgonzola Spinaci
+    desc:
+      de: mit Gorgonzola und Spinat
+      en: with Gorgonzola cheese and spinach
+    tags:
+      - vegetarian
+    priceeuro: 14
+
+  - show: false
+    anchor: pizza-mortadella
+    name: Pizza Mortadella
+    desc:
+      de: mit Mortadella
+      en: with mortadella
+    priceeuro: 14
+
+  - show: false
+    anchor: pizza-parma
+    name: Pizza Parma
+    desc:
+      de: mit Parmaschinken, Parmesan, Rucola
+      en: with Parma ham, Parmesan cheese and lamb's lettuce
+    priceeuro: 14
+
+  - show: true
+    anchor: pizza-guanciale-taleggio-pomodoro
+    name: Pizza Guanciale, Taleggio, Pomodoro
+    desc:
+      de: mit Speck, ital. Rohmilchkäse, Tomaten
+      en: with bacon, Taleggio (Italian raw milk cheese) and tomatoes
+    priceeuro: 16
+
+  - show: false
+    anchor: pizza-frutti-di-mare
+    name: Pizza Frutti di Mare
+    desc:
+      de: mit Meeresfrüchten
+      en: with seafood
+    priceeuro: 16
+
+  - show: false
+    anchor: pizza-salmone-asparagi
+    name: Pizza Salmone Asparagi
+    desc:
+      de: mit Lachs und Spargel
+      en: with salmon and asparagus
+    priceeuro: 16
+
+  - show: false
+    anchor: pizza-salsiccia-rapa
+    name: Pizza Salsiccia Rapa
+    desc:
+      de: mit Salsiccia (ital. Frischwurst) und Rapa (Stängelkohl)
+      en: >-
+        with Salsiccia (Italian raw meat sausage) and Rapa (slightly bitter
+        Italian broccoli-like vegetable)
+    priceeuro: 16
+
+  - show: false
+    anchor: pizza-taleggio-asparagi-pomodoro
+    name: Pizza Taleggio, Asparagi, Pomodoro
+    desc:
+      de: mit ital. Rohmilchkäse, Spargel, Tomaten
+      en: with Taleggio (Italian raw milk cheese), asparagus and tomatoes
+    tags:
+      - vegetarian
+    priceeuro: 16
+
+  - show: false
+    anchor: pizza-finferli-basilico-pomodoro
+    name: Pizza Finferli, Basilico, Pomodoro
+    desc:
+      de: mit Pfifferlingen, Basilikum und Tomate
+      en: with chanterelles, basil and tomatoes
+    tags:
+      - vegetarian
+    priceeuro: 16
+
+  - show: false
+    anchor: pizza-vulcano
+    name: Pizza Vulcano
+    desc:
+      de: mit Parmaschinken & Burrata (cremiger Mozzarella)
+      en: with Parma ham & Burrata (creamy mozzarella)
+    priceeuro: 16
+    img: pizze/pizza_vulcano.webp
+
+  - show: false
+    anchor: pizza-guanciale-asparagi-pomodoro
+    name: Pizza Guanciale, Asparagi, Pomodoro
+    desc:
+      de: mit Speck, Spargel, Tomaten
+      en: with bacon, asparagus and tomatoes
+    priceeuro: 16
+
+riso:
+
+  - show: false
+    anchor: risotto-asparagi
+    name: Risotto Asparagi
+    desc:
+      de: Risotto mit Spargel
+      en: Risotto with asparagus
+    tags:
+      - vegetarian
+    priceeuro: 16
+
+  - show: false
+    anchor: risotto-gambas
+    name: Risotto Gambas
+    desc:
+      de: Risotto mit Gambas
+      en: Risotto with gambas
+    priceeuro: 16
+
+  - show: false
+    anchor: risotto-ragu-di-pesce
+    name: Risotto Ragu di Pesce
+    desc:
+      de: Risotto mit Fischragout
+      en: Risotto with fish ragout
+    priceeuro: 16
+
+  - show: true
+    anchor: risotto-frutti-di-mare
+    name: Risotto Frutti di Mare
+    desc:
+      de: Risotto mit Meeresfrüchten
+      en: Risotto with seafood
+    priceeuro: 19
+
+  - show: false
+    anchor: risotto-tartufo
+    name: Risotto Tartufo
+    desc:
+      de: Risotto mit Trüffel
+      en: Risotto with truffles
+    tags:
+      - vegetarian
+    priceeuro: 21
+
+  - show: false
+    anchor: risotto-aragosta
+    name: Risotto Aragosta
+    desc:
+      de: Risotto mit Hummer
+      en: Risotto with lobster
+    priceeuro: 23

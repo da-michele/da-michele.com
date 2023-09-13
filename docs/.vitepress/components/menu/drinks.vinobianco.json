@@ -1,0 +1,139 @@
+{
+    "vinobianco": [
+        {
+            "show": false,
+            "anchor": "collio-cormons",
+            "name": "Collio, Cormòns",
+            "desc": {
+                "de": "Die Nase öffnet sich mit einem Hauch von Erdnussbutter, angereichert mit angenehmen Mandelnoten. Am Gaumen ist er voll, angenehm breit und weich, mit einem Nachgeschmack von gerösteten Mandeln.",
+                "en": "The nose opens with hints of peanut butter, enriched with pleasant almond notes. On the palate it is full, pleasantly broad and soft, with an aftertaste of toasted almonds."
+            },
+            "img": "vino_bianco/collio_cormons.webp",
+            "region": "Cormòns",
+            "winery": "Collio, Friuli-Venezia Giulia",
+            "grapes": "Friulano",
+            "bottlesize": 750,
+            "alcoholcontent": 13.5
+        },
+        {
+            "show": true,
+            "anchor": "gfill-sauvignon",
+            "name": "GFILL Sauvignon, St. Pauls",
+            "desc": {
+                "de": "Fruchtige Sortenaromen von Pink Grapefruit, Melone, Stachelbeere und Passionsfrucht, leicht würzige Noten, die an Brennnessel und Tomatenblatt erinnern. Aromatisch lebendiges Mundgefühl. Blumig und extraktiv mit einem mineralischen Abgang.",
+                "en": "Fruity varietal aromas of pink grapefruit, melon, gooseberry and passion fruit, slightly spicy notes reminiscent of nettle and tomato leaf. Flavourful lively mouthfeel. Floral and extractive with a salty finish."
+            },
+            "img": "vino_bianco/gfill_sauvignon.webp",
+            "region": "Trentino",
+            "winery": "St. Pauls",
+            "grapes": "Sauvignon Blanc",
+            "bottlesize": 750,
+            "alcoholcontent": 13.5
+        },
+        {
+            "show": true,
+            "anchor": "cuvee-paul",
+            "name": "Cuvée Paul, St. Pauls",
+            "desc": {
+                "de": "Duftiger Weißwein mit floralen Anklängen und Noten von exotischen Früchten. Im Mund saftig mit einer lebendigen Frische und Fruchtigkeit.",
+                "en": "Fragrant white wine with floral notes and notes of exotic fruits. Juicy in the mouth with a lively freshness and fruitiness."
+            },
+            "img": "vino_bianco/cuvee_paul.webp",
+            "region": "Appiano",
+            "winery": "St. Pauls",
+            "grapes": "Chardonnay, Sauvignon Blanc, Pinot bianco (Weißburgunder)",
+            "bottlesize": 750,
+            "alcoholcontent": 12.5
+        },
+        {
+            "show": true,
+            "anchor": "chardonnay-tramin",
+            "name": "Chardonnay, Tramin",
+            "desc": {
+                "de": "Dieser Chardonnay besticht durch seine frischen, leicht floralen Noten, gepaart mit würziger Mineralität. Im Gaumen vereinen sich erfrischende Zitrusfrucht mit reiferen Noten von Ananas, Banane, gelbem Apfel, Birne und Butter. Lebhafter Abgang mit erfrischend mineralischer Säure.",
+                "en": "This Chardonnay impresses with its fresh, slightly floral notes, paired with spicy minerality. On the palate, refreshing citrus combines with more mature notes of pineapple, banana, yellow apple, pear and butter. Lively finish with refreshing mineral acidity."
+            },
+            "img": "vino_bianco/chardonnay_tramin.webp",
+            "region": "Alto Adige",
+            "winery": "Tramin",
+            "grapes": "Chardonnay",
+            "bottlesize": 750,
+            "alcoholcontent": 13.5
+        },
+        {
+            "show": true,
+            "anchor": "roero-arneis",
+            "name": "Roero Arneis, Matteo Correggia",
+            "desc": {
+                "de": "Der Wein präsentiert sich mit einem Bouquet von Aromen weisser Früchte und Bittermandeln, gepaart mit schönen floralen Noten. Am Gaumen ist er elegant mit frischer Säure. Im Abgang Anklänge von Birne, Banane und Melone.",
+                "en": "The wine presents itself with a bouquet of aromas of white fruits and bitter almonds, paired with beautiful floral notes. On the palate it is elegant with fresh acidity. In the finish hints of pear, banana and melon."
+            },
+            "img": "vino_bianco/roero_arneis.webp",
+            "region": "Canale",
+            "winery": "Matteo Correggia",
+            "grapes": "Arneis",
+            "bottlesize": 750,
+            "alcoholcontent": 13
+        },
+        {
+            "show": true,
+            "anchor": "laluci-christo-di-campobello",
+            "name": "Lalùci, Baglio del Christo di Campobello",
+            "desc": {
+                "de": "Intensive Aromen von gelben und weißen Blüten, die in mineralische Noten übergehen, gefolgt von eleganten Anklängen an Zitrusfrüchte, gelben Pfirsich, Birne und grünen Apfel.",
+                "en": "Intense aromas of yellow and white flowers that fade into mineral notes, followed by elegant hints of citrus, yellow peach, pear and green apple."
+            },
+            "img": "vino_bianco/laluci_christo-di-campobello.webp",
+            "region": "Agrigento, Sicilia",
+            "winery": "Christo di Campobello",
+            "grapes": "Grillo",
+            "bottlesize": 750,
+            "alcoholcontent": 13.5
+        },
+        {
+            "show": true,
+            "anchor": "alexandros-greco-di-tufo",
+            "name": "Alèxandros Greco di Tufo, Colli di Lapio di Romano Clelia",
+            "desc": {
+                "de": "Die Aromen von hellem Steinobst, Blumen und einer feinen Mineralität vereinen sich im harmonischen Bouquet. Knackig klarer Geschmack mit einem frischen Abgang.",
+                "en": "The aromas of light stone fruit, flowers and a fine minerality come together in the harmonious bouquet. Crisp clean taste with a fresh finish."
+            },
+            "img": "vino_bianco/alexandros_greco_di_tufo.webp",
+            "region": "Greco di Tufo, Campagnia",
+            "winery": "Colli di Lapio di Romano Clelia",
+            "grapes": "Greco",
+            "bottlesize": 750,
+            "alcoholcontent": 13.5
+        },
+        {
+            "show": true,
+            "anchor": "trentenare-paestum",
+            "name": "Trentenare Paestum, San Salvatore 1988",
+            "desc": {
+                "de": "Zeigt in der Nase eine herrliche Aromatik von Honig- und Nussnoten. Am Gaumen kommt eine angenehme Frische und Mineralik hinzu, die Aromen von Honig und Nuss wiederholen sich. Lang anhaltender Abgang.",
+                "en": "Shows a wonderful aroma of honey and nuts on the nose. On the palate there is a pleasant freshness and minerality, aromas of honey and nuts are repeated. Long lasting finish."
+            },
+            "img": "vino_bianco/trentenare_paestum.webp",
+            "region": "Campagnia",
+            "winery": "San Salvatore 1988",
+            "grapes": "Fiano",
+            "bottlesize": 750,
+            "alcoholcontent": 13.5
+        },
+        {
+            "show": false,
+            "anchor": "pietracalda",
+            "name": "Pietracalda, Feudi di San Gregorio",
+            "desc": {
+                "de": "Intensiver Duft von saftigem Pfirsich, kandierten Orangen und Kamille. Sanft ist der erste Eindruck am Gaumen, der aber von vitaler Frische und einer begeisternden Mineralität und feiner Würze untermalt wird.",
+                "en": "Intense scent of juicy peach, candied orange and chamomile. The first impression on the palate is gentle, but accompanied by vital freshness and an inspiring minerality and fine spiciness."
+            },
+            "img": "vino_bianco/pietracalda.webp",
+            "region": "Campagnia",
+            "winery": "Feudi di San Gregorio",
+            "grapes": "Fiano",
+            "bottlesize": 750,
+            "alcoholcontent": 13.5
+        }
+    ]
+}

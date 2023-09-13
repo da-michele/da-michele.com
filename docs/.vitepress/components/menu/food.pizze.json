@@ -1,0 +1,213 @@
+{
+    "pizze": [
+        {
+            "show": false,
+            "anchor": "pizza-gorgonzola-noci",
+            "name": "Pizza Gorgonzola Noci",
+            "desc": {
+                "de": "mit Gorgonzola und Walnüssen",
+                "en": "with Gorgonzola cheese and walnuts"
+            },
+            "tags": [
+                "vegetarian"
+            ],
+            "priceeuro": 13
+        },
+        {
+            "show": false,
+            "anchor": "pizza-crudaiola",
+            "name": "Pizza Crudaiola",
+            "desc": {
+                "de": "eine 'weiße' Pizza (ohne Tomatensauce) mit Mozzarella, Rucola und Cocktail-Tomaten",
+                "en": "a 'white' pizza with Mozzarella cheese, lamb's lettuce and cocktail tomatoes"
+            },
+            "tags": [
+                "vegetarian"
+            ],
+            "priceeuro": 13
+        },
+        {
+            "show": false,
+            "anchor": "pizza-finferli",
+            "name": "Pizza Finferli",
+            "desc": {
+                "de": "mit Pfifferlingen",
+                "en": "with chanterelles"
+            },
+            "tags": [
+                "vegetarian"
+            ],
+            "priceeuro": 14
+        },
+        {
+            "show": false,
+            "anchor": "pizza-alle-verdure",
+            "name": "Pizza alle Verdure",
+            "desc": {
+                "de": "mit geschmortem Gemüse, Gorgonzola",
+                "en": "with braised vegetables and Gorgonzola cheese"
+            },
+            "tags": [
+                "vegetarian"
+            ],
+            "priceeuro": 14,
+            "img": "pizze/pizza_alle_verdure.webp"
+        },
+        {
+            "show": false,
+            "anchor": "pizza-calabrese",
+            "name": "Pizza Calabrese",
+            "desc": {
+                "de": "mit scharfer Salami",
+                "en": "with spicy salami"
+            },
+            "priceeuro": 14
+        },
+        {
+            "show": true,
+            "anchor": "pizza-caprese",
+            "name": "Pizza Caprese",
+            "desc": {
+                "de": "mit Büffelmozzarella & frischen Cocktail-Tomaten",
+                "en": "with buffalo mozzarella & fresh cocktail tomatoes"
+            },
+            "tags": [
+                "vegetarian"
+            ],
+            "priceeuro": 14
+        },
+        {
+            "show": true,
+            "anchor": "pizza-gorgonzola-spinaci",
+            "name": "Pizza Gorgonzola Spinaci",
+            "desc": {
+                "de": "mit Gorgonzola und Spinat",
+                "en": "with Gorgonzola cheese and spinach"
+            },
+            "tags": [
+                "vegetarian"
+            ],
+            "priceeuro": 14
+        },
+        {
+            "show": false,
+            "anchor": "pizza-mortadella",
+            "name": "Pizza Mortadella",
+            "desc": {
+                "de": "mit Mortadella",
+                "en": "with mortadella"
+            },
+            "priceeuro": 14
+        },
+        {
+            "show": false,
+            "anchor": "pizza-parma",
+            "name": "Pizza Parma",
+            "desc": {
+                "de": "mit Parmaschinken, Parmesan, Rucola",
+                "en": "with Parma ham, Parmesan cheese and lamb's lettuce"
+            },
+            "priceeuro": 14
+        },
+        {
+            "show": true,
+            "anchor": "pizza-guanciale-taleggio-pomodoro",
+            "name": "Pizza Guanciale, Taleggio, Pomodoro",
+            "desc": {
+                "de": "mit Speck, ital. Rohmilchkäse, Tomaten",
+                "en": "with bacon, Taleggio (Italian raw milk cheese) and tomatoes"
+            },
+            "priceeuro": 16
+        },
+        {
+            "show": false,
+            "anchor": "pizza-frutti-di-mare",
+            "name": "Pizza Frutti di Mare",
+            "desc": {
+                "de": "mit Meeresfrüchten",
+                "en": "with seafood"
+            },
+            "priceeuro": 16
+        },
+        {
+            "show": false,
+            "anchor": "pizza-salmone-asparagi",
+            "name": "Pizza Salmone Asparagi",
+            "desc": {
+                "de": "mit Lachs und Spargel",
+                "en": "with salmon and asparagus"
+            },
+            "priceeuro": 16
+        },
+        {
+            "show": false,
+            "anchor": "pizza-salsiccia-rapa",
+            "name": "Pizza Salsiccia Rapa",
+            "desc": {
+                "de": "mit Salsiccia (ital. Frischwurst) und Rapa (Stängelkohl)",
+                "en": "with Salsiccia (Italian raw meat sausage) and Rapa (slightly bitter Italian broccoli-like vegetable)"
+            },
+            "priceeuro": 16
+        },
+        {
+            "show": false,
+            "anchor": "pizza-taleggio-asparagi-pomodoro",
+            "name": "Pizza Taleggio, Asparagi, Pomodoro",
+            "desc": {
+                "de": "mit ital. Rohmilchkäse, Spargel, Tomaten",
+                "en": "with Taleggio (Italian raw milk cheese), asparagus and tomatoes"
+            },
+            "tags": [
+                "vegetarian"
+            ],
+            "priceeuro": 16
+        },
+        {
+            "show": true,
+            "anchor": "pizza-finferli-taleggio-pomodorini",
+            "name": "Pizza Finferli, Taleggio, Pomodorini",
+            "desc": {
+                "de": "mit Pfifferlingen, ital. Rohmilchkäse und kl. Tomate",
+                "en": "with chanterelles, Taleggio (Italian raw milk cheese) and small tomatoes"
+            },
+            "tags": [
+                "vegetarian"
+            ],
+            "priceeuro": 16
+        },
+        {
+            "show": false,
+            "anchor": "pizza-finferli-basilico-pomodoro",
+            "name": "Pizza Finferli, Basilico, Pomodoro",
+            "desc": {
+                "de": "mit Pfifferlingen, Basilikum und Tomate",
+                "en": "with chanterelles, basil and tomatoes"
+            },
+            "tags": [
+                "vegetarian"
+            ],
+            "priceeuro": 16
+        },
+        {
+            "show": true,
+            "anchor": "pizza-vulcano",
+            "name": "Pizza Vulcano",
+            "desc": {
+                "de": "mit Parmaschinken & Burrata (cremiger Mozzarella)",
+                "en": "with Parma ham & Burrata (creamy mozzarella)"
+            },
+            "priceeuro": 16,
+            "img": "pizze/pizza_vulcano.webp"
+        },
+        {
+            "show": false,
+            "anchor": "pizza-guanciale-asparagi-pomodoro",
+            "name": "Pizza Guanciale, Asparagi, Pomodoro",
+            "desc": {
+                "de": "mit Speck, Spargel, Tomaten",
+                "en": "with bacon, asparagus and tomatoes"
+            },
+            "priceeuro": 16
+        }
+    ]
+}

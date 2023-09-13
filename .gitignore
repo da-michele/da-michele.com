@@ -1,0 +1,45 @@
+# macOS
+
+.DS_Store
+Thumbs.db
+
+# Windows
+
+[Dd]esktop.ini
+
+# Vitepress
+
+docs/.vitepress/.cache/
+docs/.vitepress/.temp/
+docs/.vitepress/dist/
+
+# Vite
+
+.vite_opt_cache/
+
+# Node.js
+
+node_modules/
+package-lock.json
+npm-debug.log*
+
+# Yarn
+
+yarn.lock
+
+# PNPM
+
+pnpm-global
+pnpm-lock.yaml
+
+# VSCode
+
+.vscode/
+
+# TODOs
+
+TODOs?.md
+
+# Sublime Text / Project workspace files
+
+*.sublime-workspace

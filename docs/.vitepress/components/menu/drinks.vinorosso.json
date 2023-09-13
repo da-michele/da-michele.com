@@ -1,0 +1,180 @@
+{
+    "vinorosso": [
+        {
+            "show": false,
+            "anchor": "rosso-di-montalcino-caparzo",
+            "name": "Rosso di Montalcino, Caparzo",
+            "desc": {
+                "de": "Mit wunderbar reintöniger Frucht, die an reife Pflaumen erinnert, umspielt von Kräuternuancen. Seidige, aromatische Tannine lassen den Wein harmonisch ausklingen.",
+                "en": "With wonderfully pure fruit reminiscent of ripe plums, surrounded by herbal nuances. Silky, aromatic tannins let the wine end harmoniously."
+            },
+            "img": "vino_rosso/rosso_di_montalcino_caparzo.webp",
+            "region": "Rosso di Mantalcino, Toscana",
+            "winery": "Caparzo",
+            "grapes": "Sangiovese",
+            "bottlesize": 750,
+            "alcoholcontent": 13.5
+        },
+        {
+            "show": false,
+            "anchor": "chianti-riserva",
+            "name": "Chianti Riserva, La Guardiola",
+            "desc": {
+                "de": "In der Nase voll und intensiv, sein Aroma von Kirschmarmelade weicht einer Note von Veilchen und einem Hauch von Vanille. Am Gaumen ist er weich und abgerundet. Ein leicht zu trinkender Wein, der dank seiner ausgewogenen Struktur sowohl frisch als auch angenehm locker ist.",
+                "en": "Full and intense on the nose, its aroma of cherry jam gives way to notes of violet and a hint of vanilla. It is mellow and rounded on the palate. An easy drinking wine, thanks to its well-balanced structure which is both fresh and pleasantly easy going."
+            },
+            "img": "vino_rosso/chianti_riserva.webp",
+            "region": "Chianti, Toscana",
+            "winery": "La Guardiola",
+            "grapes": "Sangiovese",
+            "bottlesize": 750,
+            "alcoholcontent": 13.5
+        },
+        {
+            "show": false,
+            "anchor": "pietranera",
+            "name": "Pietranera Toscana, Mauro Vannucci",
+            "desc": {
+                "de": "In der Nase Kirschen und Maraska-Kirschen mit eleganten balsamischen und würzigen Noten. Am Gaumen vollmundig und einhüllend, mit charmanter Eleganz. Ausgezeichnetes Gleichgewicht zwischen Säuren und Tanninen, mit einem anhaltenden Abgang und einem angenehm süßen, frischen und fruchtigen Abgang.",
+                "en": "On the Nose cherries and Marasca cherries with elegant balsamic and spicy notes. On the Palate full bodied and enveloping, with charming elegance. Excellent balance between acids and tannins, with a persistent finish and a pleasant sweet, fresh and fruity follow-through."
+            },
+            "img": "vino_rosso/pietranera.webp",
+            "region": "Toscana",
+            "winery": "Piaggia",
+            "grapes": "80% Sangiovese, 20% Cabernet Franc",
+            "bottlesize": 750,
+            "alcoholcontent": 14.5
+        },
+        {
+            "show": false,
+            "anchor": "rosso-di-montalcino-castello-banfi",
+            "name": "Rosso di Montalcino, Castello Banfi",
+            "desc": {
+                "de": "In der Nase treffen Aromen von Brombeeren und Himbeere auf leichte Noten von Kaffee und Tabak. Im Mund ist die Struktur breit, harmonisch und gut ausbalanciert durch eine ausgeprägte Säure. Hervorragende Nachhaltigkeit am Gaumen.",
+                "en": "On the nose, aromas of blackberries and raspberry meet light notes of coffee and tobacco. In the mouth the structure is wide, harmonious and well balanced by a marked acidity. Excellent persistence on the palate."
+            },
+            "img": "vino_rosso/rosso_di_montalcino_castello_banfi.webp",
+            "region": "Rosso di Mantalcino, Toscana",
+            "winery": "Castello Banfi",
+            "grapes": "Sangiovese",
+            "bottlesize": 750,
+            "alcoholcontent": 14
+        },
+        {
+            "show": true,
+            "anchor": "jungano",
+            "name": "Jungano, San Salvatore 1988",
+            "desc": {
+                "de": "Die Nase ist aromatisch, schön kraftvoll und bietet Tiefe sowie eine aromatische Reinheit und Kontrolle. Es offenbart Noten von Brombeere, heller Cassis, kleine Noten von kleinen schwarzen Beeren, verbunden mit einem Hauch von Erdbeere, Bigarreau-Kirsche sowie Anklängen von Lakritz, Karamellisierung, feinen Anklängen von Tonkabohne, dezenten Anklängen von Rosmarin, frischer lokaler Garrigue, schwarzer Olive und dezente Röstnoten. Der Gaumen ist elegant, zart, fruchtig, schön gebaut und bietet Kraft (in Kontrolle), Tiefe, eine aromatische Reinheit, einen säuerlichen Rahmen und eine kleine Spannung. Am Gaumen drückt dieser Wein Noten von Schwarzkirsche, Bigarreau-Kirsche, helle Cassis, kleine Noten von kleinen leuchtend schwarzen Beeren verbunden mit einem Hauch von kleinen roten Waldbeeren, Blumen, Ortsgefühl (lokales Biotop) sowie eine dezente Andeutung aus Olivenbaum, schwarze Olive, milder Tabak, ein dezenter Hauch von Lakritze, Schokolade und Vanille (im Hintergrund).",
+                "en": "The nose is aromatic, beautifully power and offers deepness as well as an aromatic purity and control. It reveals notes of blackberry, bright cassis, small nots of small black berries associated with touches of strawberry, bigarreau cherry as well as hints of liquorice, caramelization, fine hints of tonka bean, discreet hints of rosemary, fresh local garrigue, black olive and discreet hints of toasted. The palate is elegant, delicate, fruity, beautifully build and offers power (in control), deepness, an aromatic purity, an acidulous frame and a small tension. On the palate this wine expresses notes of black cherry, bigarreau cherry, bright cassis, small notes of small bright black berries associated with a touch of small red wild berries, flowers, sense of the place (local biotope) as well as a discreet hint of olive tree, black olive, mild tobacco, a subtle hint of liquorice, chocolate and vanilla (in the background)."
+            },
+            "img": "vino_rosso/jungano.webp",
+            "region": "Paestum, Campagnia",
+            "winery": "San Salvatore 1988",
+            "grapes": "Aglianico",
+            "bottlesize": 750,
+            "alcoholcontent": 14
+        },
+        {
+            "show": false,
+            "anchor": "brunello-di-montalcino",
+            "name": "Brunello di Montalcino, Castello Banfi",
+            "desc": {
+                "de": "In der Nase zeichnet er sich durch ein intensives und fruchtiges Bouquet mit süßen Noten von Pflaumen, Sauerkirschen, Orange und würzigen Anklängen von Myrte, Wacholder und Weihrauch aus. Vollmundig und kraftvoll. Weiche und geschmeidige Tannine sind gut integriert mit einer starken Säure.",
+                "en": "In the nose, it is distinguished by an intense and fruity bouquet with sweet notes of plums, sour cherries, orange and spicy hints of myrtle, juniper and incense. Full-bodied and powerful. Soft and smooth tannins are well-integrated with a strong acidity."
+            },
+            "img": "vino_rosso/brunello_di_montalcino.webp",
+            "region": "Brunello di Mantalcino, Toscana",
+            "winery": "Castello Banfi",
+            "grapes": "Sangiovese",
+            "bottlesize": 750,
+            "alcoholcontent": 14.5
+        },
+        {
+            "show": true,
+            "anchor": "costa-grimaldi",
+            "name": "Barolo Costa Grimaldi, Poderi Luigi Einaudi",
+            "desc": {
+                "de": "Rosenblätter, Lavendel, Magnolie, Agapanthus und Zitronensaft beschreiben das sensorische Profil dieses sehr jungen und dynamischen Barolo. Mittlerer bis voller Körper, sehr sanft und überzeugend im Geschmacksprofil mit einem ausgewogenen, harmonischen Abgang. Nahtlos, sofort liebenswert für seine Angenehmheit und Saftigkeit.",
+                "en": "Rose petals, lavender, magnolia, agapanthus and lemon juice descibe the sensory profile of this very young and dynamic Barolo. Medium to full bodied, very gentle and persuasive in the gustatory profile with a balanced, harmonic closure. Seamless, immediately loveable for its pleasantness and juiciness."
+            },
+            "img": "vino_rosso/costa_grimaldi.webp",
+            "region": "Barolo, Piemonte",
+            "winery": "Poderi Luigi Einaudi",
+            "grapes": "Nebbiolo",
+            "bottlesize": 750,
+            "alcoholcontent": 14.5
+        },
+        {
+            "show": false,
+            "anchor": "brunate-barolo",
+            "name": "Brunate Barolo, Michele Chiarlo",
+            "img": "vino_rosso/brunate_barolo.webp",
+            "region": "Barolo, Piemonte",
+            "winery": "Michele Chiarlo",
+            "grapes": "Nebbiolo",
+            "bottlesize": 750,
+            "alcoholcontent": 13.5
+        },
+        {
+            "show": false,
+            "anchor": "baffonero",
+            "name": "Baffonero, Rocca di Frassinello",
+            "desc": {
+                "de": "In der Nase fruchtig mit Aromen, die an verschiedene schwarze Früchte erinnern, insbesondere an Brombeeren, Heidelbeeren und Vanille. Im Glas verändert sich die aromatische Komponente hin zu Tabak, Schokolade und einer leichten Kaffeenote. Im Mund hat er eine wahrnehmbare Komplexität. Voll und robust mit einer Frische, die ihn lang und angenehm macht.",
+                "en": "The nose is fruity with aromas reminiscent of various black fruits, in particular blackberries, blueberries and vanilla. In the glass, the aromatic component changes, evolving towards tobacco, chocolate and a slight hint of coffee. In the mouth it has a perceptible complexity. Full and robust with a freshness that makes it long and pleasing."
+            },
+            "img": "vino_rosso/baffonero.webp",
+            "region": "Maremma, Toscana",
+            "winery": "Rocca di Frassinello",
+            "grapes": "Merlot",
+            "bottlesize": 750,
+            "alcoholcontent": 15
+        },
+        {
+            "show": false,
+            "anchor": "concerto-di-fonterutoli",
+            "name": "Concerto di Fonterutoli, Mazzei",
+            "desc": {
+                "de": "Dieser ist sehr feinkörnig, mit polierten, seidigen Tanninen, die dem Wein eine wunderbare Textur und Länge verleihen. Viel Kirsch-, Brombeer-, Schokoladen- und Mahagoni-Aromen, die sich bis zum Gaumen fortsetzen. Komplex und raffiniert.",
+                "en": "This is very fine grained, with polished, silky tannins that provide wonderful texture and length to the wine. Plenty of cherry, blackberry, chocolate and mahogany flavors that follow through to the palate. Complex and refined."
+            },
+            "img": "vino_rosso/concerto_di_fonterutoli.webp",
+            "region": "Toscana",
+            "winery": "Mazzei",
+            "grapes": "80% Sangiovese, 20% Cabernet Sauvignon",
+            "bottlesize": 750,
+            "alcoholcontent": 14
+        },
+        {
+            "show": false,
+            "anchor": "cepparello",
+            "name": "Cepparello, Isole e Olena",
+            "desc": {
+                "de": "An der Nase eröffent sich ein außergewöhnlich intensives, konzentriertes fruchtiges Bouquet mit Aromen von reifen roten Früchten, Schwarzkirsche, Pflaumen, Cranberry, karamlisierten Orangen- und Zitrusschalen, blumige Noten, geröstete Kräuter, Pfeffer, Tabak, sowie mineralische Nuancen. Körperreich, vollmundig, mit reifen und vollen Tanninen, getragen von guter Säurestruktur, ausgewogen und schon sehr elegant. Im Abgang ist er endlos lang, voller Finesse, aromatischer Komplexität und Nachhaltigkeit.",
+                "en": "An extraordinarily intense, concentrated fruity bouquet opens up on the nose with aromas of ripe red fruits, black cherries, plums, cranberries, caramelized orange and citrus peel, floral notes, roasted herbs, pepper, tobacco and mineral nuances. Full-bodied, full-bodied, with ripe and full tannins, supported by good acidity, balanced and very elegant. The finish is endlessly long, full of finesse, aromatic complexity and persistence."
+            },
+            "img": "vino_rosso/cepparello.webp",
+            "region": "Toscana",
+            "winery": "Isole e Olena",
+            "grapes": "Sangiovese",
+            "bottlesize": 750,
+            "alcoholcontent": 14.5
+        },
+        {
+            "show": false,
+            "anchor": "tignanello",
+            "name": "Tignanello, Rosso di Toscana",
+            "desc": {
+                "de": "An der Nase betören Waldbeeren und rote Früchte, dunkle Kirsche sowie Gewürz- und Kräuternoten. Erdig und von Veilchen umflort. Noch jung, dennoch bereits mit harmonischem Auftritt. Tannine, Säure und Aromenkonzert finden wunderbar zusammen, um im langen Finale noch einmal ordentlich aufzuspielen.",
+                "en": "Wild berries and red fruits, dark cherries as well as spice and herbal notes beguile on the nose. Earthy and tinged with violets. Still young, but already with a harmonious appearance. Tannins, acidity and a concert of aromas come together wonderfully to play properly again in the long finale."
+            },
+            "img": "vino_rosso/tignanello.webp",
+            "region": "Rosso di Toscana",
+            "winery": "Tenuta Marchesi Antinori",
+            "grapes": "80% Sangiovese, 15% Cabernet sauvignon, 5% Cabernet Franc",
+            "bottlesize": 750,
+            "alcoholcontent": 14.5
+        }
+    ]
+}
