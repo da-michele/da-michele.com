@@ -70,7 +70,7 @@
             "priceeuro": 14
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "spaghetti-bolognese",
             "name": "Spaghetti Bolognese",
             "desc": {
@@ -114,7 +114,7 @@
             "priceeuro": 16
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pasta-polpette-al-sugo",
             "name": "Pasta Polpette al sugo",
             "desc": {
@@ -159,7 +159,7 @@
             "priceeuro": 16
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "gnocchi-burrata",
             "name": "Gnocchi Burrata",
             "desc": {

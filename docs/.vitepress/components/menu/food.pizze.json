@@ -1,6 +1,15 @@
 {
     "pizze": [
         {
+            "show": true,
+            "anchor": "pizza-bufalina",
+            "name": "Pizza Bufalina",
+            "tags": [
+                "vegetarian"
+            ],
+            "priceeuro": 12
+        },
+        {
             "show": false,
             "anchor": "pizza-gorgonzola-noci",
             "name": "Pizza Gorgonzola Noci",

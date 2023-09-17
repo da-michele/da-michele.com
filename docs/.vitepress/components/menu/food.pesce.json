@@ -31,18 +31,18 @@
             "priceeuro": 27
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "seppia-alla-griglia",
             "name": "Seppia alla griglia",
             "desc": {
                 "de": "Krake vom Grill",
                 "en": "Grilled squid"
             },
-            "priceeuro": 27,
+            "priceeuro": 28,
             "img": "pesce/seppia.webp"
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "filetto-di-spigula-alla-griglia",
             "name": "Filetto di Spigula alla griglia",
             "desc": {
@@ -63,26 +63,6 @@
         },
         {
             "show": false,
-            "anchor": "pesce-spada-alla-griglia",
-            "name": "Pesce Spada alla griglia",
-            "desc": {
-                "de": "Schwertfisch vom Grill",
-                "en": "Grilled swordfish"
-            },
-            "priceeuro": 28
-        },
-        {
-            "show": false,
-            "anchor": "pesce-spada-alla-griglia-caponata",
-            "name": "Pesce Spada alla griglia & Caponata",
-            "desc": {
-                "de": "Schwertfisch vom Grill & geschmortes Gemüse",
-                "en": "Grilled swordfish & braised vegetables"
-            },
-            "priceeuro": 28
-        },
-        {
-            "show": false,
             "anchor": "spigula-caponata",
             "name": "Spigula & Caponata",
             "desc": {
@@ -90,6 +70,16 @@
                 "en": "Grilled sea bass with braised vegetables"
             },
             "priceeuro": 28
+        },
+        {
+            "show": true,
+            "anchor": "pesce-spada-alla-griglia",
+            "name": "Pesce Spada alla griglia",
+            "desc": {
+                "de": "Schwertfisch vom Grill",
+                "en": "Grilled swordfish"
+            },
+            "priceeuro": 29
         },
         {
             "show": false,

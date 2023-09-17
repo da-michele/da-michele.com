@@ -109,7 +109,7 @@
             "priceeuro": 14
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "sardelle-marinate",
             "name": "Sardelle marinate",
             "desc": {
@@ -253,12 +253,25 @@
             "priceeuro": 16
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "mozzarella-buffala-pomodori-colorati",
             "name": "Mozzarella di Buffala & Pomodori colorati",
             "desc": {
                 "de": "Büffelmozzarella mit bunten Tomaten",
                 "en": "Buffalo mozzarella-cheese with colorful tomatoes"
+            },
+            "tags": [
+                "vegetarian"
+            ],
+            "priceeuro": 16
+        },
+        {
+            "show": true,
+            "anchor": "burrata-pomodori",
+            "name": "Burrata & Pomodori",
+            "desc": {
+                "de": "Burrata (cremiger Mozzarella) mit Tomaten",
+                "en": "Burrata (creamy mozzarella-cheese) with tomatoes"
             },
             "tags": [
                 "vegetarian"
@@ -424,7 +437,7 @@
             "img": "antipasti/tonno_vitellato.webp"
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "burrata-finferli-cavolo-cinese",
             "name": "Burrata, Finferli & Cavolo cinese",
             "desc": {
