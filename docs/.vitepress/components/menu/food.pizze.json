@@ -119,12 +119,22 @@
             "priceeuro": 14
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pizza-guanciale-taleggio-pomodoro",
             "name": "Pizza Guanciale, Taleggio, Pomodoro",
             "desc": {
                 "de": "mit Speck, ital. Rohmilchkäse, Tomaten",
                 "en": "with bacon, Taleggio (Italian raw milk cheese) and tomatoes"
+            },
+            "priceeuro": 16
+        },
+        {
+            "show": true,
+            "anchor": "pizza-guanciale-provola-pomodoro",
+            "name": "Pizza Guanciale, Provola, Pomodoro",
+            "desc": {
+                "de": "mit Speck, ital. Schnittkäse aus Rohmilch, Tomaten",
+                "en": "with bacon, Provola (Italian raw milk cheese) and tomatoes"
             },
             "priceeuro": 16
         },
@@ -172,12 +182,25 @@
             "priceeuro": 16
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pizza-finferli-taleggio-pomodorini",
             "name": "Pizza Finferli, Taleggio, Pomodorini",
             "desc": {
                 "de": "mit Pfifferlingen, ital. Rohmilchkäse und kl. Tomate",
                 "en": "with chanterelles, Taleggio (Italian raw milk cheese) and small tomatoes"
+            },
+            "tags": [
+                "vegetarian"
+            ],
+            "priceeuro": 16
+        },
+        {
+            "show": true,
+            "anchor": "pizza-finferli-provola-pomodorini",
+            "name": "Pizza Finferli, Provola, Pomodorini",
+            "desc": {
+                "de": "mit Pfifferlingen, ital. Schnittkäse aus Rohmilch und kl. Tomate",
+                "en": "with chanterelles, Provola (Italian raw milk cheese) and small tomatoes"
             },
             "tags": [
                 "vegetarian"

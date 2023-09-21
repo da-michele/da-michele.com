@@ -51,6 +51,16 @@
             "priceeuro": 21
         },
         {
+            "show": true,
+            "anchor": "bollito-di-vitello",
+            "name": "Bollito di Vitello",
+            "desc": {
+                "de": "gekochtes Kalbfleisch",
+                "en": "cooked veal"
+            },
+            "priceeuro": 21
+        },
+        {
             "show": false,
             "anchor": "saltimbocca-alla-romana",
             "name": "Saltimbocca alla Romana",

@@ -38,16 +38,6 @@
         },
         {
             "show": false,
-            "anchor": "pasta-salsiccia-melanzane",
-            "name": "Pasta Salsiccia & Melanzane",
-            "desc": {
-                "de": "Pasta mit Salsiccia (ital. Frischwurst) und Auberginen",
-                "en": "Pasta with Salsiccia (Italian raw meat sausage) and eggplant"
-            },
-            "priceeuro": 14
-        },
-        {
-            "show": false,
             "anchor": "ravioli-ricotta-spinaci",
             "name": "Ravioli Ricotta & Spinaci",
             "desc": {
@@ -68,6 +58,16 @@
                 "en": "Pasta with guanciale (bacon), Pecorino cheese and tomatoes"
             },
             "priceeuro": 14
+        },
+        {
+            "show": true,
+            "anchor": "pasta-salsiccia-melanzane",
+            "name": "Pasta Salsiccia & Melanzane",
+            "desc": {
+                "de": "Pasta mit Salsiccia (ital. Frischwurst) und Auberginen",
+                "en": "Pasta with Salsiccia (Italian raw meat sausage) and eggplant"
+            },
+            "priceeuro": 16
         },
         {
             "show": true,
