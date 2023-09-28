@@ -36,6 +36,7 @@ const sharedHead: HeadConfig[] = [
   ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
   ['meta', { name: 'twitter:image:src', content: 'https://da-michele.com/images/social/da_michele_baden-baden.16x9.webp' }],
 
+  ['meta', { property: 'og:type', content: 'website' }],
   ['meta', { property: 'og:title', content: 'Ristorante da Michele, Baden-Baden' }],
   // 'og:description' differs by locale
   // 'og:locale' differs by locale
