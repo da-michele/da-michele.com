@@ -70,7 +70,7 @@
             "priceeuro": 16
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "spaghetti-bolognese",
             "name": "Spaghetti Bolognese",
             "desc": {
@@ -362,7 +362,7 @@
             "img": "pasta/pasta_aragosta.webp"
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "ravioli-tartufo",
             "name": "Ravioli Tartufo",
             "desc": {

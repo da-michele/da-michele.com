@@ -119,7 +119,7 @@
             "priceeuro": 14
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pizza-guanciale-taleggio-pomodoro",
             "name": "Pizza Guanciale, Taleggio, Pomodoro",
             "desc": {
@@ -129,7 +129,7 @@
             "priceeuro": 16
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pizza-guanciale-provola-pomodoro",
             "name": "Pizza Guanciale, Provola, Pomodoro",
             "desc": {
@@ -182,7 +182,7 @@
             "priceeuro": 16
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pizza-finferli-taleggio-pomodorini",
             "name": "Pizza Finferli, Taleggio, Pomodorini",
             "desc": {
@@ -195,7 +195,7 @@
             "priceeuro": 16
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pizza-finferli-provola-pomodorini",
             "name": "Pizza Finferli, Provola, Pomodorini",
             "desc": {

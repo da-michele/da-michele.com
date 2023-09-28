@@ -42,7 +42,7 @@
             "img": "pesce/seppia.webp"
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "filetto-di-spigula-alla-griglia",
             "name": "Filetto di Spigula alla griglia",
             "desc": {
@@ -73,6 +73,16 @@
         },
         {
             "show": true,
+            "anchor": "spigula-nel-sud",
+            "name": "Spigula nel Sud",
+            "desc": {
+                "de": "Wolfsbarsch im Sud",
+                "en": "Sea bass in a broth"
+            },
+            "priceeuro": 28
+        },
+        {
+            "show": false,
             "anchor": "pesce-spada-alla-griglia",
             "name": "Pesce Spada alla griglia",
             "desc": {
@@ -83,31 +93,11 @@
         },
         {
             "show": false,
-            "anchor": "spigula",
-            "name": "Spigula",
-            "desc": {
-                "de": "Wolfsbarsch",
-                "en": "Sea bass"
-            },
-            "priceeuro": 29
-        },
-        {
-            "show": false,
             "anchor": "rana-pescatrice-spinaci",
             "name": "Rana pescatrice & Spinaci",
             "desc": {
                 "de": "Seeteufel auf Spinat",
                 "en": "Monkfish with spinach"
-            },
-            "priceeuro": 29
-        },
-        {
-            "show": false,
-            "anchor": "pesce-miste-alla-griglia",
-            "name": "Pesce miste alla griglia",
-            "desc": {
-                "de": "gemischter Fisch gegrillt",
-                "en": "grilled mixed fish"
             },
             "priceeuro": 29
         },
@@ -151,6 +141,16 @@
                 "en": "Cod with spinach"
             },
             "priceeuro": 29
+        },
+        {
+            "show": false,
+            "anchor": "pesce-miste-alla-griglia",
+            "name": "Pesce miste alla griglia",
+            "desc": {
+                "de": "gemischter Fisch gegrillt",
+                "en": "grilled mixed fish"
+            },
+            "priceeuro": 31
         },
         {
             "show": false,
