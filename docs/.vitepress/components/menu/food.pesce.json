@@ -12,16 +12,6 @@
         },
         {
             "show": false,
-            "anchor": "pesce-spada-al-vino",
-            "name": "Pesce Spada al vino",
-            "desc": {
-                "de": "Schwertfisch in Weißweinsauce",
-                "en": "Swordfish in white wine"
-            },
-            "priceeuro": 27
-        },
-        {
-            "show": false,
             "anchor": "filetto-di-pesce-rombo",
             "name": "Filetto di Pesce Rombo",
             "desc": {
@@ -42,7 +32,7 @@
             "img": "pesce/seppia.webp"
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "filetto-di-spigula-alla-griglia",
             "name": "Filetto di Spigula alla griglia",
             "desc": {
@@ -72,7 +62,7 @@
             "priceeuro": 28
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "spigula-nel-sud",
             "name": "Spigula nel Sud",
             "desc": {
@@ -80,6 +70,16 @@
                 "en": "Sea bass in a broth"
             },
             "priceeuro": 28
+        },
+        {
+            "show": true,
+            "anchor": "pesce-spada-al-vino",
+            "name": "Pesce Spada al vino",
+            "desc": {
+                "de": "Schwertfisch in Weißweinsauce",
+                "en": "Swordfish in white wine"
+            },
+            "priceeuro": 29
         },
         {
             "show": false,

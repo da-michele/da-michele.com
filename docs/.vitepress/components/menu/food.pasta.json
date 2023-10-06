@@ -1,7 +1,7 @@
 {
     "pasta": [
         {
-            "show": false,
+            "show": true,
             "anchor": "pasta-pesto",
             "name": "Pasta Pesto",
             "desc": {
@@ -11,10 +11,10 @@
             "tags": [
                 "vegetarian"
             ],
-            "priceeuro": 12
+            "priceeuro": 14
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "gnocchi-gorgonzola-spinaci",
             "name": "Gnocchi Gorgonzola & Spinaci",
             "desc": {
@@ -50,7 +50,7 @@
             "priceeuro": 14
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pasta-amatriciana",
             "name": "Pasta Amatriciana",
             "desc": {
@@ -60,7 +60,7 @@
             "priceeuro": 14
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pasta-salsiccia-melanzane",
             "name": "Pasta Salsiccia & Melanzane",
             "desc": {
@@ -309,7 +309,7 @@
             "priceeuro": 19
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "spaghetti-vongole",
             "name": "Spaghetti Vongole",
             "desc": {
@@ -351,7 +351,7 @@
             "img": "pasta/gnocchi_gambas.webp"
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pasta-aragosta",
             "name": "Pasta Aragosta",
             "desc": {
