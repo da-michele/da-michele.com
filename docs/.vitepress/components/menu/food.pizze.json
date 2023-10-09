@@ -4,6 +4,10 @@
             "show": true,
             "anchor": "pizza-bufalina",
             "name": "Pizza Bufalina",
+            "desc": {
+                "de": "mit Büffelmozzarella",
+                "en": "with buffalo mozzarella-cheese"
+            },
             "tags": [
                 "vegetarian"
             ],
