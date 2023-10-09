@@ -69,8 +69,8 @@ export const sharedConfig = defineConfig({
   markdown: {                                                                   // https://vitepress.dev/reference/site-config#markdown
     lineNumbers: true,
     theme: {                                                                    // https://github.com/shikijs/shiki/blob/main/docs/themes.md#all-themes
-      light: 'vitesse-light',
-      dark: 'dracula-soft'
+      light: 'github-light',
+      dark: 'github-dark'
     },
     toc: {
       level: [2]
