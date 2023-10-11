@@ -21,7 +21,7 @@
             "priceeuro": 16
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "vitello-alla-veneziana",
             "name": "Vitello alla Veneziana",
             "desc": {
