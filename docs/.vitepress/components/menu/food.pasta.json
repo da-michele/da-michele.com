@@ -259,6 +259,16 @@
             "img": "pasta/pasta_con_salsiccia_e_tartufo.webp"
         },
         {
+            "show": true,
+            "anchor": "pasta-salsiccia-finferli",
+            "name": "Pasta Salsiccia & Finferli",
+            "desc": {
+                "de": "Pasta mit Salsiccia (ital. Frischwurst) und Pfifferlingen",
+                "en": "Pasta with Salsiccia (Italian raw meat sausage) and chanterelles"
+            },
+            "priceeuro": 18
+        },
+        {
             "show": false,
             "anchor": "ravioli-baccala-gambero",
             "name": "Ravioli Baccalà & Gambero",
@@ -277,6 +287,19 @@
                 "en": "Tagliatelle Gambas"
             },
             "priceeuro": 18
+        },
+        {
+            "show": true,
+            "anchor": "tagliatelle-porcini",
+            "name": "Tagliatelle Porcini",
+            "desc": {
+                "de": "Tagliatelle mit Steinpilzen",
+                "en": "Tagliatelle with porcini mushrooms"
+            },
+            "tags": [
+                "vegetarian"
+            ],
+            "priceeuro": 19
         },
         {
             "show": false,
