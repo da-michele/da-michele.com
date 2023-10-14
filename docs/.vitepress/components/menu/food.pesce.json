@@ -42,7 +42,7 @@
             "priceeuro": 28
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "spigula-alla-griglia",
             "name": "Spigula alla griglia",
             "desc": {
@@ -143,7 +143,7 @@
             "priceeuro": 29
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pesce-miste-alla-griglia",
             "name": "Pesce miste alla griglia",
             "desc": {
