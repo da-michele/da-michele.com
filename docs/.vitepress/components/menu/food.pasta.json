@@ -1,7 +1,7 @@
 {
     "pasta": [
         {
-            "show": true,
+            "show": false,
             "anchor": "pasta-pesto",
             "name": "Pasta Pesto",
             "desc": {
@@ -50,7 +50,7 @@
             "priceeuro": 14
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pasta-amatriciana",
             "name": "Pasta Amatriciana",
             "desc": {
@@ -114,7 +114,7 @@
             "priceeuro": 16
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pasta-polpette-al-sugo",
             "name": "Pasta Polpette al sugo",
             "desc": {
@@ -259,7 +259,7 @@
             "img": "pasta/pasta_con_salsiccia_e_tartufo.webp"
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pasta-salsiccia-finferli",
             "name": "Pasta Salsiccia & Finferli",
             "desc": {

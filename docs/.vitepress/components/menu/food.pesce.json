@@ -102,17 +102,6 @@
             "priceeuro": 29
         },
         {
-            "show": true,
-            "anchor": "pesce-miste-nel-sud",
-            "name": "Pesce miste nel Sud",
-            "desc": {
-                "de": "gemischter Fisch im Sud",
-                "en": "mixed fish in a broth"
-            },
-            "priceeuro": 29,
-            "img": "pesce/spigola_nel_brodo.webp"
-        },
-        {
             "show": false,
             "anchor": "filetto-di-orrata",
             "name": "Filetto di Orrata",
@@ -141,6 +130,17 @@
                 "en": "Cod with spinach"
             },
             "priceeuro": 29
+        },
+        {
+            "show": true,
+            "anchor": "pesce-miste-nel-sud",
+            "name": "Pesce miste nel Sud",
+            "desc": {
+                "de": "gemischter Fisch im Sud",
+                "en": "mixed fish in a broth"
+            },
+            "priceeuro": 31,
+            "img": "pesce/spigola_nel_brodo.webp"
         },
         {
             "show": false,
