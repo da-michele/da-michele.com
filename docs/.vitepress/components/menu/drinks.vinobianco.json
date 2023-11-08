@@ -1,6 +1,17 @@
 {
     "vinobianco": [
         {
+            "show": true,
+            "anchor": "terebinto-planeta",
+            "name": "Terebinto, Planeta",
+            "img": "vino_bianco/terebinto_planeta.webp",
+            "region": "Menfi, Sicilia",
+            "winery": "Planeta",
+            "grapes": "Grillo",
+            "bottlesize": 750,
+            "alcoholcontent": 13.5
+        },
+        {
             "show": false,
             "anchor": "collio-cormons",
             "name": "Collio, Cormòns",
