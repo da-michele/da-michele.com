@@ -1,6 +1,39 @@
 {
     "vinorosso": [
         {
+            "show": true,
+            "anchor": "barbera-d-alba",
+            "name": "Barbera d'Alba, Cordero di Montezemolo",
+            "img": "vino_rosso/barbera_cordero_di_montezolomo.webp",
+            "region": "La morra, CN",
+            "winery": "Cordero di Montezemolo",
+            "grapes": "Barbera",
+            "bottlesize": 750,
+            "alcoholcontent": 14.5
+        },
+        {
+            "show": true,
+            "anchor": "terebinto-planeta",
+            "name": "Terebinto, Planeta",
+            "img": "vino_rosso/terebinto_planeta.webp",
+            "region": "Menfi, Sicilia",
+            "winery": "Planeta",
+            "grapes": "Grillo",
+            "bottlesize": 750,
+            "alcoholcontent": 13.5
+        },
+        {
+            "show": true,
+            "anchor": "rosso-di-montalcino-argiano",
+            "name": "Rosso di Montalcino, Argiano",
+            "img": "vino_rosso/rosso_di_montalcino_argiano.webp",
+            "region": "Rosso di Mantalcino, Toscana",
+            "winery": "Argiano",
+            "grapes": "",
+            "bottlesize": 750,
+            "alcoholcontent": 14.5
+        },
+        {
             "show": false,
             "anchor": "rosso-di-montalcino-caparzo",
             "name": "Rosso di Montalcino, Caparzo",
