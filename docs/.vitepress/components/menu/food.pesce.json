@@ -32,14 +32,14 @@
             "img": "pesce/seppia.webp"
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "filetto-di-spigula-alla-griglia",
             "name": "Filetto di Spigula alla griglia",
             "desc": {
                 "de": "Wolfsbarschfilet vom Grill",
                 "en": "Grilled sea bass fillet"
             },
-            "priceeuro": 28
+            "priceeuro": 29
         },
         {
             "show": false,

@@ -61,7 +61,7 @@
             "priceeuro": 21
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "saltimbocca-alla-romana",
             "name": "Saltimbocca alla Romana",
             "desc": {
@@ -81,7 +81,7 @@
             "priceeuro": 25
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "scaloppine-al-vino",
             "name": "Scaloppine al Vino",
             "desc": {

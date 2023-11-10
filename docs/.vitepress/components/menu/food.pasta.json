@@ -289,7 +289,7 @@
             "priceeuro": 18
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "tagliatelle-porcini",
             "name": "Tagliatelle Porcini",
             "desc": {
@@ -374,7 +374,7 @@
             "img": "pasta/gnocchi_gambas.webp"
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pasta-aragosta",
             "name": "Pasta Aragosta",
             "desc": {
@@ -420,7 +420,7 @@
             "priceeuro": 25
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "tagliolini-tartufo",
             "name": "Tagliolini Tartufo",
             "desc": {

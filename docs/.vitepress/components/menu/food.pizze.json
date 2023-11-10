@@ -53,7 +53,7 @@
             "priceeuro": 14
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pizza-alle-verdure",
             "name": "Pizza alle Verdure",
             "desc": {
@@ -90,7 +90,7 @@
             "priceeuro": 14
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pizza-gorgonzola-spinaci",
             "name": "Pizza Gorgonzola Spinaci",
             "desc": {
@@ -153,7 +153,7 @@
             "priceeuro": 16
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pizza-salmone-asparagi",
             "name": "Pizza Salmone Asparagi",
             "desc": {
