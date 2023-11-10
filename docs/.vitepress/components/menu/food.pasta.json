@@ -407,7 +407,7 @@
             "priceeuro": 23
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "tagliatelle-tartufo",
             "name": "Tagliatelle Tartufo",
             "desc": {
