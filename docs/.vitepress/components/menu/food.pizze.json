@@ -67,7 +67,7 @@
             "img": "pizze/pizza_alle_verdure.webp"
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pizza-calabrese",
             "name": "Pizza Calabrese",
             "desc": {
@@ -163,7 +163,7 @@
             "priceeuro": 16
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pizza-salsiccia-rapa",
             "name": "Pizza Salsiccia Rapa",
             "desc": {

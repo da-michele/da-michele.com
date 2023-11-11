@@ -550,17 +550,6 @@
         },
         {
             "show": false,
-            "anchor": "tartare-di-manzo",
-            "name": "Tartare di Manzo",
-            "desc": {
-                "de": "Rindertartar mit Trüffel & Parmesan",
-                "en": "beef tartare with truffles & parmesan cheese"
-            },
-            "priceeuro": 21,
-            "img": "antipasti/tartare_di_manzo_tartufo_rucola.webp"
-        },
-        {
-            "show": false,
             "anchor": "tartare-di-tonno",
             "name": "Tartare di Tonno",
             "desc": {
@@ -610,6 +599,17 @@
             "priceeuro": 21
         },
         {
+            "show": true,
+            "anchor": "tartare-di-manzo",
+            "name": "Tartare di Manzo",
+            "desc": {
+                "de": "Rindertartar mit Trüffel & Parmesan",
+                "en": "beef tartare with truffles & parmesan cheese"
+            },
+            "priceeuro": 23,
+            "img": "antipasti/tartare_di_manzo_tartufo_rucola.webp"
+        },
+        {
             "show": false,
             "anchor": "tartare-di-tonno-pomodorini-colorati",
             "name": "Tartare di Tonno & Pomodorini colorati",
@@ -618,6 +618,16 @@
                 "en": "thuna tartare with colorful tomatoes"
             },
             "priceeuro": 23
+        },
+        {
+            "show": true,
+            "anchor": "tramezzini-tonno-caviale",
+            "name": "Tramezzini con Tonno e caviale",
+            "desc": {
+                "de": "Tramezzini (Weißbrot) mit Thunfisch & Kaviar",
+                "en": "tramezzini (white toast bread) with thuna & caviar"
+            },
+            "priceeuro": 26
         }
     ]
 }
