@@ -2,6 +2,17 @@
     "vinorosso": [
         {
             "show": true,
+            "anchor": "pasqua-black-label",
+            "name": "Pasqua Black Label, Amarone della Valpolicella",
+            "img": "vino_rosso/pasqua_black_label.webp",
+            "region": "Valpolicella, Venecia",
+            "winery": "Pasqua",
+            "grapes": "Corvina, Rondinella, Corvinone, Negrara",
+            "bottlesize": 750,
+            "alcoholcontent": 15
+        },
+        {
+            "show": true,
             "anchor": "barbera-d-alba",
             "name": "Barbera d'Alba, Cordero di Montezemolo",
             "img": "vino_rosso/barbera_cordero_di_montezemolo.webp",
