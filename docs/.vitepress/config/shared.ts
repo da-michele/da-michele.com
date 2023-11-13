@@ -82,6 +82,7 @@ export const sharedConfig = defineConfig({
       return items.filter((item) => !item.url.includes('404'))
     }
   },
+  srcDir: 'src',
   srcExclude: [
     '**/TODOs?.md'
   ],
