@@ -9,8 +9,8 @@ Thumbs.db
 
 # Vitepress
 
-docs/.vitepress/.cache/
 docs/.vitepress/.temp/
+docs/.vitepress/cache/
 docs/.vitepress/dist/
 
 # Vite
