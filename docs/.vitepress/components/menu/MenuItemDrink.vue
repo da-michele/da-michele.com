@@ -48,6 +48,11 @@ withDefaults(
               <p v-else-if="drink.desc.de && lang == 'de-DE'">{{ drink.desc.de }}</p>
             </td>
           </tr>
+          <tr v-if="drink.priceeuro">
+            <td colspan="2">
+              <p> {{ drink.priceeuro }} €</p>
+            </td>
+          </tr>
         </tbody>
       </table>
     </div>

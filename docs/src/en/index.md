@@ -20,30 +20,30 @@ hero:
     - theme: alt
       text: "Today's menu"
       link: /en/menu/
-features:
-  - icon: '🥗'
-    title: Antipasti
-    details: Starters
-    link: '/en/menu/#antipasti'
-    linkText: Read more
-  - icon: '🐟'
-    title: Pesce
-    details: Fish
-    link: '/en/menu/#pesce'
-    linkText: Read more
-  - icon: '🥩'
-    title: Carne
-    details: Meat
-    link: '/en/menu/#carne'
-    linkText: Read more
-  - icon: '🍝'
-    title: Pasta
-    details: Noodles
-    link: '/en/menu/#pasta'
-    linkText: Read more
-  - icon: '🍕'
-    title: Pizze
-    details: Pizza
-    link: '/en/menu/#pizze'
-    linkText: Read more
+# features:
+#   - icon: '🥗'
+#     title: Antipasti
+#     details: Starters
+#     link: '/en/menu/#antipasti'
+#     linkText: Read more
+#   - icon: '🐟'
+#     title: Pesce
+#     details: Fish
+#     link: '/en/menu/#pesce'
+#     linkText: Read more
+#   - icon: '🥩'
+#     title: Carne
+#     details: Meat
+#     link: '/en/menu/#carne'
+#     linkText: Read more
+#   - icon: '🍝'
+#     title: Pasta
+#     details: Noodles
+#     link: '/en/menu/#pasta'
+#     linkText: Read more
+#   - icon: '🍕'
+#     title: Pizze
+#     details: Pizza
+#     link: '/en/menu/#pizze'
+#     linkText: Read more
 ---

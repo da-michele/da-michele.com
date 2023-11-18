@@ -1,6 +1,19 @@
 {
     "pasta": [
         {
+            "show": true,
+            "anchor": "pasta-sorrentina",
+            "name": "Pasta Sorrentina",
+            "desc": {
+                "de": "Pasta mit Tomaten und Mozzarella",
+                "en": "Pasta with tomato and mozzarella-cheese"
+            },
+            "tags": [
+                "vegetarian"
+            ],
+            "priceeuro": 14
+        },
+        {
             "show": false,
             "anchor": "pasta-pesto",
             "name": "Pasta Pesto",
@@ -114,7 +127,7 @@
             "priceeuro": 16
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pasta-polpette-al-sugo",
             "name": "Pasta Polpette al sugo",
             "desc": {
@@ -125,7 +138,7 @@
             "img": "pasta/pasta_polpette_al_sugo.webp"
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pasta-salsiccia-rapa",
             "name": "Pasta Salsiccia & Rapa",
             "desc": {
@@ -248,7 +261,7 @@
             "priceeuro": 16
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pasta-salsiccia-tartufo",
             "name": "Pasta Salsiccia & Tartufo",
             "desc": {

@@ -20,30 +20,30 @@ hero:
     - theme: alt
       text: Tageskarte
       link: /menu/
-features:
-  - icon: '🥗'
-    title: Antipasti
-    details: Vorspeisen
-    link: '/menu/#antipasti'
-    linkText: Mehr erfahren
-  - icon: '🐟'
-    title: Pesce
-    details: Fisch
-    link: '/menu/#pesce'
-    linkText: Mehr erfahren
-  - icon: '🥩'
-    title: Carne
-    details: Fleisch
-    link: '/menu/#carne'
-    linkText: Mehr erfahren
-  - icon: '🍝'
-    title: Pasta
-    details: Nudeln
-    link: '/menu/#pasta'
-    linkText: Mehr erfahren
-  - icon: '🍕'
-    title: Pizze
-    details: Pizza
-    link: '/menu/#pizze'
-    linkText: Mehr erfahren
+# features:
+#   - icon: '🥗'
+#     title: Antipasti
+#     details: Vorspeisen
+#     link: '/menu/#antipasti'
+#     linkText: Mehr erfahren
+#   - icon: '🐟'
+#     title: Pesce
+#     details: Fisch
+#     link: '/menu/#pesce'
+#     linkText: Mehr erfahren
+#   - icon: '🥩'
+#     title: Carne
+#     details: Fleisch
+#     link: '/menu/#carne'
+#     linkText: Mehr erfahren
+#   - icon: '🍝'
+#     title: Pasta
+#     details: Nudeln
+#     link: '/menu/#pasta'
+#     linkText: Mehr erfahren
+#   - icon: '🍕'
+#     title: Pizze
+#     details: Pizza
+#     link: '/menu/#pizze'
+#     linkText: Mehr erfahren
 ---

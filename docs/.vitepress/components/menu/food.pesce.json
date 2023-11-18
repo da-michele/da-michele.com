@@ -43,16 +43,6 @@
         },
         {
             "show": false,
-            "anchor": "spigula-alla-griglia",
-            "name": "Spigula alla griglia",
-            "desc": {
-                "de": "Wolfsbarsch (gegrillt)",
-                "en": "Grilled sea bass"
-            },
-            "priceeuro": 28
-        },
-        {
-            "show": false,
             "anchor": "spigula-caponata",
             "name": "Spigula & Caponata",
             "desc": {
@@ -70,6 +60,16 @@
                 "en": "Sea bass in a broth"
             },
             "priceeuro": 28
+        },
+        {
+            "show": true,
+            "anchor": "spigula-alla-griglia",
+            "name": "Spigula alla griglia",
+            "desc": {
+                "de": "Wolfsbarsch (gegrillt)",
+                "en": "Grilled sea bass"
+            },
+            "priceeuro": 29
         },
         {
             "show": false,
@@ -122,17 +122,17 @@
             "priceeuro": 29
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "merluzzo-spinaci",
             "name": "Merluzzo & Spinaci",
             "desc": {
                 "de": "Kabeljau auf Spinat",
                 "en": "Cod with spinach"
             },
-            "priceeuro": 29
+            "priceeuro": 31
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pesce-miste-nel-sud",
             "name": "Pesce miste nel Sud",
             "desc": {
@@ -184,7 +184,7 @@
             "img": "pesce/bistecca_di_tonno.webp"
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "merluzzo-nel-sud-pomodoro",
             "name": "Merluzzo nel sud pomodoro",
             "desc": {

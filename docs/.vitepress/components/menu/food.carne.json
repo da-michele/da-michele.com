@@ -22,8 +22,8 @@
         },
         {
             "show": true,
-            "anchor": "vitello-alla-veneziana",
-            "name": "Vitello alla Veneziana",
+            "anchor": "fegato-di-vitello-alla-veneziana",
+            "name": "Fegato di vitello alla Veneziana",
             "desc": {
                 "de": "Kalbsleber alla Veneziana",
                 "en": "veal liver alla Veneziana"
@@ -99,6 +99,16 @@
                 "en": "Veal escalopes with lemon"
             },
             "priceeuro": 25
+        },
+        {
+            "show": true,
+            "anchor": "coscia-di-coniglio-brasata",
+            "name": "Coscia di Coniglio brasata",
+            "desc": {
+                "de": "geschmorte Kaninchenkeule",
+                "en": "braised rabbit leg"
+            },
+            "priceeuro": 26
         },
         {
             "show": false,

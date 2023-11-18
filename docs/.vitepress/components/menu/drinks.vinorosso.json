@@ -9,7 +9,8 @@
             "winery": "Pasqua",
             "grapes": "Corvina, Rondinella, Corvinone, Negrara",
             "bottlesize": 750,
-            "alcoholcontent": 15
+            "alcoholcontent": 15,
+            "priceeuro": 65
         },
         {
             "show": true,
@@ -20,7 +21,8 @@
             "winery": "Cordero di Montezemolo",
             "grapes": "Barbera",
             "bottlesize": 750,
-            "alcoholcontent": 14.5
+            "alcoholcontent": 14.5,
+            "priceeuro": 45
         },
         {
             "show": true,
@@ -31,7 +33,8 @@
             "winery": "Argiano",
             "grapes": "",
             "bottlesize": 750,
-            "alcoholcontent": 14.5
+            "alcoholcontent": 14.5,
+            "priceeuro": 45
         },
         {
             "show": false,
@@ -46,7 +49,8 @@
             "winery": "Caparzo",
             "grapes": "Sangiovese",
             "bottlesize": 750,
-            "alcoholcontent": 13.5
+            "alcoholcontent": 13.5,
+            "priceeuro": 45
         },
         {
             "show": false,
@@ -76,7 +80,8 @@
             "winery": "Piaggia",
             "grapes": "80% Sangiovese, 20% Cabernet Franc",
             "bottlesize": 750,
-            "alcoholcontent": 14.5
+            "alcoholcontent": 14.5,
+            "priceeuro": 36
         },
         {
             "show": false,
@@ -91,7 +96,8 @@
             "winery": "Castello Banfi",
             "grapes": "Sangiovese",
             "bottlesize": 750,
-            "alcoholcontent": 14
+            "alcoholcontent": 14,
+            "priceeuro": 45
         },
         {
             "show": true,
@@ -106,7 +112,8 @@
             "winery": "San Salvatore 1988",
             "grapes": "Aglianico",
             "bottlesize": 750,
-            "alcoholcontent": 14
+            "alcoholcontent": 14,
+            "priceeuro": 45
         },
         {
             "show": false,
@@ -121,7 +128,8 @@
             "winery": "Castello Banfi",
             "grapes": "Sangiovese",
             "bottlesize": 750,
-            "alcoholcontent": 14.5
+            "alcoholcontent": 14.5,
+            "priceeuro": 90
         },
         {
             "show": false,
@@ -147,7 +155,8 @@
             "winery": "Michele Chiarlo",
             "grapes": "Nebbiolo",
             "bottlesize": 750,
-            "alcoholcontent": 13.5
+            "alcoholcontent": 13.5,
+            "priceeuro": 95
         },
         {
             "show": false,
@@ -195,7 +204,7 @@
             "alcoholcontent": 14.5
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "tignanello",
             "name": "Tignanello, Rosso di Toscana",
             "desc": {

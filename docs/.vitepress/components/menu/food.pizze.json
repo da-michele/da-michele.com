@@ -153,7 +153,7 @@
             "priceeuro": 16
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pizza-salmone-asparagi",
             "name": "Pizza Salmone Asparagi",
             "desc": {
@@ -163,7 +163,17 @@
             "priceeuro": 16
         },
         {
-            "show": false,
+            "show": true,
+            "anchor": "pizza-salmone-spinaci",
+            "name": "Pizza Salmone Spinaci",
+            "desc": {
+                "de": "mit Lachs und Spinat",
+                "en": "with salmon and spinach"
+            },
+            "priceeuro": 16
+        },
+        {
+            "show": true,
             "anchor": "pizza-salsiccia-rapa",
             "name": "Pizza Salsiccia Rapa",
             "desc": {

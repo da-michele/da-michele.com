@@ -42,7 +42,7 @@
             "alcoholcontent": 13.5
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "cuvee-paul",
             "name": "Cuvée Paul, St. Pauls",
             "desc": {
@@ -57,7 +57,7 @@
             "alcoholcontent": 12.5
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "chardonnay-tramin",
             "name": "Chardonnay, Tramin",
             "desc": {
@@ -87,7 +87,7 @@
             "alcoholcontent": 13
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "laluci-christo-di-campobello",
             "name": "Lalùci, Baglio del Christo di Campobello",
             "desc": {
@@ -102,7 +102,7 @@
             "alcoholcontent": 13.5
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "alexandros-greco-di-tufo",
             "name": "Alèxandros Greco di Tufo, Colli di Lapio di Romano Clelia",
             "desc": {
