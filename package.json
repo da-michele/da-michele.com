@@ -31,6 +31,7 @@
     "devDependencies": {
         "@types/node": "latest",
         "sass": "latest",
-        "vitepress": "latest"
+        "vitepress": "latest",
+        "vue": "latest"
     }
 }
