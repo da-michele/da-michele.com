@@ -42,15 +42,11 @@ withDefaults(
               </ul>
             </td>
           </tr>
-          <tr v-if="drink.desc">
+          <tr v-if="drink.desc || drink.priceeuro">
             <td colspan="2">
               <p v-if="drink.desc.en && lang == 'en-US'">{{ drink.desc.en }}</p>
               <p v-else-if="drink.desc.de && lang == 'de-DE'">{{ drink.desc.de }}</p>
-            </td>
-          </tr>
-          <tr v-if="drink.priceeuro">
-            <td colspan="2">
-              <p> {{ drink.priceeuro }} €</p>
+              <p v-if="drink.priceeuro">{{ drink.priceeuro }} €</p>
             </td>
           </tr>
         </tbody>
