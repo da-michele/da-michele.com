@@ -12,7 +12,8 @@ withDefaults(
     drink: {
       desc: null,
       show: false,
-      img: null
+      img: null,
+      priceeuro: null
     }
   }
 )
@@ -44,8 +45,8 @@ withDefaults(
           </tr>
           <tr v-if="drink.desc || drink.priceeuro">
             <td colspan="2">
-              <p v-if="drink.desc.en && lang == 'en-US'">{{ drink.desc.en }}</p>
-              <p v-else-if="drink.desc.de && lang == 'de-DE'">{{ drink.desc.de }}</p>
+              <p v-if="drink.desc && drink.desc.en && lang == 'en-US'">{{ drink.desc.en }}</p>
+              <p v-else-if="drink.desc && drink.desc.de && lang == 'de-DE'">{{ drink.desc.de }}</p>
               <p v-if="drink.priceeuro">{{ drink.priceeuro }} €</p>
             </td>
           </tr>
