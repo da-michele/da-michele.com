@@ -32,26 +32,26 @@ export const enConfig: LocaleSpecificConfig<DefaultTheme.Config> = defineConfig(
       text: 'Last updated'
     },
     nav: [
-      { text: 'Home', link: '/en/' },
-      { text: "Today's menu", link: '/en/menu/' },
-      {
-        text: 'Ristorante',
-        activeMatch: '^/en/ristorante/',
-        items: [
-          { text: 'About us', link: '/en/ristorante/' },
-          { text: 'Career', link: '/en/ristorante/career/' },
-          { text: 'Vouchers', link: '/en/ristorante/voucher/' }
-        ]
-      },
-      {
-        text: 'Legal',
-        activeMatch: '^/en/legal/',
-        items: [
-          { text: 'Imprint', link: '/en/legal/imprint/' },
-          { text: 'Privacy', link: '/en/legal/privacy/' },
-          { text: 'Terms', link: '/en/legal/terms/' }
-        ]
-      }
+      // { text: 'Home', link: '/en/' },
+      // { text: "Today's menu", link: '/en/menu/' },
+      // {
+      //   text: 'Ristorante',
+      //   activeMatch: '^/en/ristorante/',
+      //   items: [
+      //     { text: 'About us', link: '/en/ristorante/' },
+      //     { text: 'Career', link: '/en/ristorante/career/' },
+      //     { text: 'Vouchers', link: '/en/ristorante/voucher/' }
+      //   ]
+      // },
+      // {
+      //   text: 'Legal',
+      //   activeMatch: '^/en/legal/',
+      //   items: [
+      //     { text: 'Imprint', link: '/en/legal/imprint/' },
+      //     { text: 'Privacy', link: '/en/legal/privacy/' },
+      //     { text: 'Terms', link: '/en/legal/terms/' }
+      //   ]
+      // }
     ],
     outline: {
       label: 'On this page',

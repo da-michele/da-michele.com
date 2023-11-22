@@ -5,6 +5,7 @@ const { lang } = useData()
 
 <template>
   <div :class="$style.customnavscreencontentbefore" align="center">
+<!--
     <br>
     <HeroImage />
     <br>
@@ -28,13 +29,16 @@ const { lang } = useData()
       target="_blank"
       rel="noopener noreferrer"
     />
+-->
   </div>
 </template>
 
 <style module lang="scss">
 .customnavscreencontentbefore {
+/*
   border-bottom: 1px solid var(--vp-c-divider);
   padding-bottom: 40px;
   margin-bottom: 15px;
+*/
 }
 </style>

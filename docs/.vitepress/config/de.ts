@@ -32,26 +32,26 @@ export const deConfig: LocaleSpecificConfig<DefaultTheme.Config> = defineConfig(
       text: 'Zuletzt aktualisiert'
     },
     nav: [
-      { text: 'Startseite', link: '/' },
-      { text: 'Tageskarte', link: '/menu/' },
-      {
-        text: 'Ristorante',
-        activeMatch: '^/ristorante/',
-        items: [
-          { text: 'Über uns', link: '/ristorante/' },
-          { text: 'Karriere', link: '/ristorante/career/' },
-          { text: 'Gutscheine', link: '/ristorante/voucher/' }
-        ]
-      },
-      {
-        text: 'Legal',
-        activeMatch: '^/legal/',
-        items: [
-          { text: 'Impressum', link: '/legal/imprint/' },
-          { text: 'Datenschutz', link: '/legal/privacy/' },
-          { text: 'Bedingungen', link: '/legal/terms/' }
-        ]
-      }
+      // { text: 'Startseite', link: '/' },
+      // { text: 'Tageskarte', link: '/menu/' },
+      // {
+      //   text: 'Ristorante',
+      //   activeMatch: '^/ristorante/',
+      //   items: [
+      //     { text: 'Über uns', link: '/ristorante/' },
+      //     { text: 'Karriere', link: '/ristorante/career/' },
+      //     { text: 'Gutscheine', link: '/ristorante/voucher/' }
+      //   ]
+      // },
+      // {
+      //   text: 'Legal',
+      //   activeMatch: '^/legal/',
+      //   items: [
+      //     { text: 'Impressum', link: '/legal/imprint/' },
+      //     { text: 'Datenschutz', link: '/legal/privacy/' },
+      //     { text: 'Bedingungen', link: '/legal/terms/' }
+      //   ]
+      // }
     ],
     outline: {
       label: 'Auf dieser Seite',
