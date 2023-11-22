@@ -122,7 +122,7 @@
             "priceeuro": 29
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "merluzzo-spinaci",
             "name": "Merluzzo & Spinaci",
             "desc": {

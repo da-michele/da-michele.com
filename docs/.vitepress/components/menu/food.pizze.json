@@ -67,7 +67,7 @@
             "img": "pizze/pizza_alle_verdure.webp"
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pizza-calabrese",
             "name": "Pizza Calabrese",
             "desc": {
@@ -163,7 +163,7 @@
             "priceeuro": 16
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pizza-salmone-spinaci",
             "name": "Pizza Salmone Spinaci",
             "desc": {

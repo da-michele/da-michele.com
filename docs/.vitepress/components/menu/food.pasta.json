@@ -27,7 +27,7 @@
             "priceeuro": 14
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "gnocchi-gorgonzola-spinaci",
             "name": "Gnocchi Gorgonzola & Spinaci",
             "desc": {
@@ -63,7 +63,7 @@
             "priceeuro": 14
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pasta-amatriciana",
             "name": "Pasta Amatriciana",
             "desc": {
@@ -149,7 +149,7 @@
             "img": "pasta/calamarata_salsiccia_rapa.webp"
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pasta-salmone-spinaci",
             "name": "Pasta Salmone & Spinaci",
             "desc": {
@@ -345,7 +345,7 @@
             "priceeuro": 19
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "spaghetti-vongole",
             "name": "Spaghetti Vongole",
             "desc": {
