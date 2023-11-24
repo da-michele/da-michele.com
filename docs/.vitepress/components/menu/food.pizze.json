@@ -133,6 +133,16 @@
             "priceeuro": 16
         },
         {
+            "show": true,
+            "anchor": "pizza-guanciale-taleggio-pesto-zucchini",
+            "name": "Pizza Guanciale, Taleggio, Pesto Zucchini",
+            "desc": {
+                "de": "mit Speck, ital. Rohmilchkäse, Zucchini-Pesto",
+                "en": "with bacon, Taleggio (Italian raw milk cheese) and zucchini pesto"
+            },
+            "priceeuro": 16
+        },
+        {
             "show": false,
             "anchor": "pizza-guanciale-provola-pomodoro",
             "name": "Pizza Guanciale, Provola, Pomodoro",

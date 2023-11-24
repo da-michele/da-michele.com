@@ -173,7 +173,7 @@
             "priceeuro": 31
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "merluzzo-nel-sud-pomodoro",
             "name": "Merluzzo nel sud pomodoro",
             "desc": {
@@ -192,6 +192,16 @@
             },
             "priceeuro": 32,
             "img": "pesce/bistecca_di_tonno.webp"
+        },
+        {
+            "show": true,
+            "anchor": "sogliola-al-vino",
+            "name": "Sogliola al vino",
+            "desc": {
+                "de": "Seezunge in Weißweinsauce",
+                "en": "Sole in white wine"
+            },
+            "priceeuro": 32
         }
     ]
 }
