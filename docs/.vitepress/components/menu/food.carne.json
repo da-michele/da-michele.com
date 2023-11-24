@@ -62,16 +62,6 @@
         },
         {
             "show": false,
-            "anchor": "saltimbocca-alla-romana",
-            "name": "Saltimbocca alla Romana",
-            "desc": {
-                "de": "Kalbfleisch umwickelt mit Prosciutto und Salbei",
-                "en": "veal wrapped with prosciutto and sage"
-            },
-            "priceeuro": 25
-        },
-        {
-            "show": false,
             "anchor": "agnello",
             "name": "Agnello",
             "desc": {
@@ -102,6 +92,16 @@
         },
         {
             "show": true,
+            "anchor": "saltimbocca-alla-romana",
+            "name": "Saltimbocca alla Romana",
+            "desc": {
+                "de": "Kalbfleisch umwickelt mit Prosciutto und Salbei",
+                "en": "veal wrapped with prosciutto and sage"
+            },
+            "priceeuro": 26
+        },
+        {
+            "show": false,
             "anchor": "coscia-di-coniglio-brasata",
             "name": "Coscia di Coniglio brasata",
             "desc": {
