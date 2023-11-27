@@ -20,4 +20,8 @@ We offer a daily changing menu with fresh fish and meat dishes as well as the us
 
 Please [call us at 07221-61541](tel:+49722161541){ target="_blank" rel="noopener noreferrer" } to place an order.
 
+::: warning Note
+Our Ristorante is closed Dec. 24th 2023 through Jan. 2nd 2024.
+:::
+
 <MenuItems />
