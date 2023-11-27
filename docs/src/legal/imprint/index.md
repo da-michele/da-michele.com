@@ -12,10 +12,6 @@ Anbieter laut [§ 5 TMG](https://www.gesetze-im-internet.de/tmg/__5.html), [§ 6
 
 <RistoranteAddress/>
 
-### Team
-
-Die Kontaktdaten der einzelnen Teammitglieder findest Du unter [Ristorante > Über uns > Team](../../ristorante/index.md#team).
-
 ## Firmensitz
 
 Baden-Baden
@@ -36,7 +32,7 @@ Michele Romano
 
 Verantwortlich für die Datenverarbeitung sind:
 
-* [Vincenzo Romano](../../ristorante/index.md#vincenzo-romano)
+* Vincenzo Romano
 
 Wir sind unter der oben angegebenen [Adresse](#adresse) erreichbar.
 

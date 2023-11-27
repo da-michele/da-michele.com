@@ -13,7 +13,7 @@ const enHead: HeadConfig[] = [
   ['meta', { property: 'og:locale', content: 'en_US' }],
   ['meta', { property: 'og:locale:alternate', content: 'de_DE' }],
 
-  [ 'script', { type: 'application/ld+json' }, JSON.stringify(ldjsonEn)]
+  [ 'script', { type: 'application/ld+json' }, JSON.stringify(ldjsonEn, undefined, 4)]
 ]
 
 export const enConfig: LocaleSpecificConfig<DefaultTheme.Config> = defineConfig({

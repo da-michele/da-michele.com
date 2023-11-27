@@ -11,7 +11,6 @@ import VPButton from 'vitepress/dist/client/theme-default/components/VPButton.vu
 import VPSocialLink from 'vitepress/dist/client/theme-default/components/VPSocialLink.vue'
 
 import MenuItems from '../components/menu/MenuItems.vue'
-import Team from '../components/team/Team.vue'
 
 import HeroImage from '../components/global/HeroImage.vue'
 import RistoranteAddress from '../components/global/RistoranteAddress.vue'
@@ -33,7 +32,6 @@ export default {
     context.app.component('VPSocialLink', VPSocialLink)
 
     context.app.component('MenuItems', MenuItems)
-    context.app.component('Team', Team)
 
     context.app.component('HeroImage', HeroImage)
     context.app.component('RistoranteAddress', RistoranteAddress)

@@ -3,6 +3,10 @@ editLink: false
 lastUpdated: false
 ---
 
+<script setup lang="ts">
+import { withBase } from 'vitepress'
+</script>
+
 # About us
 
 ## Opening hours
@@ -19,4 +23,4 @@ lastUpdated: false
 
 ## Team
 
-<Team />
+<img :src="withBase('/images/ristorante/team.webp')" alt="Team" decoding="async" loading="lazy">

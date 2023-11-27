@@ -14,7 +14,3 @@ You can find it [here](../../../legal/imprint/index.md#impressum).
 ## Address
 
 <RistoranteAddress/>
-
-### Team
-
-Please find the contact details of our teammembers via [Ristorante > About Us > Team](../../ristorante/index.md#team).

@@ -37,6 +37,10 @@ head:
 }']
 ---
 
+<script setup lang="ts">
+import { withBase } from 'vitepress'
+</script>
+
 # Über uns
 
 ## Öffnungszeiten
@@ -53,7 +57,7 @@ head:
 
 ## Team
 
-<Team />
+<img :src="withBase('/images/ristorante/team.webp')" alt="Team" decoding="async" loading="lazy">
 
 ## Referenzen
 
@@ -86,8 +90,8 @@ Man muss schon die Höllenkreise der Promi-Italiener und Medien-Hotspots, der Tr
 nichts weniger als eine kulinarische Offenbarung.
 
 Als Vorspeise auf der Zunge schmelzende Calamaretti, ein ungewöhnlich raffiniertes Lachstartar oder eine hinreißende Kombination aus Pulpo, Cozze und Venusmuscheln in einem raffinierten leichten Tomatenfond, anschließend Pappardelle mit Rappe und Salsiccia, ein sublim gegarter Wolfsbarsch, ein gegrillter Krakenarm oder eine zarte Kalbsleber mit Kapern:
-Derlei Köstlichkeiten verzeichnet die handschriftlich in einem DIN-A6-Heftchen festgehaltene Speisekarte, die einem die Wirtin Ellen und Tochter [Pierina](#pierina-romano) mit herzerwärmender Freundlichkeit gerne erläutern.
-In der Küche arbeitet Vater Michele Romano mit dem im Freiburger **Colombi** ausgebildetem Sohn [Vincenzo](#vincenzo-romano), der weiter auf den Ausbau der feinen Gemüsegerichte wie der himmlischen Parmigiana sowie der Meeresfrüchte setzt und etwa dafür sorgt, dass **Da Michele** exquisite Austern im Angebot hat, mit denen man eine Mahlzeit dort beginnen sollte.
+Derlei Köstlichkeiten verzeichnet die handschriftlich in einem DIN-A6-Heftchen festgehaltene Speisekarte, die einem die Wirtin Ellen und Tochter Pierina mit herzerwärmender Freundlichkeit gerne erläutern.
+In der Küche arbeitet Vater Michele Romano mit dem im Freiburger **Colombi** ausgebildetem Sohn Vincenzo, der weiter auf den Ausbau der feinen Gemüsegerichte wie der himmlischen Parmigiana sowie der Meeresfrüchte setzt und etwa dafür sorgt, dass **Da Michele** exquisite Austern im Angebot hat, mit denen man eine Mahlzeit dort beginnen sollte.
 Ja, es ist möglich, sagt dieses Lokal, in dieser korrumpierten, verhurten und dekadenten Stadt Baden-Baden gut zu essen.
 Habe ich übrigens erwähnt, dass ich Baden-Baden liebe?
 Korrumpiert, verhurt und dekadent sind auch Rom, Paris und New York.

@@ -2,103 +2,8 @@
     "@context": "http://schema.org",
     "@type": "Restaurant",
     "@id": "https://da-michele.com",
-    "name": "Ristorante da Michele, Baden-Baden",
-    "author": [
-        {
-            "@type": "Person",
-            "name": "Pierina Romano",
-            "url": "https://da-michele.com/en/ristorante/#pierina-romano"
-        },
-        {
-            "@type": "Person",
-            "name": "Vincenzo Romano",
-            "url": "https://da-michele.com/en/ristorante/#vincenzo-romano"
-        }
-    ],
-    "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Sinzheimer Str. 4",
-        "addressLocality": "Baden-Baden",
-        "addressRegion": "Baden-Württemberg",
-        "postalCode": "76532",
-        "addressCountry": "DE"
-    },
-    "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 48.786975,
-        "longitude": 8.1936724
-    },
-    "url": "https://da-michele.com/en/",
-    "image": [
-        "https://da-michele.com/images/social/da_michele_baden-baden.16x9.webp"
-    ],
-    "thumbnailUrl": "https://da-michele.com/images/logo.svg",
-    "logo": "https://da-michele.com/images/logo.svg",
-    "telephone": "+49722161541",
-    "acceptsReservations": true,
-    "servesCuisine": [
-        "Italian",
-        "Mediterranean"
-    ],
-    "priceRange": "$$",
-    "currenciesAccepted": "EUR",
-    "paymentAccepted": "Cash, Credit Card, Debit Card",
-    "smokingAllowed": false,
-    "openingHoursSpecification": [
-        {
-            "@type": "openingHoursSpecification",
-            "dayOfWeek": [
-                "Monday",
-                "Wednesday",
-                "Thursday",
-                "Friday",
-                "Saturday"
-            ],
-            "opens": "12:00",
-            "closes": "14:00"
-        },
-        {
-            "@type": "openingHoursSpecification",
-            "dayOfWeek": [
-                "Wednesday",
-                "Thursday",
-                "Friday",
-                "Saturday",
-                "Sunday"
-            ],
-            "opens": "18:00",
-            "closes": "21:30"
-        },
-        {
-            "@type": "openingHoursSpecification",
-            "dayOfWeek": "Tuesday",
-            "opens": "00:00",
-            "closes": "00:00"
-        }
-    ],
-    "specialOpeningHoursSpecification": [
-        {
-            "@type": "openingHoursSpecification",
-            "validFrom": "2023-08-08",
-            "validThrough": "2023-09-01",
-            "opens": "00:00",
-            "closes": "00:00"
-        },
-        {
-            "@type": "openingHoursSpecification",
-            "validFrom": "2023-10-03",
-            "validThrough": "2023-10-03",
-            "opens": "00:00",
-            "closes": "00:00"
-        },
-        {
-            "@type": "openingHoursSpecification",
-            "validFrom": "2023-12-25",
-            "validThrough": "2023-12-26",
-            "opens": "00:00",
-            "closes": "00:00"
-        }
-    ],
+
+    "acceptsReservations": "tel:+49722161541",
     "hasMenu": {
         "@type": "Menu",
         "url": "https://da-michele.com/en/menu/",
@@ -153,6 +58,92 @@
             }
         ]
     },
-    "description": "The Ristorante da Michele offers a daily changing menu with fresh fish and meat dishes as well as the usual Italian classics.",
-    "license": "All rights reserved."
+    "servesCuisine": [
+        "Italian",
+        "Mediterranean"
+    ],
+
+    "currenciesAccepted": "EUR",
+    "paymentAccepted": "Cash, Credit Card, Debit Card",
+    "priceRange": "$$",
+
+    "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Sinzheimer Str. 4",
+        "addressLocality": "Baden-Baden",
+        "addressRegion": "Baden-Württemberg",
+        "postalCode": "76532",
+        "addressCountry": "DE"
+    },
+    "email": "info@da-michele.com",
+
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 48.786975,
+        "longitude": 8.1936724
+    },
+    "hasDriveThroughService": false,
+    "logo": "https://da-michele.com/images/logo.svg",
+    "openingHoursSpecification": [
+        {
+            "@type": "openingHoursSpecification",
+            "dayOfWeek": [
+                "Monday",
+                "Wednesday",
+                "Thursday",
+                "Friday",
+                "Saturday"
+            ],
+            "opens": "12:00",
+            "closes": "14:00"
+        },
+        {
+            "@type": "openingHoursSpecification",
+            "dayOfWeek": [
+                "Wednesday",
+                "Thursday",
+                "Friday",
+                "Saturday",
+                "Sunday"
+            ],
+            "opens": "18:00",
+            "closes": "21:30"
+        },
+        {
+            "@type": "openingHoursSpecification",
+            "dayOfWeek": "Tuesday",
+            "opens": "00:00",
+            "closes": "00:00"
+        }
+    ],
+    "specialOpeningHoursSpecification": [
+        {
+            "@type": "openingHoursSpecification",
+            "validFrom": "2023-12-24",
+            "validThrough": "2024-01-02",
+            "opens": "00:00",
+            "closes": "00:00"
+        }
+    ],
+    "smokingAllowed": false,
+    "telephone": "+49722161541",
+
+    "name": "Ristorante da Michele, Baden-Baden",
+    "author": [
+        {
+            "@type": "Person",
+            "name": "Pierina Romano",
+            "url": "https://da-michele.com/en/ristorante/"
+        },
+        {
+            "@type": "Person",
+            "name": "Vincenzo Romano",
+            "url": "https://da-michele.com/en/ristorante/"
+        }
+    ],
+    "url": "https://da-michele.com/en/",
+    "image": [
+        "https://da-michele.com/images/social/da_michele_baden-baden.16x9.webp"
+    ],
+    "description": "The Ristorante da Michele offers a daily changing menu with fresh fish and meat dishes as well as the usual Italian classics."
 }

@@ -18,7 +18,7 @@ Der Verantwortliche im Sinne der Datenschutz-Grundverordnung ([DSGVO-2016](https
 
 Der Datenschutzbeauftragte des Verantwortlichen ist:
 
-* [Vincenzo Romano](../../ristorante/index.md#vincenzo-romano)
+* Vincenzo Romano
 
 Wir sind unter der oben angegebenen Anschrift erreichbar.
 
