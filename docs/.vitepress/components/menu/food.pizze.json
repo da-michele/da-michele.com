@@ -27,7 +27,7 @@
             "priceeuro": 13
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pizza-crudaiola",
             "name": "Pizza Crudaiola",
             "desc": {
@@ -133,7 +133,7 @@
             "priceeuro": 16
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pizza-guanciale-taleggio-pesto-zucchini",
             "name": "Pizza Guanciale, Taleggio, Pesto Zucchini",
             "desc": {
@@ -183,7 +183,7 @@
             "priceeuro": 16
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pizza-salsiccia-rapa",
             "name": "Pizza Salsiccia Rapa",
             "desc": {
@@ -264,6 +264,16 @@
                 "en": "with bacon, asparagus and tomatoes"
             },
             "priceeuro": 16
+        },
+        {
+            "show": true,
+            "anchor": "pizza-taleggio-tartufo",
+            "name": "Pizza Taleggio, Tartufo",
+            "desc": {
+                "de": "mit ital. Rohmilchkäse, Trüffel",
+                "en": "with Taleggio (Italian raw milk cheese) and truffles"
+            },
+            "priceeuro": 18
         }
     ]
 }
