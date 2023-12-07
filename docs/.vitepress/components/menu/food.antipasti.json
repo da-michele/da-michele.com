@@ -119,7 +119,7 @@
             "priceeuro": 14
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "mozzarella-di-buffala-pomodoro",
             "name": "Mozzarella di Buffala & Pomodoro",
             "desc": {
@@ -133,6 +133,19 @@
         },
         {
             "show": true,
+            "anchor": "burrata-pomodoro",
+            "name": "Burrata & Pomodoro",
+            "desc": {
+                "de": "Burrata (cremiger Mozzarella) mit Tomaten",
+                "en": "Burrata (creamy mozzarella-cheese) with tomatoes"
+            },
+            "tags": [
+                "vegetarian"
+            ],
+            "priceeuro": 16
+        },
+        {
+            "show": false,
             "anchor": "prosciutto-di-parma-parmiggiano",
             "name": "Prosciutto di Parma & Parmiggiano",
             "desc": {

@@ -27,7 +27,7 @@
             "priceeuro": 14
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "gnocchi-gorgonzola-spinaci",
             "name": "Gnocchi Gorgonzola & Spinaci",
             "desc": {
@@ -93,7 +93,7 @@
             "priceeuro": 16
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "spaghetti-cozze",
             "name": "Spaghetti Cozze",
             "desc": {
@@ -150,6 +150,16 @@
         },
         {
             "show": true,
+            "anchor": "pasta-salsiccia-ceci",
+            "name": "Pasta Salsiccia & Ceci",
+            "desc": {
+                "de": "Pasta mit Salsiccia (ital. Frischwurst) und Kichererbsen",
+                "en": "Pasta with Salsiccia (Italian raw meat sausage) and chick peas"
+            },
+            "priceeuro": 16
+        },
+        {
+            "show": true,
             "anchor": "pasta-salmone-spinaci",
             "name": "Pasta Salmone & Spinaci",
             "desc": {
@@ -172,7 +182,7 @@
             "priceeuro": 16
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "gnocchi-burrata",
             "name": "Gnocchi Burrata",
             "desc": {
@@ -362,6 +372,16 @@
             "desc": {
                 "de": "Tagliatelle mit Fischragout",
                 "en": "Tagliatelle with fish ragout"
+            },
+            "priceeuro": 19
+        },
+        {
+            "show": true,
+            "anchor": "tagliolini-ragu-di-pesce",
+            "name": "Tagliolini Ragu di Pesce",
+            "desc": {
+                "de": "Tagliolini mit Fischragout",
+                "en": "Tagliolini with fish ragout"
             },
             "priceeuro": 19
         },

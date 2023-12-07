@@ -27,7 +27,7 @@
             "priceeuro": 13
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pizza-crudaiola",
             "name": "Pizza Crudaiola",
             "desc": {
@@ -67,7 +67,7 @@
             "img": "pizze/pizza_alle_verdure.webp"
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pizza-calabrese",
             "name": "Pizza Calabrese",
             "desc": {
@@ -90,7 +90,7 @@
             "priceeuro": 14
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pizza-gorgonzola-spinaci",
             "name": "Pizza Gorgonzola Spinaci",
             "desc": {
@@ -113,7 +113,7 @@
             "priceeuro": 14
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pizza-parma",
             "name": "Pizza Parma",
             "desc": {
