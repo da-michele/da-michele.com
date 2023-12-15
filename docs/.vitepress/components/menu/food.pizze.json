@@ -113,7 +113,7 @@
             "priceeuro": 14
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pizza-parma",
             "name": "Pizza Parma",
             "desc": {
@@ -123,7 +123,7 @@
             "priceeuro": 14
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pizza-guanciale-taleggio-pomodoro",
             "name": "Pizza Guanciale, Taleggio, Pomodoro",
             "desc": {
@@ -139,6 +139,16 @@
             "desc": {
                 "de": "mit Speck, ital. Rohmilchkäse, Zucchini-Pesto",
                 "en": "with bacon, Taleggio (Italian raw milk cheese) and zucchini pesto"
+            },
+            "priceeuro": 16
+        },
+        {
+            "show": false,
+            "anchor": "pizza-guanciale-taleggio-cavolfiore",
+            "name": "Pizza Guanciale, Taleggio, Cavolfiore",
+            "desc": {
+                "de": "mit Speck, ital. Rohmilchkäse, Blumenkohl",
+                "en": "with bacon, Taleggio (Italian raw milk cheese) and cauliflower"
             },
             "priceeuro": 16
         },
@@ -183,7 +193,7 @@
             "priceeuro": 16
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pizza-salsiccia-rapa",
             "name": "Pizza Salsiccia Rapa",
             "desc": {
@@ -274,6 +284,16 @@
                 "en": "with Taleggio (Italian raw milk cheese) and truffles"
             },
             "priceeuro": 18
+        },
+        {
+            "show": true,
+            "anchor": "pizza-burrata-tartufo",
+            "name": "Pizza Burrata, Tartufo",
+            "desc": {
+                "de": "mit Burrata (cremiger Mozzarella), Trüffel",
+                "en": "with Burrata (creamy mozzarella) and truffles"
+            },
+            "priceeuro": 19
         }
     ]
 }

@@ -16,7 +16,7 @@
             "img": "antipasti/insalata_di_arance.webp"
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "insalata-di-finnochio",
             "name": "Insalata di Finnochio",
             "desc": {
@@ -132,7 +132,7 @@
             "priceeuro": 14
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "burrata-pomodoro",
             "name": "Burrata & Pomodoro",
             "desc": {
@@ -145,7 +145,7 @@
             "priceeuro": 16
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "prosciutto-di-parma-parmiggiano",
             "name": "Prosciutto di Parma & Parmiggiano",
             "desc": {
@@ -409,7 +409,7 @@
             "priceeuro": 18
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "rucola-fegato-di-coniglio",
             "name": "Rucola & Fegato di Coniglio",
             "desc": {
@@ -419,7 +419,7 @@
             "priceeuro": 18
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "rucola-fegato-di-anatra",
             "name": "Rucola & Fegato di Anatra",
             "desc": {
@@ -507,6 +507,16 @@
             "desc": {
                 "de": "Spargelsalat mit Gambas",
                 "en": "asparagus salad with gambas"
+            },
+            "priceeuro": 19
+        },
+        {
+            "show": true,
+            "anchor": "zuppa-di-aragosta",
+            "name": "Zuppa di aragosta",
+            "desc": {
+                "de": "Hummmersuppe",
+                "en": "lobster soup"
             },
             "priceeuro": 19
         },
@@ -643,7 +653,7 @@
             "priceeuro": 23
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "tramezzini-tonno-caviale",
             "name": "Tramezzini con Tonno e caviale",
             "desc": {

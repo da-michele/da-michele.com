@@ -27,7 +27,7 @@
             "priceeuro": 14
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "gnocchi-gorgonzola-spinaci",
             "name": "Gnocchi Gorgonzola & Spinaci",
             "desc": {
@@ -73,6 +73,16 @@
             "priceeuro": 14
         },
         {
+            "show": true,
+            "anchor": "pasta-cavolfiore",
+            "name": "Pasta Cavolfiore Guanciale",
+            "desc": {
+                "de": "Pasta mit Blumenkohl und Guanciale (Speck)",
+                "en": "Pasta with cauliflower and guanciale (bacon)"
+            },
+            "priceeuro": 16
+        },
+        {
             "show": false,
             "anchor": "pasta-salsiccia-melanzane",
             "name": "Pasta Salsiccia & Melanzane",
@@ -83,7 +93,7 @@
             "priceeuro": 16
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "spaghetti-bolognese",
             "name": "Spaghetti Bolognese",
             "desc": {
@@ -138,7 +148,7 @@
             "img": "pasta/pasta_polpette_al_sugo.webp"
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pasta-salsiccia-rapa",
             "name": "Pasta Salsiccia & Rapa",
             "desc": {
@@ -149,7 +159,7 @@
             "img": "pasta/calamarata_salsiccia_rapa.webp"
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pasta-salsiccia-ceci",
             "name": "Pasta Salsiccia & Ceci",
             "desc": {
@@ -182,7 +192,7 @@
             "priceeuro": 16
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "gnocchi-burrata",
             "name": "Gnocchi Burrata",
             "desc": {
@@ -271,7 +281,7 @@
             "priceeuro": 16
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pasta-salsiccia-tartufo",
             "name": "Pasta Salsiccia & Tartufo",
             "desc": {
@@ -376,7 +386,7 @@
             "priceeuro": 19
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "tagliolini-ragu-di-pesce",
             "name": "Tagliolini Ragu di Pesce",
             "desc": {
@@ -408,17 +418,6 @@
         },
         {
             "show": false,
-            "anchor": "pasta-aragosta",
-            "name": "Pasta Aragosta",
-            "desc": {
-                "de": "Pasta mit Hummer",
-                "en": "Pasta with lobster"
-            },
-            "priceeuro": 21,
-            "img": "pasta/pasta_aragosta.webp"
-        },
-        {
-            "show": false,
             "anchor": "ravioli-tartufo",
             "name": "Ravioli Tartufo",
             "desc": {
@@ -429,6 +428,17 @@
                 "vegetarian"
             ],
             "priceeuro": 21
+        },
+        {
+            "show": true,
+            "anchor": "pasta-aragosta",
+            "name": "Pasta Aragosta",
+            "desc": {
+                "de": "Pasta mit Hummer",
+                "en": "Pasta with lobster"
+            },
+            "priceeuro": 23,
+            "img": "pasta/pasta_aragosta.webp"
         },
         {
             "show": false,
