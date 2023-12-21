@@ -27,7 +27,7 @@
             "priceeuro": 14
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "gnocchi-gorgonzola-spinaci",
             "name": "Gnocchi Gorgonzola & Spinaci",
             "desc": {
@@ -63,7 +63,7 @@
             "priceeuro": 14
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pasta-amatriciana",
             "name": "Pasta Amatriciana",
             "desc": {
@@ -73,7 +73,7 @@
             "priceeuro": 14
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pasta-cavolfiore",
             "name": "Pasta Cavolfiore Guanciale",
             "desc": {
@@ -148,7 +148,7 @@
             "img": "pasta/pasta_polpette_al_sugo.webp"
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pasta-salsiccia-rapa",
             "name": "Pasta Salsiccia & Rapa",
             "desc": {
@@ -281,7 +281,7 @@
             "priceeuro": 16
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pasta-salsiccia-tartufo",
             "name": "Pasta Salsiccia & Tartufo",
             "desc": {
@@ -430,7 +430,7 @@
             "priceeuro": 21
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pasta-aragosta",
             "name": "Pasta Aragosta",
             "desc": {

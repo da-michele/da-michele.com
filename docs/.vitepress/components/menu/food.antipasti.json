@@ -1,22 +1,7 @@
 {
     "antipasti": [
         {
-            "show": false,
-            "anchor": "insalata-di-arance",
-            "name": "Insalata di Arance",
-            "desc": {
-                "de": "Orangensalat mit roten Zwiebeln",
-                "en": "orange salad with red onions"
-            },
-            "tags": [
-                "vegan",
-                "vegetarian"
-            ],
-            "priceeuro": 9,
-            "img": "antipasti/insalata_di_arance.webp"
-        },
-        {
-            "show": false,
+            "show": true,
             "anchor": "insalata-di-finnochio",
             "name": "Insalata di Finnochio",
             "desc": {
@@ -28,6 +13,21 @@
                 "vegetarian"
             ],
             "priceeuro": 10
+        },
+        {
+            "show": true,
+            "anchor": "insalata-di-arance",
+            "name": "Insalata di Arance",
+            "desc": {
+                "de": "Orangensalat mit roten Zwiebeln",
+                "en": "orange salad with red onions"
+            },
+            "tags": [
+                "vegan",
+                "vegetarian"
+            ],
+            "priceeuro": 12,
+            "img": "antipasti/insalata_di_arance.webp"
         },
         {
             "show": false,
@@ -83,19 +83,6 @@
         },
         {
             "show": false,
-            "anchor": "insalata-caprese",
-            "name": "Insalata Caprese",
-            "desc": {
-                "de": "Tomaten, Mozzarella, Basilikum",
-                "en": "tomatoes, mozzarella-cheese, basil"
-            },
-            "tags": [
-                "vegetarian"
-            ],
-            "priceeuro": 14
-        },
-        {
-            "show": false,
             "anchor": "insalata-di-asparagi",
             "name": "Insalata di Asparagi",
             "desc": {
@@ -130,6 +117,19 @@
                 "vegetarian"
             ],
             "priceeuro": 14
+        },
+        {
+            "show": true,
+            "anchor": "insalata-caprese",
+            "name": "Insalata Caprese",
+            "desc": {
+                "de": "Tomaten, Mozzarella, Basilikum",
+                "en": "tomatoes, mozzarella-cheese, basil"
+            },
+            "tags": [
+                "vegetarian"
+            ],
+            "priceeuro": 16
         },
         {
             "show": false,
@@ -212,7 +212,7 @@
             "priceeuro": 16
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "cozze-al-vino",
             "name": "Cozze al vino",
             "desc": {
@@ -305,7 +305,7 @@
             "priceeuro": 18
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "Vitello tonnato",
             "name": "Vitello tonnato",
             "desc": {
@@ -409,7 +409,7 @@
             "priceeuro": 18
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "rucola-fegato-di-coniglio",
             "name": "Rucola & Fegato di Coniglio",
             "desc": {
@@ -511,11 +511,11 @@
             "priceeuro": 19
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "zuppa-di-aragosta",
             "name": "Zuppa di aragosta",
             "desc": {
-                "de": "Hummmersuppe",
+                "de": "Hummersuppe",
                 "en": "lobster soup"
             },
             "priceeuro": 19
@@ -653,7 +653,7 @@
             "priceeuro": 23
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "tramezzini-tonno-caviale",
             "name": "Tramezzini con Tonno e caviale",
             "desc": {

@@ -1,7 +1,7 @@
 {
     "pizze": [
         {
-            "show": true,
+            "show": false,
             "anchor": "pizza-bufalina",
             "name": "Pizza Bufalina",
             "desc": {
@@ -53,7 +53,7 @@
             "priceeuro": 14
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pizza-alle-verdure",
             "name": "Pizza alle Verdure",
             "desc": {
@@ -67,7 +67,7 @@
             "img": "pizze/pizza_alle_verdure.webp"
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pizza-calabrese",
             "name": "Pizza Calabrese",
             "desc": {
@@ -123,7 +123,7 @@
             "priceeuro": 14
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pizza-guanciale-taleggio-pomodoro",
             "name": "Pizza Guanciale, Taleggio, Pomodoro",
             "desc": {
@@ -193,7 +193,7 @@
             "priceeuro": 16
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pizza-salsiccia-rapa",
             "name": "Pizza Salsiccia Rapa",
             "desc": {
@@ -286,7 +286,7 @@
             "priceeuro": 18
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pizza-burrata-tartufo",
             "name": "Pizza Burrata, Tartufo",
             "desc": {

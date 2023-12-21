@@ -142,7 +142,7 @@
             "img": "carne/tagliata.webp"
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "carree-di-vitello-taleggio-tartufo",
             "name": "Carree di Vitello, Taleggio & Tartufo",
             "desc": {

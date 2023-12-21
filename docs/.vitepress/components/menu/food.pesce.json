@@ -62,7 +62,7 @@
             "priceeuro": 29
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "spigula-alla-griglia",
             "name": "Spigula alla griglia",
             "desc": {
@@ -132,7 +132,7 @@
             "priceeuro": 31
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pesce-miste-nel-sud",
             "name": "Pesce miste nel Sud",
             "desc": {
