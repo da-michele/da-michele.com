@@ -62,7 +62,7 @@
             "priceeuro": 29
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "spigula-alla-griglia",
             "name": "Spigula alla griglia",
             "desc": {
@@ -82,7 +82,7 @@
             "priceeuro": 29
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pesce-spada-alla-griglia",
             "name": "Pesce Spada alla griglia",
             "desc": {

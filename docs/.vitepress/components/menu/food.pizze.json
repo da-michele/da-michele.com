@@ -90,7 +90,7 @@
             "priceeuro": 14
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pizza-gorgonzola-spinaci",
             "name": "Pizza Gorgonzola Spinaci",
             "desc": {
