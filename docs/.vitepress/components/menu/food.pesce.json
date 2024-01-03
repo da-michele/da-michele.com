@@ -52,7 +52,7 @@
             "priceeuro": 28
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "spigula-nel-sud",
             "name": "Spigula nel Sud",
             "desc": {
@@ -123,16 +123,6 @@
         },
         {
             "show": false,
-            "anchor": "merluzzo-spinaci",
-            "name": "Merluzzo & Spinaci",
-            "desc": {
-                "de": "Kabeljau auf Spinat",
-                "en": "Cod with spinach"
-            },
-            "priceeuro": 31
-        },
-        {
-            "show": true,
             "anchor": "pesce-miste-nel-sud",
             "name": "Pesce miste nel Sud",
             "desc": {
@@ -193,17 +183,6 @@
             "priceeuro": 31
         },
         {
-            "show": true,
-            "anchor": "bistecca-di-tonno-rucola",
-            "name": "Bistecca di Tonno & Rucola",
-            "desc": {
-                "de": "Thunfischsteak auf Rucola",
-                "en": "Thuna steak with lamb's lettuce"
-            },
-            "priceeuro": 32,
-            "img": "pesce/bistecca_di_tonno.webp"
-        },
-        {
             "show": false,
             "anchor": "sogliola-al-vino",
             "name": "Sogliola al vino",
@@ -222,6 +201,27 @@
                 "en": "Cod with cauliflower"
             },
             "priceeuro": 32
+        },
+        {
+            "show": true,
+            "anchor": "bistecca-di-tonno-rucola",
+            "name": "Bistecca di Tonno & Rucola",
+            "desc": {
+                "de": "Thunfischsteak auf Rucola",
+                "en": "Thuna steak with lamb's lettuce"
+            },
+            "priceeuro": 34,
+            "img": "pesce/bistecca_di_tonno.webp"
+        },
+        {
+            "show": true,
+            "anchor": "merluzzo-spinaci",
+            "name": "Merluzzo & Spinaci",
+            "desc": {
+                "de": "Kabeljau auf Spinat",
+                "en": "Cod with spinach"
+            },
+            "priceeuro": 34
         }
     ]
 }

@@ -101,7 +101,7 @@
             "priceeuro": 26
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "coscia-di-coniglio-brasata",
             "name": "Coscia di Coniglio brasata",
             "desc": {
@@ -138,7 +138,7 @@
                 "de": "Scheiben vom Rinderfilet eines Dry-Aged Black Angus auf Rucola mit frischen Cocktail-Tomaten und Parmesan",
                 "en": "sliced beef fillet of a Dry-Aged Black Angus with lamb's lettuce, fresh cocktail tomatoes and Parmesan cheese"
             },
-            "priceeuro": 32,
+            "priceeuro": 34,
             "img": "carne/tagliata.webp"
         },
         {

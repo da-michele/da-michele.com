@@ -12,7 +12,7 @@
                 "vegan",
                 "vegetarian"
             ],
-            "priceeuro": 10
+            "priceeuro": 11
         },
         {
             "show": true,
@@ -96,7 +96,7 @@
             "priceeuro": 14
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "sardelle-marinate",
             "name": "Sardelle marinate",
             "desc": {
@@ -119,7 +119,7 @@
             "priceeuro": 14
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "insalata-caprese",
             "name": "Insalata Caprese",
             "desc": {
@@ -145,7 +145,7 @@
             "priceeuro": 16
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "prosciutto-di-parma-parmiggiano",
             "name": "Prosciutto di Parma & Parmiggiano",
             "desc": {
@@ -165,7 +165,7 @@
             "priceeuro": 16
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "parmigiana",
             "name": "Parmigiana",
             "desc": {
@@ -212,7 +212,7 @@
             "priceeuro": 16
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "cozze-al-vino",
             "name": "Cozze al vino",
             "desc": {
@@ -234,6 +234,19 @@
             ],
             "priceeuro": 16,
             "img": "antipasti/burrata_caponata.webp"
+        },
+        {
+            "show": true,
+            "anchor": "burrata-ratatouille",
+            "name": "Burrata & Ratatouille",
+            "desc": {
+                "de": "Burrata (cremiger Mozzarella) mit Ratatouille",
+                "en": "Burrata (creamy mozzarella-cheese) with Ratatouille"
+            },
+            "tags": [
+                "vegetarian"
+            ],
+            "priceeuro": 16
         },
         {
             "show": false,
@@ -305,7 +318,7 @@
             "priceeuro": 18
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "Vitello tonnato",
             "name": "Vitello tonnato",
             "desc": {
@@ -314,17 +327,6 @@
             },
             "priceeuro": 18,
             "img": "antipasti/vitello_tonnato.webp"
-        },
-        {
-            "show": false,
-            "anchor": "ceviche-di-salmone",
-            "name": "Ceviche di Salmone",
-            "desc": {
-                "de": "Ceviche vom Lachs mit einem Sud aus Zitrussaft",
-                "en": "salmon ceviche with lemon juice"
-            },
-            "priceeuro": 18,
-            "img": "antipasti/ceviche_di_salmone.webp"
         },
         {
             "show": false,
@@ -368,7 +370,7 @@
             "priceeuro": 18
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "tartare-di-salmone",
             "name": "Tartare di Salmone",
             "desc": {
@@ -468,6 +470,17 @@
                 "en": "burrat (creamy mozzarella-cheese) with chanterelles and chinese cabbage"
             },
             "priceeuro": 18
+        },
+        {
+            "show": true,
+            "anchor": "ceviche-di-salmone",
+            "name": "Ceviche di Salmone",
+            "desc": {
+                "de": "Ceviche vom Lachs mit einem Sud aus Zitrussaft",
+                "en": "salmon ceviche with lemon juice"
+            },
+            "priceeuro": 19,
+            "img": "antipasti/ceviche_di_salmone.webp"
         },
         {
             "show": false,

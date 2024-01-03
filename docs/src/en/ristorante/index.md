@@ -21,10 +21,6 @@ import { withBase } from 'vitepress'
 | Saturday  | <time datetime="12:00">12 pm</time> - <time datetime="14:00">2 pm</time> | <time datetime="18:00">6 pm</time> - <time datetime="21:30">9:30 pm</time> |
 | Sunday    | Closed                                                                   | <time datetime="18:00">6 pm</time> - <time datetime="21:30">9:30 pm</time> |
 
-::: warning Note
-Our Ristorante is closed Dec. 24th 2023 through Jan. 2nd 2024.
-:::
-
 ## Team
 
 <img :src="withBase('/images/ristorante/team.webp')" alt="Team" decoding="async" loading="lazy">

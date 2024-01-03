@@ -53,7 +53,7 @@
             "priceeuro": 14
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pizza-alle-verdure",
             "name": "Pizza alle Verdure",
             "desc": {
@@ -90,7 +90,7 @@
             "priceeuro": 14
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pizza-gorgonzola-spinaci",
             "name": "Pizza Gorgonzola Spinaci",
             "desc": {
@@ -183,7 +183,7 @@
             "priceeuro": 16
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pizza-salmone-spinaci",
             "name": "Pizza Salmone Spinaci",
             "desc": {
@@ -276,7 +276,7 @@
             "priceeuro": 16
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pizza-taleggio-tartufo",
             "name": "Pizza Taleggio, Tartufo",
             "desc": {
