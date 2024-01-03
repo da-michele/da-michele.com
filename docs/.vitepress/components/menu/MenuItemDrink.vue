@@ -26,7 +26,7 @@ withDefaults(
       <table>
         <tbody>
           <tr>
-            <td width="25%" style="background-color: var(--vp-c-text-3)">
+            <td width="25%" style="background-color: var(--vp-c-text-3); box-sizing: border-box; border-radius: 10px;">
               <img v-if="drink.img" :src="withBase('/images/menu/' + drink.img)" :alt="drink.name" decoding="async" loading="lazy">
             </td>
             <td>
