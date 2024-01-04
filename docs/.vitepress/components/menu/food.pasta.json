@@ -138,7 +138,7 @@
             "img": "pasta/pasta_polpette_al_sugo.webp"
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pasta-salsiccia-rapa",
             "name": "Pasta Salsiccia & Rapa",
             "desc": {
@@ -281,7 +281,7 @@
             "priceeuro": 18
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pasta-salsiccia-tartufo",
             "name": "Pasta Salsiccia & Tartufo",
             "desc": {
@@ -355,7 +355,7 @@
             "priceeuro": 19
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "spaghetti-polpo",
             "name": "Spaghetti Polpo",
             "desc": {

@@ -52,7 +52,7 @@
             "priceeuro": 28
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "spigula-nel-sud",
             "name": "Spigula nel Sud",
             "desc": {
@@ -122,14 +122,14 @@
             "priceeuro": 29
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pesce-miste-nel-sud",
             "name": "Pesce miste nel Sud",
             "desc": {
                 "de": "gemischter Fisch im Sud",
                 "en": "mixed fish in a broth"
             },
-            "priceeuro": 31,
+            "priceeuro": 32,
             "img": "pesce/spigola_nel_brodo.webp"
         },
         {

@@ -236,7 +236,7 @@
             "img": "antipasti/burrata_caponata.webp"
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "burrata-ratatouille",
             "name": "Burrata & Ratatouille",
             "desc": {
@@ -329,7 +329,7 @@
             "img": "antipasti/vitello_tonnato.webp"
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "frittura",
             "name": "Frittura",
             "desc": {
