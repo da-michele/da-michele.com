@@ -1,16 +1,20 @@
 {
     "vinorosso": [
         {
-            "show": true,
-            "anchor": "pasqua-black-label",
-            "name": "Pasqua Black Label, Amarone della Valpolicella",
-            "img": "vino_rosso/pasqua_black_label.webp",
-            "region": "Valpolicella, Venecia",
-            "winery": "Pasqua",
-            "grapes": "Corvina, Rondinella, Corvinone, Negrara",
+            "show": false,
+            "anchor": "pietranera",
+            "name": "Pietranera Toscana, Mauro Vannucci",
+            "desc": {
+                "de": "In der Nase Kirschen und Maraska-Kirschen mit eleganten balsamischen und würzigen Noten. Am Gaumen vollmundig und einhüllend, mit charmanter Eleganz. Ausgezeichnetes Gleichgewicht zwischen Säuren und Tanninen, mit einem anhaltenden Abgang und einem angenehm süßen, frischen und fruchtigen Abgang.",
+                "en": "On the Nose cherries and Marasca cherries with elegant balsamic and spicy notes. On the Palate full bodied and enveloping, with charming elegance. Excellent balance between acids and tannins, with a persistent finish and a pleasant sweet, fresh and fruity follow-through."
+            },
+            "img": "vino_rosso/pietranera.webp",
+            "region": "Toscana",
+            "winery": "Piaggia",
+            "grapes": "80% Sangiovese, 20% Cabernet Franc",
             "bottlesize": 750,
-            "alcoholcontent": 15,
-            "priceeuro": 65
+            "alcoholcontent": 14.5,
+            "priceeuro": 36
         },
         {
             "show": true,
@@ -23,18 +27,6 @@
             "bottlesize": 750,
             "alcoholcontent": 14.5,
             "priceeuro": 45
-        },
-        {
-            "show": true,
-            "anchor": "rosso-di-montalcino-argiano",
-            "name": "Rosso di Montalcino, Argiano",
-            "img": "vino_rosso/rosso_di_montalcino_argiano.webp",
-            "region": "Rosso di Mantalcino, Toscana",
-            "winery": "Argiano",
-            "grapes": "",
-            "bottlesize": 750,
-            "alcoholcontent": 14.5,
-            "priceeuro": 48
         },
         {
             "show": false,
@@ -53,6 +45,17 @@
             "priceeuro": 45
         },
         {
+            "show": true,
+            "anchor": "rosso-di-montalcino-argiano",
+            "name": "Rosso di Montalcino, Argiano",
+            "img": "vino_rosso/rosso_di_montalcino_argiano.webp",
+            "region": "Rosso di Mantalcino, Toscana",
+            "winery": "Argiano",
+            "bottlesize": 750,
+            "alcoholcontent": 14.5,
+            "priceeuro": 48
+        },
+        {
             "show": false,
             "anchor": "chianti-riserva",
             "name": "Chianti Riserva, La Guardiola",
@@ -66,22 +69,6 @@
             "grapes": "Sangiovese",
             "bottlesize": 750,
             "alcoholcontent": 13.5
-        },
-        {
-            "show": false,
-            "anchor": "pietranera",
-            "name": "Pietranera Toscana, Mauro Vannucci",
-            "desc": {
-                "de": "In der Nase Kirschen und Maraska-Kirschen mit eleganten balsamischen und würzigen Noten. Am Gaumen vollmundig und einhüllend, mit charmanter Eleganz. Ausgezeichnetes Gleichgewicht zwischen Säuren und Tanninen, mit einem anhaltenden Abgang und einem angenehm süßen, frischen und fruchtigen Abgang.",
-                "en": "On the Nose cherries and Marasca cherries with elegant balsamic and spicy notes. On the Palate full bodied and enveloping, with charming elegance. Excellent balance between acids and tannins, with a persistent finish and a pleasant sweet, fresh and fruity follow-through."
-            },
-            "img": "vino_rosso/pietranera.webp",
-            "region": "Toscana",
-            "winery": "Piaggia",
-            "grapes": "80% Sangiovese, 20% Cabernet Franc",
-            "bottlesize": 750,
-            "alcoholcontent": 14.5,
-            "priceeuro": 36
         },
         {
             "show": false,
@@ -124,6 +111,18 @@
             "bottlesize": 750,
             "alcoholcontent": 15,
             "priceeuro": 58
+        },
+        {
+            "show": true,
+            "anchor": "pasqua-black-label",
+            "name": "Pasqua Black Label, Amarone della Valpolicella",
+            "img": "vino_rosso/pasqua_black_label.webp",
+            "region": "Valpolicella, Venecia",
+            "winery": "Pasqua",
+            "grapes": "Corvina, Rondinella, Corvinone, Negrara",
+            "bottlesize": 750,
+            "alcoholcontent": 15,
+            "priceeuro": 65
         },
         {
             "show": false,
