@@ -39,7 +39,19 @@
             "winery": "St. Pauls",
             "grapes": "Sauvignon Blanc",
             "bottlesize": 750,
-            "alcoholcontent": 13.5
+            "alcoholcontent": 13.5,
+            "priceeuro": 38
+        },
+        {
+            "show": true,
+            "anchor": "chardonnay-kreuth",
+            "name": "Terlan, Chardonnay Kreuth",
+            "region": "Alto Adige",
+            "winery": "Terlan",
+            "grapes": "Chardonnay",
+            "bottlesize": 750,
+            "alcoholcontent": 14,
+            "priceeuro": 42
         },
         {
             "show": false,
@@ -73,6 +85,17 @@
         },
         {
             "show": true,
+            "anchor": "conte-della-vipera",
+            "name": "Antonori, Conti della Vipera",
+            "region": "Cortona, Arezzo",
+            "winery": "Antinori",
+            "grapes": "Sauvignon Blanc, Sémillon",
+            "bottlesize": 750,
+            "alcoholcontent": 12.5,
+            "priceeuro": 60
+        },
+        {
+            "show": false,
             "anchor": "roero-arneis",
             "name": "Roero Arneis, Matteo Correggia",
             "desc": {
@@ -129,7 +152,8 @@
             "winery": "San Salvatore 1988",
             "grapes": "Fiano",
             "bottlesize": 750,
-            "alcoholcontent": 13.5
+            "alcoholcontent": 13.5,
+            "priceeuro": 38
         },
         {
             "show": false,

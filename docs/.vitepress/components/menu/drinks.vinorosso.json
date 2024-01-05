@@ -34,7 +34,7 @@
             "grapes": "",
             "bottlesize": 750,
             "alcoholcontent": 14.5,
-            "priceeuro": 45
+            "priceeuro": 48
         },
         {
             "show": false,
@@ -114,6 +114,16 @@
             "bottlesize": 750,
             "alcoholcontent": 14,
             "priceeuro": 45
+        },
+        {
+            "show": true,
+            "anchor": "prunotto-pian-romualdo",
+            "name": "Prunotto, Barbera d'Alba, Pian Romualdo",
+            "region": "Alba",
+            "winery": "Prunotto",
+            "bottlesize": 750,
+            "alcoholcontent": 15,
+            "priceeuro": 58
         },
         {
             "show": false,

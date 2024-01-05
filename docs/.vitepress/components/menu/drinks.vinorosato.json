@@ -13,7 +13,8 @@
             "winery": "San Salvatore 1988",
             "grapes": "Aglianico",
             "bottlesize": 750,
-            "alcoholcontent": 12
+            "alcoholcontent": 12,
+            "priceeuro": 36
         }
     ]
 }
