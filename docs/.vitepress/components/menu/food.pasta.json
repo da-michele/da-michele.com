@@ -138,17 +138,6 @@
             "img": "pasta/pasta_polpette_al_sugo.webp"
         },
         {
-            "show": true,
-            "anchor": "pasta-salsiccia-rapa",
-            "name": "Pasta Salsiccia & Rapa",
-            "desc": {
-                "de": "Pasta mit Salsiccia (ital. Frischwurst) und Rapa (Stängelkohl)",
-                "en": "Pasta with Salsiccia (Italian raw meat sausage) and Rapa (slightly bitter Italian broccoli-like vegetable)"
-            },
-            "priceeuro": 16,
-            "img": "pasta/calamarata_salsiccia_rapa.webp"
-        },
-        {
             "show": false,
             "anchor": "pasta-salsiccia-ceci",
             "name": "Pasta Salsiccia & Ceci",
@@ -259,6 +248,17 @@
                 "vegetarian"
             ],
             "priceeuro": 16
+        },
+        {
+            "show": true,
+            "anchor": "pasta-salsiccia-rapa",
+            "name": "Pasta Salsiccia & Rapa",
+            "desc": {
+                "de": "Pasta mit Salsiccia (ital. Frischwurst) und Rapa (Stängelkohl)",
+                "en": "Pasta with Salsiccia (Italian raw meat sausage) and Rapa (slightly bitter Italian broccoli-like vegetable)"
+            },
+            "priceeuro": 18,
+            "img": "pasta/calamarata_salsiccia_rapa.webp"
         },
         {
             "show": true,

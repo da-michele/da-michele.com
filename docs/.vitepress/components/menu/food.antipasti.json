@@ -145,7 +145,7 @@
             "priceeuro": 16
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "prosciutto-di-parma-parmiggiano",
             "name": "Prosciutto di Parma & Parmiggiano",
             "desc": {
@@ -236,7 +236,7 @@
             "img": "antipasti/burrata_caponata.webp"
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "burrata-ratatouille",
             "name": "Burrata & Ratatouille",
             "desc": {
