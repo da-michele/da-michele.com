@@ -45,17 +45,6 @@
             "priceeuro": 45
         },
         {
-            "show": true,
-            "anchor": "rosso-di-montalcino-argiano",
-            "name": "Rosso di Montalcino, Argiano",
-            "img": "vino_rosso/rosso_di_montalcino_argiano.webp",
-            "region": "Rosso di Mantalcino, Toscana",
-            "winery": "Argiano",
-            "bottlesize": 750,
-            "alcoholcontent": 14.5,
-            "priceeuro": 48
-        },
-        {
             "show": false,
             "anchor": "chianti-riserva",
             "name": "Chianti Riserva, La Guardiola",
@@ -101,6 +90,17 @@
             "bottlesize": 750,
             "alcoholcontent": 14,
             "priceeuro": 45
+        },
+        {
+            "show": true,
+            "anchor": "rosso-di-montalcino-argiano",
+            "name": "Rosso di Montalcino, Argiano",
+            "img": "vino_rosso/rosso_di_montalcino_argiano.webp",
+            "region": "Rosso di Mantalcino, Toscana",
+            "winery": "Argiano",
+            "bottlesize": 750,
+            "alcoholcontent": 14.5,
+            "priceeuro": 48
         },
         {
             "show": true,

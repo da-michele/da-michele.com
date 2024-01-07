@@ -9,7 +9,8 @@
             "winery": "Planeta",
             "grapes": "Grillo",
             "bottlesize": 750,
-            "alcoholcontent": 13.5
+            "alcoholcontent": 13.5,
+            "priceeuro": 38
         },
         {
             "show": false,
