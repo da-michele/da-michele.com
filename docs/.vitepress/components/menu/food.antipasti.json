@@ -1,7 +1,7 @@
 {
     "antipasti": [
         {
-            "show": true,
+            "show": false,
             "anchor": "insalata-di-finnochio",
             "name": "Insalata di Finnochio",
             "desc": {
@@ -15,7 +15,7 @@
             "priceeuro": 11
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "insalata-di-arance",
             "name": "Insalata di Arance",
             "desc": {
@@ -28,6 +28,20 @@
             ],
             "priceeuro": 12,
             "img": "antipasti/insalata_di_arance.webp"
+        },
+        {
+            "show": true,
+            "anchor": "insalata-di-finnochio-arance",
+            "name": "Insalata di Finnochio & Arance",
+            "desc": {
+                "de": "Fenchel-Orangensalat",
+                "en": "salad with fennel and orange"
+            },
+            "tags": [
+                "vegan",
+                "vegetarian"
+            ],
+            "priceeuro": 12
         },
         {
             "show": false,
@@ -97,16 +111,6 @@
         },
         {
             "show": false,
-            "anchor": "sardelle-marinate",
-            "name": "Sardelle marinate",
-            "desc": {
-                "de": "marinierte Sardellen",
-                "en": "marinated anchovies"
-            },
-            "priceeuro": 14
-        },
-        {
-            "show": false,
             "anchor": "mozzarella-di-buffala-pomodoro",
             "name": "Mozzarella di Buffala & Pomodoro",
             "desc": {
@@ -117,6 +121,16 @@
                 "vegetarian"
             ],
             "priceeuro": 14
+        },
+        {
+            "show": true,
+            "anchor": "sardelle-marinate",
+            "name": "Sardelle marinate",
+            "desc": {
+                "de": "marinierte Sardellen",
+                "en": "marinated anchovies"
+            },
+            "priceeuro": 16
         },
         {
             "show": false,
@@ -165,7 +179,7 @@
             "priceeuro": 16
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "parmigiana",
             "name": "Parmigiana",
             "desc": {
@@ -222,7 +236,7 @@
             "priceeuro": 16
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "burrata-caponata",
             "name": "Burrata & Caponata",
             "desc": {
@@ -236,7 +250,7 @@
             "img": "antipasti/burrata_caponata.webp"
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "burrata-ratatouille",
             "name": "Burrata & Ratatouille",
             "desc": {
@@ -329,7 +343,7 @@
             "img": "antipasti/vitello_tonnato.webp"
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "frittura",
             "name": "Frittura",
             "desc": {

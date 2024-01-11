@@ -93,7 +93,7 @@
             "priceeuro": 16
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "spaghetti-bolognese",
             "name": "Spaghetti Bolognese",
             "desc": {
@@ -250,7 +250,7 @@
             "priceeuro": 16
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pasta-salsiccia-rapa",
             "name": "Pasta Salsiccia & Rapa",
             "desc": {
@@ -281,7 +281,7 @@
             "priceeuro": 18
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pasta-salsiccia-tartufo",
             "name": "Pasta Salsiccia & Tartufo",
             "desc": {
@@ -322,6 +322,16 @@
             "priceeuro": 18
         },
         {
+            "show": true,
+            "anchor": "pasta-pesto-gamberetti",
+            "name": "Pasta Pesto & Gamberetti",
+            "desc": {
+                "de": "Pasta mit Pesto und Garnelen",
+                "en": "Pasta with pesto and shrimps"
+            },
+            "priceeuro": 19
+        },
+        {
             "show": false,
             "anchor": "tagliatelle-porcini",
             "name": "Tagliatelle Porcini",
@@ -355,7 +365,7 @@
             "priceeuro": 19
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "spaghetti-polpo",
             "name": "Spaghetti Polpo",
             "desc": {
@@ -376,12 +386,12 @@
             "img": "pasta/spaghetti_vongole.webp"
         },
         {
-            "show": false,
-            "anchor": "tagliatelle-ragu-di-pesce",
-            "name": "Tagliatelle Ragu di Pesce",
+            "show": true,
+            "anchor": "pasta-ragu-di-pesce",
+            "name": "Pasta Ragu di Pesce",
             "desc": {
-                "de": "Tagliatelle mit Fischragout",
-                "en": "Tagliatelle with fish ragout"
+                "de": "Pasta mit Fischragout",
+                "en": "Pasta with fish ragout"
             },
             "priceeuro": 19
         },

@@ -62,7 +62,7 @@
             "priceeuro": 29
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "spigula-alla-griglia",
             "name": "Spigula alla griglia",
             "desc": {
@@ -122,7 +122,7 @@
             "priceeuro": 29
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pesce-miste-nel-sud",
             "name": "Pesce miste nel Sud",
             "desc": {
@@ -154,31 +154,11 @@
         },
         {
             "show": false,
-            "anchor": "pesce-rombo-spinaci",
-            "name": "Pesce Rombo & Spinaci",
-            "desc": {
-                "de": "Steinbutt auf Spinat",
-                "en": "Turbot with spinach"
-            },
-            "priceeuro": 31
-        },
-        {
-            "show": false,
             "anchor": "pesce-rombo-nel-sud",
             "name": "Pesce Rombo nel sud",
             "desc": {
                 "de": "Steinbutt in einer Tomatenbrühe",
                 "en": "Turbot in a tomato broth"
-            },
-            "priceeuro": 31
-        },
-        {
-            "show": false,
-            "anchor": "merluzzo-nel-sud-pomodoro",
-            "name": "Merluzzo nel sud pomodoro",
-            "desc": {
-                "de": "Kabeljau im Tomatensud",
-                "en": "Cod in a tomato broth"
             },
             "priceeuro": 31
         },
@@ -214,12 +194,32 @@
             "img": "pesce/bistecca_di_tonno.webp"
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "merluzzo-spinaci",
             "name": "Merluzzo & Spinaci",
             "desc": {
                 "de": "Kabeljau auf Spinat",
                 "en": "Cod with spinach"
+            },
+            "priceeuro": 34
+        },
+        {
+            "show": true,
+            "anchor": "merluzzo-nel-sud-pomodoro",
+            "name": "Merluzzo nel sud pomodoro",
+            "desc": {
+                "de": "Kabeljau im Tomatensud",
+                "en": "Cod in a tomato broth"
+            },
+            "priceeuro": 34
+        },
+        {
+            "show": true,
+            "anchor": "pesce-rombo-spinaci",
+            "name": "Pesce Rombo & Spinaci",
+            "desc": {
+                "de": "Steinbutt auf Spinat",
+                "en": "Turbot with spinach"
             },
             "priceeuro": 34
         }
