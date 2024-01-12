@@ -101,7 +101,7 @@
             "priceeuro": 26
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "coscia-di-coniglio-brasata",
             "name": "Coscia di Coniglio brasata",
             "desc": {
@@ -142,7 +142,7 @@
             "img": "carne/tagliata.webp"
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "carree-di-vitello-taleggio-tartufo",
             "name": "Carree di Vitello, Taleggio & Tartufo",
             "desc": {

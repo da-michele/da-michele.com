@@ -67,7 +67,7 @@
             "img": "pizze/pizza_alle_verdure.webp"
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pizza-calabrese",
             "name": "Pizza Calabrese",
             "desc": {

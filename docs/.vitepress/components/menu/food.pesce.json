@@ -123,17 +123,6 @@
         },
         {
             "show": false,
-            "anchor": "pesce-miste-nel-sud",
-            "name": "Pesce miste nel Sud",
-            "desc": {
-                "de": "gemischter Fisch im Sud",
-                "en": "mixed fish in a broth"
-            },
-            "priceeuro": 32,
-            "img": "pesce/spigola_nel_brodo.webp"
-        },
-        {
-            "show": false,
             "anchor": "pesce-miste-alla-griglia",
             "name": "Pesce miste alla griglia",
             "desc": {
@@ -157,10 +146,21 @@
             "anchor": "pesce-rombo-nel-sud",
             "name": "Pesce Rombo nel sud",
             "desc": {
-                "de": "Steinbutt in einer Tomatenbrühe",
+                "de": "Steinbutt in einer Tomatensud",
                 "en": "Turbot in a tomato broth"
             },
             "priceeuro": 31
+        },
+        {
+            "show": true,
+            "anchor": "pesce-miste-nel-sud",
+            "name": "Pesce miste nel Sud",
+            "desc": {
+                "de": "gemischter Fisch im Sud",
+                "en": "mixed fish in a broth"
+            },
+            "priceeuro": 32,
+            "img": "pesce/spigola_nel_brodo.webp"
         },
         {
             "show": false,
@@ -194,7 +194,7 @@
             "img": "pesce/bistecca_di_tonno.webp"
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "merluzzo-spinaci",
             "name": "Merluzzo & Spinaci",
             "desc": {
@@ -204,7 +204,7 @@
             "priceeuro": 34
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "merluzzo-nel-sud-pomodoro",
             "name": "Merluzzo nel sud pomodoro",
             "desc": {
@@ -214,7 +214,7 @@
             "priceeuro": 34
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pesce-rombo-spinaci",
             "name": "Pesce Rombo & Spinaci",
             "desc": {

@@ -50,17 +50,17 @@
             "priceeuro": 14
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pasta-amatriciana",
             "name": "Pasta Amatriciana",
             "desc": {
                 "de": "Pasta mit Guanciale (Speck), Pecorino (ital. Hartkäse) und Tomaten",
                 "en": "Pasta with guanciale (bacon), Pecorino cheese and tomatoes"
             },
-            "priceeuro": 14
+            "priceeuro": 16
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "gnocchi-gorgonzola-spinaci",
             "name": "Gnocchi Gorgonzola & Spinaci",
             "desc": {
@@ -322,7 +322,7 @@
             "priceeuro": 18
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pasta-pesto-gamberetti",
             "name": "Pasta Pesto & Gamberetti",
             "desc": {
@@ -355,7 +355,7 @@
             "priceeuro": 19
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pasta-ragu-di-coniglio",
             "name": "Pasta Ragu di Coniglio",
             "desc": {
