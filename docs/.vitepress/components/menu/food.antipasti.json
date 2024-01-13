@@ -226,7 +226,7 @@
             "priceeuro": 16
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "cozze-al-vino",
             "name": "Cozze al vino",
             "desc": {
@@ -680,7 +680,7 @@
             "priceeuro": 23
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "capesante-fagioli",
             "name": "Capesante & Fagioli",
             "desc": {

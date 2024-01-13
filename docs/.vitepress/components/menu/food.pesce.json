@@ -152,7 +152,7 @@
             "priceeuro": 31
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pesce-miste-nel-sud",
             "name": "Pesce miste nel Sud",
             "desc": {
@@ -194,7 +194,7 @@
             "img": "pesce/bistecca_di_tonno.webp"
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "merluzzo-spinaci",
             "name": "Merluzzo & Spinaci",
             "desc": {
@@ -204,7 +204,7 @@
             "priceeuro": 34
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "merluzzo-nel-sud-pomodoro",
             "name": "Merluzzo nel sud pomodoro",
             "desc": {

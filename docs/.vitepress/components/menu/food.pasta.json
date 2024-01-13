@@ -355,7 +355,7 @@
             "priceeuro": 19
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pasta-ragu-di-coniglio",
             "name": "Pasta Ragu di Coniglio",
             "desc": {
