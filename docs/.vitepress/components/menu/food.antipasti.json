@@ -123,7 +123,7 @@
             "priceeuro": 14
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "prosciutto-di-parma-parmiggiano",
             "name": "Prosciutto di Parma & Parmiggiano",
             "desc": {
@@ -232,6 +232,16 @@
             "desc": {
                 "de": "Miesmuscheln in Wein",
                 "en": "mussels in wine"
+            },
+            "priceeuro": 16
+        },
+        {
+            "show": true,
+            "anchor": "cozze-al-pomodoro",
+            "name": "Cozze al pomodoro",
+            "desc": {
+                "de": "Miesmuscheln in Tomatensud",
+                "en": "mussels in a tomato broth"
             },
             "priceeuro": 16
         },

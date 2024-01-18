@@ -2,19 +2,6 @@
     "pasta": [
         {
             "show": false,
-            "anchor": "pasta-sorrentina",
-            "name": "Pasta Sorrentina",
-            "desc": {
-                "de": "Pasta mit Tomaten und Büffelmozzarella",
-                "en": "Pasta with tomato and buffalo mozzarella-cheese"
-            },
-            "tags": [
-                "vegetarian"
-            ],
-            "priceeuro": 14
-        },
-        {
-            "show": false,
             "anchor": "pasta-pesto",
             "name": "Pasta Pesto",
             "desc": {
@@ -51,6 +38,19 @@
         },
         {
             "show": true,
+            "anchor": "pasta-sorrentina",
+            "name": "Pasta Sorrentina",
+            "desc": {
+                "de": "Pasta mit Tomaten und Büffelmozzarella",
+                "en": "Pasta with tomato and buffalo mozzarella-cheese"
+            },
+            "tags": [
+                "vegetarian"
+            ],
+            "priceeuro": 16
+        },
+        {
+            "show": false,
             "anchor": "pasta-amatriciana",
             "name": "Pasta Amatriciana",
             "desc": {
@@ -93,7 +93,7 @@
             "priceeuro": 16
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "spaghetti-bolognese",
             "name": "Spaghetti Bolognese",
             "desc": {
@@ -365,14 +365,14 @@
             "priceeuro": 19
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "spaghetti-polpo",
             "name": "Spaghetti Polpo",
             "desc": {
                 "de": "Spaghetti mit Tintenfisch",
                 "en": "Spaghetti with octopus"
             },
-            "priceeuro": 19
+            "priceeuro": 21
         },
         {
             "show": false,

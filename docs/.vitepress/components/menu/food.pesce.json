@@ -152,7 +152,7 @@
             "priceeuro": 31
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pesce-miste-nel-sud",
             "name": "Pesce miste nel Sud",
             "desc": {
@@ -204,7 +204,7 @@
             "priceeuro": 34
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "merluzzo-nel-sud-pomodoro",
             "name": "Merluzzo nel sud pomodoro",
             "desc": {
@@ -220,6 +220,16 @@
             "desc": {
                 "de": "Steinbutt auf Spinat",
                 "en": "Turbot with spinach"
+            },
+            "priceeuro": 34
+        },
+        {
+            "show": false,
+            "anchor": "piccola-rana-pescatrice-patate",
+            "name": "Piccola rana pescatrice & Patate",
+            "desc": {
+                "de": "Baby-Seeteufel mit Kartoffel",
+                "en": "Baby monkfish with potato"
             },
             "priceeuro": 34
         }
