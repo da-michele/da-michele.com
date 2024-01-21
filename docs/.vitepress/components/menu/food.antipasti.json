@@ -236,7 +236,7 @@
             "priceeuro": 16
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "cozze-al-pomodoro",
             "name": "Cozze al pomodoro",
             "desc": {
@@ -395,17 +395,6 @@
         },
         {
             "show": false,
-            "anchor": "tartare-di-salmone",
-            "name": "Tartare di Salmone",
-            "desc": {
-                "de": "Lachstartar",
-                "en": "salmon tartare"
-            },
-            "priceeuro": 18,
-            "img": "antipasti/tartare_di_salmone.webp"
-        },
-        {
-            "show": false,
             "anchor": "carpaccio-del-lingua-bovina",
             "name": "Carpaccio del Lingua bovina",
             "desc": {
@@ -497,6 +486,17 @@
         },
         {
             "show": true,
+            "anchor": "tartare-di-salmone",
+            "name": "Tartare di Salmone",
+            "desc": {
+                "de": "Lachstartar",
+                "en": "salmon tartare"
+            },
+            "priceeuro": 19,
+            "img": "antipasti/tartare_di_salmone.webp"
+        },
+        {
+            "show": false,
             "anchor": "ceviche-di-salmone",
             "name": "Ceviche di Salmone",
             "desc": {
