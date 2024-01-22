@@ -236,7 +236,7 @@
             "priceeuro": 16
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "cozze-al-pomodoro",
             "name": "Cozze al pomodoro",
             "desc": {

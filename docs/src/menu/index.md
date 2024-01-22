@@ -1,5 +1,5 @@
 ---
-date: 2024-01-21
+date: 2024-01-22
 editLink: false
 head:
   - [meta, { property: 'og:title', content: 'Tageskarte | Ristorante da Michele, Baden-Baden' }]
@@ -7,7 +7,7 @@ head:
   - [meta, { property: 'og:type', content: article }]
   - [meta, { property: 'article:section', content: Tageskarte }]
   - [meta, { property: 'article:author', content: 'Vincenzo Romano' }]
-  - [meta, { property: 'article:modified_time', content: 2024-01-21 }]
+  - [meta, { property: 'article:modified_time', content: 2024-01-22 }]
 outline: 2
 sitemap:
   changefreq: hourly

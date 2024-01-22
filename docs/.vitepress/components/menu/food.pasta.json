@@ -271,7 +271,7 @@
             "priceeuro": 18
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "spaghetti-cozze",
             "name": "Spaghetti Cozze",
             "desc": {
