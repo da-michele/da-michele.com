@@ -21,7 +21,7 @@
             "priceeuro": 27
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "seppia-alla-griglia",
             "name": "Seppia alla griglia",
             "desc": {
@@ -32,7 +32,7 @@
             "img": "pesce/seppia.webp"
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "filetto-di-spigula-alla-griglia",
             "name": "Filetto di Spigula alla griglia",
             "desc": {
@@ -82,7 +82,7 @@
             "priceeuro": 29
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pesce-spada-alla-griglia",
             "name": "Pesce Spada alla griglia",
             "desc": {
@@ -183,7 +183,7 @@
             "priceeuro": 32
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "bistecca-di-tonno-rucola",
             "name": "Bistecca di Tonno & Rucola",
             "desc": {

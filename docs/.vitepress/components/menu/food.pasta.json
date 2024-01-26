@@ -355,7 +355,7 @@
             "priceeuro": 19
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pasta-ragu-di-coniglio",
             "name": "Pasta Ragu di Coniglio",
             "desc": {
@@ -386,7 +386,7 @@
             "img": "pasta/spaghetti_vongole.webp"
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pasta-ragu-di-pesce",
             "name": "Pasta Ragu di Pesce",
             "desc": {

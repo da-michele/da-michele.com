@@ -58,7 +58,7 @@
             "priceeuro": 12
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "insalata-capricciosa",
             "name": "Insalata Capricciosa",
             "tags": [
@@ -110,20 +110,7 @@
             "priceeuro": 14
         },
         {
-            "show": false,
-            "anchor": "mozzarella-di-buffala-pomodoro",
-            "name": "Mozzarella di Buffala & Pomodoro",
-            "desc": {
-                "de": "Büffelmozzarella mit Tomate",
-                "en": "Buffalo mozzarella-cheese with tomatoes"
-            },
-            "tags": [
-                "vegetarian"
-            ],
-            "priceeuro": 14
-        },
-        {
-            "show": false,
+            "show": true,
             "anchor": "prosciutto-di-parma-parmiggiano",
             "name": "Prosciutto di Parma & Parmiggiano",
             "desc": {
@@ -134,6 +121,19 @@
         },
         {
             "show": true,
+            "anchor": "mozzarella-di-buffala-pomodoro",
+            "name": "Mozzarella di Buffala & Pomodoro",
+            "desc": {
+                "de": "Büffelmozzarella mit Tomate",
+                "en": "Buffalo mozzarella-cheese with tomatoes"
+            },
+            "tags": [
+                "vegetarian"
+            ],
+            "priceeuro": 16
+        },
+        {
+            "show": false,
             "anchor": "sardelle-marinate",
             "name": "Sardelle marinate",
             "desc": {
@@ -246,7 +246,7 @@
             "priceeuro": 16
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "burrata-caponata",
             "name": "Burrata & Caponata",
             "desc": {
@@ -424,7 +424,7 @@
             "priceeuro": 18
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "rucola-fegato-di-coniglio",
             "name": "Rucola & Fegato di Coniglio",
             "desc": {
