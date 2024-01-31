@@ -60,7 +60,7 @@
             "priceeuro": 16
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "gnocchi-gorgonzola-spinaci",
             "name": "Gnocchi Gorgonzola & Spinaci",
             "desc": {
@@ -161,7 +161,7 @@
             "priceeuro": 16
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "gnocchi-burrata",
             "name": "Gnocchi Burrata",
             "desc": {

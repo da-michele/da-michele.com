@@ -142,14 +142,14 @@
             "img": "carne/tagliata.webp"
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "carree-di-vitello-taleggio-tartufo",
             "name": "Carree di Vitello, Taleggio & Tartufo",
             "desc": {
                 "de": "Kalbskarrée mit Taleggio (ital. Rohmilchkäse) und Trüffel",
                 "en": "veal carrée with Taleggio (Italian raw milk cheese) and truffles"
             },
-            "priceeuro": 36,
+            "priceeuro": 39,
             "img": "carne/carree_di_vitello.webp"
         },
         {
