@@ -2,18 +2,24 @@ import type { EnhanceAppContext } from 'vitepress'
 import DefaultTheme from 'vitepress/theme'
 import { h } from 'vue'
 
-import CustomDocAfter from './components/CustomDocAfter.vue'
-import CustomNavScreenContentBefore from './components/CustomNavScreenContentBefore.vue'
-import CustomSidebarNavBefore from './components/CustomSidebarNavBefore.vue'
-import CustomSidebarNavAfter from './components/CustomSidebarNavAfter.vue'
+// default theme imports
 
 import VPButton from 'vitepress/dist/client/theme-default/components/VPButton.vue'
 import VPSocialLink from 'vitepress/dist/client/theme-default/components/VPSocialLink.vue'
+
+// local imports
 
 import MenuItems from '../components/menu/MenuItems.vue'
 
 import HeroImage from '../components/global/HeroImage.vue'
 import RistoranteAddress from '../components/global/RistoranteAddress.vue'
+
+// theme imports
+
+import CustomDocAfter from './components/CustomDocAfter.vue'
+import CustomNavScreenContentBefore from './components/CustomNavScreenContentBefore.vue'
+import CustomSidebarNavBefore from './components/CustomSidebarNavBefore.vue'
+import CustomSidebarNavAfter from './components/CustomSidebarNavAfter.vue'
 
 import './styles/custom.scss'
 
