@@ -60,7 +60,7 @@ export const deConfig: LocaleSpecificConfig<DefaultTheme.Config> = defineConfig(
     returnToTopLabel: 'Zurück zum Seitenanfang',
     sidebar: [
       { text: 'Startseite', link: '/' },
-      { text: 'Tageskarte', link: '/menu/' },
+      { text: 'Tageskarte <span class="VPBadge warning small">aktuell!</span>', link: '/menu/' },
       {
         text: 'Ristorante',
         items: [

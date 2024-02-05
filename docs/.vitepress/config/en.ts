@@ -60,7 +60,7 @@ export const enConfig: LocaleSpecificConfig<DefaultTheme.Config> = defineConfig(
     returnToTopLabel: 'Return to top',
     sidebar: [
       { text: 'Home', link: '/en/' },
-      { text: "Today's menu", link: '/en/menu/' },
+      { text: 'Today\'s menu <span class="VPBadge warning small">up to date!</span>', link: '/en/menu/' },
       {
         text: 'Ristorante',
         items: [
