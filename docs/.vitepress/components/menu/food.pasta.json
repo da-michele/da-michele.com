@@ -271,7 +271,7 @@
             "img": "pasta/calamarata_salsiccia_rapa.webp"
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "spaghetti-cozze",
             "name": "Spaghetti Cozze",
             "desc": {
