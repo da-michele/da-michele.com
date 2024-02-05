@@ -37,7 +37,7 @@
             "priceeuro": 14
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pasta-sorrentina",
             "name": "Pasta Sorrentina",
             "desc": {
@@ -50,7 +50,7 @@
             "priceeuro": 16
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pasta-amatriciana",
             "name": "Pasta Amatriciana",
             "desc": {
@@ -60,7 +60,7 @@
             "priceeuro": 16
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "gnocchi-gorgonzola-spinaci",
             "name": "Gnocchi Gorgonzola & Spinaci",
             "desc": {
@@ -93,7 +93,7 @@
             "priceeuro": 16
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "spaghetti-bolognese",
             "name": "Spaghetti Bolognese",
             "desc": {
@@ -128,17 +128,6 @@
         },
         {
             "show": false,
-            "anchor": "pasta-polpette-al-sugo",
-            "name": "Pasta Polpette al sugo",
-            "desc": {
-                "de": "Pasta mit Hackfleischbällchen in Tomatensauce",
-                "en": "Spaghetti with meat balls in tomato sauce"
-            },
-            "priceeuro": 16,
-            "img": "pasta/pasta_polpette_al_sugo.webp"
-        },
-        {
-            "show": false,
             "anchor": "pasta-salsiccia-ceci",
             "name": "Pasta Salsiccia & Ceci",
             "desc": {
@@ -161,7 +150,7 @@
             "priceeuro": 16
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "gnocchi-burrata",
             "name": "Gnocchi Burrata",
             "desc": {
@@ -250,6 +239,27 @@
             "priceeuro": 16
         },
         {
+            "show": true,
+            "anchor": "pasta-salmone-spinaci",
+            "name": "Pasta Salmone & Spinaci",
+            "desc": {
+                "de": "Pasta mit Lachs und Spinat",
+                "en": "Pasta with salmon and spinach"
+            },
+            "priceeuro": 16
+        },
+        {
+            "show": true,
+            "anchor": "pasta-polpette-al-sugo",
+            "name": "Pasta Polpette al Sugo",
+            "desc": {
+                "de": "Pasta mit Hackfleischbällchen in Tomatensauce",
+                "en": "Spaghetti with meat balls in tomato sauce"
+            },
+            "priceeuro": 18,
+            "img": "pasta/pasta_polpette_al_sugo.webp"
+        },
+        {
             "show": false,
             "anchor": "pasta-salsiccia-rapa",
             "name": "Pasta Salsiccia & Rapa",
@@ -259,16 +269,6 @@
             },
             "priceeuro": 18,
             "img": "pasta/calamarata_salsiccia_rapa.webp"
-        },
-        {
-            "show": true,
-            "anchor": "pasta-salmone-spinaci",
-            "name": "Pasta Salmone & Spinaci",
-            "desc": {
-                "de": "Pasta mit Lachs und Spinat",
-                "en": "Pasta with salmon and spinach"
-            },
-            "priceeuro": 18
         },
         {
             "show": true,

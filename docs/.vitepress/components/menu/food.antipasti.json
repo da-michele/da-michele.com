@@ -226,7 +226,7 @@
             "priceeuro": 16
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "cozze-al-vino",
             "name": "Cozze al vino",
             "desc": {
@@ -246,7 +246,7 @@
             "priceeuro": 16
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "burrata-caponata",
             "name": "Burrata & Caponata",
             "desc": {
@@ -424,7 +424,7 @@
             "priceeuro": 18
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "rucola-fegato-di-coniglio",
             "name": "Rucola & Fegato di Coniglio",
             "desc": {
