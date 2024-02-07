@@ -113,7 +113,7 @@
             "priceeuro": 14
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pizza-mortadella",
             "name": "Pizza Mortadella",
             "desc": {

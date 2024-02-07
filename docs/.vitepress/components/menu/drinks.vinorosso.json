@@ -17,7 +17,7 @@
             "priceeuro": 36
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "barbera-d-alba",
             "name": "Barbera d'Alba, Cordero di Montezemolo",
             "img": "vino_rosso/barbera_cordero_di_montezemolo.webp",
@@ -76,7 +76,7 @@
             "priceeuro": 45
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "jungano",
             "name": "Jungano, San Salvatore 1988",
             "desc": {
@@ -92,7 +92,7 @@
             "priceeuro": 45
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "rosso-di-montalcino-argiano",
             "name": "Rosso di Montalcino, Argiano",
             "img": "vino_rosso/rosso_di_montalcino_argiano.webp",
@@ -103,7 +103,7 @@
             "priceeuro": 48
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "prunotto-pian-romualdo",
             "name": "Prunotto, Barbera d'Alba, Pian Romualdo",
             "region": "Alba",
@@ -113,7 +113,7 @@
             "priceeuro": 58
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pasqua-black-label",
             "name": "Pasqua Black Label, Amarone della Valpolicella",
             "img": "vino_rosso/pasqua_black_label.webp",

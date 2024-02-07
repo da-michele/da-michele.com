@@ -49,7 +49,7 @@
                 "de": "Wolfsbarsch mit geschmortem Gemüse",
                 "en": "Grilled sea bass with braised vegetables"
             },
-            "priceeuro": 28
+            "priceeuro": 29
         },
         {
             "show": false,
@@ -62,7 +62,7 @@
             "priceeuro": 29
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "spigula-alla-griglia",
             "name": "Spigula alla griglia",
             "desc": {

@@ -30,7 +30,7 @@
             "img": "antipasti/insalata_di_arance.webp"
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "insalata-di-finnochio-arance",
             "name": "Insalata di Finnochio & Arance",
             "desc": {
@@ -179,7 +179,7 @@
             "priceeuro": 16
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "parmigiana",
             "name": "Parmigiana",
             "desc": {
@@ -424,7 +424,7 @@
             "priceeuro": 18
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "rucola-fegato-di-coniglio",
             "name": "Rucola & Fegato di Coniglio",
             "desc": {
