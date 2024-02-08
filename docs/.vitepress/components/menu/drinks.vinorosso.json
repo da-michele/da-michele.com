@@ -17,7 +17,7 @@
             "priceeuro": 36
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "barbera-d-alba",
             "name": "Barbera d'Alba, Cordero di Montezemolo",
             "img": "vino_rosso/barbera_cordero_di_montezemolo.webp",
@@ -26,7 +26,7 @@
             "grapes": "Barbera",
             "bottlesize": 750,
             "alcoholcontent": 14.5,
-            "priceeuro": 45
+            "priceeuro": 48
         },
         {
             "show": false,
@@ -92,7 +92,7 @@
             "priceeuro": 45
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "rosso-di-montalcino-argiano",
             "name": "Rosso di Montalcino, Argiano",
             "img": "vino_rosso/rosso_di_montalcino_argiano.webp",
@@ -113,6 +113,16 @@
             "priceeuro": 58
         },
         {
+            "show": true,
+            "anchor": "taurasi",
+            "name": "Taurasi, Feudi di San Gregorio",
+            "region": "Sorbo Serpico, AV, Italia",
+            "winery": "Feudi di San Gregorio",
+            "bottlesize": 750,
+            "alcoholcontent": 13.5,
+            "priceeuro": 60
+        },
+        {
             "show": false,
             "anchor": "pasqua-black-label",
             "name": "Pasqua Black Label, Amarone della Valpolicella",
@@ -123,6 +133,16 @@
             "bottlesize": 750,
             "alcoholcontent": 15,
             "priceeuro": 65
+        },
+        {
+            "show": true,
+            "anchor": "serpico",
+            "name": "Serpico, Feudi di San Gregorio",
+            "region": "Sorbo Serpico, AV, Italia",
+            "winery": "Feudi di San Gregorio",
+            "bottlesize": 750,
+            "alcoholcontent": 14,
+            "priceeuro": 85
         },
         {
             "show": false,
