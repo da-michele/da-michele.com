@@ -98,6 +98,7 @@
             "img": "vino_rosso/rosso_di_montalcino_argiano.webp",
             "region": "Rosso di Mantalcino, Toscana",
             "winery": "Argiano",
+            "grapes": "Sangiovese",
             "bottlesize": 750,
             "alcoholcontent": 14.5,
             "priceeuro": 48
@@ -109,6 +110,7 @@
             "img": "vino_rosso/prunotto-pian-romualdo.webp",
             "region": "Alba",
             "winery": "Prunotto",
+            "grapes": "Barbera",
             "bottlesize": 750,
             "alcoholcontent": 15,
             "priceeuro": 58
@@ -120,6 +122,7 @@
             "img": "vino_rosso/taurasi_feudi_di_san_gregorio.webp",
             "region": "Sorbo Serpico, AV, Italia",
             "winery": "Feudi di San Gregorio",
+            "grapes": "Aglianico",
             "bottlesize": 750,
             "alcoholcontent": 13.5,
             "priceeuro": 60
@@ -143,6 +146,7 @@
             "img": "vino_rosso/serpico_feudi_di_san_gregorio.webp",
             "region": "Sorbo Serpico, AV, Italia",
             "winery": "Feudi di San Gregorio",
+            "grapes": "Aglianico",
             "bottlesize": 750,
             "alcoholcontent": 14,
             "priceeuro": 85
