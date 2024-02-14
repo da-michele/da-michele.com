@@ -116,6 +116,7 @@
             "show": true,
             "anchor": "taurasi",
             "name": "Taurasi, Feudi di San Gregorio",
+            "img": "vino_rosso/taurasi_feudi_di_san_gregorio.webp",
             "region": "Sorbo Serpico, AV, Italia",
             "winery": "Feudi di San Gregorio",
             "bottlesize": 750,
@@ -138,6 +139,7 @@
             "show": true,
             "anchor": "serpico",
             "name": "Serpico, Feudi di San Gregorio",
+            "img": "vino_rosso/serpico_feudi_di_san_gregorio.webp",
             "region": "Sorbo Serpico, AV, Italia",
             "winery": "Feudi di San Gregorio",
             "bottlesize": 750,
@@ -233,7 +235,7 @@
             "alcoholcontent": 14.5
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "tignanello",
             "name": "Tignanello, Rosso di Toscana",
             "desc": {
