@@ -110,7 +110,7 @@
             "priceeuro": 14
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "prosciutto-di-parma-parmiggiano",
             "name": "Prosciutto di Parma & Parmiggiano",
             "desc": {
@@ -120,7 +120,7 @@
             "priceeuro": 14
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "mozzarella-di-buffala-pomodoro",
             "name": "Mozzarella di Buffala & Pomodoro",
             "desc": {
@@ -179,7 +179,7 @@
             "priceeuro": 16
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "parmigiana",
             "name": "Parmigiana",
             "desc": {
@@ -226,7 +226,7 @@
             "priceeuro": 16
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "cozze-al-vino",
             "name": "Cozze al vino",
             "desc": {
@@ -424,7 +424,7 @@
             "priceeuro": 18
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "rucola-fegato-di-coniglio",
             "name": "Rucola & Fegato di Coniglio",
             "desc": {
