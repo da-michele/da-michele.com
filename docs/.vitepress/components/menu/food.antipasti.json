@@ -669,7 +669,7 @@
             "priceeuro": 21
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "tartare-di-manzo",
             "name": "Tartare di Manzo",
             "desc": {

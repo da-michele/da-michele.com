@@ -366,27 +366,6 @@
         },
         {
             "show": false,
-            "anchor": "spaghetti-polpo",
-            "name": "Spaghetti Polpo",
-            "desc": {
-                "de": "Spaghetti mit Tintenfisch",
-                "en": "Spaghetti with octopus"
-            },
-            "priceeuro": 21
-        },
-        {
-            "show": false,
-            "anchor": "spaghetti-vongole",
-            "name": "Spaghetti Vongole",
-            "desc": {
-                "de": "Spaghetti mit Venusmuscheln",
-                "en": "Spaghetti with clams"
-            },
-            "priceeuro": 19,
-            "img": "pasta/spaghetti_vongole.webp"
-        },
-        {
-            "show": false,
             "anchor": "pasta-ragu-di-pesce",
             "name": "Pasta Ragu di Pesce",
             "desc": {
@@ -417,6 +396,27 @@
         },
         {
             "show": false,
+            "anchor": "spaghetti-polpo",
+            "name": "Spaghetti Polpo",
+            "desc": {
+                "de": "Spaghetti mit Tintenfisch",
+                "en": "Spaghetti with octopus"
+            },
+            "priceeuro": 21
+        },
+        {
+            "show": true,
+            "anchor": "spaghetti-vongole",
+            "name": "Spaghetti Vongole",
+            "desc": {
+                "de": "Spaghetti mit Venusmuscheln",
+                "en": "Spaghetti with clams"
+            },
+            "priceeuro": 21,
+            "img": "pasta/spaghetti_vongole.webp"
+        },
+        {
+            "show": false,
             "anchor": "gnocchi-gambas-asparagi",
             "name": "Gnocchi Gambas Asparagi",
             "desc": {
@@ -440,7 +440,7 @@
             "priceeuro": 21
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pasta-aragosta",
             "name": "Pasta Aragosta",
             "desc": {
