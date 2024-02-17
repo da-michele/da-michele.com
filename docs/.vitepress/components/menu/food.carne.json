@@ -153,7 +153,7 @@
             "img": "carne/carree_di_vitello.webp"
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "filetto-di-manzo-taleggio-tartufo",
             "name": "Filetto di Manzo, Taleggio & Tartufo",
             "desc": {
