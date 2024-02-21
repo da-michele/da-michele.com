@@ -81,7 +81,7 @@
             "priceeuro": 25
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "scaloppine-al-limone",
             "name": "Scaloppine al Limone",
             "desc": {
@@ -91,7 +91,7 @@
             "priceeuro": 26
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "saltimbocca-alla-romana",
             "name": "Saltimbocca alla Romana",
             "desc": {
@@ -153,7 +153,7 @@
             "img": "carne/carree_di_vitello.webp"
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "filetto-di-manzo-taleggio-tartufo",
             "name": "Filetto di Manzo, Taleggio & Tartufo",
             "desc": {

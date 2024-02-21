@@ -271,7 +271,7 @@
             "img": "pasta/pasta_polpette_al_sugo.webp"
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "spaghetti-cozze",
             "name": "Spaghetti Cozze",
             "desc": {
@@ -395,6 +395,17 @@
             "priceeuro": 19
         },
         {
+            "show": true,
+            "anchor": "spaghetti-vongole",
+            "name": "Spaghetti Vongole",
+            "desc": {
+                "de": "Spaghetti mit Venusmuscheln",
+                "en": "Spaghetti with clams"
+            },
+            "priceeuro": 19,
+            "img": "pasta/spaghetti_vongole.webp"
+        },
+        {
             "show": false,
             "anchor": "spaghetti-polpo",
             "name": "Spaghetti Polpo",
@@ -403,17 +414,6 @@
                 "en": "Spaghetti with octopus"
             },
             "priceeuro": 21
-        },
-        {
-            "show": true,
-            "anchor": "spaghetti-vongole",
-            "name": "Spaghetti Vongole",
-            "desc": {
-                "de": "Spaghetti mit Venusmuscheln",
-                "en": "Spaghetti with clams"
-            },
-            "priceeuro": 21,
-            "img": "pasta/spaghetti_vongole.webp"
         },
         {
             "show": false,
@@ -440,7 +440,7 @@
             "priceeuro": 21
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pasta-aragosta",
             "name": "Pasta Aragosta",
             "desc": {

@@ -226,7 +226,7 @@
             "priceeuro": 16
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "cozze-al-vino",
             "name": "Cozze al vino",
             "desc": {
@@ -236,7 +236,7 @@
             "priceeuro": 16
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "cozze-al-pomodoro",
             "name": "Cozze al pomodoro",
             "desc": {
@@ -669,7 +669,7 @@
             "priceeuro": 21
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "tartare-di-manzo",
             "name": "Tartare di Manzo",
             "desc": {
