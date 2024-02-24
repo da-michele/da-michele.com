@@ -249,7 +249,7 @@
             "priceeuro": 16
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pasta-salsiccia-rapa",
             "name": "Pasta Salsiccia & Rapa",
             "desc": {
@@ -355,7 +355,7 @@
             "priceeuro": 19
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pasta-ragu-di-coniglio",
             "name": "Pasta Ragu di Coniglio",
             "desc": {
@@ -440,7 +440,7 @@
             "priceeuro": 21
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pasta-aragosta",
             "name": "Pasta Aragosta",
             "desc": {
