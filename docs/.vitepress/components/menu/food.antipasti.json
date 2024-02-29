@@ -1,7 +1,7 @@
 {
     "antipasti": [
         {
-            "show": false,
+            "show": true,
             "anchor": "insalata-di-finnochio",
             "name": "Insalata di Finnochio",
             "desc": {
@@ -30,7 +30,7 @@
             "img": "antipasti/insalata_di_arance.webp"
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "insalata-di-finnochio-arance",
             "name": "Insalata di Finnochio & Arance",
             "desc": {
@@ -133,7 +133,7 @@
             "priceeuro": 16
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "sardelle-marinate",
             "name": "Sardelle marinate",
             "desc": {
@@ -179,7 +179,7 @@
             "priceeuro": 16
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "parmigiana",
             "name": "Parmigiana",
             "desc": {
@@ -226,7 +226,7 @@
             "priceeuro": 16
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "cozze-al-vino",
             "name": "Cozze al vino",
             "desc": {
@@ -316,7 +316,7 @@
             "priceeuro": 16
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "burrata-pomodori",
             "name": "Burrata & Pomodori",
             "desc": {
@@ -485,7 +485,7 @@
             "priceeuro": 18
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "tartare-di-salmone",
             "name": "Tartare di Salmone",
             "desc": {
