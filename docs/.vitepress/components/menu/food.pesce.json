@@ -194,7 +194,7 @@
             "img": "pesce/bistecca_di_tonno.webp"
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "merluzzo-spinaci",
             "name": "Merluzzo & Spinaci",
             "desc": {

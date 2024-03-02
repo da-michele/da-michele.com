@@ -12,7 +12,7 @@
                 "vegan",
                 "vegetarian"
             ],
-            "priceeuro": 11
+            "priceeuro": 12
         },
         {
             "show": false,
@@ -156,7 +156,7 @@
             "priceeuro": 16
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "burrata-pomodoro",
             "name": "Burrata & Pomodoro",
             "desc": {
@@ -246,7 +246,7 @@
             "priceeuro": 16
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "burrata-caponata",
             "name": "Burrata & Caponata",
             "desc": {
@@ -283,7 +283,7 @@
             "priceeuro": 16
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "prosciutto-di-parma-mozzarella-di-buffala",
             "name": "Prosciutto di Parma & Mozzarella di Buffala",
             "desc": {
@@ -316,7 +316,7 @@
             "priceeuro": 16
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "burrata-pomodori",
             "name": "Burrata & Pomodori",
             "desc": {
@@ -485,7 +485,7 @@
             "priceeuro": 18
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "tartare-di-salmone",
             "name": "Tartare di Salmone",
             "desc": {
@@ -680,7 +680,7 @@
             "img": "antipasti/tartare_di_manzo_tartufo_rucola.webp"
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "tartare-di-tonno-pomodorini-colorati",
             "name": "Tartare di Tonno & Pomodorini colorati",
             "desc": {

@@ -93,6 +93,16 @@
             "priceeuro": 16
         },
         {
+            "show": true,
+            "anchor": "pasta-melanzane-mozzarella-basilico",
+            "name": "Pasta Melanzane, Mozzarella & Basilico",
+            "desc": {
+                "de": "Pasta mit Auberginen, Mozzarella und Basilikum",
+                "en": "Pasta eggplant, mozzarella-cheese and basil"
+            },
+            "priceeuro": 16
+        },
+        {
             "show": false,
             "anchor": "spaghetti-bolognese",
             "name": "Spaghetti Bolognese",
@@ -460,7 +470,7 @@
             "priceeuro": 23
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "tagliatelle-tartufo",
             "name": "Tagliatelle Tartufo",
             "desc": {
