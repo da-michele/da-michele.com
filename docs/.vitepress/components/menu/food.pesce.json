@@ -62,7 +62,7 @@
             "priceeuro": 29
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "spigula-alla-griglia",
             "name": "Spigula alla griglia",
             "desc": {
@@ -82,7 +82,7 @@
             "priceeuro": 29
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pesce-spada-alla-griglia",
             "name": "Pesce Spada alla griglia",
             "desc": {
@@ -152,7 +152,7 @@
             "priceeuro": 31
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pesce-miste-nel-sud",
             "name": "Pesce miste nel Sud",
             "desc": {
@@ -194,7 +194,7 @@
             "img": "pesce/bistecca_di_tonno.webp"
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "merluzzo-spinaci",
             "name": "Merluzzo & Spinaci",
             "desc": {

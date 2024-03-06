@@ -93,7 +93,7 @@
             "priceeuro": 16
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pasta-melanzane-mozzarella-basilico",
             "name": "Pasta Melanzane, Mozzarella & Basilico",
             "desc": {
@@ -470,7 +470,7 @@
             "priceeuro": 23
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "tagliatelle-tartufo",
             "name": "Tagliatelle Tartufo",
             "desc": {

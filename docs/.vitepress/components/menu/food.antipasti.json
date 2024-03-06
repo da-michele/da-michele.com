@@ -58,7 +58,7 @@
             "priceeuro": 12
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "insalata-capricciosa",
             "name": "Insalata Capricciosa",
             "tags": [
@@ -110,7 +110,7 @@
             "priceeuro": 14
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "prosciutto-di-parma-parmiggiano",
             "name": "Prosciutto di Parma & Parmiggiano",
             "desc": {
@@ -120,7 +120,7 @@
             "priceeuro": 14
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "mozzarella-di-buffala-pomodoro",
             "name": "Mozzarella di Buffala & Pomodoro",
             "desc": {
@@ -133,7 +133,7 @@
             "priceeuro": 16
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "sardelle-marinate",
             "name": "Sardelle marinate",
             "desc": {
@@ -156,7 +156,7 @@
             "priceeuro": 16
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "burrata-pomodoro",
             "name": "Burrata & Pomodoro",
             "desc": {
@@ -246,7 +246,7 @@
             "priceeuro": 16
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "burrata-caponata",
             "name": "Burrata & Caponata",
             "desc": {
@@ -283,7 +283,7 @@
             "priceeuro": 16
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "prosciutto-di-parma-mozzarella-di-buffala",
             "name": "Prosciutto di Parma & Mozzarella di Buffala",
             "desc": {
