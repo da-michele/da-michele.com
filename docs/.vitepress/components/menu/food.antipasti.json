@@ -680,7 +680,7 @@
             "img": "antipasti/tartare_di_manzo_tartufo_rucola.webp"
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "tartare-di-tonno-pomodorini-colorati",
             "name": "Tartare di Tonno & Pomodorini colorati",
             "desc": {
