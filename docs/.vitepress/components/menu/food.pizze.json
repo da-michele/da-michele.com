@@ -163,7 +163,7 @@
             "priceeuro": 16
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pizza-frutti-di-mare",
             "name": "Pizza Frutti di Mare",
             "desc": {
@@ -286,7 +286,7 @@
             "priceeuro": 18
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pizza-mortadella-burrata-pomodori",
             "name": "Pizza Mortadella, Burrata & Pomodori",
             "desc": {

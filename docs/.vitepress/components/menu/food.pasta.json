@@ -270,7 +270,7 @@
             "img": "pasta/calamarata_salsiccia_rapa.webp"
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pasta-polpette-al-sugo",
             "name": "Pasta Polpette al Sugo",
             "desc": {
@@ -414,6 +414,16 @@
             },
             "priceeuro": 19,
             "img": "pasta/spaghetti_vongole.webp"
+        },
+        {
+            "show": true,
+            "anchor": "pasta-pesce-spada-pomodori-rucola",
+            "name": "Pasta Pesce Spada & Pomodori & Rucola",
+            "desc": {
+                "de": "Pasta Schwertfisch, getrocknete Tomaten, Rucolasalat",
+                "en": "Pasta swordfish, dried tomatoes, lamb's lettuce"
+            },
+            "priceeuro": 19
         },
         {
             "show": false,
