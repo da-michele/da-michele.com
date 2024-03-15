@@ -37,6 +37,19 @@
             "priceeuro": 14
         },
         {
+            "show": true,
+            "anchor": "pasta-gorgonzola-spinaci",
+            "name": "Pasta Gorgonzola & Spinaci",
+            "desc": {
+                "de": "Pasta mit Gorgonzola und Spinat",
+                "en": "Pasta with Gorgonzola cheese and spinach"
+            },
+            "tags": [
+                "vegetarian"
+            ],
+            "priceeuro": 16
+        },
+        {
             "show": false,
             "anchor": "pasta-sorrentina",
             "name": "Pasta Sorrentina",
@@ -61,19 +74,6 @@
         },
         {
             "show": false,
-            "anchor": "gnocchi-gorgonzola-spinaci",
-            "name": "Gnocchi Gorgonzola & Spinaci",
-            "desc": {
-                "de": "Gnocchi mit Gorgonzola und Spinat",
-                "en": "Gnocchi with Gorgonzola cheese and spinach"
-            },
-            "tags": [
-                "vegetarian"
-            ],
-            "priceeuro": 16
-        },
-        {
-            "show": false,
             "anchor": "pasta-cavolfiore",
             "name": "Pasta Cavolfiore Guanciale",
             "desc": {
@@ -93,6 +93,19 @@
             "priceeuro": 16
         },
         {
+            "show": true,
+            "anchor": "pasta-ricotta-melanzane-pomodori",
+            "name": "Pasta Ricotta, Melanzane & Pomodori",
+            "desc": {
+                "de": "Pasta mit Ricotta, Auberginen, Tomaten",
+                "en": "Pasta ricotta-cheese, eggplant and tomatoes"
+            },
+            "tags": [
+                "vegetarian"
+            ],
+            "priceeuro": 16
+        },
+        {
             "show": false,
             "anchor": "pasta-melanzane-mozzarella-basilico",
             "name": "Pasta Melanzane, Mozzarella & Basilico",
@@ -100,6 +113,9 @@
                 "de": "Pasta mit Auberginen, Mozzarella und Basilikum",
                 "en": "Pasta eggplant, mozzarella-cheese and basil"
             },
+            "tags": [
+                "vegetarian"
+            ],
             "priceeuro": 16
         },
         {
@@ -291,7 +307,7 @@
             "priceeuro": 18
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pasta-salsiccia-tartufo",
             "name": "Pasta Salsiccia & Tartufo",
             "desc": {

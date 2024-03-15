@@ -72,7 +72,7 @@
             "priceeuro": 29
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "spigula-all-acqua-pazza",
             "name": "Spigula all'acqua pazza",
             "desc": {
@@ -92,7 +92,7 @@
             "priceeuro": 29
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pesce-spada-alla-griglia",
             "name": "Pesce Spada alla griglia",
             "desc": {
@@ -122,7 +122,7 @@
             "priceeuro": 29
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "filetto-di-orrata-alla-griglia",
             "name": "Filetto di Orrata alla griglia",
             "desc": {
@@ -162,6 +162,16 @@
             "priceeuro": 31
         },
         {
+            "show": true,
+            "anchor": "pesce-miste-all-acqua-pazza",
+            "name": "Pesce miste all'acqua pazza",
+            "desc": {
+                "de": "gemischter Fisch (pochiert)",
+                "en": "Poached mixed fish"
+            },
+            "priceeuro": 32
+        },
+        {
             "show": false,
             "anchor": "pesce-miste-nel-sud",
             "name": "Pesce miste nel Sud",
@@ -193,7 +203,7 @@
             "priceeuro": 32
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "bistecca-di-tonno-rucola",
             "name": "Bistecca di Tonno & Rucola",
             "desc": {

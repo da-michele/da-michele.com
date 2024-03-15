@@ -1,7 +1,7 @@
 {
     "pizze": [
         {
-            "show": true,
+            "show": false,
             "anchor": "pizza-bufalina",
             "name": "Pizza Bufalina",
             "desc": {
@@ -53,7 +53,7 @@
             "priceeuro": 14
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pizza-alle-verdure",
             "name": "Pizza alle Verdure",
             "desc": {
@@ -283,6 +283,9 @@
                 "de": "mit ital. Rohmilchkäse, Trüffel",
                 "en": "with Taleggio (Italian raw milk cheese) and truffles"
             },
+            "tags": [
+                "vegetarian"
+            ],
             "priceeuro": 18
         },
         {
@@ -303,6 +306,9 @@
                 "de": "mit Burrata (cremiger Mozzarella), Trüffel",
                 "en": "with Burrata (creamy mozzarella) and truffles"
             },
+            "tags": [
+                "vegetarian"
+            ],
             "priceeuro": 19
         }
     ]

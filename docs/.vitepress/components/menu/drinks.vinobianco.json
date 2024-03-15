@@ -60,7 +60,7 @@
             "priceeuro": 38
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "chardonnay-kreuth",
             "name": "Terlan, Chardonnay Kreuth",
             "img": "vino_bianco/terlan-chardonnay-kreuth.webp",
