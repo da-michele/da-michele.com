@@ -47,3 +47,7 @@ hero:
 #     link: '/menu/#pizze'
 #     linkText: Mehr erfahren
 ---
+
+::: warning Hinweis
+Unser Ristorante ist vom 29. Mrz. bis einschließlich 02. Apr. geschlossen.
+:::
