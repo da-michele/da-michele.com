@@ -77,7 +77,7 @@
             "priceeuro": 14
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pizza-caprese",
             "name": "Pizza Caprese",
             "desc": {
@@ -180,7 +180,7 @@
                 "de": "mit Lachs und Spargel",
                 "en": "with salmon and asparagus"
             },
-            "priceeuro": 16
+            "priceeuro": 18
         },
         {
             "show": false,
@@ -190,7 +190,17 @@
                 "de": "mit Lachs und Spinat",
                 "en": "with salmon and spinach"
             },
-            "priceeuro": 16
+            "priceeuro": 18
+        },
+        {
+            "show": true,
+            "anchor": "pizza-salmone-rucola",
+            "name": "Pizza Salmone Rucola",
+            "desc": {
+                "de": "mit Lachs und Rucolasalat",
+                "en": "with salmon and lamb's lettuce"
+            },
+            "priceeuro": 18
         },
         {
             "show": false,
@@ -262,7 +272,7 @@
                 "de": "mit Parmaschinken & Burrata (cremiger Mozzarella)",
                 "en": "with Parma ham & Burrata (creamy mozzarella)"
             },
-            "priceeuro": 16,
+            "priceeuro": 18,
             "img": "pizze/pizza_vulcano.webp"
         },
         {
