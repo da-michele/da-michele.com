@@ -395,16 +395,6 @@
         },
         {
             "show": false,
-            "anchor": "pasta-ragu-di-coniglio",
-            "name": "Pasta Ragu di Coniglio",
-            "desc": {
-                "de": "Pasta mit Kaninchenragout",
-                "en": "Pasta with rabbit ragout"
-            },
-            "priceeuro": 19
-        },
-        {
-            "show": false,
             "anchor": "pasta-ragu-di-pesce",
             "name": "Pasta Ragu di Pesce",
             "desc": {
@@ -434,7 +424,7 @@
             "priceeuro": 19
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "spaghetti-vongole",
             "name": "Spaghetti Vongole",
             "desc": {
@@ -453,6 +443,16 @@
                 "en": "Pasta swordfish, dried tomatoes, lamb's lettuce"
             },
             "priceeuro": 19
+        },
+        {
+            "show": true,
+            "anchor": "pasta-ragu-di-coniglio",
+            "name": "Pasta Ragu di Coniglio",
+            "desc": {
+                "de": "Pasta mit Kaninchenragout",
+                "en": "Pasta with rabbit ragout"
+            },
+            "priceeuro": 21
         },
         {
             "show": false,

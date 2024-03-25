@@ -193,12 +193,22 @@
             "priceeuro": 18
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pizza-salmone-rucola",
             "name": "Pizza Salmone Rucola",
             "desc": {
                 "de": "mit Lachs und Rucolasalat",
                 "en": "with salmon and lamb's lettuce"
+            },
+            "priceeuro": 18
+        },
+        {
+            "show": true,
+            "anchor": "pizza-salame-napoli-rucola",
+            "name": "Pizza Salame Napoli & Rucola",
+            "desc": {
+                "de": "mit Salami aus Neapel und Rucolasalat",
+                "en": "with salami from Naples and lamb's lettuce"
             },
             "priceeuro": 18
         },

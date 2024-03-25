@@ -342,7 +342,7 @@
             "priceeuro": 18
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "Vitello tonnato",
             "name": "Vitello tonnato",
             "desc": {

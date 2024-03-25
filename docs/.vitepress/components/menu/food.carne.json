@@ -92,16 +92,6 @@
         },
         {
             "show": true,
-            "anchor": "saltimbocca-alla-romana",
-            "name": "Saltimbocca alla Romana",
-            "desc": {
-                "de": "Kalbfleisch umwickelt mit Prosciutto und Salbei",
-                "en": "veal wrapped with prosciutto and sage"
-            },
-            "priceeuro": 28
-        },
-        {
-            "show": false,
             "anchor": "coscia-di-coniglio-brasata",
             "name": "Coscia di Coniglio brasata",
             "desc": {
@@ -109,6 +99,16 @@
                 "en": "braised rabbit leg"
             },
             "priceeuro": 26
+        },
+        {
+            "show": true,
+            "anchor": "saltimbocca-alla-romana",
+            "name": "Saltimbocca alla Romana",
+            "desc": {
+                "de": "Kalbfleisch umwickelt mit Prosciutto und Salbei",
+                "en": "veal wrapped with prosciutto and sage"
+            },
+            "priceeuro": 28
         },
         {
             "show": false,

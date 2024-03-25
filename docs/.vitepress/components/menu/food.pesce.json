@@ -142,7 +142,7 @@
             "priceeuro": 31
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "l-orrata",
             "name": "L'Orrata",
             "desc": {
@@ -162,7 +162,7 @@
             "priceeuro": 31
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pesce-miste-all-acqua-pazza",
             "name": "Pesce miste all'acqua pazza",
             "desc": {
@@ -172,7 +172,7 @@
             "priceeuro": 32
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pesce-miste-nel-sud",
             "name": "Pesce miste nel Sud",
             "desc": {
