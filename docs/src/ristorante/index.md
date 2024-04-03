@@ -55,10 +55,6 @@ import { withBase } from 'vitepress'
 | Samstag    | <time datetime="12:00">12</time> - <time datetime="14:00">14</time> Uhr | <time datetime="18:00">18</time> - <time datetime="21:30">21:30</time> Uhr |
 | Sonntag    | Geschlossen                                                             | <time datetime="18:00">18</time> - <time datetime="21:30">21:30</time> Uhr |
 
-::: warning Hinweis
-Unser Ristorante ist vom 29. Mrz. bis einschließlich 02. Apr. geschlossen.
-:::
-
 ## Team
 
 <img :src="withBase('/images/ristorante/team.webp')" alt="Team" decoding="async" loading="lazy">

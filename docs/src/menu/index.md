@@ -1,5 +1,5 @@
 ---
-date: 2024-03-25
+date: 2024-04-03
 editLink: false
 head:
   - [meta, { property: 'og:title', content: 'Tageskarte | Ristorante da Michele, Baden-Baden' }]
@@ -7,7 +7,7 @@ head:
   - [meta, { property: 'og:type', content: article }]
   - [meta, { property: 'article:section', content: Tageskarte }]
   - [meta, { property: 'article:author', content: 'Vincenzo Romano' }]
-  - [meta, { property: 'article:modified_time', content: 2024-03-25 }]
+  - [meta, { property: 'article:modified_time', content: 2024-04-03 }]
 outline: 2
 sitemap:
   changefreq: hourly
@@ -19,9 +19,5 @@ sitemap:
 Wir bieten eine täglich wechselnde Karte mit frischen Fisch- und Fleischgerichten sowie den üblichen italienischen Klassikern.
 
 Deine Bestellungen nehmen wir gerne [telefonisch unter 07221-61541](tel:+49722161541){ target="_blank" rel="noopener noreferrer" } entgegen.
-
-::: warning Hinweis
-Unser Ristorante ist vom 29. Mrz. bis einschließlich 02. Apr. geschlossen.
-:::
 
 <MenuItems />
