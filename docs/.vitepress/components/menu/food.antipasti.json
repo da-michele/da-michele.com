@@ -2,6 +2,21 @@
     "antipasti": [
         {
             "show": true,
+            "anchor": "insalata-di-arance",
+            "name": "Insalata di Arance",
+            "desc": {
+                "de": "Orangensalat mit roten Zwiebeln",
+                "en": "orange salad with red onions"
+            },
+            "tags": [
+                "vegan",
+                "vegetarian"
+            ],
+            "priceeuro": 10,
+            "img": "antipasti/insalata_di_arance.webp"
+        },
+        {
+            "show": false,
             "anchor": "insalata-di-finnochio",
             "name": "Insalata di Finnochio",
             "desc": {
@@ -13,21 +28,6 @@
                 "vegetarian"
             ],
             "priceeuro": 12
-        },
-        {
-            "show": false,
-            "anchor": "insalata-di-arance",
-            "name": "Insalata di Arance",
-            "desc": {
-                "de": "Orangensalat mit roten Zwiebeln",
-                "en": "orange salad with red onions"
-            },
-            "tags": [
-                "vegan",
-                "vegetarian"
-            ],
-            "priceeuro": 12,
-            "img": "antipasti/insalata_di_arance.webp"
         },
         {
             "show": false,
@@ -120,7 +120,7 @@
             "priceeuro": 14
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "mozzarella-di-buffala-pomodoro",
             "name": "Mozzarella di Buffala & Pomodoro",
             "desc": {
@@ -213,16 +213,6 @@
             "tags": [
                 "vegetarian"
             ],
-            "priceeuro": 16
-        },
-        {
-            "show": false,
-            "anchor": "insalata-di-asparagi-prosciutto-di-parma",
-            "name": "Insalata di Asparagi & Prosciutto di Parma",
-            "desc": {
-                "de": "Spargelsalat mit Parmaschinken",
-                "en": "asparagus salad with parma ham"
-            },
             "priceeuro": 16
         },
         {
@@ -329,6 +319,16 @@
             "priceeuro": 16
         },
         {
+            "show": true,
+            "anchor": "insalata-di-asparagi-prosciutto-di-parma",
+            "name": "Insalata di Asparagi & Prosciutto di Parma",
+            "desc": {
+                "de": "Spargelsalat mit Parmaschinken",
+                "en": "asparagus salad with parma ham"
+            },
+            "priceeuro": 18
+        },
+        {
             "show": false,
             "anchor": "burrata-pomodori-colorati",
             "name": "Burrata & Pomodori colorati",
@@ -415,16 +415,6 @@
         },
         {
             "show": false,
-            "anchor": "insalata-di-manzo",
-            "name": "Insalata di Manzo",
-            "desc": {
-                "de": "Salat mit Rindstreifen",
-                "en": "Salad with beef cut"
-            },
-            "priceeuro": 18
-        },
-        {
-            "show": false,
             "anchor": "rucola-fegato-di-coniglio",
             "name": "Rucola & Fegato di Coniglio",
             "desc": {
@@ -483,6 +473,16 @@
                 "en": "burrat (creamy mozzarella-cheese) with chanterelles and chinese cabbage"
             },
             "priceeuro": 18
+        },
+        {
+            "show": true,
+            "anchor": "insalata-di-manzo",
+            "name": "Insalata di Manzo",
+            "desc": {
+                "de": "Salat mit Rindstreifen",
+                "en": "Salad with beef cut"
+            },
+            "priceeuro": 19
         },
         {
             "show": true,

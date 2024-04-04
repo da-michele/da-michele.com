@@ -119,7 +119,7 @@
             "priceeuro": 16
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pasta-melanzane-mozzarella-di-buffala",
             "name": "Pasta Melanzane & Mozzarella di Buffala",
             "desc": {
@@ -182,19 +182,6 @@
             "desc": {
                 "de": "Gnocchi mit Spargel",
                 "en": "Gnocchi with asparagus"
-            },
-            "tags": [
-                "vegetarian"
-            ],
-            "priceeuro": 16
-        },
-        {
-            "show": true,
-            "anchor": "gnocchi-burrata",
-            "name": "Gnocchi Burrata",
-            "desc": {
-                "de": "Gnocchi mit Burrata (cremiger Mozzarella)",
-                "en": "Gnocchi with burrata (creamy mozzarella-cheese)"
             },
             "tags": [
                 "vegetarian"
@@ -297,6 +284,19 @@
             },
             "priceeuro": 16,
             "img": "pasta/calamarata_salsiccia_rapa.webp"
+        },
+        {
+            "show": true,
+            "anchor": "gnocchi-burrata",
+            "name": "Gnocchi Burrata",
+            "desc": {
+                "de": "Gnocchi mit Burrata (cremiger Mozzarella)",
+                "en": "Gnocchi with burrata (creamy mozzarella-cheese)"
+            },
+            "tags": [
+                "vegetarian"
+            ],
+            "priceeuro": 18
         },
         {
             "show": false,
@@ -424,7 +424,7 @@
             "priceeuro": 19
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "spaghetti-vongole",
             "name": "Spaghetti Vongole",
             "desc": {
@@ -435,7 +435,7 @@
             "img": "pasta/spaghetti_vongole.webp"
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pasta-pesce-spada-pomodori-rucola",
             "name": "Pasta Pesce Spada & Pomodori & Rucola",
             "desc": {
@@ -445,7 +445,7 @@
             "priceeuro": 19
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pasta-ragu-di-coniglio",
             "name": "Pasta Ragu di Coniglio",
             "desc": {
