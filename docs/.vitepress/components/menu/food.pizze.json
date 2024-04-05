@@ -90,7 +90,7 @@
             "priceeuro": 14
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pizza-gorgonzola-spinaci",
             "name": "Pizza Gorgonzola Spinaci",
             "desc": {
@@ -174,46 +174,6 @@
         },
         {
             "show": false,
-            "anchor": "pizza-salmone-asparagi",
-            "name": "Pizza Salmone Asparagi",
-            "desc": {
-                "de": "mit Lachs und Spargel",
-                "en": "with salmon and asparagus"
-            },
-            "priceeuro": 18
-        },
-        {
-            "show": false,
-            "anchor": "pizza-salmone-spinaci",
-            "name": "Pizza Salmone Spinaci",
-            "desc": {
-                "de": "mit Lachs und Spinat",
-                "en": "with salmon and spinach"
-            },
-            "priceeuro": 18
-        },
-        {
-            "show": false,
-            "anchor": "pizza-salmone-rucola",
-            "name": "Pizza Salmone Rucola",
-            "desc": {
-                "de": "mit Lachs und Rucolasalat",
-                "en": "with salmon and lamb's lettuce"
-            },
-            "priceeuro": 18
-        },
-        {
-            "show": true,
-            "anchor": "pizza-salame-napoli-rucola",
-            "name": "Pizza Salame Napoli & Rucola",
-            "desc": {
-                "de": "mit Salami aus Neapel und Rucolasalat",
-                "en": "with salami from Naples and lamb's lettuce"
-            },
-            "priceeuro": 18
-        },
-        {
-            "show": false,
             "anchor": "pizza-salsiccia-rapa",
             "name": "Pizza Salsiccia Rapa",
             "desc": {
@@ -223,7 +183,7 @@
             "priceeuro": 16
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pizza-taleggio-asparagi-pomodoro",
             "name": "Pizza Taleggio, Asparagi, Pomodoro",
             "desc": {
@@ -273,6 +233,46 @@
                 "vegetarian"
             ],
             "priceeuro": 16
+        },
+        {
+            "show": true,
+            "anchor": "pizza-salmone-asparagi",
+            "name": "Pizza Salmone Asparagi",
+            "desc": {
+                "de": "mit Lachs und Spargel",
+                "en": "with salmon and asparagus"
+            },
+            "priceeuro": 18
+        },
+        {
+            "show": false,
+            "anchor": "pizza-salmone-spinaci",
+            "name": "Pizza Salmone Spinaci",
+            "desc": {
+                "de": "mit Lachs und Spinat",
+                "en": "with salmon and spinach"
+            },
+            "priceeuro": 18
+        },
+        {
+            "show": false,
+            "anchor": "pizza-salmone-rucola",
+            "name": "Pizza Salmone Rucola",
+            "desc": {
+                "de": "mit Lachs und Rucolasalat",
+                "en": "with salmon and lamb's lettuce"
+            },
+            "priceeuro": 18
+        },
+        {
+            "show": true,
+            "anchor": "pizza-salame-napoli-rucola",
+            "name": "Pizza Salame Napoli & Rucola",
+            "desc": {
+                "de": "mit Salami aus Neapel und Rucolasalat",
+                "en": "with salami from Naples and lamb's lettuce"
+            },
+            "priceeuro": 18
         },
         {
             "show": true,

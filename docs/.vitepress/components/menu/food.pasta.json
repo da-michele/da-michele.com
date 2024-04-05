@@ -177,19 +177,6 @@
         },
         {
             "show": false,
-            "anchor": "gnocchi-asparagi",
-            "name": "Gnocchi Asparagi",
-            "desc": {
-                "de": "Gnocchi mit Spargel",
-                "en": "Gnocchi with asparagus"
-            },
-            "tags": [
-                "vegetarian"
-            ],
-            "priceeuro": 16
-        },
-        {
-            "show": false,
             "anchor": "gnocchi-spinaci-formaggio-di-capra",
             "name": "Gnocchi Spinaci & Formaggio di capra",
             "desc": {
@@ -275,7 +262,7 @@
             "priceeuro": 16
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pasta-salsiccia-rapa",
             "name": "Pasta Salsiccia & Rapa",
             "desc": {
@@ -284,6 +271,19 @@
             },
             "priceeuro": 16,
             "img": "pasta/calamarata_salsiccia_rapa.webp"
+        },
+        {
+            "show": true,
+            "anchor": "pasta-asparagi",
+            "name": "Pasta Asparagi",
+            "desc": {
+                "de": "Pasta mit Spargel",
+                "en": "Pasta with asparagus"
+            },
+            "tags": [
+                "vegetarian"
+            ],
+            "priceeuro": 18
         },
         {
             "show": true,
@@ -299,7 +299,7 @@
             "priceeuro": 18
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pasta-polpette-al-sugo",
             "name": "Pasta Polpette al Sugo",
             "desc": {

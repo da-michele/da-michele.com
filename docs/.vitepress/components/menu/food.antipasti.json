@@ -1,7 +1,7 @@
 {
     "antipasti": [
         {
-            "show": true,
+            "show": false,
             "anchor": "insalata-di-arance",
             "name": "Insalata di Arance",
             "desc": {
@@ -16,7 +16,7 @@
             "img": "antipasti/insalata_di_arance.webp"
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "insalata-di-finnochio",
             "name": "Insalata di Finnochio",
             "desc": {
@@ -133,7 +133,7 @@
             "priceeuro": 16
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "sardelle-marinate",
             "name": "Sardelle marinate",
             "desc": {
@@ -236,7 +236,7 @@
             "priceeuro": 16
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "burrata-caponata",
             "name": "Burrata & Caponata",
             "desc": {
@@ -320,6 +320,19 @@
         },
         {
             "show": true,
+            "anchor": "burrata-asparagi-pomodori",
+            "name": "Burrata, Asparagi & Pomodori",
+            "desc": {
+                "de": "Burrata (cremiger Mozzarella) mit Spargel und Tomaten",
+                "en": "Burrata (creamy mozzarella-cheese) with asparagus and tomatoes"
+            },
+            "tags": [
+                "vegetarian"
+            ],
+            "priceeuro": 18
+        },
+        {
+            "show": false,
             "anchor": "insalata-di-asparagi-prosciutto-di-parma",
             "name": "Insalata di Asparagi & Prosciutto di Parma",
             "desc": {
@@ -342,7 +355,7 @@
             "priceeuro": 18
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "Vitello tonnato",
             "name": "Vitello tonnato",
             "desc": {
@@ -475,7 +488,7 @@
             "priceeuro": 18
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "insalata-di-manzo",
             "name": "Insalata di Manzo",
             "desc": {
@@ -485,7 +498,7 @@
             "priceeuro": 19
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "tartare-di-salmone",
             "name": "Tartare di Salmone",
             "desc": {
