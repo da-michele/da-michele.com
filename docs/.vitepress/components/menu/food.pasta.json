@@ -63,7 +63,7 @@
             "priceeuro": 16
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pasta-amatriciana",
             "name": "Pasta Amatriciana",
             "desc": {
@@ -99,6 +99,19 @@
             "desc": {
                 "de": "Pasta mit Ricotta, Auberginen, Tomaten",
                 "en": "Pasta ricotta-cheese, eggplant and tomatoes"
+            },
+            "tags": [
+                "vegetarian"
+            ],
+            "priceeuro": 16
+        },
+        {
+            "show": true,
+            "anchor": "pasta-ricotta-melanzane-basilico",
+            "name": "Pasta Ricotta, Melanzane & Basilico",
+            "desc": {
+                "de": "Pasta mit Ricotta, Auberginen, Basilikum",
+                "en": "Pasta ricotta-cheese, eggplant and basil"
             },
             "tags": [
                 "vegetarian"
@@ -299,7 +312,7 @@
             "priceeuro": 18
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pasta-polpette-al-sugo",
             "name": "Pasta Polpette al Sugo",
             "desc": {

@@ -173,7 +173,7 @@
             "priceeuro": 16
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pizza-salsiccia-rapa",
             "name": "Pizza Salsiccia Rapa",
             "desc": {
@@ -265,7 +265,7 @@
             "priceeuro": 18
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pizza-salame-napoli-rucola",
             "name": "Pizza Salame Napoli & Rucola",
             "desc": {

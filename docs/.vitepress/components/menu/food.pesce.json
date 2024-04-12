@@ -133,16 +133,6 @@
         },
         {
             "show": false,
-            "anchor": "pesce-miste-alla-griglia",
-            "name": "Pesce miste alla griglia",
-            "desc": {
-                "de": "gemischter Fisch gegrillt",
-                "en": "grilled mixed fish"
-            },
-            "priceeuro": 31
-        },
-        {
-            "show": false,
             "anchor": "l-orrata",
             "name": "L'Orrata",
             "desc": {
@@ -172,7 +162,7 @@
             "priceeuro": 32
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pesce-miste-nel-sud",
             "name": "Pesce miste nel Sud",
             "desc": {
@@ -201,6 +191,16 @@
                 "en": "Cod with cauliflower"
             },
             "priceeuro": 32
+        },
+        {
+            "show": true,
+            "anchor": "pesce-miste-alla-griglia",
+            "name": "Pesce miste alla griglia",
+            "desc": {
+                "de": "gemischter Fisch gegrillt",
+                "en": "grilled mixed fish"
+            },
+            "priceeuro": 34
         },
         {
             "show": true,
