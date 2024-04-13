@@ -16,7 +16,7 @@
             "img": "antipasti/insalata_di_arance.webp"
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "insalata-di-finnochio",
             "name": "Insalata di Finnochio",
             "desc": {
@@ -589,6 +589,16 @@
                 "en": "Hamachi (young Japanese Amberjack) with opposite-leaved saltwort"
             },
             "priceeuro": 20
+        },
+        {
+            "show": true,
+            "anchor": "tartare-di-salmone-mela-piselli",
+            "name": "Tartare di Salmone, Mele & Piselli",
+            "desc": {
+                "de": "Lachstartar mit Apfel und Erbsen",
+                "en": "salmon tartare with apples and peas"
+            },
+            "priceeuro": 21
         },
         {
             "show": false,

@@ -193,7 +193,7 @@
             "priceeuro": 32
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pesce-miste-alla-griglia",
             "name": "Pesce miste alla griglia",
             "desc": {
@@ -252,6 +252,16 @@
                 "en": "Baby monkfish with potato"
             },
             "priceeuro": 34
+        },
+        {
+            "show": true,
+            "anchor": "piccola-rana-pescatrice-all-acqua-pazza",
+            "name": "Piccola rana pescatrice all'acqua pazza",
+            "desc": {
+                "de": "Baby-Seeteufel (pochiert)",
+                "en": "Poached Baby monkfish"
+            },
+            "priceeuro": 39
         }
     ]
 }
