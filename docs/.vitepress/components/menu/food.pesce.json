@@ -82,7 +82,7 @@
             "priceeuro": 29
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pesce-spada-al-vino",
             "name": "Pesce Spada al vino",
             "desc": {
@@ -254,7 +254,7 @@
             "priceeuro": 34
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "piccola-rana-pescatrice-all-acqua-pazza",
             "name": "Piccola rana pescatrice all'acqua pazza",
             "desc": {

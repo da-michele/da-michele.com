@@ -31,14 +31,14 @@
             "priceeuro": 18
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pollo-grigliato",
             "name": "Pollo grigliato",
             "desc": {
                 "de": "gegrilltes Hähnchen",
                 "en": "grilled chicken"
             },
-            "priceeuro": 18
+            "priceeuro": 19
         },
         {
             "show": false,
@@ -81,7 +81,7 @@
             "priceeuro": 25
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "scaloppine-al-limone",
             "name": "Scaloppine al Limone",
             "desc": {
@@ -101,7 +101,7 @@
             "priceeuro": 26
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "saltimbocca-alla-romana",
             "name": "Saltimbocca alla Romana",
             "desc": {

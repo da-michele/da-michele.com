@@ -216,7 +216,7 @@
             "priceeuro": 16
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "cozze-al-vino",
             "name": "Cozze al vino",
             "desc": {
@@ -417,7 +417,7 @@
             "priceeuro": 18
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "carpaccio-di-manzo",
             "name": "Carpaccio di Manzo",
             "desc": {
@@ -496,17 +496,6 @@
                 "en": "Salad with beef cut"
             },
             "priceeuro": 19
-        },
-        {
-            "show": false,
-            "anchor": "tartare-di-salmone",
-            "name": "Tartare di Salmone",
-            "desc": {
-                "de": "Lachstartar",
-                "en": "salmon tartare"
-            },
-            "priceeuro": 19,
-            "img": "antipasti/tartare_di_salmone.webp"
         },
         {
             "show": false,
@@ -589,6 +578,17 @@
                 "en": "Hamachi (young Japanese Amberjack) with opposite-leaved saltwort"
             },
             "priceeuro": 20
+        },
+        {
+            "show": true,
+            "anchor": "tartare-di-salmone",
+            "name": "Tartare di Salmone",
+            "desc": {
+                "de": "Lachstartar",
+                "en": "salmon tartare"
+            },
+            "priceeuro": 21,
+            "img": "antipasti/tartare_di_salmone.webp"
         },
         {
             "show": false,
