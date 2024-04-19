@@ -26,7 +26,7 @@
             "grapes": "Barbera",
             "bottlesize": 750,
             "alcoholcontent": 14.5,
-            "priceeuro": 48
+            "priceeuro": 49
         },
         {
             "show": false,
@@ -76,7 +76,7 @@
             "priceeuro": 45
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "jungano",
             "name": "Jungano, San Salvatore 1988",
             "desc": {
@@ -89,7 +89,7 @@
             "grapes": "Aglianico",
             "bottlesize": 750,
             "alcoholcontent": 14,
-            "priceeuro": 45
+            "priceeuro": 48
         },
         {
             "show": true,
@@ -101,7 +101,7 @@
             "grapes": "Sangiovese",
             "bottlesize": 750,
             "alcoholcontent": 14.5,
-            "priceeuro": 48
+            "priceeuro": 49
         },
         {
             "show": false,

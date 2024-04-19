@@ -93,7 +93,7 @@
             "priceeuro": 16
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pasta-ricotta-melanzane-pomodori",
             "name": "Pasta Ricotta, Melanzane & Pomodori",
             "desc": {
@@ -106,7 +106,7 @@
             "priceeuro": 16
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pasta-ricotta-melanzane-basilico",
             "name": "Pasta Ricotta, Melanzane & Basilico",
             "desc": {

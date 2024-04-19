@@ -10,7 +10,7 @@
             "grapes": "Grillo",
             "bottlesize": 750,
             "alcoholcontent": 13.5,
-            "priceeuro": 38
+            "priceeuro": 39
         },
         {
             "show": false,
@@ -41,7 +41,7 @@
             "grapes": "Sauvignon Blanc",
             "bottlesize": 750,
             "alcoholcontent": 13.5,
-            "priceeuro": 38
+            "priceeuro": 39
         },
         {
             "show": true,
@@ -57,7 +57,7 @@
             "grapes": "Fiano",
             "bottlesize": 750,
             "alcoholcontent": 13.5,
-            "priceeuro": 38
+            "priceeuro": 39
         },
         {
             "show": false,

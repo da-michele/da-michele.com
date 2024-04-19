@@ -82,7 +82,7 @@
             "priceeuro": 29
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pesce-spada-al-vino",
             "name": "Pesce Spada al vino",
             "desc": {
@@ -163,17 +163,6 @@
         },
         {
             "show": false,
-            "anchor": "pesce-miste-nel-sud",
-            "name": "Pesce miste nel Sud",
-            "desc": {
-                "de": "gemischter Fisch im Sud",
-                "en": "mixed fish in a broth"
-            },
-            "priceeuro": 32,
-            "img": "pesce/spigola_nel_brodo.webp"
-        },
-        {
-            "show": false,
             "anchor": "sogliola-al-vino",
             "name": "Sogliola al vino",
             "desc": {
@@ -191,6 +180,17 @@
                 "en": "Cod with cauliflower"
             },
             "priceeuro": 32
+        },
+        {
+            "show": true,
+            "anchor": "pesce-miste-nel-sud",
+            "name": "Pesce miste nel Sud",
+            "desc": {
+                "de": "gemischter Fisch im Sud",
+                "en": "mixed fish in a broth"
+            },
+            "priceeuro": 34,
+            "img": "pesce/spigola_nel_brodo.webp"
         },
         {
             "show": false,
