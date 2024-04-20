@@ -77,7 +77,7 @@
             "priceeuro": 14
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pizza-caprese",
             "name": "Pizza Caprese",
             "desc": {
@@ -183,7 +183,7 @@
             "priceeuro": 16
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pizza-taleggio-asparagi-pomodoro",
             "name": "Pizza Taleggio, Asparagi, Pomodoro",
             "desc": {

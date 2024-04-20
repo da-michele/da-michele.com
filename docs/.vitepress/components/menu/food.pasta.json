@@ -93,7 +93,7 @@
             "priceeuro": 16
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pasta-ricotta-melanzane-pomodori",
             "name": "Pasta Ricotta, Melanzane & Pomodori",
             "desc": {
@@ -266,16 +266,6 @@
         },
         {
             "show": true,
-            "anchor": "pasta-salmone-spinaci",
-            "name": "Pasta Salmone & Spinaci",
-            "desc": {
-                "de": "Pasta mit Lachs und Spinat",
-                "en": "Pasta with salmon and spinach"
-            },
-            "priceeuro": 16
-        },
-        {
-            "show": true,
             "anchor": "pasta-salsiccia-rapa",
             "name": "Pasta Salsiccia & Rapa",
             "desc": {
@@ -284,6 +274,16 @@
             },
             "priceeuro": 16,
             "img": "pasta/calamarata_salsiccia_rapa.webp"
+        },
+        {
+            "show": true,
+            "anchor": "pasta-salmone-spinaci",
+            "name": "Pasta Salmone & Spinaci",
+            "desc": {
+                "de": "Pasta mit Lachs und Spinat",
+                "en": "Pasta with salmon and spinach"
+            },
+            "priceeuro": 18
         },
         {
             "show": true,
