@@ -120,9 +120,9 @@
             "priceeuro": 14
         },
         {
-            "show": false,
-            "anchor": "mozzarella-di-buffala-pomodoro",
-            "name": "Mozzarella di Buffala & Pomodoro",
+            "show": true,
+            "anchor": "mozzarella-di-buffala-pomodori",
+            "name": "Mozzarella di Buffala & Pomodori",
             "desc": {
                 "de": "Büffelmozzarella mit Tomate",
                 "en": "Buffalo mozzarella-cheese with tomatoes"
@@ -157,8 +157,8 @@
         },
         {
             "show": false,
-            "anchor": "burrata-pomodoro",
-            "name": "Burrata & Pomodoro",
+            "anchor": "burrata-pomodori",
+            "name": "Burrata & Pomodori",
             "desc": {
                 "de": "Burrata (cremiger Mozzarella) mit Tomaten",
                 "en": "Burrata (creamy mozzarella-cheese) with tomatoes"
@@ -297,19 +297,6 @@
         },
         {
             "show": false,
-            "anchor": "burrata-pomodori",
-            "name": "Burrata & Pomodori",
-            "desc": {
-                "de": "Burrata (cremiger Mozzarella) mit Tomaten",
-                "en": "Burrata (creamy mozzarella-cheese) with tomatoes"
-            },
-            "tags": [
-                "vegetarian"
-            ],
-            "priceeuro": 16
-        },
-        {
-            "show": false,
             "anchor": "prosciutto-di-parma-mozzarella-di-buffala",
             "name": "Prosciutto di Parma & Mozzarella di Buffala",
             "desc": {
@@ -355,7 +342,7 @@
             "priceeuro": 18
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "Vitello tonnato",
             "name": "Vitello tonnato",
             "desc": {
@@ -417,7 +404,7 @@
             "priceeuro": 18
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "carpaccio-di-manzo",
             "name": "Carpaccio di Manzo",
             "desc": {

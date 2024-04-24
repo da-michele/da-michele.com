@@ -152,14 +152,14 @@
             "priceeuro": 31
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pesce-miste-all-acqua-pazza",
             "name": "Pesce miste all'acqua pazza",
             "desc": {
                 "de": "gemischter Fisch (pochiert)",
                 "en": "Poached mixed fish"
             },
-            "priceeuro": 32
+            "priceeuro": 34
         },
         {
             "show": false,
