@@ -82,7 +82,7 @@
             "priceeuro": 29
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pesce-spada-al-vino",
             "name": "Pesce Spada al vino",
             "desc": {
@@ -152,7 +152,7 @@
             "priceeuro": 31
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pesce-miste-all-acqua-pazza",
             "name": "Pesce miste all'acqua pazza",
             "desc": {
@@ -182,7 +182,7 @@
             "priceeuro": 32
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pesce-miste-nel-sud",
             "name": "Pesce miste nel Sud",
             "desc": {
@@ -203,7 +203,7 @@
             "priceeuro": 34
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "bistecca-di-tonno-rucola",
             "name": "Bistecca di Tonno & Rucola",
             "desc": {

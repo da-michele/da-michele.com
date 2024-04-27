@@ -342,7 +342,7 @@
             "priceeuro": 18
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "Vitello tonnato",
             "name": "Vitello tonnato",
             "desc": {
@@ -404,7 +404,7 @@
             "priceeuro": 18
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "carpaccio-di-manzo",
             "name": "Carpaccio di Manzo",
             "desc": {
@@ -434,7 +434,7 @@
             "priceeuro": 18
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "rucola-fegato-di-vitello",
             "name": "Rucola & Fegato di Vitello",
             "desc": {
