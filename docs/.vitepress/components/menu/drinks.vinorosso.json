@@ -17,7 +17,7 @@
             "priceeuro": 36
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "barbera-d-alba",
             "name": "Barbera d'Alba, Cordero di Montezemolo",
             "img": "vino_rosso/barbera_cordero_di_montezemolo.webp",

@@ -1,7 +1,7 @@
 {
     "pasta": [
         {
-            "show": false,
+            "show": true,
             "anchor": "pasta-pesto",
             "name": "Pasta Pesto",
             "desc": {
@@ -502,7 +502,7 @@
             "priceeuro": 22
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pasta-aragosta",
             "name": "Pasta Aragosta",
             "desc": {

@@ -82,7 +82,7 @@
             "priceeuro": 29
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pesce-spada-al-vino",
             "name": "Pesce Spada al vino",
             "desc": {
@@ -203,7 +203,7 @@
             "priceeuro": 34
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "bistecca-di-tonno-rucola",
             "name": "Bistecca di Tonno & Rucola",
             "desc": {

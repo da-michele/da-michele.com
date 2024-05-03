@@ -16,7 +16,7 @@
             "img": "antipasti/insalata_di_arance.webp"
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "insalata-di-finnochio",
             "name": "Insalata di Finnochio",
             "desc": {
@@ -216,7 +216,7 @@
             "priceeuro": 16
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "cozze-al-vino",
             "name": "Cozze al vino",
             "desc": {
@@ -306,7 +306,7 @@
             "priceeuro": 18
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "burrata-asparagi-pomodori",
             "name": "Burrata, Asparagi & Pomodori",
             "desc": {
@@ -319,7 +319,7 @@
             "priceeuro": 18
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "insalata-di-asparagi-prosciutto-di-parma",
             "name": "Insalata di Asparagi & Prosciutto di Parma",
             "desc": {
