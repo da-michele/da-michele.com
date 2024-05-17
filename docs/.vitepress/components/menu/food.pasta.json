@@ -1,7 +1,7 @@
 {
     "pasta": [
         {
-            "show": true,
+            "show": false,
             "anchor": "pasta-pesto",
             "name": "Pasta Pesto",
             "desc": {
@@ -37,7 +37,7 @@
             "priceeuro": 16
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pasta-sorrentina",
             "name": "Pasta Sorrentina",
             "desc": {
@@ -252,7 +252,7 @@
             "priceeuro": 16
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pasta-salsiccia-rapa",
             "name": "Pasta Salsiccia & Rapa",
             "desc": {
@@ -286,7 +286,7 @@
             "priceeuro": 18
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pasta-asparagi",
             "name": "Pasta Asparagi",
             "desc": {
@@ -323,7 +323,7 @@
             "img": "pasta/pasta_polpette_al_sugo.webp"
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "spaghetti-cozze",
             "name": "Spaghetti Cozze",
             "desc": {
@@ -438,7 +438,7 @@
             "img": "pasta/spaghetti_vongole.webp"
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pasta-pesce-spada-pomodori-rucola",
             "name": "Pasta Pesce Spada & Pomodori & Rucola",
             "desc": {
@@ -448,7 +448,7 @@
             "priceeuro": 19
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pasta-ragu-di-coniglio",
             "name": "Pasta Ragu di Coniglio",
             "desc": {
@@ -492,7 +492,7 @@
             "priceeuro": 21
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pasta-gambas",
             "name": "Pasta Gambas",
             "desc": {
@@ -502,7 +502,7 @@
             "priceeuro": 22
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pasta-aragosta",
             "name": "Pasta Aragosta",
             "desc": {
