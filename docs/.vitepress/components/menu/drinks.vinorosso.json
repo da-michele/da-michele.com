@@ -95,6 +95,10 @@
             "show": true,
             "anchor": "rosso-di-montalcino-argiano",
             "name": "Rosso di Montalcino, Argiano",
+            "desc": {
+                "de": "Lebendiges Rubinrot mit Aromen von Kirschen, roten Beerenfrüchten und großer Salzigkeit, umhüllt von Noten mediterraner Macchia. Am Gaumen ist er frisch, direkt mit integrierten Tanninen und ausgeprägter Würze.",
+                "en": "Lively ruby red, with aromas of cherry, red berry fruit and great saltiness wrapped in notes of Mediterranean scrub. The palate is fresh, direct with integrated tannins and distinct savouriness."
+            },
             "img": "vino_rosso/rosso_di_montalcino_argiano.webp",
             "region": "Rosso di Mantalcino, Toscana",
             "winery": "Argiano",
@@ -119,6 +123,10 @@
             "show": true,
             "anchor": "taurasi",
             "name": "Taurasi, Feudi di San Gregorio",
+            "desc": {
+                "de": "Sattes Rubinrot mit granatroten Nuancen. Ein Bouquet mit einnehmenden Aromen von Sauerkirschen, Zimt und Muskat, Vanille und Anis. Im Mund voll und ausgewogen mit weichen Tanninen und einen aromatischen, anhaltenden Finale.",
+                "en": "Rich ruby red with garnet nuances. A bouquet with engaging aromas of sour cherries, cinnamon and nutmeg, vanilla and anise. Full and balanced in the mouth with soft tannins and an aromatic, persistent finish."
+            },
             "img": "vino_rosso/taurasi_feudi_di_san_gregorio.webp",
             "region": "Sorbo Serpico, AV, Italia",
             "winery": "Feudi di San Gregorio",
@@ -131,6 +139,10 @@
             "show": true,
             "anchor": "pasqua-black-label",
             "name": "Pasqua Black Label, Amarone della Valpolicella",
+            "desc": {
+                "de": "Intensive rote Farbe. Die Nase ist fruchtig mit Noten von Brombeeren und dunkler Schokolade. Am Gaumen ist dieser Amarone elegant und raffiniert mit seidigen Tanninen.",
+                "en": "Intense red colour. The nose is fruity with notes of blackberries and dark chocolate. On the palate this Amarone is elegant and refined with silky tannins."
+            },
             "img": "vino_rosso/pasqua_black_label.webp",
             "region": "Valpolicella, Venecia",
             "winery": "Pasqua",
@@ -143,6 +155,10 @@
             "show": true,
             "anchor": "serpico",
             "name": "Serpico, Feudi di San Gregorio",
+            "desc": {
+                "de": "Wunderschönes komplexes und anhaltendes Bouquet von Kirschkonfitüre, milden Gewürzen, Kaffee und Kakao. Am Gaumen außergewöhnliche Aromen und ein nachhaltiger Abgang mit Noten von wilden Beeren und Röstaromen.",
+                "en": "Beautiful complex and persistent bouquet of cherry jam, mild spices, coffee and cocoa. On the palate, exceptional aromas and a lingering finish with notes of wild berries and roasted aromas."
+            },
             "img": "vino_rosso/serpico_feudi_di_san_gregorio.webp",
             "region": "Sorbo Serpico, AV, Italia",
             "winery": "Feudi di San Gregorio",
