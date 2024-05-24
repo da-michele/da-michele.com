@@ -2,14 +2,73 @@
     "vinobianco": [
         {
             "show": true,
+            "anchor": "falanghina-irpinia-corte-del-golfo",
+            "name": "Falanghina Irpinia, Corte del Golfo",
+            "img": "vino_bianco/falanghina_irpinia_corte_del_golfo.webp",
+            "region": "Irpinia, Campagnia",
+            "winery": "Cantine Corte del Golfo",
+            "grapes": "Falanghina",
+            "bottlesize": 750,
+            "alcoholcontent": 12,
+            "priceeuro": 29
+        },
+        {
+            "show": true,
+            "anchor": "l-altro-chardonnay-pio-cesare",
+            "name": "L'Altro Chardonnay, Pio Cesare",
+            "desc": {
+                "de": "Sehr frisch und fruchtig, mit toller Mineralität und einer leichten Vanillenote.",
+                "en": "Very fresh and fruity, with great minerality and a slight of vanilla note."
+            },
+            "img": "vino_bianco/l_altro_pio_cesare.webp",
+            "region": "Piemont",
+            "winery": "Pio Cesare",
+            "grapes": "Chardonnay, Sauvignon Blanc",
+            "bottlesize": 750,
+            "alcoholcontent": 14
+        },
+        {
+            "show": true,
+            "anchor": "prunotto-langhe-arneis",
+            "name": "Langhe Arneis, Prunotto",
+            "img": "vino_bianco/prunotto_langhe_arneis.webp",
+            "region": "Langhe, Piemont",
+            "winery": "Prunotto",
+            "grapes": "Arneis",
+            "bottlesize": 750,
+            "alcoholcontent": 13,
+            "priceeuro": 39
+        },
+        {
+            "show": true,
+            "anchor": "tunella-sauvignon-vendemmia",
+            "name": "Tunella Sauvignon, Vendemmia",
+            "desc": {
+                "de": "Der Wein zeichnet sich durch einen sehr intensiven und beständigen Duft und eine für ihn typische Vielfalt in der Nase aus. Es herrschen intensive und feine Duftnoten mit typisch pflanzlichen Aromen wie Salbei und Tomatenblatt vor, die sich mit fruchtigen und delikaten Anklängen von Honigmelone und gelbem Paprika vermischen. Der Geschmack überzeugt mit seinem perfekt ausgewogenen Verhältnis zwischen Frische und würziger Fülle. Intensives und Gaumen umhüllendes Bukett, der Abgang ist von aromatischer Beständigkeit.",
+                "en": "The wine is characterized by a very intense and persistent scent and a typical variety in the nose. Intense and fine scents predominate with typical herbal aromas such as sage and tomato leaf, which mix with fruity and delicate hints of honeydew melon and yellow pepper. The taste is convincing with its perfectly balanced ratio between freshness and spicy fullness. Intense and palate-enveloping bouquet, the finish is aromatic and persistent."
+            },
+            "img": "vino_bianco/tunella_vendemmia.webp",
+            "region": "Friuli orientale",
+            "winery": "La Tunella",
+            "grapes": "Sauvignon Blanc",
+            "bottlesize": 750,
+            "alcoholcontent": 13,
+            "priceeuro": 36
+        },
+        {
+            "show": true,
             "anchor": "terebinto-planeta",
             "name": "Terebinto, Planeta",
+            "desc": {
+                "de": "Kanariengelbe Farbe. In der Nase ist es eine tropische Version dieser außergewöhnlichen, nie vorhersehbaren sizilianischen Rebsorte. Aromen von Ananas, weißer Melone, Reis, Granny-Smith-Apfel, Kaktusfeige. Im Mund frisch und lebendig und dank der Höhenlage der Weinberge sehr ausgewogen.",
+                "en": "Canary yellow in color. On the nose, it is a tropical version of this extraordinary, never predictable Sicilian grape variety. Aromas of pineapple, white melon, rice, Granny Smith apple, prickly pear. Fresh and vibrant in the mouth and very well balanced thanks to the altitude of the vineyards."
+            },
             "img": "vino_bianco/terebinto_planeta.webp",
             "region": "Menfi, Sicilia",
             "winery": "Planeta",
             "grapes": "Grillo",
             "bottlesize": 750,
-            "alcoholcontent": 13.5,
+            "alcoholcontent": 14,
             "priceeuro": 39
         },
         {
@@ -105,6 +164,10 @@
             "show": true,
             "anchor": "conte-della-vipera",
             "name": "Antonori, Conte della Vipera",
+            "desc": {
+                "de": "Hat eine strohgelbe Farbe mit hellgrünen Reflexen. Die Nase ist breit und angenehm mit blumigen Noten, weißen Früchten und Ananas, kombiniert mit angenehmen Zitrusnoten. Am Gaumen weicht eine angenehme Frische einem besonders langen Abgang, der von Bergamotte- und Grapefruitnoten geprägt ist.",
+                "en": "Has a straw yellow color with bright green reflections. The nose is broad and pleasant with floral notes, white fruit and pineapple combined with pleasant citrus sensations. On the palate, a pleasant freshness gives way to a particularly long finish characterized by sensations of bergamot and grapefruit."
+            },
             "img": "vino_bianco/conte-della-vipera.webp",
             "region": "Cortona, Arezzo",
             "winery": "Antinori",
