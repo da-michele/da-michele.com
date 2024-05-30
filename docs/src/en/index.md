@@ -47,3 +47,7 @@ hero:
 #     link: '/en/menu/#pizze'
 #     linkText: Read more
 ---
+
+::: warning Please note
+Our Ristorante is closed May 29th through June 4th.
+:::

@@ -20,4 +20,6 @@ We offer a daily changing menu with fresh fish and meat dishes as well as the us
 
 Please [call us at 07221-61541](tel:+49722161541){ target="_blank" rel="noopener noreferrer" } to place an order.
 
-<MenuItems />
+::: warning Please note
+Our Ristorante is closed May 29th through June 4th.
+:::
