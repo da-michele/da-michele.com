@@ -117,7 +117,7 @@ Bei Bekanntwerden von entsprechenden Rechtsverletzungen werden wir diese Inhalte
 
 ## Anwendbares Recht
 
-...
+Baden-Baden
 
 ## Benachrichtigungen über Änderungen
 

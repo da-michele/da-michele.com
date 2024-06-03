@@ -18,7 +18,7 @@ Baden-Baden
 
 ## Gerichtsstand
 
-Mannheim
+Amtsgericht Mannheim
 
 ## Umsatzsteuer-Identifikationsnummer
 
@@ -27,6 +27,14 @@ Mannheim
 ## Inhaber
 
 Michele Romano
+
+## Inhaltlich verantwortlich
+
+Inhaltlich verantwortlich sind:
+
+* Vincenzo Romano
+
+Wir sind unter der oben angegebenen [Adresse](#adresse) erreichbar.
 
 ## Verantwortlich für die Datenverarbeitung
 
