@@ -2,19 +2,6 @@
     "pizze": [
         {
             "show": false,
-            "anchor": "pizza-bufalina",
-            "name": "Pizza Bufalina",
-            "desc": {
-                "de": "mit Büffelmozzarella",
-                "en": "with buffalo mozzarella-cheese"
-            },
-            "tags": [
-                "vegetarian"
-            ],
-            "priceeuro": 13
-        },
-        {
-            "show": false,
             "anchor": "pizza-gorgonzola-noci",
             "name": "Pizza Gorgonzola Noci",
             "desc": {
@@ -38,6 +25,19 @@
                 "vegetarian"
             ],
             "priceeuro": 13
+        },
+        {
+            "show": true,
+            "anchor": "pizza-bufalina",
+            "name": "Pizza Bufalina",
+            "desc": {
+                "de": "mit Büffelmozzarella",
+                "en": "with buffalo mozzarella-cheese"
+            },
+            "tags": [
+                "vegetarian"
+            ],
+            "priceeuro": 14
         },
         {
             "show": false,
@@ -67,17 +67,7 @@
             "img": "pizze/pizza_alle_verdure.webp"
         },
         {
-            "show": true,
-            "anchor": "pizza-calabrese",
-            "name": "Pizza Calabrese",
-            "desc": {
-                "de": "mit scharfer Salami",
-                "en": "with spicy salami"
-            },
-            "priceeuro": 14
-        },
-        {
-            "show": true,
+            "show": false,
             "anchor": "pizza-caprese",
             "name": "Pizza Caprese",
             "desc": {
@@ -110,7 +100,17 @@
                 "de": "mit Parmaschinken, Parmesan, Rucola",
                 "en": "with Parma ham, Parmesan cheese and lamb's lettuce"
             },
-            "priceeuro": 14
+            "priceeuro": 16
+        },
+        {
+            "show": true,
+            "anchor": "pizza-calabrese",
+            "name": "Pizza Calabrese",
+            "desc": {
+                "de": "mit scharfer Salami",
+                "en": "with spicy salami"
+            },
+            "priceeuro": 16
         },
         {
             "show": false,
@@ -183,7 +183,7 @@
             "priceeuro": 16
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pizza-taleggio-asparagi-pomodoro",
             "name": "Pizza Taleggio, Asparagi, Pomodoro",
             "desc": {

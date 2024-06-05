@@ -21,7 +21,7 @@
             "priceeuro": 27
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "seppia-alla-griglia",
             "name": "Seppia alla griglia",
             "desc": {
@@ -182,7 +182,7 @@
             "priceeuro": 32
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pesce-miste-nel-sud",
             "name": "Pesce miste nel Sud",
             "desc": {
@@ -203,7 +203,7 @@
             "priceeuro": 34
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "bistecca-di-tonno-rucola",
             "name": "Bistecca di Tonno & Rucola",
             "desc": {

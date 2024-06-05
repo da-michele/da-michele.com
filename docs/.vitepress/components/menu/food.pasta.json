@@ -37,7 +37,7 @@
             "priceeuro": 16
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pasta-sorrentina",
             "name": "Pasta Sorrentina",
             "desc": {
@@ -199,7 +199,7 @@
             "priceeuro": 16
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pasta-asparagi",
             "name": "Pasta Asparagi",
             "desc": {
@@ -240,19 +240,6 @@
         },
         {
             "show": false,
-            "anchor": "tagliatelle-finferli",
-            "name": "Tagliatelle Finferli",
-            "desc": {
-                "de": "Tagliatelle mit Pfifferlingen",
-                "en": "Tagliatelle with chanterelles"
-            },
-            "tags": [
-                "vegetarian"
-            ],
-            "priceeuro": 16
-        },
-        {
-            "show": false,
             "anchor": "pasta-salsiccia-rapa",
             "name": "Pasta Salsiccia & Rapa",
             "desc": {
@@ -264,6 +251,19 @@
         },
         {
             "show": true,
+            "anchor": "tagliatelle-finferli",
+            "name": "Tagliatelle Finferli",
+            "desc": {
+                "de": "Tagliatelle mit Pfifferlingen",
+                "en": "Tagliatelle with chanterelles"
+            },
+            "tags": [
+                "vegetarian"
+            ],
+            "priceeuro": 18
+        },
+        {
+            "show": false,
             "anchor": "ravioli-ricotta-spinaci",
             "name": "Ravioli Ricotta & Spinaci",
             "desc": {
@@ -312,7 +312,7 @@
             "priceeuro": 18
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pasta-polpette-al-sugo",
             "name": "Pasta Polpette al Sugo",
             "desc": {

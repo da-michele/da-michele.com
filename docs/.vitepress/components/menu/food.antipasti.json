@@ -120,7 +120,7 @@
             "priceeuro": 14
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "mozzarella-di-buffala-pomodori",
             "name": "Mozzarella di Buffala & Pomodori",
             "desc": {
@@ -179,7 +179,7 @@
             "priceeuro": 16
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "parmigiana",
             "name": "Parmigiana",
             "desc": {
@@ -319,7 +319,7 @@
             "priceeuro": 18
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "insalata-di-asparagi-prosciutto-di-parma",
             "name": "Insalata di Asparagi & Prosciutto di Parma",
             "desc": {
@@ -342,7 +342,7 @@
             "priceeuro": 18
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "Vitello tonnato",
             "name": "Vitello tonnato",
             "desc": {
@@ -434,7 +434,7 @@
             "priceeuro": 18
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "rucola-fegato-di-vitello",
             "name": "Rucola & Fegato di Vitello",
             "desc": {
@@ -567,7 +567,7 @@
             "priceeuro": 20
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "tartare-di-salmone",
             "name": "Tartare di Salmone",
             "desc": {
@@ -576,16 +576,6 @@
             },
             "priceeuro": 21,
             "img": "antipasti/tartare_di_salmone.webp"
-        },
-        {
-            "show": false,
-            "anchor": "tartare-di-salmone-mela-piselli",
-            "name": "Tartare di Salmone, Mele & Piselli",
-            "desc": {
-                "de": "Lachstartar mit Apfel und Erbsen",
-                "en": "salmon tartare with apples and peas"
-            },
-            "priceeuro": 21
         },
         {
             "show": false,
@@ -677,6 +667,16 @@
                 "en": "raw thuna with green peach and basil"
             },
             "priceeuro": 21
+        },
+        {
+            "show": true,
+            "anchor": "tartare-di-salmone-mela-piselli",
+            "name": "Tartare di Salmone, Mele & Piselli",
+            "desc": {
+                "de": "Lachstartar mit Apfel und Erbsen",
+                "en": "salmon tartare with apples and peas"
+            },
+            "priceeuro": 22
         },
         {
             "show": false,
