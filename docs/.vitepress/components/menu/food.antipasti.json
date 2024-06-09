@@ -16,7 +16,7 @@
             "img": "antipasti/insalata_di_arance.webp"
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "insalata-di-finnochio",
             "name": "Insalata di Finnochio",
             "desc": {
@@ -120,7 +120,7 @@
             "priceeuro": 14
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "mozzarella-di-buffala-pomodori",
             "name": "Mozzarella di Buffala & Pomodori",
             "desc": {
@@ -179,7 +179,7 @@
             "priceeuro": 16
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "parmigiana",
             "name": "Parmigiana",
             "desc": {
@@ -306,7 +306,7 @@
             "priceeuro": 18
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "burrata-asparagi-pomodori",
             "name": "Burrata, Asparagi & Pomodori",
             "desc": {
@@ -319,7 +319,7 @@
             "priceeuro": 18
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "insalata-di-asparagi-prosciutto-di-parma",
             "name": "Insalata di Asparagi & Prosciutto di Parma",
             "desc": {
@@ -342,7 +342,7 @@
             "priceeuro": 18
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "Vitello tonnato",
             "name": "Vitello tonnato",
             "desc": {
@@ -434,7 +434,7 @@
             "priceeuro": 18
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "rucola-fegato-di-vitello",
             "name": "Rucola & Fegato di Vitello",
             "desc": {

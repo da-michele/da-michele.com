@@ -40,19 +40,6 @@
             "priceeuro": 14
         },
         {
-            "show": false,
-            "anchor": "pizza-finferli",
-            "name": "Pizza Finferli",
-            "desc": {
-                "de": "mit Pfifferlingen",
-                "en": "with chanterelles"
-            },
-            "tags": [
-                "vegetarian"
-            ],
-            "priceeuro": 14
-        },
-        {
             "show": true,
             "anchor": "pizza-alle-verdure",
             "name": "Pizza alle Verdure",
@@ -93,6 +80,19 @@
             "priceeuro": 14
         },
         {
+            "show": true,
+            "anchor": "pizza-finferli",
+            "name": "Pizza Finferli",
+            "desc": {
+                "de": "mit Pfifferlingen",
+                "en": "with chanterelles"
+            },
+            "tags": [
+                "vegetarian"
+            ],
+            "priceeuro": 16
+        },
+        {
             "show": false,
             "anchor": "pizza-parma",
             "name": "Pizza Parma",
@@ -123,7 +123,7 @@
             "priceeuro": 16
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pizza-guanciale-taleggio-pomodoro",
             "name": "Pizza Guanciale, Taleggio, Pomodoro",
             "desc": {

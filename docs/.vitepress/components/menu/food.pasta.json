@@ -50,7 +50,7 @@
             "priceeuro": 16
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pasta-amatriciana",
             "name": "Pasta Amatriciana",
             "desc": {
@@ -199,20 +199,6 @@
             "priceeuro": 16
         },
         {
-            "show": true,
-            "anchor": "pasta-asparagi",
-            "name": "Pasta Asparagi",
-            "desc": {
-                "de": "Pasta mit Spargel",
-                "en": "Pasta with asparagus"
-            },
-            "tags": [
-                "vegan",
-                "vegetarian"
-            ],
-            "priceeuro": 16
-        },
-        {
             "show": false,
             "anchor": "ravioli-gorgonzola-noci",
             "name": "Ravioli Gorgonzola & Noci",
@@ -276,7 +262,7 @@
             "priceeuro": 18
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pasta-salmone-spinaci",
             "name": "Pasta Salmone & Spinaci",
             "desc": {
@@ -286,7 +272,7 @@
             "priceeuro": 18
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pasta-asparagi",
             "name": "Pasta Asparagi",
             "desc": {
@@ -294,6 +280,7 @@
                 "en": "Pasta with asparagus"
             },
             "tags": [
+                "vegan",
                 "vegetarian"
             ],
             "priceeuro": 18
@@ -535,7 +522,7 @@
             "priceeuro": 25
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "tagliolini-tartufo",
             "name": "Tagliolini Tartufo",
             "desc": {

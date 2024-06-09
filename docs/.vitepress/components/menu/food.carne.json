@@ -21,7 +21,7 @@
             "priceeuro": 16
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "fegato-di-vitello-alla-veneziana",
             "name": "Fegato di vitello alla Veneziana",
             "desc": {
@@ -101,7 +101,7 @@
             "priceeuro": 26
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "saltimbocca-alla-romana",
             "name": "Saltimbocca alla Romana",
             "desc": {
