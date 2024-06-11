@@ -78,6 +78,7 @@ export const sharedConfig = defineConfig({
   },
   sitemap: {
     hostname: 'https://da-michele.com/',
+    lastmodDateOnly: true,
     transformItems: (items) => {
       return items.filter((item) => !item.url.includes('404'))
     }
