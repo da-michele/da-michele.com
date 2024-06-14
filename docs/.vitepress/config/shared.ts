@@ -67,6 +67,9 @@ export const sharedConfig = defineConfig({
   head: sharedHead,
   lastUpdated: true,
   markdown: {                                                                   // https://vitepress.dev/reference/site-config#markdown
+    image: {
+      lazyLoading: true
+    },
     lineNumbers: true,
     theme: {                                                                    // https://github.com/shikijs/shiki/blob/main/docs/themes.md#all-themes
       light: 'github-light',
