@@ -166,7 +166,8 @@
             "tags": [
                 "vegetarian"
             ],
-            "priceeuro": 16
+            "priceeuro": 16,
+            "img": "antipasti/burrata_pomodori.webp"
         },
         {
             "show": false,
@@ -343,7 +344,7 @@
         },
         {
             "show": true,
-            "anchor": "Vitello tonnato",
+            "anchor": "vitello-tonnato",
             "name": "Vitello tonnato",
             "desc": {
                 "de": "hauchdünnes Kalbsfleisch mit Thunfischsauce",
@@ -377,7 +378,7 @@
             "anchor": "calamaretti",
             "name": "Calamaretti",
             "desc": {
-                "de": "kleine Tintenfische",
+                "de": "kl. Tintenfische",
                 "en": "small octopus"
             },
             "priceeuro": 18,
@@ -472,6 +473,9 @@
                 "de": "Burrata (cremiger Mozzarella) mit Pfifferlingen und Chinakohl",
                 "en": "burrat (creamy mozzarella-cheese) with chanterelles and chinese cabbage"
             },
+            "tags": [
+                "vegetarian"
+            ],
             "priceeuro": 18
         },
         {
@@ -539,7 +543,7 @@
         {
             "show": false,
             "anchor": "zuppa-di-aragosta",
-            "name": "Zuppa di aragosta",
+            "name": "Zuppa di Aragosta",
             "desc": {
                 "de": "Hummersuppe",
                 "en": "lobster soup"
@@ -650,7 +654,7 @@
         },
         {
             "show": false,
-            "anchor": "Tonno crudo",
+            "anchor": "tonno-crudo",
             "name": "Tonno crudo",
             "desc": {
                 "de": "roher Thunfisch",
@@ -661,7 +665,7 @@
         {
             "show": false,
             "anchor": "tonno-crudo-pesca-verde-basilico",
-            "name": "Tonno crudo, pesca verde & basilico",
+            "name": "Tonno crudo, Pesca verde & Basilico",
             "desc": {
                 "de": "roher Thunfisch mit grünem Pfirsich und Basilikum",
                 "en": "raw thuna with green peach and basil"
@@ -687,7 +691,7 @@
                 "en": "beef tartare with truffles & parmesan cheese"
             },
             "priceeuro": 23,
-            "img": "antipasti/tartare_di_manzo_tartufo_rucola.webp"
+            "img": "antipasti/tartare_di_manzo.webp"
         },
         {
             "show": false,
@@ -712,7 +716,7 @@
         {
             "show": false,
             "anchor": "tramezzini-tonno-caviale",
-            "name": "Tramezzini con Tonno e caviale",
+            "name": "Tramezzini con Tonno e Caviale",
             "desc": {
                 "de": "Tramezzini (Weißbrot) mit Thunfisch & Kaviar",
                 "en": "tramezzini (white toast bread) with thuna & caviar"
