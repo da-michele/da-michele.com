@@ -574,7 +574,7 @@
             "priceeuro": 20
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "tartare-di-salmone",
             "name": "Tartare di Salmone",
             "desc": {
@@ -683,7 +683,7 @@
                 "de": "Lachstartar mit Apfel und Erbsen",
                 "en": "salmon tartare with apples and peas"
             },
-            "priceeuro": 22
+            "priceeuro": 21
         },
         {
             "show": false,
