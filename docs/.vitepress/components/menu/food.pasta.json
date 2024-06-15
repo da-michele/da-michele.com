@@ -1,6 +1,20 @@
 {
     "pasta": [
         {
+            "show": true,
+            "anchor": "pasta-verdure",
+            "name": "Pasta Verdure",
+            "desc": {
+                "de": "Pasta mit Gemüse",
+                "en": "Pasta with vegetables"
+            },
+            "tags": [
+                "vegan",
+                "vegetarian"
+            ],
+            "priceeuro": 14
+        },
+        {
             "show": false,
             "anchor": "pasta-pesto",
             "name": "Pasta Pesto",
@@ -37,7 +51,7 @@
             "priceeuro": 16
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pasta-sorrentina",
             "name": "Pasta Sorrentina",
             "desc": {
@@ -50,7 +64,7 @@
             "priceeuro": 16
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pasta-amatriciana",
             "name": "Pasta Amatriciana",
             "desc": {
@@ -70,7 +84,7 @@
             "priceeuro": 16
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pasta-salsiccia-melanzane",
             "name": "Pasta Salsiccia & Melanzane",
             "desc": {
@@ -286,7 +300,7 @@
             "priceeuro": 18
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "gnocchi-burrata",
             "name": "Gnocchi Burrata",
             "desc": {
@@ -299,7 +313,7 @@
             "priceeuro": 18
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pasta-polpette-al-sugo",
             "name": "Pasta Polpette al Sugo",
             "desc": {

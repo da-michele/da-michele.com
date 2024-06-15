@@ -58,11 +58,14 @@
             "priceeuro": 12
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "insalata-capricciosa",
             "name": "Insalata Capricciosa",
+            "desc": {
+                "de": "bunter Veggie-Salat mit Mozzarella und Parmiggiano",
+                "en": "colorful veggie salad with mozzarella-cheese and parmiggiano-cheese"
+            },
             "tags": [
-                "vegan",
                 "vegetarian"
             ],
             "priceeuro": 14
@@ -120,7 +123,7 @@
             "priceeuro": 14
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "mozzarella-di-buffala-pomodori",
             "name": "Mozzarella di Buffala & Pomodori",
             "desc": {
@@ -180,7 +183,7 @@
             "priceeuro": 16
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "parmigiana",
             "name": "Parmigiana",
             "desc": {
@@ -297,7 +300,7 @@
             "priceeuro": 16
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "prosciutto-di-parma-mozzarella-di-buffala",
             "name": "Prosciutto di Parma & Mozzarella di Buffala",
             "desc": {
@@ -354,7 +357,7 @@
             "img": "antipasti/vitello_tonnato.webp"
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "frittura",
             "name": "Frittura",
             "desc": {
@@ -571,7 +574,7 @@
             "priceeuro": 20
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "tartare-di-salmone",
             "name": "Tartare di Salmone",
             "desc": {
