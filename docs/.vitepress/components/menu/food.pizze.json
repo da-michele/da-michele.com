@@ -193,7 +193,8 @@
             "tags": [
                 "vegetarian"
             ],
-            "priceeuro": 16
+            "priceeuro": 16,
+            "img": "pizze/pizza_taleggio_asparagi_pomodoro.webp"
         },
         {
             "show": false,
