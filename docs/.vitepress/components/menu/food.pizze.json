@@ -27,7 +27,7 @@
             "priceeuro": 13
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pizza-bufalina",
             "name": "Pizza Bufalina",
             "desc": {
@@ -80,7 +80,7 @@
             "priceeuro": 14
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pizza-finferli",
             "name": "Pizza Finferli",
             "desc": {
@@ -103,7 +103,7 @@
             "priceeuro": 16
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pizza-calabrese",
             "name": "Pizza Calabrese",
             "desc": {

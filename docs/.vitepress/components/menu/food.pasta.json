@@ -1,7 +1,7 @@
 {
     "pasta": [
         {
-            "show": true,
+            "show": false,
             "anchor": "pasta-verdure",
             "name": "Pasta Verdure",
             "desc": {
@@ -15,12 +15,12 @@
             "priceeuro": 14
         },
         {
-            "show": false,
-            "anchor": "pasta-pesto",
-            "name": "Pasta Pesto",
+            "show": true,
+            "anchor": "pasta-pesto-pomodorini",
+            "name": "Pasta Pesto Pomodorini",
             "desc": {
-                "de": "Pasta mit Pesto",
-                "en": "Pasta with pesto"
+                "de": "Pasta mit Pesto und kl. Tomaten",
+                "en": "Pasta with pesto and small tomatoes"
             },
             "tags": [
                 "vegetarian"
@@ -64,7 +64,7 @@
             "priceeuro": 16
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pasta-amatriciana",
             "name": "Pasta Amatriciana",
             "desc": {
@@ -84,7 +84,7 @@
             "priceeuro": 16
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pasta-salsiccia-melanzane",
             "name": "Pasta Salsiccia & Melanzane",
             "desc": {
@@ -146,7 +146,7 @@
             "priceeuro": 16
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "spaghetti-bolognese",
             "name": "Spaghetti Bolognese",
             "desc": {
@@ -250,7 +250,7 @@
             "img": "pasta/calamarata_salsiccia_rapa.webp"
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "tagliatelle-finferli",
             "name": "Tagliatelle Finferli",
             "desc": {
@@ -276,7 +276,7 @@
             "priceeuro": 18
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pasta-salmone-spinaci",
             "name": "Pasta Salmone & Spinaci",
             "desc": {
@@ -286,7 +286,7 @@
             "priceeuro": 18
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pasta-asparagi",
             "name": "Pasta Asparagi",
             "desc": {
@@ -345,7 +345,7 @@
             "img": "pasta/pasta_con_salsiccia_e_tartufo.webp"
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pasta-salsiccia-finferli",
             "name": "Pasta Salsiccia & Finferli",
             "desc": {
@@ -523,7 +523,7 @@
             "priceeuro": 23
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "tagliatelle-tartufo",
             "name": "Tagliatelle Tartufo",
             "desc": {

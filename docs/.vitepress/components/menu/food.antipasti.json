@@ -16,7 +16,7 @@
             "img": "antipasti/insalata_di_arance.webp"
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "insalata-di-finnochio",
             "name": "Insalata di Finnochio",
             "desc": {
@@ -71,7 +71,7 @@
             "priceeuro": 14
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "carciofi",
             "name": "Carciofi",
             "desc": {
@@ -183,7 +183,7 @@
             "priceeuro": 16
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "parmigiana",
             "name": "Parmigiana",
             "desc": {
@@ -357,7 +357,7 @@
             "img": "antipasti/vitello_tonnato.webp"
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "frittura",
             "name": "Frittura",
             "desc": {
@@ -438,7 +438,7 @@
             "priceeuro": 18
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "rucola-fegato-di-vitello",
             "name": "Rucola & Fegato di Vitello",
             "desc": {
