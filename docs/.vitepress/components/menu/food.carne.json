@@ -101,7 +101,7 @@
             "priceeuro": 26
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "saltimbocca-alla-romana",
             "name": "Saltimbocca alla Romana",
             "desc": {

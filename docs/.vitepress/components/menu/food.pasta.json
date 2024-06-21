@@ -250,7 +250,7 @@
             "img": "pasta/calamarata_salsiccia_rapa.webp"
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "tagliatelle-finferli",
             "name": "Tagliatelle Finferli",
             "desc": {
@@ -345,7 +345,7 @@
             "img": "pasta/pasta_con_salsiccia_e_tartufo.webp"
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pasta-salsiccia-finferli",
             "name": "Pasta Salsiccia & Finferli",
             "desc": {
