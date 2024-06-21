@@ -9,9 +9,6 @@ head:
   - [meta, { property: 'article:author', content: 'Vincenzo Romano' }]
   - [meta, { property: 'article:modified_time', content: 2024-06-21 }]
 outline: 2
-sitemap:
-  changefreq: hourly
-  priority: 0.7
 ---
 
 # Today's menu

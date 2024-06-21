@@ -83,7 +83,11 @@ export const sharedConfig = defineConfig({
     hostname: 'https://da-michele.com/',
     lastmodDateOnly: true,
     transformItems: (items) => {
-      return items.filter((item) => !item.url.includes('404'))
+      return items.map((item) => ({
+        ...item,
+        changefreq: item.url.includes('menu/') ? 'hourly' : 'daily',
+        priority: item.url.includes('menu/') ? 0.7 : 0.5
+      }))
     }
   },
   srcDir: 'src',
