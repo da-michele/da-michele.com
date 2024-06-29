@@ -1,7 +1,7 @@
 {
     "pasta": [
         {
-            "show": false,
+            "show": true,
             "anchor": "pasta-verdure",
             "name": "Pasta Verdure",
             "desc": {
@@ -15,7 +15,7 @@
             "priceeuro": 14
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pasta-pesto-pomodorini",
             "name": "Pasta Pesto Pomodorini",
             "desc": {
@@ -64,7 +64,7 @@
             "priceeuro": 16
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pasta-amatriciana",
             "name": "Pasta Amatriciana",
             "desc": {
@@ -146,7 +146,7 @@
             "priceeuro": 16
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "spaghetti-bolognese",
             "name": "Spaghetti Bolognese",
             "desc": {
@@ -324,7 +324,7 @@
             "img": "pasta/pasta_polpette_al_sugo.webp"
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "spaghetti-cozze",
             "name": "Spaghetti Cozze",
             "desc": {
@@ -503,7 +503,7 @@
             "priceeuro": 22
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pasta-aragosta",
             "name": "Pasta Aragosta",
             "desc": {

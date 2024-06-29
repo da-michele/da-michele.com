@@ -21,16 +21,6 @@
             "priceeuro": 16
         },
         {
-            "show": true,
-            "anchor": "fegato-di-vitello-alla-veneziana",
-            "name": "Fegato di vitello alla Veneziana",
-            "desc": {
-                "de": "Kalbsleber alla Veneziana",
-                "en": "veal liver alla Veneziana"
-            },
-            "priceeuro": 18
-        },
-        {
             "show": false,
             "anchor": "pollo-grigliato",
             "name": "Pollo grigliato",
@@ -39,6 +29,16 @@
                 "en": "grilled chicken"
             },
             "priceeuro": 19
+        },
+        {
+            "show": true,
+            "anchor": "fegato-di-vitello-alla-veneziana",
+            "name": "Fegato di vitello alla Veneziana",
+            "desc": {
+                "de": "Kalbsleber alla Veneziana",
+                "en": "veal liver alla Veneziana"
+            },
+            "priceeuro": 21
         },
         {
             "show": false,
@@ -142,7 +142,7 @@
             "img": "carne/tagliata.webp"
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "carree-di-vitello-taleggio-tartufo",
             "name": "Carree di Vitello, Taleggio & Tartufo",
             "desc": {
