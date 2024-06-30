@@ -459,7 +459,7 @@
             "priceeuro": 21
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "spaghetti-polpo",
             "name": "Spaghetti Polpo",
             "desc": {
