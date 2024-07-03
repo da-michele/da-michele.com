@@ -64,7 +64,7 @@
             "priceeuro": 16
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pasta-amatriciana",
             "name": "Pasta Amatriciana",
             "desc": {
@@ -251,6 +251,16 @@
         },
         {
             "show": true,
+            "anchor": "spaghetti-cozze",
+            "name": "Spaghetti Cozze",
+            "desc": {
+                "de": "Spaghetti mit Miesmuscheln",
+                "en": "Spaghetti with mussels"
+            },
+            "priceeuro": 16
+        },
+        {
+            "show": true,
             "anchor": "tagliatelle-finferli",
             "name": "Tagliatelle Finferli",
             "desc": {
@@ -260,7 +270,7 @@
             "tags": [
                 "vegetarian"
             ],
-            "priceeuro": 18
+            "priceeuro": 16
         },
         {
             "show": false,
@@ -322,16 +332,6 @@
             },
             "priceeuro": 18,
             "img": "pasta/pasta_polpette_al_sugo.webp"
-        },
-        {
-            "show": true,
-            "anchor": "spaghetti-cozze",
-            "name": "Spaghetti Cozze",
-            "desc": {
-                "de": "Spaghetti mit Miesmuscheln",
-                "en": "Spaghetti with mussels"
-            },
-            "priceeuro": 18
         },
         {
             "show": true,
@@ -459,7 +459,7 @@
             "priceeuro": 21
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "spaghetti-polpo",
             "name": "Spaghetti Polpo",
             "desc": {
@@ -503,7 +503,7 @@
             "priceeuro": 22
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pasta-aragosta",
             "name": "Pasta Aragosta",
             "desc": {

@@ -58,7 +58,7 @@
             "priceeuro": 12
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "insalata-capricciosa",
             "name": "Insalata Capricciosa",
             "desc": {
@@ -113,7 +113,7 @@
             "priceeuro": 14
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "prosciutto-di-parma-parmiggiano",
             "name": "Prosciutto di Parma & Parmiggiano",
             "desc": {
@@ -300,7 +300,7 @@
             "priceeuro": 16
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "prosciutto-di-parma-mozzarella-di-buffala",
             "name": "Prosciutto di Parma & Mozzarella di Buffala",
             "desc": {
@@ -574,7 +574,7 @@
             "priceeuro": 20
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "tartare-di-salmone",
             "name": "Tartare di Salmone",
             "desc": {
@@ -676,7 +676,7 @@
             "priceeuro": 21
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "tartare-di-salmone-mela-piselli",
             "name": "Tartare di Salmone, Mele & Piselli",
             "desc": {
