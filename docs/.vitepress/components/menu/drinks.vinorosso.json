@@ -18,6 +18,22 @@
         },
         {
             "show": true,
+            "anchor": "rosso-di-montalcino-campo-ai-sassi",
+            "name": "Rosso di Montalcino, Campo ai Sassi",
+            "desc": {
+                "de": "Ein Wein von eleganter Struktur mit feinen Aromen von Blumen und roten Früchten. Seine feine Tanninstruktur macht ihn angenehm weich am Gaumen.",
+                "en": "An elegantly-structured red wine, with delicate notes of blossoms and ripe fruit. Subtle tannins give it a delicious appeal."
+            },
+            "img": "vino_rosso/rosso_di_montalcino_campo_ai_sassi.webp",
+            "region": "Rosso di Montalcino, Toscana",
+            "winery": "Campo ai Sassi",
+            "grapes": "Sangiovese",
+            "bottlesize": 750,
+            "alcoholcontent": 13.5,
+            "priceeuro": 49
+        },
+        {
+            "show": true,
             "anchor": "barbera-d-alba",
             "name": "Barbera d'Alba, Cordero di Montezemolo",
             "img": "vino_rosso/barbera_cordero_di_montezemolo.webp",

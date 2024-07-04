@@ -2,6 +2,30 @@
     "vinobianco": [
         {
             "show": true,
+            "anchor": "langhe-arneis-a-val-paolo-conterno",
+            "name": "Langhe Arneis - A Val, Paolo Conterno",
+            "img": "vino_bianco/langhe_arneis_a_val_paolo_conterno.webp",
+            "region": "Langhe, Piemont",
+            "winery": "Paolo Conterno, Monforte d'Alba",
+            "grapes": "Arneis",
+            "bottlesize": 750,
+            "alcoholcontent": 13.5,
+            "priceeuro": 29
+        },
+        {
+            "show": true,
+            "anchor": "greco-di-tufo-feudi-di-san-gregorio",
+            "name": "Greco di Tufo, Feudi di San Gregorio",
+            "img": "vino_bianco/greco_di_tufo_feudi_di_san_gregorio.webp",
+            "region": "Greco di Tufo, Campagnia",
+            "winery": "Feudi di San Gregorio",
+            "grapes": "Greco",
+            "bottlesize": 750,
+            "alcoholcontent": 12.5,
+            "priceeuro": 29
+        },
+        {
+            "show": true,
             "anchor": "falanghina-irpinia-corte-del-golfo",
             "name": "Falanghina Irpinia, Corte del Golfo",
             "img": "vino_bianco/falanghina_irpinia_corte_del_golfo.webp",
