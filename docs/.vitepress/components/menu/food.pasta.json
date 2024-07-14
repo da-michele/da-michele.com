@@ -328,7 +328,7 @@
             "name": "Pasta Polpette al Sugo",
             "desc": {
                 "de": "Pasta mit Hackfleischbällchen in Tomatensauce",
-                "en": "Spaghetti with meat balls in tomato sauce"
+                "en": "Pasta with meat balls in tomato sauce"
             },
             "priceeuro": 18,
             "img": "pasta/pasta_polpette_al_sugo.webp"
@@ -481,6 +481,16 @@
         },
         {
             "show": false,
+            "anchor": "pasta-gambas",
+            "name": "Pasta Gambas",
+            "desc": {
+                "de": "Pasta Gambas",
+                "en": "Pasta Gambas"
+            },
+            "priceeuro": 22
+        },
+        {
+            "show": true,
             "anchor": "ravioli-tartufo",
             "name": "Ravioli Tartufo",
             "desc": {
@@ -490,17 +500,7 @@
             "tags": [
                 "vegetarian"
             ],
-            "priceeuro": 21
-        },
-        {
-            "show": false,
-            "anchor": "pasta-gambas",
-            "name": "Pasta Gambas",
-            "desc": {
-                "de": "Pasta Gambas",
-                "en": "Pasta Gambas"
-            },
-            "priceeuro": 22
+            "priceeuro": 23
         },
         {
             "show": false,

@@ -27,7 +27,7 @@
             "priceeuro": 13
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pizza-bufalina",
             "name": "Pizza Bufalina",
             "desc": {
@@ -44,7 +44,7 @@
             "anchor": "pizza-alle-verdure",
             "name": "Pizza alle Verdure",
             "desc": {
-                "de": "mit geschmortem Gemüse, Gorgonzola",
+                "de": "mit geschmortem Gemüse und Gorgonzola",
                 "en": "with braised vegetables and Gorgonzola cheese"
             },
             "tags": [
@@ -120,6 +120,9 @@
                 "de": "mit Mortadella",
                 "en": "with mortadella"
             },
+            "tags": [
+                "vegetarian"
+            ],
             "priceeuro": 16
         },
         {
@@ -207,6 +210,16 @@
             "tags": [
                 "vegetarian"
             ],
+            "priceeuro": 16
+        },
+        {
+            "show": true,
+            "anchor": "pizza--guanciale-taleggio-finferli",
+            "name": "Pizza Guanciale, Taleggio, Finferli",
+            "desc": {
+                "de": "mit Speck, ital. Rohmilchkäse und Pfifferlingen",
+                "en": "with bacon, Taleggio (Italian raw milk cheese) and chanterelles"
+            },
             "priceeuro": 16
         },
         {
