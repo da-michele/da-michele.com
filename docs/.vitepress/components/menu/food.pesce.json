@@ -193,7 +193,7 @@
             "img": "pesce/spigola_nel_brodo.webp"
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pesce-miste-alla-griglia",
             "name": "Pesce miste alla griglia",
             "desc": {

@@ -31,7 +31,7 @@
             "priceeuro": 19
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "fegato-di-vitello-alla-veneziana",
             "name": "Fegato di vitello alla Veneziana",
             "desc": {
@@ -143,6 +143,16 @@
         },
         {
             "show": true,
+            "anchor": "carree-di-vitello-finferli",
+            "name": "Carree di Vitello & Finferli",
+            "desc": {
+                "de": "Kalbskarrée mit Pfifferlingen",
+                "en": "veal carrée with chanterelles"
+            },
+            "priceeuro": 34
+        },
+        {
+            "show": false,
             "anchor": "carree-di-vitello-taleggio-tartufo",
             "name": "Carree di Vitello, Taleggio & Tartufo",
             "desc": {
