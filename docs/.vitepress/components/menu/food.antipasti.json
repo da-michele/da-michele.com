@@ -136,7 +136,7 @@
             "priceeuro": 16
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "sardelle-marinate",
             "name": "Sardelle marinate",
             "desc": {
@@ -146,7 +146,7 @@
             "priceeuro": 16
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "insalata-caprese",
             "name": "Insalata Caprese",
             "desc": {
@@ -220,7 +220,7 @@
             "priceeuro": 16
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "cozze-al-vino",
             "name": "Cozze al vino",
             "desc": {
@@ -357,7 +357,7 @@
             "img": "antipasti/vitello_tonnato.webp"
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "frittura",
             "name": "Frittura",
             "desc": {
@@ -482,7 +482,7 @@
             "priceeuro": 18
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "insalata-di-manzo",
             "name": "Insalata di Manzo",
             "desc": {
@@ -574,7 +574,7 @@
             "priceeuro": 20
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "tartare-di-salmone",
             "name": "Tartare di Salmone",
             "desc": {
@@ -676,7 +676,7 @@
             "priceeuro": 21
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "tartare-di-salmone-mela-piselli",
             "name": "Tartare di Salmone, Mele & Piselli",
             "desc": {
