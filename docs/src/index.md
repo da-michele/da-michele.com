@@ -47,3 +47,7 @@ hero:
 #     link: '/menu/#pizze'
 #     linkText: Mehr erfahren
 ---
+
+::: warning Bitte beachte
+Unser Ristorante ist vom 06. August bis einschließlich 29. August geschlossen.
+:::
