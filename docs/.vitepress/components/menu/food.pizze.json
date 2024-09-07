@@ -103,7 +103,7 @@
             "priceeuro": 16
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pizza-calabrese",
             "name": "Pizza Calabrese",
             "desc": {
