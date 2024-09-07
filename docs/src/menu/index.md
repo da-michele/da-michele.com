@@ -17,8 +17,4 @@ Wir bieten eine täglich wechselnde Karte mit frischen Fisch- und Fleischgericht
 
 Deine Bestellungen nehmen wir gerne [telefonisch unter 07221-61541](tel:+49722161541){ target="_blank" rel="noopener noreferrer" } entgegen.
 
-::: warning Bitte beachte
-Unser Ristorante ist vom 06. August bis einschließlich 29. August geschlossen.
-:::
-
 <MenuItems />
