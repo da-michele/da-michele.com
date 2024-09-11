@@ -1,7 +1,7 @@
 {
     "vinobianco": [
         {
-            "show": true,
+            "show": false,
             "anchor": "langhe-arneis-a-val-paolo-conterno",
             "name": "Langhe Arneis - A Val, Paolo Conterno",
             "img": "vino_bianco/langhe_arneis_a_val_paolo_conterno.webp",
@@ -80,7 +80,7 @@
             "priceeuro": 36
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "terebinto-planeta",
             "name": "Terebinto, Planeta",
             "desc": {

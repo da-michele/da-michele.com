@@ -91,14 +91,14 @@
             "priceeuro": 26
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "coscia-di-coniglio-brasata",
             "name": "Coscia di Coniglio brasata",
             "desc": {
                 "de": "geschmorte Kaninchenkeule",
                 "en": "braised rabbit leg"
             },
-            "priceeuro": 26
+            "priceeuro": 29
         },
         {
             "show": false,
