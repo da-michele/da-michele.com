@@ -40,20 +40,6 @@
             "priceeuro": 14
         },
         {
-            "show": true,
-            "anchor": "pizza-alle-verdure",
-            "name": "Pizza alle Verdure",
-            "desc": {
-                "de": "mit geschmortem Gemüse und Gorgonzola",
-                "en": "with braised vegetables and Gorgonzola cheese"
-            },
-            "tags": [
-                "vegetarian"
-            ],
-            "priceeuro": 14,
-            "img": "pizze/pizza_alle_verdure.webp"
-        },
-        {
             "show": false,
             "anchor": "pizza-caprese",
             "name": "Pizza Caprese",
@@ -80,6 +66,20 @@
             "priceeuro": 14
         },
         {
+            "show": true,
+            "anchor": "pizza-alle-verdure",
+            "name": "Pizza alle Verdure",
+            "desc": {
+                "de": "mit geschmortem Gemüse und Gorgonzola",
+                "en": "with braised vegetables and Gorgonzola cheese"
+            },
+            "tags": [
+                "vegetarian"
+            ],
+            "priceeuro": 16,
+            "img": "pizze/pizza_alle_verdure.webp"
+        },
+        {
             "show": false,
             "anchor": "pizza-finferli",
             "name": "Pizza Finferli",
@@ -103,7 +103,7 @@
             "priceeuro": 16
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pizza-calabrese",
             "name": "Pizza Calabrese",
             "desc": {
@@ -213,7 +213,7 @@
             "priceeuro": 16
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pizza--guanciale-taleggio-finferli",
             "name": "Pizza Guanciale, Taleggio, Finferli",
             "desc": {

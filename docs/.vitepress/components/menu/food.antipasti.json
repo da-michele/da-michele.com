@@ -16,7 +16,7 @@
             "img": "antipasti/insalata_di_arance.webp"
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "insalata-di-finnochio",
             "name": "Insalata di Finnochio",
             "desc": {
@@ -183,7 +183,7 @@
             "priceeuro": 16
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "parmigiana",
             "name": "Parmigiana",
             "desc": {
@@ -493,17 +493,6 @@
         },
         {
             "show": false,
-            "anchor": "ceviche-di-salmone",
-            "name": "Ceviche di Salmone",
-            "desc": {
-                "de": "Ceviche vom Lachs mit einem Sud aus Zitrussaft",
-                "en": "salmon ceviche with lemon juice"
-            },
-            "priceeuro": 19,
-            "img": "antipasti/ceviche_di_salmone.webp"
-        },
-        {
-            "show": false,
             "anchor": "ceviche-di-pesce-spada",
             "name": "Ceviche di Pesce Spada",
             "desc": {
@@ -676,7 +665,7 @@
             "priceeuro": 21
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "tartare-di-salmone-mela-piselli",
             "name": "Tartare di Salmone, Mele & Piselli",
             "desc": {
@@ -684,6 +673,27 @@
                 "en": "salmon tartare with apples and peas"
             },
             "priceeuro": 21
+        },
+        {
+            "show": true,
+            "anchor": "ceviche-di-salmone",
+            "name": "Ceviche di Salmone",
+            "desc": {
+                "de": "Ceviche vom Lachs mit einem Sud aus Zitrussaft",
+                "en": "salmon ceviche with lemon juice"
+            },
+            "priceeuro": 22,
+            "img": "antipasti/ceviche_di_salmone.webp"
+        },
+        {
+            "show": true,
+            "anchor": "polpo-patate",
+            "name": "Polpo & Patate",
+            "desc": {
+                "de": "Tintenfisch mit Kartoffeln",
+                "en": "octupus with potatoes"
+            },
+            "priceeuro": 22
         },
         {
             "show": false,

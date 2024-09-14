@@ -91,7 +91,7 @@
             "priceeuro": 26
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "coscia-di-coniglio-brasata",
             "name": "Coscia di Coniglio brasata",
             "desc": {
@@ -142,14 +142,14 @@
             "img": "carne/tagliata.webp"
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "carree-di-vitello-finferli",
             "name": "Carree di Vitello & Finferli",
             "desc": {
                 "de": "Kalbskarrée mit Pfifferlingen",
                 "en": "veal carrée with chanterelles"
             },
-            "priceeuro": 34
+            "priceeuro": 36
         },
         {
             "show": false,

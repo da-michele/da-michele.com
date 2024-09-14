@@ -49,10 +49,11 @@
             "winery": "Pio Cesare",
             "grapes": "Chardonnay, Sauvignon Blanc",
             "bottlesize": 750,
-            "alcoholcontent": 14
+            "alcoholcontent": 14,
+            "priceeuro": 39
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "prunotto-langhe-arneis",
             "name": "Langhe Arneis, Prunotto",
             "img": "vino_bianco/prunotto_langhe_arneis.webp",
