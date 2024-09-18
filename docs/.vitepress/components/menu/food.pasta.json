@@ -260,7 +260,7 @@
             "priceeuro": 16
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "tagliatelle-finferli",
             "name": "Tagliatelle Finferli",
             "desc": {
