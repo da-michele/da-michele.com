@@ -38,7 +38,7 @@
             "priceeuro": 14
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pasta-gorgonzola-spinaci",
             "name": "Pasta Gorgonzola & Spinaci",
             "desc": {
@@ -64,7 +64,7 @@
             "priceeuro": 16
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pasta-amatriciana",
             "name": "Pasta Amatriciana",
             "desc": {
@@ -146,7 +146,7 @@
             "priceeuro": 16
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "spaghetti-bolognese",
             "name": "Spaghetti Bolognese",
             "desc": {
@@ -250,7 +250,7 @@
             "img": "pasta/calamarata_salsiccia_rapa.webp"
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "spaghetti-cozze",
             "name": "Spaghetti Cozze",
             "desc": {
@@ -260,7 +260,7 @@
             "priceeuro": 16
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "tagliatelle-finferli",
             "name": "Tagliatelle Finferli",
             "desc": {
@@ -429,17 +429,6 @@
         },
         {
             "show": false,
-            "anchor": "spaghetti-vongole",
-            "name": "Spaghetti Vongole",
-            "desc": {
-                "de": "Spaghetti mit Venusmuscheln",
-                "en": "Spaghetti with clams"
-            },
-            "priceeuro": 19,
-            "img": "pasta/spaghetti_vongole.webp"
-        },
-        {
-            "show": false,
             "anchor": "pasta-pesce-spada-pomodori-rucola",
             "name": "Pasta Pesce Spada & Pomodori & Rucola",
             "desc": {
@@ -447,6 +436,17 @@
                 "en": "Pasta swordfish, dried tomatoes, lamb's lettuce"
             },
             "priceeuro": 19
+        },
+        {
+            "show": true,
+            "anchor": "spaghetti-vongole",
+            "name": "Spaghetti Vongole",
+            "desc": {
+                "de": "Spaghetti mit Venusmuscheln",
+                "en": "Spaghetti with clams"
+            },
+            "priceeuro": 21,
+            "img": "pasta/spaghetti_vongole.webp"
         },
         {
             "show": false,

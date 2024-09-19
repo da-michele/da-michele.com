@@ -113,7 +113,7 @@
             "priceeuro": 14
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "prosciutto-di-parma-parmiggiano",
             "name": "Prosciutto di Parma & Parmiggiano",
             "desc": {
@@ -241,20 +241,6 @@
         },
         {
             "show": false,
-            "anchor": "burrata-caponata",
-            "name": "Burrata & Caponata",
-            "desc": {
-                "de": "Burrata (cremiger Mozzarella) mit geschmortem Gemüse",
-                "en": "Burrata (creamy mozzarella-cheese) with braised vegetables"
-            },
-            "tags": [
-                "vegetarian"
-            ],
-            "priceeuro": 16,
-            "img": "antipasti/burrata_caponata.webp"
-        },
-        {
-            "show": false,
             "anchor": "burrata-ratatouille",
             "name": "Burrata & Ratatouille",
             "desc": {
@@ -287,7 +273,7 @@
             "priceeuro": 16
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "mozzarella-buffala-pomodori-colorati",
             "name": "Mozzarella di Buffala & Pomodori colorati",
             "desc": {
@@ -301,6 +287,20 @@
         },
         {
             "show": true,
+            "anchor": "burrata-caponata",
+            "name": "Burrata & Caponata",
+            "desc": {
+                "de": "Burrata (cremiger Mozzarella) mit geschmortem Gemüse",
+                "en": "Burrata (creamy mozzarella-cheese) with braised vegetables"
+            },
+            "tags": [
+                "vegetarian"
+            ],
+            "priceeuro": 18,
+            "img": "antipasti/burrata_caponata.webp"
+        },
+        {
+            "show": false,
             "anchor": "prosciutto-di-parma-mozzarella-di-buffala",
             "name": "Prosciutto di Parma & Mozzarella di Buffala",
             "desc": {
@@ -333,7 +333,7 @@
             "priceeuro": 18
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "burrata-pomodori-colorati",
             "name": "Burrata & Pomodori colorati",
             "desc": {
@@ -686,7 +686,7 @@
             "img": "antipasti/ceviche_di_salmone.webp"
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "polpo-patate",
             "name": "Polpo & Patate",
             "desc": {

@@ -71,14 +71,14 @@
             "priceeuro": 25
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "scaloppine-al-vino",
             "name": "Scaloppine al Vino",
             "desc": {
                 "de": "Kalbsschnitzel mit Wein",
                 "en": "Veal escalopes with wine"
             },
-            "priceeuro": 25
+            "priceeuro": 26
         },
         {
             "show": false,
