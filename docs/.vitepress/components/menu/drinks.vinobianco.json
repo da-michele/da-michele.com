@@ -22,7 +22,7 @@
             "grapes": "Greco",
             "bottlesize": 750,
             "alcoholcontent": 12.5,
-            "priceeuro": 29
+            "priceeuro": 39
         },
         {
             "show": true,
@@ -78,7 +78,7 @@
             "grapes": "Sauvignon Blanc",
             "bottlesize": 750,
             "alcoholcontent": 13,
-            "priceeuro": 36
+            "priceeuro": 39
         },
         {
             "show": false,
