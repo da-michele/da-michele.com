@@ -1,6 +1,22 @@
 {
     "vinorosso": [
         {
+            "show": true,
+            "anchor": "cosma-e-damiano",
+            "name": "Cosma e Damiano, Primitivo Puglia",
+            "desc": {
+                "de": "Geerntet in Apulien. Nur die reifsten Trauben wurden ausgewählt. Kirschrote Farbe mit violetten Reflexen. Vollmundig und gut strukturiert. Aromen von Pflaume, gefolgt von Tabak und Zimt.",
+                "en": "Harvested in Puglia. Only the ripest grapes were selected. Cherry red color with purple reflections. Full-bodied and well-structured. Aromas of plum, followed by tobacco and cinnamon."
+            },
+            "img": "vino_rosso/cosma-e-primitivo_primitivo_puglia.webp",
+            "region": "Puglia",
+            "winery": "CDC, Sommacampagna",
+            "grapes": "Primitivo",
+            "bottlesize": 750,
+            "alcoholcontent": 13.5,
+            "priceeuro": 32
+        },
+        {
             "show": false,
             "anchor": "pietranera",
             "name": "Pietranera Toscana, Mauro Vannucci",
