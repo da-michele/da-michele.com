@@ -193,7 +193,7 @@
             "img": "pesce/spigola_nel_brodo.webp"
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pesce-miste-alla-griglia",
             "name": "Pesce miste alla griglia",
             "desc": {
@@ -203,7 +203,7 @@
             "priceeuro": 34
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "bistecca-di-tonno-rucola",
             "name": "Bistecca di Tonno & Rucola",
             "desc": {

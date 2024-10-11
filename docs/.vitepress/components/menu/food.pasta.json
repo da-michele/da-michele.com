@@ -38,7 +38,7 @@
             "priceeuro": 14
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pasta-gorgonzola-spinaci",
             "name": "Pasta Gorgonzola & Spinaci",
             "desc": {
@@ -64,7 +64,7 @@
             "priceeuro": 16
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pasta-amatriciana",
             "name": "Pasta Amatriciana",
             "desc": {
@@ -323,7 +323,7 @@
             "priceeuro": 18
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pasta-polpette-al-sugo",
             "name": "Pasta Polpette al Sugo",
             "desc": {
@@ -459,7 +459,7 @@
             "priceeuro": 21
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "spaghetti-polpo",
             "name": "Spaghetti Polpo",
             "desc": {

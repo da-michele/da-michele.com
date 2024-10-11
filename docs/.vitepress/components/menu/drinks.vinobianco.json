@@ -14,18 +14,6 @@
         },
         {
             "show": true,
-            "anchor": "greco-di-tufo-feudi-di-san-gregorio",
-            "name": "Greco di Tufo, Feudi di San Gregorio",
-            "img": "vino_bianco/greco_di_tufo_feudi_di_san_gregorio.webp",
-            "region": "Greco di Tufo, Campagnia",
-            "winery": "Feudi di San Gregorio",
-            "grapes": "Greco",
-            "bottlesize": 750,
-            "alcoholcontent": 12.5,
-            "priceeuro": 39
-        },
-        {
-            "show": true,
             "anchor": "falanghina-irpinia-corte-del-golfo",
             "name": "Falanghina Irpinia, Corte del Golfo",
             "img": "vino_bianco/falanghina_irpinia_corte_del_golfo.webp",
@@ -35,6 +23,18 @@
             "bottlesize": 750,
             "alcoholcontent": 12,
             "priceeuro": 29
+        },
+        {
+            "show": true,
+            "anchor": "greco-di-tufo-feudi-di-san-gregorio",
+            "name": "Greco di Tufo, Feudi di San Gregorio",
+            "img": "vino_bianco/greco_di_tufo_feudi_di_san_gregorio.webp",
+            "region": "Greco di Tufo, Campagnia",
+            "winery": "Feudi di San Gregorio",
+            "grapes": "Greco",
+            "bottlesize": 750,
+            "alcoholcontent": 12.5,
+            "priceeuro": 39
         },
         {
             "show": true,
