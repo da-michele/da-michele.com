@@ -64,7 +64,7 @@
             "priceeuro": 16
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pasta-amatriciana",
             "name": "Pasta Amatriciana",
             "desc": {
@@ -239,17 +239,6 @@
             "priceeuro": 16
         },
         {
-            "show": false,
-            "anchor": "pasta-salsiccia-rapa",
-            "name": "Pasta Salsiccia & Rapa",
-            "desc": {
-                "de": "Pasta mit Salsiccia (ital. Frischwurst) und Rapa (Stängelkohl)",
-                "en": "Pasta with Salsiccia (Italian raw meat sausage) and Rapa (slightly bitter Italian broccoli-like vegetable)"
-            },
-            "priceeuro": 16,
-            "img": "pasta/calamarata_salsiccia_rapa.webp"
-        },
-        {
             "show": true,
             "anchor": "spaghetti-cozze",
             "name": "Spaghetti Cozze",
@@ -271,6 +260,17 @@
                 "vegetarian"
             ],
             "priceeuro": 16
+        },
+        {
+            "show": true,
+            "anchor": "pasta-salsiccia-rapa",
+            "name": "Pasta Salsiccia & Rapa",
+            "desc": {
+                "de": "Pasta mit Salsiccia (ital. Frischwurst) und Rapa (Stängelkohl)",
+                "en": "Pasta with Salsiccia (Italian raw meat sausage) and Rapa (slightly bitter Italian broccoli-like vegetable)"
+            },
+            "priceeuro": 18,
+            "img": "pasta/calamarata_salsiccia_rapa.webp"
         },
         {
             "show": false,

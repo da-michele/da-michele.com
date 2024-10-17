@@ -14,7 +14,7 @@
             "priceeuro": 13
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pizza-crudaiola",
             "name": "Pizza Crudaiola",
             "desc": {
@@ -24,10 +24,10 @@
             "tags": [
                 "vegetarian"
             ],
-            "priceeuro": 13
+            "priceeuro": 14
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pizza-bufalina",
             "name": "Pizza Bufalina",
             "desc": {
@@ -53,7 +53,7 @@
             "priceeuro": 14
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pizza-gorgonzola-spinaci",
             "name": "Pizza Gorgonzola Spinaci",
             "desc": {
@@ -67,8 +67,8 @@
         },
         {
             "show": true,
-            "anchor": "pizza-alle-verdure",
-            "name": "Pizza alle Verdure",
+            "anchor": "pizza-alle-verdure-e-gorgonzola",
+            "name": "Pizza alle Verdure e Gorgonzola",
             "desc": {
                 "de": "mit geschmortem Gemüse und Gorgonzola",
                 "en": "with braised vegetables and Gorgonzola cheese"
@@ -103,7 +103,7 @@
             "priceeuro": 16
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pizza-calabrese",
             "name": "Pizza Calabrese",
             "desc": {
@@ -259,7 +259,7 @@
             "priceeuro": 18
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pizza-salmone-spinaci",
             "name": "Pizza Salmone Spinaci",
             "desc": {

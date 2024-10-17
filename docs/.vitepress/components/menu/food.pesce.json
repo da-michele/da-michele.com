@@ -182,7 +182,7 @@
             "priceeuro": 32
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pesce-miste-nel-sud",
             "name": "Pesce miste nel Sud",
             "desc": {
@@ -193,7 +193,7 @@
             "img": "pesce/spigola_nel_brodo.webp"
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pesce-miste-alla-griglia",
             "name": "Pesce miste alla griglia",
             "desc": {

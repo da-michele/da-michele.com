@@ -124,7 +124,7 @@
             "priceeuro": 49
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "rosso-di-montalcino-argiano",
             "name": "Rosso di Montalcino, Argiano",
             "desc": {
