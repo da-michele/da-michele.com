@@ -128,16 +128,6 @@
         },
         {
             "show": false,
-            "anchor": "prosciutto-di-parma-parmiggiano",
-            "name": "Prosciutto di Parma & Parmiggiano",
-            "desc": {
-                "de": "Parmaschinken mit Parmiggiano",
-                "en": "Parma ham with parmiggiano-cheese"
-            },
-            "priceeuro": 16
-        },
-        {
-            "show": false,
             "anchor": "mozzarella-di-buffala-pomodori",
             "name": "Mozzarella di Buffala & Pomodori",
             "desc": {
@@ -150,7 +140,7 @@
             "priceeuro": 16
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "sardelle-marinate",
             "name": "Sardelle marinate",
             "desc": {
@@ -300,7 +290,17 @@
             "priceeuro": 16
         },
         {
-            "show": false,
+            "show": true,
+            "anchor": "prosciutto-di-parma-parmiggiano",
+            "name": "Prosciutto di Parma & Parmiggiano",
+            "desc": {
+                "de": "Parmaschinken mit Parmiggiano",
+                "en": "Parma ham with parmiggiano-cheese"
+            },
+            "priceeuro": 18
+        },
+        {
+            "show": true,
             "anchor": "burrata-caponata",
             "name": "Burrata & Caponata",
             "desc": {

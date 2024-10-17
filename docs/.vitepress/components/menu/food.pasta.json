@@ -1,7 +1,7 @@
 {
     "pasta": [
         {
-            "show": false,
+            "show": true,
             "anchor": "pasta-verdure",
             "name": "Pasta Verdure",
             "desc": {
@@ -250,7 +250,7 @@
             "img": "pasta/calamarata_salsiccia_rapa.webp"
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "spaghetti-cozze",
             "name": "Spaghetti Cozze",
             "desc": {
@@ -260,7 +260,7 @@
             "priceeuro": 16
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "tagliatelle-finferli",
             "name": "Tagliatelle Finferli",
             "desc": {
@@ -323,7 +323,7 @@
             "priceeuro": 18
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pasta-polpette-al-sugo",
             "name": "Pasta Polpette al Sugo",
             "desc": {
@@ -438,7 +438,7 @@
             "priceeuro": 19
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "spaghetti-vongole",
             "name": "Spaghetti Vongole",
             "desc": {

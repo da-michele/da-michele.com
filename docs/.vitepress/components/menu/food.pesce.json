@@ -32,7 +32,7 @@
             "img": "pesce/seppia.webp"
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "filetto-di-spigula-alla-griglia",
             "name": "Filetto di Spigula alla griglia",
             "desc": {
@@ -62,7 +62,7 @@
             "priceeuro": 29
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "spigula-alla-griglia",
             "name": "Spigula alla griglia",
             "desc": {
@@ -203,7 +203,7 @@
             "priceeuro": 34
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "bistecca-di-tonno-rucola",
             "name": "Bistecca di Tonno & Rucola",
             "desc": {
