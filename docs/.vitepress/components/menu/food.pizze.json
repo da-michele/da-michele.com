@@ -176,14 +176,14 @@
             "priceeuro": 16
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pizza-salsiccia-rapa",
             "name": "Pizza Salsiccia Rapa",
             "desc": {
                 "de": "mit Salsiccia (ital. Frischwurst) und Rapa (Stängelkohl)",
                 "en": "with Salsiccia (Italian raw meat sausage) and Rapa (slightly bitter Italian broccoli-like vegetable)"
             },
-            "priceeuro": 16
+            "priceeuro": 18
         },
         {
             "show": false,

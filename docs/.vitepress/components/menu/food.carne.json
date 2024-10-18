@@ -38,7 +38,7 @@
                 "de": "Kalbsleber alla Veneziana",
                 "en": "veal liver alla Veneziana"
             },
-            "priceeuro": 21
+            "priceeuro": 22
         },
         {
             "show": false,
@@ -71,7 +71,7 @@
             "priceeuro": 25
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "scaloppine-al-vino",
             "name": "Scaloppine al Vino",
             "desc": {
