@@ -182,7 +182,7 @@
             "priceeuro": 32
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pesce-miste-nel-sud",
             "name": "Pesce miste nel Sud",
             "desc": {

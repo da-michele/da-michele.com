@@ -26,6 +26,17 @@
         },
         {
             "show": true,
+            "anchor": "langhe-arneis-cordero-di-montezemmolo",
+            "name": "Langhe Arneis, Cordero di Montezemolo",
+            "region": "La Morra, CN",
+            "winery": "Cordero di Montezemolo",
+            "grapes": "Arneis",
+            "bottlesize": 750,
+            "alcoholcontent": 13.5,
+            "priceeuro": 39
+        },
+        {
+            "show": true,
             "anchor": "greco-di-tufo-feudi-di-san-gregorio",
             "name": "Greco di Tufo, Feudi di San Gregorio",
             "img": "vino_bianco/greco_di_tufo_feudi_di_san_gregorio.webp",
@@ -81,7 +92,7 @@
             "priceeuro": 39
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "terebinto-planeta",
             "name": "Terebinto, Planeta",
             "desc": {
