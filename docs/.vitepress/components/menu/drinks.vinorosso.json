@@ -228,14 +228,26 @@
             "priceeuro": 85
         },
         {
+            "show": true,
+            "anchor": "brunello-di-montalcino-mocali",
+            "name": "Brunello di Montalcino, Mocali",
+            "img": "vino_rosso/brunello_di_montalcino_mocali.webp",
+            "region": "Brunello di Montalcino, Toscana",
+            "winery": "Mocali",
+            "grapes": "Sangiovese",
+            "bottlesize": 750,
+            "alcoholcontent": 14.5,
+            "priceeuro": 85
+        },
+        {
             "show": false,
-            "anchor": "brunello-di-montalcino",
+            "anchor": "brunello-di-montalcino-castello-banfi",
             "name": "Brunello di Montalcino, Castello Banfi",
             "desc": {
                 "de": "In der Nase zeichnet er sich durch ein intensives und fruchtiges Bouquet mit süßen Noten von Pflaumen, Sauerkirschen, Orange und würzigen Anklängen von Myrte, Wacholder und Weihrauch aus. Vollmundig und kraftvoll. Weiche und geschmeidige Tannine sind gut integriert mit einer starken Säure.",
                 "en": "In the nose, it is distinguished by an intense and fruity bouquet with sweet notes of plums, sour cherries, orange and spicy hints of myrtle, juniper and incense. Full-bodied and powerful. Soft and smooth tannins are well-integrated with a strong acidity."
             },
-            "img": "vino_rosso/brunello_di_montalcino.webp",
+            "img": "vino_rosso/brunello_di_montalcino_castello_banfi.webp",
             "region": "Brunello di Montalcino, Toscana",
             "winery": "Castello Banfi",
             "grapes": "Sangiovese",
