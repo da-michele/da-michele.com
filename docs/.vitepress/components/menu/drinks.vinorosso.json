@@ -17,6 +17,18 @@
             "priceeuro": 32
         },
         {
+            "show": true,
+            "anchor": "cabernet-sauvignon-tunella",
+            "name": "Cabernet Sauvignon, Tunella",
+            "img": "vino_rosso/cabernet_sauvignon_tunella.webp",
+            "region": "Venezia Giulia",
+            "winery": "Tunella",
+            "grapes": "Cabernet Sauvignon",
+            "bottlesize": 750,
+            "alcoholcontent": 13.5,
+            "priceeuro": 35
+        },
+        {
             "show": false,
             "anchor": "pietranera",
             "name": "Pietranera Toscana, Mauro Vannucci",
@@ -31,6 +43,18 @@
             "bottlesize": 750,
             "alcoholcontent": 14.5,
             "priceeuro": 36
+        },
+        {
+            "show": true,
+            "anchor": "botrosecco-le-mortelle",
+            "name": "Botrosecco, Le Mortelle",
+            "img": "vino_rosso/botrosecco_le_mortelle.webp",
+            "region": "Maremma, Toscana",
+            "winery": "Le Mortelle",
+            "grapes": "Cabernet Sauvignon, Cabernet Franc",
+            "bottlesize": 750,
+            "alcoholcontent": 14.5,
+            "priceeuro": 49
         },
         {
             "show": false,
