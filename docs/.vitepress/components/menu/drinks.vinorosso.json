@@ -20,6 +20,10 @@
             "show": true,
             "anchor": "cabernet-sauvignon-tunella",
             "name": "Cabernet Sauvignon, Tunella",
+            "desc": {
+                "de": "An der Nase ist er fruchtig und leicht würzig, er erinnert an frische Waldfrüchte und Pflaumen, umhüllt von einem feinen Geschmack von schwarzem Pfeffer. Weich und elegant am Gaumen, sehr körperreich und von lebhafter Frische schmeckt er auf Anhieb.",
+                "en": "On the nose it is fruity and slightly spicy, reminiscent of fresh forest fruits and plums, surrounded by a fine taste of black pepper. Soft and elegant on the palate, very full-bodied and with a lively freshness, it tastes right away."
+            },
             "img": "vino_rosso/cabernet_sauvignon_tunella.webp",
             "region": "Venezia Giulia",
             "winery": "Tunella",

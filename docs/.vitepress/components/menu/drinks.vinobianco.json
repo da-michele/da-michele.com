@@ -78,13 +78,13 @@
         },
         {
             "show": true,
-            "anchor": "tunella-sauvignon-vendemmia",
-            "name": "Tunella Sauvignon, Vendemmia",
+            "anchor": "sauvignon-vendemmia-tunella",
+            "name": "Sauvignon Vendemmia, La Tunella",
             "desc": {
                 "de": "Der Wein zeichnet sich durch einen sehr intensiven und beständigen Duft und eine für ihn typische Vielfalt in der Nase aus. Es herrschen intensive und feine Duftnoten mit typisch pflanzlichen Aromen wie Salbei und Tomatenblatt vor, die sich mit fruchtigen und delikaten Anklängen von Honigmelone und gelbem Paprika vermischen. Der Geschmack überzeugt mit seinem perfekt ausgewogenen Verhältnis zwischen Frische und würziger Fülle. Intensives und Gaumen umhüllendes Bukett, der Abgang ist von aromatischer Beständigkeit.",
                 "en": "The wine is characterized by a very intense and persistent scent and a typical variety in the nose. Intense and fine scents predominate with typical herbal aromas such as sage and tomato leaf, which mix with fruity and delicate hints of honeydew melon and yellow pepper. The taste is convincing with its perfectly balanced ratio between freshness and spicy fullness. Intense and palate-enveloping bouquet, the finish is aromatic and persistent."
             },
-            "img": "vino_bianco/tunella_vendemmia.webp",
+            "img": "vino_bianco/vendemmia_tunella.webp",
             "region": "Friuli orientale",
             "winery": "La Tunella",
             "grapes": "Sauvignon Blanc",
