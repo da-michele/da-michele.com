@@ -26,8 +26,28 @@
         },
         {
             "show": true,
+            "anchor": "lugana-llac",
+            "name": "Lugana, 'lLac",
+            "desc": {
+                "de": "Wird im Bouquet von grünen Äpfeln und Noten von feinen Gewürzen dominiert. Besitzt einen üppigen Körper. Sein Geschmack nach feinen Früchten in Kombination mit seiner zarten, cremigen Oberfläche verleiht diesem Weisswein eine große Eleganz.",
+                "en": "The bouquet is dominated by green apples and notes of fine spices. It has a rich body. Its taste of fine fruit combined with its delicate, creamy surface gives this white wine great elegance."
+            },
+            "img": "vino_bianco/lugana_llac.webp",
+            "region": "Venetia",
+            "winery": "'lLac",
+            "grapes": "Trebbiano",
+            "bottlesize": 750,
+            "alcoholcontent": 13.5,
+            "priceeuro": 39
+        },
+        {
+            "show": true,
             "anchor": "langhe-arneis-cordero-di-montezemmolo",
             "name": "Langhe Arneis, Cordero di Montezemolo",
+            "desc": {
+                "de": "Diese Piemonteser Spezialität zeichnet sich besonders durch ihren außergewöhnlich feinen Duft nach Pfirsich- und Akazienblüten, Haselnuss und gelben Blumen aus. Am Gaumen überzeugt ein einladender, frischer Geschmack mit einer typischen, leicht herben Note im Abgang.",
+                "en": "This Piedmontese speciality is particularly characterized by its exceptionally fine scent of peach and acacia blossoms, hazelnut and yellow flowers. On the palate, it has an inviting, fresh taste with a typical, slightly bitter note on the finish."
+            },
             "img": "vino_bianco/langhe_arneis_cordero_di_montezemolo.webp",
             "region": "La Morra, CN",
             "winery": "Cordero di Montezemolo",

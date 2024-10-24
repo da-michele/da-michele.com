@@ -52,6 +52,10 @@
             "show": true,
             "anchor": "botrosecco-le-mortelle",
             "name": "Botrosecco, Le Mortelle",
+            "desc": {
+                "de": "Dichtes Rubinrot mit violettem Saum prägt die Farbe. Das auffallende Bouquet zeigt vollreife Kirschen, sanfte Beerenfrucht, cremiges Eichenholz, Edelschokolade und einen Anflug balsamischer Noten. Am Gaumen mit jenem vielgestaltigen, verführerischen Reichtum, das nur ein Supertuscan dieses Zuschnitts mitbringt. Kraft vereinigt sich mit Finesse, Frucht mit Eleganz, Fassaromen mit harmonischer Weinsäure, dabei bleibt alles perfekt in der Waage gehalten und mit reifen Tanninen garniert. Auch der Klasse-Nachhall ist eines Supertuscans würdig.",
+                "en": "The color is characterized by a dense ruby-red with a violet edge. The striking bouquet shows fully ripe cherries, gentle berries, creamy oak, fine chocolate and a hint of balsamic notes. On the palate, it has that multifaceted, seductive richness that only a Supertuscan of this cut can bring. Power combines with finesse, fruit with elegance, barrel aromas with harmonious tartaric acid, everything remains perfectly balanced and garnished with ripe tannins. The classy aftertaste is also worthy of a Supertuscan."
+            },
             "img": "vino_rosso/botrosecco_le_mortelle.webp",
             "region": "Maremma, Toscana",
             "winery": "Le Mortelle",
@@ -231,6 +235,10 @@
             "show": true,
             "anchor": "brunello-di-montalcino-mocali",
             "name": "Brunello di Montalcino, Mocali",
+            "desc": {
+                "de": "Initial dominieren erdige und vegetative Noten, unterstützt durch Rauchnuancen. Später vervollständigen die Aromen von Erdbeere, Kirsche, Vanille und Dill das Geschmacksbild. Weitere Eindrücke wie schwarze Kirschen, Brombeeren, bitterer Kakao und ein metallischer Unterton zeigen die Vielschichtigkeit dieses Weins.",
+                "en": "Initially, earthy and vegetative notes dominate, supported by smoky nuances. Later, the aromas of strawberry, cherry, vanilla and dill complete the taste profile. Other impressions such as black cherries, blackberries, bitter cocoa and a metallic undertone show the complexity of this wine."
+            },
             "img": "vino_rosso/brunello_di_montalcino_mocali.webp",
             "region": "Brunello di Montalcino, Toscana",
             "winery": "Mocali",
