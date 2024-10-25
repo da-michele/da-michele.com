@@ -57,7 +57,7 @@
             "priceeuro": 39
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "greco-di-tufo-feudi-di-san-gregorio",
             "name": "Greco di Tufo, Feudi di San Gregorio",
             "img": "vino_bianco/greco_di_tufo_feudi_di_san_gregorio.webp",
