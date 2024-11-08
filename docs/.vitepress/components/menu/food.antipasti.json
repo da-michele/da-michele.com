@@ -72,7 +72,7 @@
             "priceeuro": 12
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "insalata-capricciosa",
             "name": "Insalata Capricciosa",
             "desc": {
@@ -127,7 +127,7 @@
             "priceeuro": 14
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "mozzarella-di-buffala-pomodori",
             "name": "Mozzarella di Buffala & Pomodori",
             "desc": {
@@ -224,7 +224,7 @@
             "priceeuro": 16
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "cozze-al-vino",
             "name": "Cozze al vino",
             "desc": {
@@ -422,14 +422,14 @@
             "priceeuro": 18
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "carpaccio-di-manzo",
             "name": "Carpaccio di Manzo",
             "desc": {
                 "de": "Rindercarpaccio",
                 "en": "beef carpaccio"
             },
-            "priceeuro": 18
+            "priceeuro": 19
         },
         {
             "show": false,

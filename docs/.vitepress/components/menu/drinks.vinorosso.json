@@ -1,7 +1,7 @@
 {
     "vinorosso": [
         {
-            "show": true,
+            "show": false,
             "anchor": "cosma-e-damiano",
             "name": "Cosma e Damiano, Primitivo Puglia",
             "desc": {
@@ -217,22 +217,6 @@
         },
         {
             "show": true,
-            "anchor": "serpico",
-            "name": "Serpico, Feudi di San Gregorio",
-            "desc": {
-                "de": "Wunderschönes komplexes und anhaltendes Bouquet von Kirschkonfitüre, milden Gewürzen, Kaffee und Kakao. Am Gaumen außergewöhnliche Aromen und ein nachhaltiger Abgang mit Noten von wilden Beeren und Röstaromen.",
-                "en": "Beautiful complex and persistent bouquet of cherry jam, mild spices, coffee and cocoa. On the palate, exceptional aromas and a lingering finish with notes of wild berries and roasted aromas."
-            },
-            "img": "vino_rosso/serpico_feudi_di_san_gregorio.webp",
-            "region": "Sorbo Serpico, AV, Italia",
-            "winery": "Feudi di San Gregorio",
-            "grapes": "Aglianico",
-            "bottlesize": 750,
-            "alcoholcontent": 14,
-            "priceeuro": 85
-        },
-        {
-            "show": true,
             "anchor": "brunello-di-montalcino-mocali",
             "name": "Brunello di Montalcino, Mocali",
             "desc": {
@@ -245,6 +229,22 @@
             "grapes": "Sangiovese",
             "bottlesize": 750,
             "alcoholcontent": 14.5,
+            "priceeuro": 70
+        },
+        {
+            "show": true,
+            "anchor": "serpico",
+            "name": "Serpico, Feudi di San Gregorio",
+            "desc": {
+                "de": "Wunderschönes komplexes und anhaltendes Bouquet von Kirschkonfitüre, milden Gewürzen, Kaffee und Kakao. Am Gaumen außergewöhnliche Aromen und ein nachhaltiger Abgang mit Noten von wilden Beeren und Röstaromen.",
+                "en": "Beautiful complex and persistent bouquet of cherry jam, mild spices, coffee and cocoa. On the palate, exceptional aromas and a lingering finish with notes of wild berries and roasted aromas."
+            },
+            "img": "vino_rosso/serpico_feudi_di_san_gregorio.webp",
+            "region": "Sorbo Serpico, AV, Italia",
+            "winery": "Feudi di San Gregorio",
+            "grapes": "Aglianico",
+            "bottlesize": 750,
+            "alcoholcontent": 14,
             "priceeuro": 85
         },
         {
