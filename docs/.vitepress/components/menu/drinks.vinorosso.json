@@ -49,6 +49,22 @@
             "priceeuro": 36
         },
         {
+            "show": false,
+            "anchor": "cannonau-di-sardegna-jankara",
+            "name": "Cannonau di Sardegna DOC, Jankara",
+            "desc": {
+                "de": "In der Nase zeigen sich verschiedene Gewürze mit einer Spur Vanille, am Gaumen ist er vollmundig mit intensiver Frucht und einem weichen, seidigen Tannin, das im Abgang eine schöne Länge aufweist.",
+                "en": "The nose demonstrates various spices with a hint of vanilla, the palate is full bodied with intense fruit and a soft silky tannin that demonstrates good length on the finish."
+            },
+            "img": "vino_rosso/jankara_cannonau.webp",
+            "region": "Mamoiada, Sardinia",
+            "winery": "Gianni Menotti, Jankara",
+            "grapes": "98% Cannonau, 2% Alicante",
+            "bottlesize": 750,
+            "alcoholcontent": 16,
+            "priceeuro": 49
+        },
+        {
             "show": true,
             "anchor": "botrosecco-le-mortelle",
             "name": "Botrosecco, Le Mortelle",

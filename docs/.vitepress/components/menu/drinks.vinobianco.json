@@ -1,6 +1,22 @@
 {
     "vinobianco": [
         {
+            "show": true,
+            "anchor": "vermentino-di-gallura-superiore-jankara",
+            "name": "Vermentino di Gallura Superiore DOCG, Jankara",
+            "desc": {
+                "de": "Tolles Gleichgewicht zwischen Säure, Alkohol und Frucht mit extrem reichen, intensiven Aromen von weißen Blüten und Mandeln, zusammen mit komplexen tropischen Nuancen, die angenehm am Gaumen verweilen. Intensive und anhaltende Aromen von sardischer Mandarine und weißen Mandelblüten.",
+                "en": "Great balance between acidity, alcohol, and fruit with extremely rich, intense aromas of white flowers and almonds, along with complex tropical nuances that pleasingly linger on the palate. Intense and persistent aromas of sardinian mandarin and white almond flowers."
+            },
+            "img": "vino_bianco/jankara_vermentino.webp",
+            "region": "Vena di San Leonardo, Cru Jannaca",
+            "winery": "Gianni Menotti, Jankara",
+            "grapes": "Vermentino",
+            "bottlesize": 750,
+            "alcoholcontent": 14.5,
+            "priceeuro": 29
+        },
+        {
             "show": false,
             "anchor": "langhe-arneis-a-val-paolo-conterno",
             "name": "Langhe Arneis - A Val, Paolo Conterno",
