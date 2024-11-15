@@ -38,7 +38,7 @@
             "priceeuro": 14
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pasta-gorgonzola-spinaci",
             "name": "Pasta Gorgonzola & Spinaci",
             "desc": {
@@ -64,7 +64,7 @@
             "priceeuro": 16
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pasta-amatriciana",
             "name": "Pasta Amatriciana",
             "desc": {
@@ -84,7 +84,7 @@
             "priceeuro": 16
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pasta-salsiccia-melanzane",
             "name": "Pasta Salsiccia & Melanzane",
             "desc": {
@@ -133,7 +133,7 @@
             "priceeuro": 16
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pasta-melanzane-mozzarella-di-buffala",
             "name": "Pasta Melanzane & Mozzarella di Buffala",
             "desc": {
@@ -262,7 +262,7 @@
             "priceeuro": 16
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pasta-salsiccia-rapa",
             "name": "Pasta Salsiccia & Rapa",
             "desc": {
@@ -504,23 +504,23 @@
         },
         {
             "show": false,
-            "anchor": "pasta-aragosta",
-            "name": "Pasta Aragosta",
-            "desc": {
-                "de": "Pasta mit Hummer",
-                "en": "Pasta with lobster"
-            },
-            "priceeuro": 23,
-            "img": "pasta/pasta_aragosta.webp"
-        },
-        {
-            "show": false,
             "anchor": "caramelle-al-tartufo",
             "name": "Caramelle al Tartufo",
             "tags": [
                 "vegetarian"
             ],
             "priceeuro": 23
+        },
+        {
+            "show": true,
+            "anchor": "pasta-aragosta",
+            "name": "Pasta Aragosta",
+            "desc": {
+                "de": "Pasta mit Hummer",
+                "en": "Pasta with lobster"
+            },
+            "priceeuro": 25,
+            "img": "pasta/pasta_aragosta.webp"
         },
         {
             "show": false,

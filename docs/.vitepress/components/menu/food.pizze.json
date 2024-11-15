@@ -40,7 +40,7 @@
             "priceeuro": 14
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pizza-caprese",
             "name": "Pizza Caprese",
             "desc": {
@@ -53,7 +53,7 @@
             "priceeuro": 14
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pizza-gorgonzola-spinaci",
             "name": "Pizza Gorgonzola Spinaci",
             "desc": {
@@ -66,7 +66,7 @@
             "priceeuro": 14
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pizza-alle-verdure-e-gorgonzola",
             "name": "Pizza alle Verdure e Gorgonzola",
             "desc": {
