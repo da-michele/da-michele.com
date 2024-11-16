@@ -239,7 +239,7 @@
             "priceeuro": 16
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "spaghetti-cozze",
             "name": "Spaghetti Cozze",
             "desc": {
@@ -460,16 +460,6 @@
         },
         {
             "show": false,
-            "anchor": "spaghetti-polpo",
-            "name": "Spaghetti Polpo",
-            "desc": {
-                "de": "Spaghetti mit Tintenfisch",
-                "en": "Spaghetti with octopus"
-            },
-            "priceeuro": 21
-        },
-        {
-            "show": false,
             "anchor": "gnocchi-gambas-asparagi",
             "name": "Gnocchi Gambas Asparagi",
             "desc": {
@@ -478,6 +468,16 @@
             },
             "priceeuro": 21,
             "img": "pasta/gnocchi_gambas.webp"
+        },
+        {
+            "show": true,
+            "anchor": "spaghetti-polpo",
+            "name": "Spaghetti Polpo",
+            "desc": {
+                "de": "Spaghetti mit Tintenfisch",
+                "en": "Spaghetti with octopus"
+            },
+            "priceeuro": 22
         },
         {
             "show": false,
