@@ -1,7 +1,7 @@
 {
     "antipasti": [
         {
-            "show": false,
+            "show": true,
             "anchor": "insalata-di-arance",
             "name": "Insalata di Arance",
             "desc": {
@@ -12,7 +12,7 @@
                 "vegan",
                 "vegetarian"
             ],
-            "priceeuro": 10,
+            "priceeuro": 12,
             "img": "antipasti/insalata_di_arance.webp"
         },
         {

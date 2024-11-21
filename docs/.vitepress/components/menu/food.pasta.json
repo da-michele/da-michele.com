@@ -2,20 +2,6 @@
     "pasta": [
         {
             "show": false,
-            "anchor": "pasta-verdure",
-            "name": "Pasta Verdure",
-            "desc": {
-                "de": "Pasta mit Gemüse",
-                "en": "Pasta with vegetables"
-            },
-            "tags": [
-                "vegan",
-                "vegetarian"
-            ],
-            "priceeuro": 14
-        },
-        {
-            "show": false,
             "anchor": "pasta-pesto-pomodorini",
             "name": "Pasta Pesto Pomodorini",
             "desc": {
@@ -49,6 +35,20 @@
                 "vegetarian"
             ],
             "priceeuro": 14
+        },
+        {
+            "show": true,
+            "anchor": "pasta-verdure",
+            "name": "Pasta Verdure",
+            "desc": {
+                "de": "Pasta mit Gemüse",
+                "en": "Pasta with vegetables"
+            },
+            "tags": [
+                "vegan",
+                "vegetarian"
+            ],
+            "priceeuro": 16
         },
         {
             "show": false,
@@ -239,7 +239,7 @@
             "priceeuro": 16
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "spaghetti-cozze",
             "name": "Spaghetti Cozze",
             "desc": {
@@ -470,7 +470,7 @@
             "img": "pasta/gnocchi_gambas.webp"
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "spaghetti-polpo",
             "name": "Spaghetti Polpo",
             "desc": {
