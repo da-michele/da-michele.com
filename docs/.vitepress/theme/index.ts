@@ -5,7 +5,6 @@ import { h } from 'vue'
 // default theme imports
 
 import VPButton from 'vitepress/dist/client/theme-default/components/VPButton.vue'
-import VPSocialLink from 'vitepress/dist/client/theme-default/components/VPSocialLink.vue'
 
 // local imports
 
@@ -35,7 +34,6 @@ export default {
   },
   enhanceApp(context: EnhanceAppContext) {
     context.app.component('VPButton', VPButton)
-    context.app.component('VPSocialLink', VPSocialLink)
 
     context.app.component('MenuItems', MenuItems)
 
