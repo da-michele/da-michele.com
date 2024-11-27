@@ -25,7 +25,7 @@
             "priceeuro": 29
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "vermentino-di-gallura-superiore-jankara",
             "name": "Vermentino di Gallura Superiore DOCG, Jankara",
             "desc": {
@@ -57,7 +57,7 @@
             "priceeuro": 39
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "langhe-arneis-cordero-di-montezemmolo",
             "name": "Langhe Arneis, Cordero di Montezemolo",
             "desc": {
