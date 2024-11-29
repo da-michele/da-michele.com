@@ -47,3 +47,7 @@ hero:
 #     link: '/menu/#pizze'
 #     linkText: Mehr erfahren
 ---
+
+::: warning Hinweis
+Unser Ristorante ist vom 24. Dez. bis einschließlich 08. Jan. geschlossen.
+:::
