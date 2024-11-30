@@ -156,7 +156,7 @@
             "priceeuro": 16
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pasta-pesto-burrata",
             "name": "Pasta Pesto Burrata",
             "desc": {
@@ -323,7 +323,7 @@
             "priceeuro": 18
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pasta-polpette-al-sugo",
             "name": "Pasta Polpette al Sugo",
             "desc": {

@@ -81,7 +81,7 @@
             "priceeuro": 26
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "scaloppine-al-limone",
             "name": "Scaloppine al Limone",
             "desc": {
@@ -121,14 +121,14 @@
             "priceeuro": 27
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "sella-di-vitello-taleggio-tartufo",
             "name": "Sella di Vitello, Taleggio & Tartufo",
             "desc": {
                 "de": "Kalbsrücken mit Taleggio (ital. Rohmilchkäse) und Trüffel",
                 "en": "veal back with Taleggio (Italian raw milk cheese) and truffles"
             },
-            "priceeuro": 31
+            "priceeuro": 36
         },
         {
             "show": true,

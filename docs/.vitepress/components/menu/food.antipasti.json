@@ -1,7 +1,7 @@
 {
     "antipasti": [
         {
-            "show": true,
+            "show": false,
             "anchor": "insalata-di-arance",
             "name": "Insalata di Arance",
             "desc": {
@@ -45,20 +45,6 @@
         },
         {
             "show": false,
-            "anchor": "insalata-di-finnochio-arance",
-            "name": "Insalata di Finnochio & Arance",
-            "desc": {
-                "de": "Fenchel-Orangensalat",
-                "en": "salad with fennel and orange"
-            },
-            "tags": [
-                "vegan",
-                "vegetarian"
-            ],
-            "priceeuro": 12
-        },
-        {
-            "show": false,
             "anchor": "gazpacho",
             "name": "Gazpacho",
             "desc": {
@@ -70,6 +56,20 @@
                 "vegetarian"
             ],
             "priceeuro": 12
+        },
+        {
+            "show": true,
+            "anchor": "insalata-di-finnochio-arance",
+            "name": "Insalata di Finnochio & Arance",
+            "desc": {
+                "de": "Fenchel-Orangensalat",
+                "en": "salad with fennel and orange"
+            },
+            "tags": [
+                "vegan",
+                "vegetarian"
+            ],
+            "priceeuro": 14
         },
         {
             "show": true,
@@ -408,6 +408,16 @@
             "desc": {
                 "de": "Jakobsmuscheln, bunte Beete, Hummersauce",
                 "en": "scallops, multicolored beets, lobster sauce"
+            },
+            "priceeuro": 18
+        },
+        {
+            "show": true,
+            "anchor": "carpaccio-di-bresaola",
+            "name": "Carpaccio di Bresaola",
+            "desc": {
+                "de": "Bresaola-Carpaccio",
+                "en": "bresaola carpaccio"
             },
             "priceeuro": 18
         },
