@@ -40,20 +40,7 @@
             "priceeuro": 14
         },
         {
-            "show": true,
-            "anchor": "pizza-caprese",
-            "name": "Pizza Caprese",
-            "desc": {
-                "de": "mit Büffelmozzarella & frischen Cocktail-Tomaten",
-                "en": "with buffalo mozzarella & fresh cocktail tomatoes"
-            },
-            "tags": [
-                "vegetarian"
-            ],
-            "priceeuro": 14
-        },
-        {
-            "show": true,
+            "show": false,
             "anchor": "pizza-gorgonzola-spinaci",
             "name": "Pizza Gorgonzola Spinaci",
             "desc": {
@@ -64,6 +51,19 @@
                 "vegetarian"
             ],
             "priceeuro": 14
+        },
+        {
+            "show": true,
+            "anchor": "pizza-caprese",
+            "name": "Pizza Caprese",
+            "desc": {
+                "de": "mit Büffelmozzarella & frischen Cocktail-Tomaten",
+                "en": "with buffalo mozzarella & fresh cocktail tomatoes"
+            },
+            "tags": [
+                "vegetarian"
+            ],
+            "priceeuro": 16
         },
         {
             "show": false,
@@ -103,7 +103,7 @@
             "priceeuro": 16
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pizza-calabrese",
             "name": "Pizza Calabrese",
             "desc": {
@@ -126,7 +126,7 @@
             "priceeuro": 16
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pizza-guanciale-taleggio-pomodoro",
             "name": "Pizza Guanciale, Taleggio, Pomodoro",
             "desc": {
@@ -176,7 +176,7 @@
             "priceeuro": 16
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pizza-salsiccia-rapa",
             "name": "Pizza Salsiccia Rapa",
             "desc": {
