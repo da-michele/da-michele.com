@@ -120,7 +120,7 @@
             "priceeuro": 16
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pasta-melanzane-mozzarella-basilico",
             "name": "Pasta Melanzane, Mozzarella & Basilico",
             "desc": {
@@ -156,7 +156,7 @@
             "priceeuro": 16
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pasta-pesto-burrata",
             "name": "Pasta Pesto Burrata",
             "desc": {
@@ -239,7 +239,7 @@
             "priceeuro": 16
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "spaghetti-cozze",
             "name": "Spaghetti Cozze",
             "desc": {
@@ -262,7 +262,7 @@
             "priceeuro": 16
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pasta-salsiccia-rapa",
             "name": "Pasta Salsiccia & Rapa",
             "desc": {
@@ -323,7 +323,7 @@
             "priceeuro": 18
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pasta-polpette-al-sugo",
             "name": "Pasta Polpette al Sugo",
             "desc": {

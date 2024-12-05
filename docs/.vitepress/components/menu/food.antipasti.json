@@ -224,7 +224,7 @@
             "priceeuro": 16
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "cozze-al-vino",
             "name": "Cozze al vino",
             "desc": {
@@ -300,7 +300,7 @@
             "priceeuro": 18
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "burrata-caponata",
             "name": "Burrata & Caponata",
             "desc": {
@@ -412,7 +412,7 @@
             "priceeuro": 18
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "carpaccio-di-bresaola",
             "name": "Carpaccio di Bresaola",
             "desc": {
