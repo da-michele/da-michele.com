@@ -200,7 +200,7 @@
             "priceeuro": 58
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "taurasi",
             "name": "Taurasi, Feudi di San Gregorio",
             "desc": {
