@@ -314,7 +314,7 @@
             "img": "antipasti/burrata_caponata.webp"
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "prosciutto-di-parma-mozzarella-di-buffala",
             "name": "Prosciutto di Parma & Mozzarella di Buffala",
             "desc": {

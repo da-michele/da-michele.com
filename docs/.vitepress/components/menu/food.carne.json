@@ -101,7 +101,7 @@
             "priceeuro": 29
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "saltimbocca-alla-romana",
             "name": "Saltimbocca alla Romana",
             "desc": {
@@ -121,7 +121,7 @@
             "priceeuro": 27
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "sella-di-vitello-taleggio-tartufo",
             "name": "Sella di Vitello, Taleggio & Tartufo",
             "desc": {
