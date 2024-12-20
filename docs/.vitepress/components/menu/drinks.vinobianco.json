@@ -13,7 +13,7 @@
             "priceeuro": 29
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "falanghina-irpinia-corte-del-golfo",
             "name": "Falanghina Irpinia, Corte del Golfo",
             "img": "vino_bianco/falanghina_irpinia_corte_del_golfo.webp",
@@ -176,7 +176,7 @@
             "priceeuro": 39
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "trentenare-paestum",
             "name": "Trentenare Paestum, San Salvatore 1988",
             "desc": {
