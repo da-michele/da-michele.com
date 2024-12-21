@@ -187,7 +187,7 @@
             "priceeuro": 16
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "parmigiana",
             "name": "Parmigiana",
             "desc": {
