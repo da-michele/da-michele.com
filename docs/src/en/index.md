@@ -47,7 +47,3 @@ hero:
 #     link: '/en/menu/#pizze'
 #     linkText: Read more
 ---
-
-::: warning Please note
-Our Ristorante is closed Dec. 24th through Jan 8th.
-:::
