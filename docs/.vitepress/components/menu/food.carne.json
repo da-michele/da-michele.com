@@ -121,7 +121,7 @@
             "priceeuro": 27
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "sella-di-vitello-taleggio-tartufo",
             "name": "Sella di Vitello, Taleggio & Tartufo",
             "desc": {
