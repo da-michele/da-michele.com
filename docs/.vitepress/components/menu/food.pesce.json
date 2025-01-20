@@ -21,7 +21,7 @@
             "priceeuro": 27
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "seppia-alla-griglia",
             "name": "Seppia alla griglia",
             "desc": {
@@ -32,7 +32,7 @@
             "img": "pesce/seppia.webp"
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "filetto-di-spigula-alla-griglia",
             "name": "Filetto di Spigula alla griglia",
             "desc": {
@@ -82,7 +82,7 @@
             "priceeuro": 29
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pesce-spada-al-vino",
             "name": "Pesce Spada al vino",
             "desc": {
@@ -122,7 +122,7 @@
             "priceeuro": 29
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "filetto-di-orrata-alla-griglia",
             "name": "Filetto di Orrata alla griglia",
             "desc": {

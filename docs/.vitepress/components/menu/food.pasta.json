@@ -51,7 +51,7 @@
             "priceeuro": 16
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pasta-sorrentina",
             "name": "Pasta Sorrentina",
             "desc": {
@@ -64,7 +64,7 @@
             "priceeuro": 16
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pasta-amatriciana",
             "name": "Pasta Amatriciana",
             "desc": {
@@ -310,7 +310,7 @@
             "priceeuro": 18
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "gnocchi-burrata",
             "name": "Gnocchi Burrata",
             "desc": {
