@@ -192,6 +192,22 @@
             "priceeuro": 39
         },
         {
+            "show": true,
+            "anchor": "cuvee-terlaner-alto-adige",
+            "name": "Cuvée Terlaner, Alto Adige DOC",
+            "desc": {
+                "de": "Unsere historische Cuvée, die bereits seit der Gründung der Kellerei produziert wird, präsentiert sich durch die Komposition aus den drei traditionellsten Terlaner Weißweinsorten Weißburgunder, Chardonnay und Sauvignon Blanc, als sehr vielschichtiger Wein. Weißburgunder, welcher den Hauptanteil bildet, sorgt für Frische und ein gutes Säuregerüst, Chardonnay schmeichelt mit Weichheit und Wärme während Sauvignon die Cuvée durch seine feine Aromatik ergänzt. In der Nase charakterisieren grüner Apfel und weißer Pfirsich den klassischen Terlaner, der aber auch eine feine Nuance von Zitronenmelisse und Minze aufweist. Auch am Gaumen ist die Pfirsicharomatik sehr stark präsent und macht den Terlaner lebendig. Der facettenreiche, strukturierte Geschmack wird von einem Wechselspiel aus Frische und Mineralität aber gleichzeitig auch einer tollen Länge gekennzeichnet.",
+                "en": "Our historic cuvée, which has been produced since the winery was founded, is a very complex wine thanks to the composition of the three most traditional Terlan white wine varieties: Pinot Blanc, Chardonnay and Sauvignon Blanc. Pinot Blanc, which makes up the majority, provides freshness and a good acidity structure, Chardonnay flatters with softness and warmth, while Sauvignon complements the cuvée with its fine aromas. On the nose, green apple and white peach characterize the classic Terlan, which also has a fine nuance of lemon balm and mint. The peach aroma is also very strong on the palate and brings the Terlan to life. The multifaceted, structured taste is characterized by an interplay of freshness and minerality, but at the same time also has a great length."
+            },
+            "img": "vino_bianco/cuvee-terlaner.webp",
+            "region": "Alto Adige",
+            "winery": "Cantina Terlano",
+            "grapes": "Chardonnay, Sauvignon Blanc, Pinot bianco (Weißburgunder)",
+            "bottlesize": 750,
+            "alcoholcontent": 13.5,
+            "priceeuro": 42
+        },
+        {
             "show": false,
             "anchor": "chardonnay-kreuth",
             "name": "Terlan, Chardonnay Kreuth",

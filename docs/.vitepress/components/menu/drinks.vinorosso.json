@@ -49,6 +49,53 @@
             "priceeuro": 36
         },
         {
+            "show": false,
+            "anchor": "rosso-di-montalcino-caparzo",
+            "name": "Rosso di Montalcino, Caparzo",
+            "desc": {
+                "de": "Mit wunderbar reintöniger Frucht, die an reife Pflaumen erinnert, umspielt von Kräuternuancen. Seidige, aromatische Tannine lassen den Wein harmonisch ausklingen.",
+                "en": "With wonderfully pure fruit reminiscent of ripe plums, surrounded by herbal nuances. Silky, aromatic tannins let the wine end harmoniously."
+            },
+            "img": "vino_rosso/rosso_di_montalcino_caparzo.webp",
+            "region": "Rosso di Montalcino, Toscana",
+            "winery": "Caparzo",
+            "grapes": "Sangiovese",
+            "bottlesize": 750,
+            "alcoholcontent": 13.5,
+            "priceeuro": 45
+        },
+        {
+            "show": false,
+            "anchor": "chianti-riserva",
+            "name": "Chianti Riserva, La Guardiola",
+            "desc": {
+                "de": "In der Nase voll und intensiv, sein Aroma von Kirschmarmelade weicht einer Note von Veilchen und einem Hauch von Vanille. Am Gaumen ist er weich und abgerundet. Ein leicht zu trinkender Wein, der dank seiner ausgewogenen Struktur sowohl frisch als auch angenehm locker ist.",
+                "en": "Full and intense on the nose, its aroma of cherry jam gives way to notes of violet and a hint of vanilla. It is mellow and rounded on the palate. An easy drinking wine, thanks to its well-balanced structure which is both fresh and pleasantly easy going."
+            },
+            "img": "vino_rosso/chianti_riserva.webp",
+            "region": "Chianti, Toscana",
+            "winery": "La Guardiola",
+            "grapes": "Sangiovese",
+            "bottlesize": 750,
+            "alcoholcontent": 13.5
+        },
+        {
+            "show": false,
+            "anchor": "rosso-di-montalcino-castello-banfi",
+            "name": "Rosso di Montalcino, Castello Banfi",
+            "desc": {
+                "de": "In der Nase treffen Aromen von Brombeeren und Himbeere auf leichte Noten von Kaffee und Tabak. Im Mund ist die Struktur breit, harmonisch und gut ausbalanciert durch eine ausgeprägte Säure. Hervorragende Nachhaltigkeit am Gaumen.",
+                "en": "On the nose, aromas of blackberries and raspberry meet light notes of coffee and tobacco. In the mouth the structure is wide, harmonious and well balanced by a marked acidity. Excellent persistence on the palate."
+            },
+            "img": "vino_rosso/rosso_di_montalcino_castello_banfi.webp",
+            "region": "Rosso di Montalcino, Toscana",
+            "winery": "Castello Banfi",
+            "grapes": "Sangiovese",
+            "bottlesize": 750,
+            "alcoholcontent": 14,
+            "priceeuro": 45
+        },
+        {
             "show": true,
             "anchor": "cannonau-di-sardegna-jankara",
             "name": "Cannonau di Sardegna DOC, Jankara",
@@ -109,53 +156,6 @@
             "priceeuro": 49
         },
         {
-            "show": false,
-            "anchor": "rosso-di-montalcino-caparzo",
-            "name": "Rosso di Montalcino, Caparzo",
-            "desc": {
-                "de": "Mit wunderbar reintöniger Frucht, die an reife Pflaumen erinnert, umspielt von Kräuternuancen. Seidige, aromatische Tannine lassen den Wein harmonisch ausklingen.",
-                "en": "With wonderfully pure fruit reminiscent of ripe plums, surrounded by herbal nuances. Silky, aromatic tannins let the wine end harmoniously."
-            },
-            "img": "vino_rosso/rosso_di_montalcino_caparzo.webp",
-            "region": "Rosso di Montalcino, Toscana",
-            "winery": "Caparzo",
-            "grapes": "Sangiovese",
-            "bottlesize": 750,
-            "alcoholcontent": 13.5,
-            "priceeuro": 45
-        },
-        {
-            "show": false,
-            "anchor": "chianti-riserva",
-            "name": "Chianti Riserva, La Guardiola",
-            "desc": {
-                "de": "In der Nase voll und intensiv, sein Aroma von Kirschmarmelade weicht einer Note von Veilchen und einem Hauch von Vanille. Am Gaumen ist er weich und abgerundet. Ein leicht zu trinkender Wein, der dank seiner ausgewogenen Struktur sowohl frisch als auch angenehm locker ist.",
-                "en": "Full and intense on the nose, its aroma of cherry jam gives way to notes of violet and a hint of vanilla. It is mellow and rounded on the palate. An easy drinking wine, thanks to its well-balanced structure which is both fresh and pleasantly easy going."
-            },
-            "img": "vino_rosso/chianti_riserva.webp",
-            "region": "Chianti, Toscana",
-            "winery": "La Guardiola",
-            "grapes": "Sangiovese",
-            "bottlesize": 750,
-            "alcoholcontent": 13.5
-        },
-        {
-            "show": false,
-            "anchor": "rosso-di-montalcino-castello-banfi",
-            "name": "Rosso di Montalcino, Castello Banfi",
-            "desc": {
-                "de": "In der Nase treffen Aromen von Brombeeren und Himbeere auf leichte Noten von Kaffee und Tabak. Im Mund ist die Struktur breit, harmonisch und gut ausbalanciert durch eine ausgeprägte Säure. Hervorragende Nachhaltigkeit am Gaumen.",
-                "en": "On the nose, aromas of blackberries and raspberry meet light notes of coffee and tobacco. In the mouth the structure is wide, harmonious and well balanced by a marked acidity. Excellent persistence on the palate."
-            },
-            "img": "vino_rosso/rosso_di_montalcino_castello_banfi.webp",
-            "region": "Rosso di Montalcino, Toscana",
-            "winery": "Castello Banfi",
-            "grapes": "Sangiovese",
-            "bottlesize": 750,
-            "alcoholcontent": 14,
-            "priceeuro": 45
-        },
-        {
             "show": true,
             "anchor": "jungano",
             "name": "Jungano, San Salvatore 1988",
@@ -186,6 +186,22 @@
             "bottlesize": 750,
             "alcoholcontent": 14.5,
             "priceeuro": 49
+        },
+        {
+            "show": true,
+            "anchor": "il-bruciato-antinori",
+            "name": "Il Bruciato, Antinori",
+            "desc": {
+                "de": "Der Bruciato entsteht 2002, bei einer der schwierigsten Lesen der Tenuta Guado al Tasso, um das einzigartige Terroir von Bolgheri in modernem Stil zu erzählen und bekannt zu machen. Die sorgfältig selektierten Beeren von Cabernet Sauvignon, Merlot und Syrah stammen von Weinbergen mit geologisch sehr unterschiedlichen Böden, die große Komplexität verleihen. Der Bruciato präsentiert sich in der gewohnten intensiven rubinroten Farbe. An der Nase überwiegen Noten von reifen roten Beeren, begleitet von angenehmen Anklängen an süßes Gewürz und leichten Nuancen von Minze und Tabakaromen. Am Gaumen ist der Wein gut strukturiert, vollmundig und mit einem schönen fruchtigen Nachgeschmack, der ihm angenehme Trinkbarkeit und Persistenz verleiht.",
+                "en": "Bruciato was born in 2002, from one of the most difficult harvests of Tenuta Guado al Tasso, to tell and make known the unique terroir of Bolgheri in a modern style. The carefully selected grapes of Cabernet Sauvignon, Merlot and Syrah come from vineyards with very different geological soils, which give great complexity. The Bruciato presents itself in the usual intense ruby red color. On the nose, notes of ripe red berries predominate, accompanied by pleasant hints of sweet spices and light nuances of mint and tobacco aromas. On the palate, the wine is well structured, full-bodied and with a beautiful fruity aftertaste that gives it pleasant drinkability and persistence."
+            },
+            "img": "vino_rosso/bruciato-antinori.webp",
+            "region": "Bolgheri, Toscana",
+            "winery": "Antinori",
+            "grapes": "Cabernet Sauvignon, Merlot, Syrah",
+            "bottlesize": 750,
+            "alcoholcontent": 14,
+            "priceeuro": 52
         },
         {
             "show": false,
@@ -305,6 +321,22 @@
             "bottlesize": 750,
             "alcoholcontent": 13.5,
             "priceeuro": 95
+        },
+        {
+            "show": true,
+            "anchor": "barolo-monfalletto-cordero-di-montezemolo",
+            "name": "Barolo Monfalletto, Cordero di Montezemolo",
+            "desc": {
+                "de": "Der Barolo Monfalletto begeistert mit herrlichen Noten von eingelegter Kirsche, Erdbeeren, Brombeeren und Cassis. Am Gaumen stoffig, kräftig und animierend saftig.",
+                "en": "The Barolo Monfalletto delights with wonderful notes of preserved cherries, strawberries, blackberries and cassis. On the palate it is full-bodied, strong and stimulatingly juicy."
+            },
+            "img": "vino_rosso/barolo-monfalletto-cordero-di-montezemolo.webp",
+            "region": "Barolo, Piemonte",
+            "winery": "Cordero di Montezemolo",
+            "grapes": "Nebbiolo",
+            "bottlesize": 750,
+            "alcoholcontent": 14.5,
+            "priceeuro": 110
         },
         {
             "show": false,
