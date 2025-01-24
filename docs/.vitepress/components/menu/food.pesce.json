@@ -82,7 +82,7 @@
             "priceeuro": 29
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pesce-spada-al-vino",
             "name": "Pesce Spada al vino",
             "desc": {

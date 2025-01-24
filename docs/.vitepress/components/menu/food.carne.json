@@ -152,7 +152,7 @@
             "priceeuro": 36
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "carree-di-vitello-taleggio-tartufo",
             "name": "Carree di Vitello, Taleggio & Tartufo",
             "desc": {
@@ -163,7 +163,7 @@
             "img": "carne/carree_di_vitello.webp"
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "filetto-di-manzo-taleggio-tartufo",
             "name": "Filetto di Manzo, Taleggio & Tartufo",
             "desc": {
