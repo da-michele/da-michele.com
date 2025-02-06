@@ -31,7 +31,7 @@
             "priceeuro": 19
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "fegato-di-vitello-alla-veneziana",
             "name": "Fegato di vitello alla Veneziana",
             "desc": {
@@ -81,7 +81,7 @@
             "priceeuro": 26
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "scaloppine-al-limone",
             "name": "Scaloppine al Limone",
             "desc": {
@@ -163,7 +163,7 @@
             "img": "carne/carree_di_vitello.webp"
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "filetto-di-manzo-taleggio-tartufo",
             "name": "Filetto di Manzo, Taleggio & Tartufo",
             "desc": {
