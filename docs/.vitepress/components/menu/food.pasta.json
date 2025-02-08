@@ -286,7 +286,7 @@
             "priceeuro": 18
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pasta-salmone-spinaci",
             "name": "Pasta Salmone & Spinaci",
             "desc": {

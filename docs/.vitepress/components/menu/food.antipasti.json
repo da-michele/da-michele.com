@@ -413,16 +413,6 @@
         },
         {
             "show": false,
-            "anchor": "carpaccio-di-bresaola",
-            "name": "Carpaccio di Bresaola",
-            "desc": {
-                "de": "Bresaola-Carpaccio",
-                "en": "bresaola carpaccio"
-            },
-            "priceeuro": 18
-        },
-        {
-            "show": false,
             "anchor": "carpaccio-del-lingua-bovina",
             "name": "Carpaccio del Lingua bovina",
             "desc": {
@@ -587,6 +577,16 @@
             "priceeuro": 20
         },
         {
+            "show": true,
+            "anchor": "carpaccio-di-bresaola",
+            "name": "Carpaccio di Bresaola",
+            "desc": {
+                "de": "Bresaola-Carpaccio",
+                "en": "bresaola carpaccio"
+            },
+            "priceeuro": 21
+        },
+        {
             "show": false,
             "anchor": "bocca-d-oro",
             "name": "Bocca d'oro",
@@ -688,7 +688,7 @@
             "priceeuro": 21
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "tartare-di-salmone",
             "name": "Tartare di Salmone",
             "desc": {
