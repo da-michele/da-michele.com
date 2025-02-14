@@ -176,7 +176,7 @@
             "priceeuro": 39
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "trentenare-paestum",
             "name": "Trentenare Paestum, San Salvatore 1988",
             "desc": {
