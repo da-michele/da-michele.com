@@ -182,7 +182,7 @@
             "priceeuro": 32
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pesce-miste-nel-sud",
             "name": "Pesce miste nel Sud",
             "desc": {
@@ -225,16 +225,6 @@
         },
         {
             "show": false,
-            "anchor": "merluzzo-nel-sud-pomodoro",
-            "name": "Merluzzo nel sud pomodoro",
-            "desc": {
-                "de": "Kabeljau im Tomatensud",
-                "en": "Cod in a tomato broth"
-            },
-            "priceeuro": 34
-        },
-        {
-            "show": false,
             "anchor": "pesce-rombo-spinaci",
             "name": "Pesce Rombo & Spinaci",
             "desc": {
@@ -252,6 +242,16 @@
                 "en": "Baby monkfish with potato"
             },
             "priceeuro": 34
+        },
+        {
+            "show": true,
+            "anchor": "merluzzo-nel-sud-pomodoro",
+            "name": "Merluzzo nel sud pomodoro",
+            "desc": {
+                "de": "Kabeljau im Tomatensud",
+                "en": "Cod in a tomato broth"
+            },
+            "priceeuro": 36
         },
         {
             "show": false,

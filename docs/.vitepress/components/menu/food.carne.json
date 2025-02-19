@@ -31,7 +31,17 @@
             "priceeuro": 19
         },
         {
-            "show": false,
+            "show": true,
+            "anchor": "pollo-al-vino",
+            "name": "Pollo al vino",
+            "desc": {
+                "de": "Hähnchen in Weißweinsauce",
+                "en": "chicken in white wine"
+            },
+            "priceeuro": 19
+        },
+        {
+            "show": true,
             "anchor": "fegato-di-vitello-alla-veneziana",
             "name": "Fegato di vitello alla Veneziana",
             "desc": {
@@ -81,7 +91,7 @@
             "priceeuro": 26
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "scaloppine-al-limone",
             "name": "Scaloppine al Limone",
             "desc": {
@@ -152,7 +162,7 @@
             "priceeuro": 36
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "carree-di-vitello-taleggio-tartufo",
             "name": "Carree di Vitello, Taleggio & Tartufo",
             "desc": {
