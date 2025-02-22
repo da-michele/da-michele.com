@@ -31,7 +31,7 @@
             "priceeuro": 19
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pollo-al-vino",
             "name": "Pollo al vino",
             "desc": {
