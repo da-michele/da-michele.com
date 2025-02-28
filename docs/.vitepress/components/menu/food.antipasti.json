@@ -140,7 +140,7 @@
             "priceeuro": 16
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "sardelle-marinate",
             "name": "Sardelle marinate",
             "desc": {
@@ -224,7 +224,7 @@
             "priceeuro": 16
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "cozze-al-vino",
             "name": "Cozze al vino",
             "desc": {
@@ -360,7 +360,7 @@
             "priceeuro": 18
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "vitello-tonnato",
             "name": "Vitello tonnato",
             "desc": {
@@ -557,7 +557,7 @@
             "priceeuro": 19
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "Couscous-con-pesce-di-spada",
             "name": "Couscous Pesce di Spada",
             "desc": {
@@ -587,7 +587,7 @@
             "priceeuro": 20
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "carpaccio-di-bresaola",
             "name": "Carpaccio di Bresaola",
             "desc": {
