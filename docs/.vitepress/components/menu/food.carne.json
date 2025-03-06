@@ -21,7 +21,7 @@
             "priceeuro": 16
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pollo-grigliato",
             "name": "Pollo grigliato",
             "desc": {

@@ -127,7 +127,7 @@
             "priceeuro": 14
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "mozzarella-di-buffala-pomodori",
             "name": "Mozzarella di Buffala & Pomodori",
             "desc": {
@@ -290,14 +290,14 @@
             "priceeuro": 16
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "prosciutto-di-parma-parmiggiano",
             "name": "Prosciutto di Parma & Parmiggiano",
             "desc": {
                 "de": "Parmaschinken mit Parmiggiano",
                 "en": "Parma ham with parmiggiano-cheese"
             },
-            "priceeuro": 18
+            "priceeuro": 16
         },
         {
             "show": true,
@@ -360,7 +360,7 @@
             "priceeuro": 18
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "vitello-tonnato",
             "name": "Vitello tonnato",
             "desc": {
@@ -587,7 +587,7 @@
             "priceeuro": 20
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "carpaccio-di-bresaola",
             "name": "Carpaccio di Bresaola",
             "desc": {
