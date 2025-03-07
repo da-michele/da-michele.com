@@ -24,7 +24,7 @@
             "priceeuro": 14
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pasta-gorgonzola-spinaci",
             "name": "Pasta Gorgonzola & Spinaci",
             "desc": {
@@ -37,7 +37,7 @@
             "priceeuro": 14
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pasta-verdure",
             "name": "Pasta Verdure",
             "desc": {
@@ -133,7 +133,7 @@
             "priceeuro": 16
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pasta-melanzane-mozzarella-di-buffala",
             "name": "Pasta Melanzane & Mozzarella di Buffala",
             "desc": {
@@ -262,6 +262,19 @@
             "priceeuro": 16
         },
         {
+            "show": true,
+            "anchor": "pasta-ricotta-limone",
+            "name": "Pasta Ricotta & Limone",
+            "desc": {
+                "de": "Pasta mit Ricotta und Zitrone",
+                "en": "Pasta with ricotta cheese and lemon"
+            },
+            "tags": [
+                "vegetarian"
+            ],
+            "priceeuro": 16
+        },
+        {
             "show": false,
             "anchor": "pasta-salsiccia-rapa",
             "name": "Pasta Salsiccia & Rapa",
@@ -279,19 +292,6 @@
             "desc": {
                 "de": "Ravioli mit Ricotta und Spinat",
                 "en": "Ravioli with ricotta cheese and spinach"
-            },
-            "tags": [
-                "vegetarian"
-            ],
-            "priceeuro": 18
-        },
-        {
-            "show": true,
-            "anchor": "pasta-ricotta-limone",
-            "name": "Pasta Ricotta & Limone",
-            "desc": {
-                "de": "Pasta mit Ricotta und Zitrone",
-                "en": "Pasta with ricotta cheese and lemon"
             },
             "tags": [
                 "vegetarian"
@@ -441,7 +441,7 @@
             "priceeuro": 19
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pasta-pesce-spada-pomodori-rucola",
             "name": "Pasta Pesce Spada & Pomodori & Rucola",
             "desc": {
@@ -481,6 +481,16 @@
             },
             "priceeuro": 21,
             "img": "pasta/gnocchi_gambas.webp"
+        },
+        {
+            "show": true,
+            "anchor": "pasta-gambas-zucchini",
+            "name": "Pasta Gambas Zucchini",
+            "desc": {
+                "de": "Pasta mit Gambas und Zucchini",
+                "en": "Pasta with gambas and zucchini"
+            },
+            "priceeuro": 21
         },
         {
             "show": false,
