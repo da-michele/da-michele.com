@@ -160,7 +160,7 @@
             "alcoholcontent": 13.5
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "gfill-sauvignon",
             "name": "GFILL Sauvignon, St. Pauls",
             "desc": {
