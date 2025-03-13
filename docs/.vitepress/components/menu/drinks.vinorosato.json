@@ -1,7 +1,7 @@
 {
     "vinorosato": [
         {
-            "show": true,
+            "show": false,
             "anchor": "rosato-vetere",
             "name": "Rosato Vetere Paestum, San Salvatore 1988",
             "desc": {
@@ -14,6 +14,22 @@
             "grapes": "Aglianico",
             "bottlesize": 750,
             "alcoholcontent": 12,
+            "priceeuro": 36
+        },
+        {
+            "show": true,
+            "anchor": "rosato-la-mora",
+            "name": "La Mora Rosato, Cecchi",
+            "desc": {
+                "de": "Mit ihren günstigen klimatischen Eigenschaften und der natürlichen Beschaffenheit der Böden bietet die Maremma ideale Voraussetzungen für die Herstellung eleganter und äußerst angenehmer Weine. La Mora Rosato hat eine leuchtend altrosa Farbe. In der Nase ist er reichhaltig, mit Noten von frischem Obst und aromatischen Kräutern. Gut integrierte Säure garantiert einen langen Abgang.",
+                "en": "With its favorable climatic characteristics, together with the natural vocation of the soils, Maremma guarantees the ideal setting for obtaining elegant and extremely pleasant wines. La Mora Rosato has a bright antique pink color. The nose is rich, with notes of fresh fruit and aromatic herbs. Well integrated acidity that guarantees a good persistence."
+            },
+            "img": "vino_rosato/rosato_la_mora.webp",
+            "region": "Maremma, Toscana",
+            "winery": "Cecchi",
+            "grapes": "Sangiovese",
+            "bottlesize": 750,
+            "alcoholcontent": 12.5,
             "priceeuro": 36
         }
     ]
