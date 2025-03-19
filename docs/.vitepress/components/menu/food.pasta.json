@@ -133,7 +133,7 @@
             "priceeuro": 16
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pasta-melanzane-mozzarella-di-buffala",
             "name": "Pasta Melanzane & Mozzarella di Buffala",
             "desc": {
@@ -262,7 +262,7 @@
             "priceeuro": 16
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pasta-ricotta-limone",
             "name": "Pasta Ricotta & Limone",
             "desc": {
