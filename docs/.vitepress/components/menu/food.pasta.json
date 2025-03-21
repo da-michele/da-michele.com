@@ -37,7 +37,7 @@
             "priceeuro": 14
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pasta-verdure",
             "name": "Pasta Verdure",
             "desc": {
@@ -133,7 +133,7 @@
             "priceeuro": 16
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pasta-melanzane-mozzarella-di-buffala",
             "name": "Pasta Melanzane & Mozzarella di Buffala",
             "desc": {
@@ -262,12 +262,12 @@
             "priceeuro": 16
         },
         {
-            "show": false,
-            "anchor": "pasta-ricotta-limone",
-            "name": "Pasta Ricotta & Limone",
+            "show": true,
+            "anchor": "ravioli-ricotta-limone",
+            "name": "Ravioli Ricotta & Limone",
             "desc": {
-                "de": "Pasta mit Ricotta und Zitrone",
-                "en": "Pasta with ricotta cheese and lemon"
+                "de": "Ravioli mit Ricotta und Zitrone",
+                "en": "Ravioli with ricotta cheese and lemon"
             },
             "tags": [
                 "vegetarian"

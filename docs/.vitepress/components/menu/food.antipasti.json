@@ -140,7 +140,7 @@
             "priceeuro": 16
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "sardelle-marinate",
             "name": "Sardelle marinate",
             "desc": {
@@ -290,7 +290,7 @@
             "priceeuro": 16
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "prosciutto-di-parma-parmiggiano",
             "name": "Prosciutto di Parma & Parmiggiano",
             "desc": {
@@ -360,7 +360,7 @@
             "priceeuro": 18
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "vitello-tonnato",
             "name": "Vitello tonnato",
             "desc": {
@@ -587,7 +587,7 @@
             "priceeuro": 20
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "carpaccio-di-bresaola",
             "name": "Carpaccio di Bresaola",
             "desc": {
