@@ -16,7 +16,7 @@
             "img": "antipasti/insalata_di_arance.webp"
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "insalata-di-finnochio",
             "name": "Insalata di Finnochio",
             "desc": {
@@ -58,7 +58,7 @@
             "priceeuro": 12
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "insalata-di-finnochio-arance",
             "name": "Insalata di Finnochio & Arance",
             "desc": {
