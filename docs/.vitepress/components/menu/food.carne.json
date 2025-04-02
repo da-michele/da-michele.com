@@ -42,6 +42,16 @@
         },
         {
             "show": true,
+            "anchor": "salsiccia-grigliato",
+            "name": "Salsiccia grigliato",
+            "desc": {
+                "de": "gegrillte Salsiccia (ital. Frischwurst)",
+                "en": "grilled Salsiccia (Italian raw meat sausage)"
+            },
+            "priceeuro": 21
+        },
+        {
+            "show": true,
             "anchor": "fegato-di-vitello-alla-veneziana",
             "name": "Fegato di vitello alla Veneziana",
             "desc": {
@@ -81,7 +91,7 @@
             "priceeuro": 25
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "scaloppine-al-vino",
             "name": "Scaloppine al Vino",
             "desc": {
