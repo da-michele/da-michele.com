@@ -360,7 +360,7 @@
             "priceeuro": 18
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "vitello-tonnato",
             "name": "Vitello tonnato",
             "desc": {
@@ -412,14 +412,14 @@
             "priceeuro": 18
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "carpaccio-del-lingua-bovina",
             "name": "Carpaccio del Lingua bovina",
             "desc": {
                 "de": "Rinderzungencarpaccio",
                 "en": "beef tongue carpaccio"
             },
-            "priceeuro": 18
+            "priceeuro": 19
         },
         {
             "show": false,
@@ -587,7 +587,7 @@
             "priceeuro": 20
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "carpaccio-di-bresaola",
             "name": "Carpaccio di Bresaola",
             "desc": {
@@ -616,16 +616,6 @@
             },
             "priceeuro": 21,
             "img": "antipasti/carpaccio_di_gambero_rosso.webp"
-        },
-        {
-            "show": false,
-            "anchor": "insalata-di-polpo",
-            "name": "Insalata di Polpo",
-            "desc": {
-                "de": "Tintenfisch-Salat",
-                "en": "octopus salad"
-            },
-            "priceeuro": 21
         },
         {
             "show": false,
@@ -759,6 +749,16 @@
                 "en": "scallops with beans"
             },
             "priceeuro": 23
+        },
+        {
+            "show": true,
+            "anchor": "insalata-di-polpo",
+            "name": "Insalata di Polpo",
+            "desc": {
+                "de": "Tintenfisch-Salat",
+                "en": "octopus salad"
+            },
+            "priceeuro": 24
         },
         {
             "show": false,
