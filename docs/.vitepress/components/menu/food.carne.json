@@ -51,7 +51,7 @@
             "priceeuro": 21
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "fegato-di-vitello-alla-veneziana",
             "name": "Fegato di vitello alla Veneziana",
             "desc": {
@@ -131,14 +131,14 @@
             "priceeuro": 29
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "carree-di-agnello",
             "name": "Carree di Agnello",
             "desc": {
                 "de": "Lammkarrée",
                 "en": "Lamb carrée"
             },
-            "priceeuro": 27
+            "priceeuro": 34
         },
         {
             "show": false,

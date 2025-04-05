@@ -25,7 +25,7 @@
             "priceeuro": 29
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "vermentino-di-gallura-superiore-jankara",
             "name": "Vermentino di Gallura Superiore DOCG, Jankara",
             "desc": {
