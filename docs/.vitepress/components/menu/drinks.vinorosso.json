@@ -339,6 +339,22 @@
             "priceeuro": 110
         },
         {
+            "show": true,
+            "anchor": "brunello-di-montalcino-villa-poggio-salvi",
+            "name": "Brunello di Montalcino, Villa Poggio Salvi",
+            "desc": {
+                "de": "Die besondere Lage des Weinguts Villa Poggio Salvi ermöglicht die Herstellung eines außergewöhnlichen, sehr eleganten Brunello aus sorgfältig von Hand gelesenen Sangiovese-Trauben. Ein kurzer Weg zwischen Weinbergen und Weinkeller verhindert so einen unerwünschten Gärungsbeginn oder eventuelle Transportschäden an den Traubenkernen. Seine Haupteigenschaften, insbesondere der ausgeprägt intensive Duft, die sofortige und harmonische Rundheit der Tannine und der lange Nachgeschmack, sind das Ergebnis der bemerkenswerten mikroklimatischen Lage der Ursprungsweinberge.",
+                "en": "The special location of the Villa Poggio Salvi estate enables the production of an exceptional, very elegant Brunello, from Sangiovese grapes picked by hand with great care. A short path lies between the vineyards and the wine-making cellar, hindering an undesired fermentation start or eventual transport damages to the grape-stones. Its main characteristics, in particular the distinctively intense fragrance, the prompt and harmonious roundness of tannins, and the long aftertaste, are the result of the noteworthy microclimatic position of the originating vineyards.The special location of the Villa Poggio Salvi estate enables the production of an exceptional, very elegant Brunello, from Sangiovese grapes picked by hand with great care. A short path lies between the vineyards and the wine-making cellar, hindering an undesired fermentation start or eventual transport damages to the grape-stones. Its main characteristics, in particular the distinctively intense fragrance, the prompt and harmonious roundness of tannins, and the long aftertaste, are the result of the noteworthy microclimatic position of the originating vineyards."
+            },
+            "img": "vino_rosso/brunello_di_montalcino_villa_poggio_salvi.webp",
+            "region": "Toscana",
+            "winery": "Villa Poggio Salvi",
+            "grapes": "Sangiovese",
+            "bottlesize": 750,
+            "alcoholcontent": 14.5,
+            "priceeuro": 110
+        },
+        {
             "show": false,
             "anchor": "baffonero",
             "name": "Baffonero, Rocca di Frassinello",
