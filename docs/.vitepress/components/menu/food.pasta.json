@@ -94,12 +94,12 @@
             "priceeuro": 16
         },
         {
-            "show": false,
-            "anchor": "pasta-ricotta-melanzane-pomodori",
-            "name": "Pasta Ricotta, Melanzane & Pomodori",
+            "show": true,
+            "anchor": "pasta-ricotta-melanzane",
+            "name": "Pasta Ricotta & Melanzane",
             "desc": {
-                "de": "Pasta mit Ricotta, Auberginen, Tomaten",
-                "en": "Pasta ricotta-cheese, eggplant and tomatoes"
+                "de": "Pasta mit Ricotta und Auberginen",
+                "en": "Pasta ricotta-cheese and eggplant"
             },
             "tags": [
                 "vegetarian"
@@ -121,6 +121,19 @@
         },
         {
             "show": false,
+            "anchor": "pasta-ricotta-melanzane-pomodori",
+            "name": "Pasta Ricotta, Melanzane & Pomodori",
+            "desc": {
+                "de": "Pasta mit Ricotta, Auberginen, Tomaten",
+                "en": "Pasta ricotta-cheese, eggplant and tomatoes"
+            },
+            "tags": [
+                "vegetarian"
+            ],
+            "priceeuro": 16
+        },
+        {
+            "show": false,
             "anchor": "pasta-melanzane-mozzarella-basilico",
             "name": "Pasta Melanzane, Mozzarella & Basilico",
             "desc": {
@@ -133,7 +146,7 @@
             "priceeuro": 16
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pasta-melanzane-mozzarella-di-buffala",
             "name": "Pasta Melanzane & Mozzarella di Buffala",
             "desc": {
@@ -146,7 +159,7 @@
             "priceeuro": 16
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "spaghetti-bolognese",
             "name": "Spaghetti Bolognese",
             "desc": {
@@ -168,6 +181,16 @@
             ],
             "priceeuro": 16,
             "img": "pasta/pasta_pesto_burrata.webp"
+        },
+        {
+            "show": true,
+            "anchor": "pasta-ragu-di-pollo",
+            "name": "Pasta Ragu di Pollo",
+            "desc": {
+                "de": "Pasta mit Hühnerragout",
+                "en": "Pasta with chicken ragout"
+            },
+            "priceeuro": 16
         },
         {
             "show": false,
@@ -275,7 +298,7 @@
             "priceeuro": 16
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pasta-salsiccia-rapa",
             "name": "Pasta Salsiccia & Rapa",
             "desc": {
@@ -299,7 +322,7 @@
             "priceeuro": 18
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pasta-salmone-spinaci",
             "name": "Pasta Salmone & Spinaci",
             "desc": {
