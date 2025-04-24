@@ -47,7 +47,3 @@ hero:
 #     link: '/menu/#pizze'
 #     linkText: Mehr erfahren
 ---
-
-::: warning Hinweis
-Unser Ristorante ist vom 15. Apr. bis einschließlich 22. Apr. 2025 geschlossen.
-:::
