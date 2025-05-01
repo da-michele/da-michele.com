@@ -47,3 +47,7 @@ hero:
 #     link: '/en/menu/#pizze'
 #     linkText: Read more
 ---
+
+::: warning Note
+Please note, our Ristorante is closed May 5th 2025.
+:::

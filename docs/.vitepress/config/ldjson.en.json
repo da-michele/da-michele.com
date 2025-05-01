@@ -119,8 +119,8 @@
     "specialOpeningHoursSpecification": [
         {
             "@type": "openingHoursSpecification",
-            "validFrom": "2025-04-15",
-            "validThrough": "2025-04-22",
+            "validFrom": "2025-05-01",
+            "validThrough": "2025-05-01",
             "opens": "00:00",
             "closes": "00:00"
         }
