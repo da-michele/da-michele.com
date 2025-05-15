@@ -72,7 +72,7 @@
             "priceeuro": 29
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "spigula-all-acqua-pazza",
             "name": "Spigula all'acqua pazza",
             "desc": {
@@ -153,16 +153,6 @@
         },
         {
             "show": false,
-            "anchor": "pesce-miste-all-acqua-pazza",
-            "name": "Pesce miste all'acqua pazza",
-            "desc": {
-                "de": "gemischter Fisch (pochiert)",
-                "en": "Poached mixed fish"
-            },
-            "priceeuro": 34
-        },
-        {
-            "show": false,
             "anchor": "sogliola-al-vino",
             "name": "Sogliola al vino",
             "desc": {
@@ -180,6 +170,16 @@
                 "en": "Cod with cauliflower"
             },
             "priceeuro": 32
+        },
+        {
+            "show": true,
+            "anchor": "pesce-miste-all-acqua-pazza",
+            "name": "Pesce miste all'acqua pazza",
+            "desc": {
+                "de": "gemischter Fisch (pochiert)",
+                "en": "Poached mixed fish"
+            },
+            "priceeuro": 34
         },
         {
             "show": false,

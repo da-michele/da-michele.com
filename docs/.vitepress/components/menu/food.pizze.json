@@ -14,7 +14,7 @@
             "priceeuro": 13
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pizza-crudaiola",
             "name": "Pizza Crudaiola",
             "desc": {
@@ -53,7 +53,7 @@
             "priceeuro": 14
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pizza-caprese",
             "name": "Pizza Caprese",
             "desc": {
@@ -126,7 +126,7 @@
             "priceeuro": 16
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pizza-guanciale-taleggio-pomodoro",
             "name": "Pizza Guanciale, Taleggio, Pomodoro",
             "desc": {
@@ -186,7 +186,7 @@
             "priceeuro": 18
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pizza-taleggio-asparagi-pomodoro",
             "name": "Pizza Taleggio, Asparagi, Pomodoro",
             "desc": {
@@ -196,7 +196,7 @@
             "tags": [
                 "vegetarian"
             ],
-            "priceeuro": 16,
+            "priceeuro": 18,
             "img": "pizze/pizza_taleggio_asparagi_pomodoro.webp"
         },
         {
@@ -249,7 +249,7 @@
             "priceeuro": 16
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pizza-salmone-asparagi",
             "name": "Pizza Salmone Asparagi",
             "desc": {
@@ -289,7 +289,7 @@
             "priceeuro": 18
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pizza-vulcano",
             "name": "Pizza Vulcano",
             "desc": {
