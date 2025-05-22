@@ -16,7 +16,7 @@
             "img": "antipasti/insalata_di_arance.webp"
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "insalata-di-finnochio",
             "name": "Insalata di Finnochio",
             "desc": {
@@ -127,7 +127,7 @@
             "priceeuro": 14
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "mozzarella-di-buffala-pomodori",
             "name": "Mozzarella di Buffala & Pomodori",
             "desc": {
@@ -163,7 +163,7 @@
             "priceeuro": 16
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "burrata-pomodori",
             "name": "Burrata & Pomodori",
             "desc": {
@@ -360,7 +360,7 @@
             "priceeuro": 18
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "vitello-tonnato",
             "name": "Vitello tonnato",
             "desc": {
@@ -422,7 +422,7 @@
             "priceeuro": 19
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "carpaccio-di-manzo",
             "name": "Carpaccio di Manzo",
             "desc": {

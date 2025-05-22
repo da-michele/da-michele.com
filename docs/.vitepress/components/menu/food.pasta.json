@@ -262,7 +262,7 @@
             "priceeuro": 16
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "spaghetti-cozze",
             "name": "Spaghetti Cozze",
             "desc": {
@@ -346,7 +346,7 @@
             "priceeuro": 18
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "gnocchi-burrata",
             "name": "Gnocchi Burrata",
             "desc": {
@@ -516,14 +516,14 @@
             "priceeuro": 21
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "spaghetti-polpo",
             "name": "Spaghetti Polpo",
             "desc": {
                 "de": "Spaghetti mit Tintenfisch",
                 "en": "Spaghetti with octopus"
             },
-            "priceeuro": 19
+            "priceeuro": 22
         },
         {
             "show": false,

@@ -52,7 +52,7 @@
             "priceeuro": 29
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "spigula-nel-sud",
             "name": "Spigula nel Sud",
             "desc": {
@@ -172,7 +172,7 @@
             "priceeuro": 32
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pesce-miste-all-acqua-pazza",
             "name": "Pesce miste all'acqua pazza",
             "desc": {
