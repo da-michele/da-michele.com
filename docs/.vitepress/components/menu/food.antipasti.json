@@ -127,7 +127,7 @@
             "priceeuro": 14
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "mozzarella-di-buffala-pomodori",
             "name": "Mozzarella di Buffala & Pomodori",
             "desc": {
@@ -163,7 +163,7 @@
             "priceeuro": 16
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "burrata-pomodori",
             "name": "Burrata & Pomodori",
             "desc": {
@@ -360,7 +360,7 @@
             "priceeuro": 18
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "vitello-tonnato",
             "name": "Vitello tonnato",
             "desc": {
@@ -422,7 +422,7 @@
             "priceeuro": 19
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "carpaccio-di-manzo",
             "name": "Carpaccio di Manzo",
             "desc": {

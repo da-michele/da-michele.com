@@ -126,7 +126,7 @@
             "priceeuro": 16
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pizza-guanciale-taleggio-pomodoro",
             "name": "Pizza Guanciale, Taleggio, Pomodoro",
             "desc": {
@@ -186,7 +186,7 @@
             "priceeuro": 18
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pizza-taleggio-asparagi-pomodoro",
             "name": "Pizza Taleggio, Asparagi, Pomodoro",
             "desc": {

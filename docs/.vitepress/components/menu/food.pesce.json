@@ -12,16 +12,6 @@
         },
         {
             "show": false,
-            "anchor": "filetto-di-pesce-rombo",
-            "name": "Filetto di Pesce Rombo",
-            "desc": {
-                "de": "Steinbuttfilet",
-                "en": "Turbot fillet"
-            },
-            "priceeuro": 27
-        },
-        {
-            "show": false,
             "anchor": "seppia-alla-griglia",
             "name": "Seppia alla griglia",
             "desc": {
@@ -52,7 +42,7 @@
             "priceeuro": 29
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "spigula-nel-sud",
             "name": "Spigula nel Sud",
             "desc": {
@@ -132,6 +122,16 @@
             "priceeuro": 29
         },
         {
+            "show": true,
+            "anchor": "l-orrata-all-acqua-pazza",
+            "name": "L'Orrata all'acqua pazza",
+            "desc": {
+                "de": "Dorade (pochiert)",
+                "en": "Poached seabream"
+            },
+            "priceeuro": 29
+        },
+        {
             "show": false,
             "anchor": "l-orrata",
             "name": "L'Orrata",
@@ -170,6 +170,16 @@
                 "en": "Cod with cauliflower"
             },
             "priceeuro": 32
+        },
+        {
+            "show": true,
+            "anchor": "filetto-di-pesce-rombo",
+            "name": "Filetto di Pesce Rombo",
+            "desc": {
+                "de": "Steinbuttfilet",
+                "en": "Turbot fillet"
+            },
+            "priceeuro": 34
         },
         {
             "show": false,
