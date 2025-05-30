@@ -203,7 +203,7 @@
             "priceeuro": 16
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pasta-salsiccia-ceci",
             "name": "Pasta Salsiccia & Ceci",
             "desc": {

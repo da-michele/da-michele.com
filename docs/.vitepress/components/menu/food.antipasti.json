@@ -72,7 +72,7 @@
             "priceeuro": 14
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "insalata-capricciosa",
             "name": "Insalata Capricciosa",
             "desc": {

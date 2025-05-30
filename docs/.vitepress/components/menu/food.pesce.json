@@ -172,7 +172,7 @@
             "priceeuro": 32
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "filetto-di-pesce-rombo",
             "name": "Filetto di Pesce Rombo",
             "desc": {
