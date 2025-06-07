@@ -264,7 +264,7 @@
             "priceeuro": 70
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "serpico",
             "name": "Serpico, Feudi di San Gregorio",
             "desc": {
