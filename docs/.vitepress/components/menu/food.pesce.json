@@ -132,6 +132,16 @@
             "priceeuro": 29
         },
         {
+            "show": true,
+            "anchor": "filetto-di-orrata-nel-sud",
+            "name": "Filetto di Orrata nel sud",
+            "desc": {
+                "de": "Doradenfilet im Tomatensud",
+                "en": "Seabream fillet in a tomato broth"
+            },
+            "priceeuro": 29
+        },
+        {
             "show": false,
             "anchor": "l-orrata",
             "name": "L'Orrata",
@@ -146,7 +156,7 @@
             "anchor": "pesce-rombo-nel-sud",
             "name": "Pesce Rombo nel sud",
             "desc": {
-                "de": "Steinbutt in einer Tomatensud",
+                "de": "Steinbutt im Tomatensud",
                 "en": "Turbot in a tomato broth"
             },
             "priceeuro": 31

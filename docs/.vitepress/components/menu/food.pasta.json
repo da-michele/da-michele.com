@@ -84,7 +84,7 @@
             "priceeuro": 16
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pasta-salsiccia-melanzane",
             "name": "Pasta Salsiccia & Melanzane",
             "desc": {
@@ -203,7 +203,7 @@
             "priceeuro": 16
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pasta-salsiccia-ceci",
             "name": "Pasta Salsiccia & Ceci",
             "desc": {
@@ -346,7 +346,7 @@
             "priceeuro": 18
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "gnocchi-burrata",
             "name": "Gnocchi Burrata",
             "desc": {
@@ -401,7 +401,7 @@
             "priceeuro": 18
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pasta-finferli",
             "name": "Pasta Finferli",
             "desc": {
@@ -487,7 +487,7 @@
             "priceeuro": 19
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "spaghetti-vongole",
             "name": "Spaghetti Vongole",
             "desc": {
@@ -571,7 +571,7 @@
             "priceeuro": 23
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pasta-aragosta",
             "name": "Pasta Aragosta",
             "desc": {
