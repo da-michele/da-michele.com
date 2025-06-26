@@ -19,7 +19,7 @@
     "scripts": {
         "docs-build": "vitepress build ./docs"
     },
-    "packageManager": "pnpm@9.14.2",
+    "packageManager": "pnpm@10.12.3",
     "pnpm": {
         "peerDependencyRules": {
             "ignoreMissing": [
