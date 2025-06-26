@@ -47,3 +47,7 @@ hero:
 #     link: '/en/menu/#pizze'
 #     linkText: Read more
 ---
+
+::: warning Note
+Please note, our Ristorante is closed August 4th 2025 through September 4th 2025.
+:::
