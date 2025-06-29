@@ -249,7 +249,7 @@
             "priceeuro": 16
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pizza-salmone-asparagi",
             "name": "Pizza Salmone Asparagi",
             "desc": {
