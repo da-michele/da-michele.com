@@ -72,7 +72,7 @@
             "priceeuro": 14
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "insalata-capricciosa",
             "name": "Insalata Capricciosa",
             "desc": {
@@ -300,7 +300,7 @@
             "priceeuro": 16
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "burrata-caponata",
             "name": "Burrata & Caponata",
             "desc": {
@@ -360,7 +360,7 @@
             "priceeuro": 18
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "vitello-tonnato",
             "name": "Vitello tonnato",
             "desc": {
