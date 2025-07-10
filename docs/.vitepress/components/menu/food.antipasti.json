@@ -587,7 +587,7 @@
             "priceeuro": 20
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "carpaccio-di-bresaola",
             "name": "Carpaccio di Bresaola",
             "desc": {
@@ -685,7 +685,7 @@
                 "de": "Lachstartar mit Apfel und Erbsen",
                 "en": "salmon tartare with apples and peas"
             },
-            "priceeuro": 21
+            "priceeuro": 22
         },
         {
             "show": true,
