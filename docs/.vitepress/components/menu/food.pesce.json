@@ -92,6 +92,16 @@
             "priceeuro": 29
         },
         {
+            "show": true,
+            "anchor": "tagliata-di-pesce-spada",
+            "name": "Tagliata di Pesce Spada",
+            "desc": {
+                "de": "Tagliata vom Schwertfisch",
+                "en": "Sliced swordfish fillet"
+            },
+            "priceeuro": 29
+        },
+        {
             "show": false,
             "anchor": "rana-pescatrice-spinaci",
             "name": "Rana pescatrice & Spinaci",
@@ -142,7 +152,7 @@
             "priceeuro": 29
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "l-orrata",
             "name": "L'Orrata",
             "desc": {
