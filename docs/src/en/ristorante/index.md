@@ -22,7 +22,7 @@ import { withBase } from 'vitepress'
 | Sunday    | Closed                                                                   | <time datetime="18:00">6 pm</time> - <time datetime="21:30">9:30 pm</time> |
 
 ::: warning Note
-Please note, our Ristorante is closed August 4th 2025 through September 4th 2025.
+Please note, our Ristorante is closed August 1st 2025 through September 2nd 2025.
 :::
 
 ## Team

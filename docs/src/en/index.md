@@ -49,5 +49,5 @@ hero:
 ---
 
 ::: warning Note
-Please note, our Ristorante is closed August 4th 2025 through September 4th 2025.
+Please note, our Ristorante is closed August 1st 2025 through September 2nd 2025.
 :::

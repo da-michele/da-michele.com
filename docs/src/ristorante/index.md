@@ -56,7 +56,7 @@ import { withBase } from 'vitepress'
 | Sonntag    | Geschlossen                                                             | <time datetime="18:00">18</time> - <time datetime="21:30">21:30</time> Uhr |
 
 ::: warning Hinweis
-Bitte nimm hiermit zur Kenntnis, dass unser Ristorante vom 04. August 2025 bis einschließlich 04. September 2025 geschlossen ist.
+Bitte nimm hiermit zur Kenntnis, dass unser Ristorante vom 01. August 2025 bis einschließlich 02. September 2025 geschlossen ist.
 :::
 
 ## Team
