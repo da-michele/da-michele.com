@@ -57,7 +57,7 @@
             "priceeuro": 39
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "langhe-arneis-cordero-di-montezemmolo",
             "name": "Langhe Arneis, Cordero di Montezemolo",
             "desc": {
@@ -176,7 +176,7 @@
             "priceeuro": 39
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "trentenare-paestum",
             "name": "Trentenare Paestum, San Salvatore 1988",
             "desc": {
