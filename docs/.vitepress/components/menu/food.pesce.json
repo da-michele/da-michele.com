@@ -92,7 +92,7 @@
             "priceeuro": 29
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "tagliata-di-pesce-spada",
             "name": "Tagliata di Pesce Spada",
             "desc": {
@@ -152,7 +152,7 @@
             "priceeuro": 29
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "l-orrata",
             "name": "L'Orrata",
             "desc": {

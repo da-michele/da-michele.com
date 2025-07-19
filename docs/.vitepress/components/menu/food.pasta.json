@@ -64,7 +64,7 @@
             "priceeuro": 16
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pasta-amatriciana",
             "name": "Pasta Amatriciana",
             "desc": {
@@ -272,7 +272,7 @@
             "priceeuro": 16
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "ravioli-ricotta-limone",
             "name": "Ravioli Ricotta & Limone",
             "desc": {
@@ -333,7 +333,7 @@
             "priceeuro": 18
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "gnocchi-mozzarella-di-buffala-pomodori",
             "name": "Gnocchi Mozzarella di Buffala & Pomodori",
             "desc": {
@@ -487,7 +487,7 @@
             "priceeuro": 19
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "spaghetti-vongole",
             "name": "Spaghetti Vongole",
             "desc": {
