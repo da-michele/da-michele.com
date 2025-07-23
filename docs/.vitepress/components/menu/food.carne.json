@@ -22,16 +22,6 @@
         },
         {
             "show": false,
-            "anchor": "pollo-grigliato",
-            "name": "Pollo grigliato",
-            "desc": {
-                "de": "gegrilltes Hähnchen",
-                "en": "grilled chicken"
-            },
-            "priceeuro": 19
-        },
-        {
-            "show": false,
             "anchor": "pollo-al-vino",
             "name": "Pollo al vino",
             "desc": {
@@ -39,6 +29,16 @@
                 "en": "chicken in white wine"
             },
             "priceeuro": 19
+        },
+        {
+            "show": true,
+            "anchor": "pollo-grigliato",
+            "name": "Pollo grigliato",
+            "desc": {
+                "de": "gegrilltes Hähnchen",
+                "en": "grilled chicken"
+            },
+            "priceeuro": 21
         },
         {
             "show": false,

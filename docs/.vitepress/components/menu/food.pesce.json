@@ -82,7 +82,7 @@
             "priceeuro": 29
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pesce-spada-alla-griglia",
             "name": "Pesce Spada alla griglia",
             "desc": {
@@ -152,7 +152,7 @@
             "priceeuro": 29
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "l-orrata",
             "name": "L'Orrata",
             "desc": {
@@ -233,7 +233,7 @@
             "priceeuro": 34
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "bistecca-di-tonno-rucola",
             "name": "Bistecca di Tonno & Rucola",
             "desc": {
