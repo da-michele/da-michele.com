@@ -22,7 +22,7 @@
             "img": "pesce/seppia.webp"
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "filetto-di-spigula-alla-griglia",
             "name": "Filetto di Spigula alla griglia",
             "desc": {
@@ -72,7 +72,7 @@
             "priceeuro": 29
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pesce-spada-al-vino",
             "name": "Pesce Spada al vino",
             "desc": {

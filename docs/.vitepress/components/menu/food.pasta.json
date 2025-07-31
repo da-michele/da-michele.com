@@ -401,7 +401,7 @@
             "priceeuro": 18
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pasta-finferli",
             "name": "Pasta Finferli",
             "desc": {
@@ -494,7 +494,7 @@
                 "de": "Spaghetti mit Venusmuscheln",
                 "en": "Spaghetti with clams"
             },
-            "priceeuro": 21,
+            "priceeuro": 22,
             "img": "pasta/spaghetti_vongole.webp"
         },
         {
@@ -571,7 +571,7 @@
             "priceeuro": 23
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pasta-aragosta",
             "name": "Pasta Aragosta",
             "desc": {
@@ -582,7 +582,7 @@
             "img": "pasta/pasta_aragosta.webp"
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "tagliatelle-tartufo",
             "name": "Tagliatelle Tartufo",
             "desc": {
