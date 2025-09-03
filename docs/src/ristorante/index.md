@@ -54,11 +54,6 @@ import { withBase } from 'vitepress'
 | Freitag    | <time datetime="12:00">12</time> - <time datetime="14:00">14</time> Uhr | <time datetime="18:00">18</time> - <time datetime="21:30">21:30</time> Uhr |
 | Samstag    | <time datetime="12:00">12</time> - <time datetime="14:00">14</time> Uhr | <time datetime="18:00">18</time> - <time datetime="21:30">21:30</time> Uhr |
 | Sonntag    | Geschlossen                                                             | <time datetime="18:00">18</time> - <time datetime="21:30">21:30</time> Uhr |
-
-::: warning Hinweis
-Bitte nimm hiermit zur Kenntnis, dass unser Ristorante vom 01. August 2025 bis einschließlich 02. September 2025 geschlossen ist.
-:::
-
 ## Team
 
 <img :src="withBase('/images/ristorante/team.webp')" alt="Team" decoding="async" loading="lazy">
