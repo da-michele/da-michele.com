@@ -16,7 +16,7 @@
             "img": "antipasti/insalata_di_arance.webp"
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "insalata-di-finnochio",
             "name": "Insalata di Finnochio",
             "desc": {
@@ -72,7 +72,7 @@
             "priceeuro": 14
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "insalata-capricciosa",
             "name": "Insalata Capricciosa",
             "desc": {
@@ -150,7 +150,7 @@
             "priceeuro": 16
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "insalata-caprese",
             "name": "Insalata Caprese",
             "desc": {
@@ -160,7 +160,7 @@
             "tags": [
                 "vegetarian"
             ],
-            "priceeuro": 16
+            "priceeuro": 18
         },
         {
             "show": false,
@@ -257,14 +257,14 @@
             "priceeuro": 16
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "prosciutto-di-parma-burrata",
             "name": "Prosciutto di Parma & Burrata",
             "desc": {
                 "de": "Parmaschinken mit Burrata (cremiger Mozzarella)",
                 "en": "Parma ham with burrata (creamy mozzarella-cheese)"
             },
-            "priceeuro": 16
+            "priceeuro": 18
         },
         {
             "show": false,
@@ -300,7 +300,7 @@
             "priceeuro": 16
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "burrata-caponata",
             "name": "Burrata & Caponata",
             "desc": {
@@ -360,7 +360,7 @@
             "priceeuro": 18
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "vitello-tonnato",
             "name": "Vitello tonnato",
             "desc": {
@@ -587,7 +587,7 @@
             "priceeuro": 20
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "carpaccio-di-bresaola",
             "name": "Carpaccio di Bresaola",
             "desc": {
@@ -751,14 +751,14 @@
             "priceeuro": 23
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "insalata-di-polpo",
             "name": "Insalata di Polpo",
             "desc": {
                 "de": "Tintenfisch-Salat",
                 "en": "octopus salad"
             },
-            "priceeuro": 24
+            "priceeuro": 23
         },
         {
             "show": false,
