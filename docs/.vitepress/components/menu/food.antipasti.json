@@ -751,7 +751,7 @@
             "priceeuro": 23
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "insalata-di-polpo",
             "name": "Insalata di Polpo",
             "desc": {
