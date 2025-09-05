@@ -156,7 +156,7 @@
             "priceeuro": 49
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "jungano",
             "name": "Jungano, San Salvatore 1988",
             "desc": {

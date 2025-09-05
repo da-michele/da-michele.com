@@ -41,7 +41,7 @@
             "priceeuro": 39
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "lugana-llac",
             "name": "Lugana, 'lLac",
             "desc": {
@@ -250,7 +250,7 @@
             "alcoholcontent": 13.5
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "conte-della-vipera",
             "name": "Antonori, Conte della Vipera",
             "desc": {
