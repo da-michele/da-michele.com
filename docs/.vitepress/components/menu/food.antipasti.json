@@ -16,7 +16,7 @@
             "img": "antipasti/insalata_di_arance.webp"
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "insalata-di-finnochio",
             "name": "Insalata di Finnochio",
             "desc": {
@@ -257,7 +257,7 @@
             "priceeuro": 16
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "prosciutto-di-parma-burrata",
             "name": "Prosciutto di Parma & Burrata",
             "desc": {
@@ -314,7 +314,7 @@
             "img": "antipasti/burrata_caponata.webp"
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "prosciutto-di-parma-mozzarella-di-buffala",
             "name": "Prosciutto di Parma & Mozzarella di Buffala",
             "desc": {
@@ -347,7 +347,7 @@
             "priceeuro": 18
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "burrata-pomodori-colorati",
             "name": "Burrata & Pomodori colorati",
             "desc": {
@@ -751,7 +751,7 @@
             "priceeuro": 23
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "insalata-di-polpo",
             "name": "Insalata di Polpo",
             "desc": {

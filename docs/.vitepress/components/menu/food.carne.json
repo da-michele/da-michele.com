@@ -101,7 +101,7 @@
             "priceeuro": 29
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "scaloppine-al-limone",
             "name": "Scaloppine al Limone",
             "desc": {
@@ -121,14 +121,14 @@
             "priceeuro": 29
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "saltimbocca-alla-romana",
             "name": "Saltimbocca alla Romana",
             "desc": {
                 "de": "Kalbfleisch umwickelt mit Prosciutto und Salbei",
                 "en": "veal wrapped with prosciutto and sage"
             },
-            "priceeuro": 29
+            "priceeuro": 31
         },
         {
             "show": false,

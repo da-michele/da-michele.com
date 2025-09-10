@@ -359,7 +359,7 @@
             "priceeuro": 18
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pasta-polpette-al-sugo",
             "name": "Pasta Polpette al Sugo",
             "desc": {
@@ -539,7 +539,7 @@
             "priceeuro": 22
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pasta-gambas",
             "name": "Pasta Gambas",
             "desc": {
