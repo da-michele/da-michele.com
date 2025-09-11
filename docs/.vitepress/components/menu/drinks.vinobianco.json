@@ -57,7 +57,7 @@
             "priceeuro": 39
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "langhe-arneis-cordero-di-montezemmolo",
             "name": "Langhe Arneis, Cordero di Montezemolo",
             "desc": {
@@ -250,7 +250,7 @@
             "alcoholcontent": 13.5
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "conte-della-vipera",
             "name": "Antonori, Conte della Vipera",
             "desc": {
