@@ -64,7 +64,7 @@
             "priceeuro": 16
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pasta-amatriciana",
             "name": "Pasta Amatriciana",
             "desc": {
@@ -539,7 +539,7 @@
             "priceeuro": 22
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pasta-gambas",
             "name": "Pasta Gambas",
             "desc": {

@@ -150,7 +150,7 @@
             "priceeuro": 16
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "insalata-caprese",
             "name": "Insalata Caprese",
             "desc": {
@@ -234,7 +234,7 @@
             "priceeuro": 16
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "cozze-al-pomodoro",
             "name": "Cozze al pomodoro",
             "desc": {
@@ -360,7 +360,7 @@
             "priceeuro": 18
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "vitello-tonnato",
             "name": "Vitello tonnato",
             "desc": {
@@ -587,7 +587,7 @@
             "priceeuro": 20
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "carpaccio-di-bresaola",
             "name": "Carpaccio di Bresaola",
             "desc": {
