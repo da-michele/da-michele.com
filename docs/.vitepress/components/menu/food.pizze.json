@@ -40,7 +40,7 @@
             "priceeuro": 14
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pizza-gorgonzola-spinaci",
             "name": "Pizza Gorgonzola Spinaci",
             "desc": {
@@ -126,16 +126,6 @@
             "priceeuro": 16
         },
         {
-            "show": true,
-            "anchor": "pizza-guanciale-taleggio-pomodoro",
-            "name": "Pizza Guanciale, Taleggio, Pomodoro",
-            "desc": {
-                "de": "mit Speck, ital. Rohmilchkäse, Tomaten",
-                "en": "with bacon, Taleggio (Italian raw milk cheese) and tomatoes"
-            },
-            "priceeuro": 16
-        },
-        {
             "show": false,
             "anchor": "pizza-guanciale-taleggio-pesto-zucchini",
             "name": "Pizza Guanciale, Taleggio, Pesto Zucchini",
@@ -174,6 +164,16 @@
                 "en": "with seafood"
             },
             "priceeuro": 16
+        },
+        {
+            "show": true,
+            "anchor": "pizza-guanciale-taleggio-pomodoro",
+            "name": "Pizza Guanciale, Taleggio, Pomodoro",
+            "desc": {
+                "de": "mit Speck, ital. Rohmilchkäse, Tomaten",
+                "en": "with bacon, Taleggio (Italian raw milk cheese) and tomatoes"
+            },
+            "priceeuro": 18
         },
         {
             "show": false,

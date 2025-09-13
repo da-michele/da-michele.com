@@ -24,7 +24,7 @@
             "priceeuro": 14
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pasta-gorgonzola-spinaci",
             "name": "Pasta Gorgonzola & Spinaci",
             "desc": {
@@ -37,7 +37,7 @@
             "priceeuro": 14
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pasta-verdure",
             "name": "Pasta Verdure",
             "desc": {
@@ -94,7 +94,7 @@
             "priceeuro": 16
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pasta-ricotta-melanzane",
             "name": "Pasta Ricotta & Melanzane",
             "desc": {
@@ -359,7 +359,7 @@
             "priceeuro": 18
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pasta-polpette-al-sugo",
             "name": "Pasta Polpette al Sugo",
             "desc": {
@@ -582,7 +582,7 @@
             "img": "pasta/pasta_aragosta.webp"
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "tagliatelle-tartufo",
             "name": "Tagliatelle Tartufo",
             "desc": {
@@ -595,7 +595,7 @@
             "priceeuro": 25
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "tagliolini-tartufo",
             "name": "Tagliolini Tartufo",
             "desc": {
