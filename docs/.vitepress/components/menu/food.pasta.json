@@ -159,7 +159,7 @@
             "priceeuro": 16
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "spaghetti-bolognese",
             "name": "Spaghetti Bolognese",
             "desc": {
