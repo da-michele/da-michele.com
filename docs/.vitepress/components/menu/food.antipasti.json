@@ -127,7 +127,7 @@
             "priceeuro": 14
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "mozzarella-di-buffala-pomodori",
             "name": "Mozzarella di Buffala & Pomodori",
             "desc": {
@@ -234,7 +234,7 @@
             "priceeuro": 16
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "cozze-al-pomodoro",
             "name": "Cozze al pomodoro",
             "desc": {
@@ -257,7 +257,7 @@
             "priceeuro": 16
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "prosciutto-di-parma-burrata",
             "name": "Prosciutto di Parma & Burrata",
             "desc": {
@@ -300,7 +300,7 @@
             "priceeuro": 16
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "burrata-caponata",
             "name": "Burrata & Caponata",
             "desc": {
@@ -314,7 +314,7 @@
             "img": "antipasti/burrata_caponata.webp"
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "prosciutto-di-parma-mozzarella-di-buffala",
             "name": "Prosciutto di Parma & Mozzarella di Buffala",
             "desc": {
