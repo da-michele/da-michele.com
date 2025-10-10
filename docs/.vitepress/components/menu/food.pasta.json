@@ -37,7 +37,7 @@
             "priceeuro": 14
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pasta-verdure",
             "name": "Pasta Verdure",
             "desc": {

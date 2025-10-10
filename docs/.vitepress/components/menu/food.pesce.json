@@ -152,7 +152,7 @@
             "priceeuro": 29
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "l-orrata",
             "name": "L'Orrata",
             "desc": {
