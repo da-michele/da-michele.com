@@ -144,13 +144,13 @@ const { lang } = useData()
     v-for="item in data.vinorosso"
     :drink="item"
   ></MenuItemDrink>
-  <h2 id="franciacorta" tabindex="-1"><a class="header-anchor" href="#franciacorta" aria-label="Permalink to Francia corta"></a> Francia corta</h2>
+  <h2 id="vinospumante" tabindex="-1"><a class="header-anchor" href="#vinospumante" aria-label="Permalink to Vino spumante"></a> Vino spumante</h2>
   <blockquote>
     <p v-if="lang == 'en-US'">Sparkling wine</p>
     <p v-else>Schaumwein</p>
   </blockquote>
   <MenuItemDrink
-    v-for="item in data.franciacorta"
+    v-for="item in data.vinospumante"
     :drink="item"
   ></MenuItemDrink>
 </template>

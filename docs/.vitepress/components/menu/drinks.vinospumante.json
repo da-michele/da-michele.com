@@ -1,0 +1,20 @@
+{
+    "vinospumante": [
+        {
+            "show": true,
+            "anchor": "marchese-antinori-blanc-de-blancs",
+            "name": "Blanc de Blancs - Franciacorta, Marchese Antinori",
+            "desc": {
+                "de": "Dieser Blanc de Blancs wird erzeugt aus den besten Chardonnay-Beeren, manchmal mit einem kleinen Anteil von Pinot Bianco, eine elegante Cuvée von raffinierter Frische. Der lange Verbleib auf den Hefen verleiht dem Wein ein lebhaftes blumiges und fruchtiges Profil, große Ausgewogenheit und Finesse. In der Farbe blassgelb, cremiger Schaum mit feiner anhaltender Perlage. An der Nase duftend und prompt, mit Blüten- und Fruchtnoten, die an Apfel  und Pfirsich mit weißem Fleisch erinnern. Am Gaumen auffallende Lebhaftigkeit und Frische, begleitet von guter Ausgewogenheit und ausgeprägter Eleganz.",
+                "en": "This Blanc de Blancs is made from the finest Chardonnay grapes, sometimes with a small portion of Pinot Bianco, creating an elegant blend of refined freshness. The long aging on the lees lends the wine a vibrant floral and fruity profile, great balance, and finesse. Pale yellow in color, the wine has a creamy foam with a fine, persistent perlage. The nose is fragrant and immediate, with floral and fruity notes reminiscent of apple and white-fleshed peach. The palate is strikingly lively and fresh, accompanied by good balance and distinct elegance."
+            },
+            "img": "vino_spumante/marchese_antinori_blanc-de-blancs.webp",
+            "region": "Toscana",
+            "winery": "Marchese Antinori",
+            "grapes": "Chardonnay",
+            "bottlesize": 750,
+            "alcoholcontent": 12,
+            "priceeuro": 75
+        }
+    ]
+}
