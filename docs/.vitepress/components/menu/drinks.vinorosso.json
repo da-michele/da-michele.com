@@ -113,6 +113,18 @@
         },
         {
             "show": true,
+            "anchor": "prunotto-mompertone-monferrato-prunotto",
+            "name": "Mompertone Monferrato, Prunotto",
+            "img": "vino_rosso/prunotto_mompertone_monferrato.webp",
+            "region": "Piemonte",
+            "winery": "Prunotto",
+            "grapes": "Barbera, Syrah",
+            "bottlesize": 750,
+            "alcoholcontent": 14.5,
+            "priceeuro": 49
+        },
+        {
+            "show": true,
             "anchor": "botrosecco-le-mortelle",
             "name": "Botrosecco, Le Mortelle",
             "desc": {

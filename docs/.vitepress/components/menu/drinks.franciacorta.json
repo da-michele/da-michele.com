@@ -1,0 +1,16 @@
+{
+    "franciacorta": [
+        {
+            "show": true,
+            "anchor": "marchese-antinori-blanc-de-blancs",
+            "name": "Blanc de Blancs, Marchese Antinori",
+            "img": "francia_corta/marchese_antinori_blanc-de-blancs.webp",
+            "region": "Toscana",
+            "winery": "Marchese Antinori",
+            "grapes": "Chardonnay",
+            "bottlesize": 750,
+            "alcoholcontent": 12,
+            "priceeuro": 75
+        }
+    ]
+}

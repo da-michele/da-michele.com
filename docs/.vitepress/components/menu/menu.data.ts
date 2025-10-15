@@ -3,6 +3,7 @@ import { defineLoader } from 'vitepress'
 import { vinobianco } from './drinks.vinobianco.json'
 import { vinorosato } from './drinks.vinorosato.json'
 import { vinorosso } from './drinks.vinorosso.json'
+import { franciacorta } from './drinks.franciacorta.json'
 
 import { antipasti } from './food.antipasti.json'
 import { carne } from './food.carne.json'
@@ -45,6 +46,7 @@ export interface Data {
   readonly vinobianco: Drink[]
   readonly vinorosato: Drink[]
   readonly vinorosso: Drink[]
+  readonly franciacorta: Drink[]
 
   readonly antipasti: Food[]
   readonly carne: Food[]
@@ -68,6 +70,7 @@ export default defineLoader({
       vinobianco: vinobianco,
       vinorosato: vinorosato,
       vinorosso: vinorosso,
+      franciacorta: franciacorta,
       antipasti: antipasti,
       carne: carne,
       dolci: dolci,
