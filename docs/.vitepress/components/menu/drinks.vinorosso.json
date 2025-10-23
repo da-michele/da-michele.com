@@ -165,7 +165,7 @@
             "grapes": "Barbera",
             "bottlesize": 750,
             "alcoholcontent": 14.5,
-            "priceeuro": 49
+            "priceeuro": 55
         },
         {
             "show": false,
@@ -213,7 +213,7 @@
             "grapes": "Cabernet Sauvignon, Merlot, Syrah",
             "bottlesize": 750,
             "alcoholcontent": 14,
-            "priceeuro": 52
+            "priceeuro": 58
         },
         {
             "show": false,
@@ -257,7 +257,7 @@
             "grapes": "Corvina, Rondinella, Corvinone, Negrara",
             "bottlesize": 750,
             "alcoholcontent": 15,
-            "priceeuro": 70
+            "priceeuro": 75
         },
         {
             "show": true,
@@ -273,7 +273,7 @@
             "grapes": "Sangiovese",
             "bottlesize": 750,
             "alcoholcontent": 14.5,
-            "priceeuro": 70
+            "priceeuro": 75
         },
         {
             "show": false,

@@ -70,7 +70,7 @@
             "grapes": "Arneis",
             "bottlesize": 750,
             "alcoholcontent": 13.5,
-            "priceeuro": 39
+            "priceeuro": 42
         },
         {
             "show": false,
@@ -205,7 +205,7 @@
             "grapes": "Chardonnay, Sauvignon Blanc, Pinot bianco (Weißburgunder)",
             "bottlesize": 750,
             "alcoholcontent": 13.5,
-            "priceeuro": 42
+            "priceeuro": 46
         },
         {
             "show": false,
@@ -263,7 +263,7 @@
             "grapes": "Sauvignon Blanc, Sémillon",
             "bottlesize": 750,
             "alcoholcontent": 12.5,
-            "priceeuro": 60
+            "priceeuro": 65
         },
         {
             "show": false,
