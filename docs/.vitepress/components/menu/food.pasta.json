@@ -276,8 +276,8 @@
             "anchor": "ravioli-ricotta-limone",
             "name": "Ravioli Ricotta & Limone",
             "desc": {
-                "de": "Ravioli mit Ricotta und Zitrone",
-                "en": "Ravioli with ricotta cheese and lemon"
+                "de": "Ravioli mit Ricotta, Zitrone und Salbei",
+                "en": "Ravioli with ricotta cheese, lemon and sage"
             },
             "tags": [
                 "vegetarian"
@@ -296,7 +296,7 @@
             "img": "pasta/calamarata_salsiccia_rapa.webp"
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "ravioli-ricotta-spinaci",
             "name": "Ravioli Ricotta & Spinaci",
             "desc": {
