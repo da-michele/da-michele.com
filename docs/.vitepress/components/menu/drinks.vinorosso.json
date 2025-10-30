@@ -17,7 +17,7 @@
             "priceeuro": 32
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "cabernet-sauvignon-tunella",
             "name": "Cabernet Sauvignon, Tunella",
             "desc": {
