@@ -31,7 +31,7 @@
             "priceeuro": 19
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pollo-grigliato",
             "name": "Pollo grigliato",
             "desc": {
@@ -91,7 +91,7 @@
             "priceeuro": 25
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "scaloppine-al-vino",
             "name": "Scaloppine al Vino",
             "desc": {

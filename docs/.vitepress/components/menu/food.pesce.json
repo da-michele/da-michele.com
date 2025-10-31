@@ -11,23 +11,33 @@
             "priceeuro": 25
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "seppia-alla-griglia",
             "name": "Seppia alla griglia",
             "desc": {
                 "de": "Krake vom Grill",
                 "en": "Grilled squid"
             },
-            "priceeuro": 28,
+            "priceeuro": 29,
             "img": "pesce/seppia.webp"
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "filetto-di-spigula-alla-griglia",
             "name": "Filetto di Spigula alla griglia",
             "desc": {
                 "de": "Wolfsbarschfilet vom Grill",
                 "en": "Grilled sea bass fillet"
+            },
+            "priceeuro": 29
+        },
+        {
+            "show": true,
+            "anchor": "spigula-al-vino",
+            "name": "Spigula al vino",
+            "desc": {
+                "de": "Wolfsbarsch in Weißweinsauce",
+                "en": "Sea bass in white wine"
             },
             "priceeuro": 29
         },
@@ -122,7 +132,7 @@
             "priceeuro": 29
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "filetto-di-orrata-alla-griglia",
             "name": "Filetto di Orrata alla griglia",
             "desc": {
@@ -233,7 +243,7 @@
             "priceeuro": 34
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "bistecca-di-tonno-rucola",
             "name": "Bistecca di Tonno & Rucola",
             "desc": {

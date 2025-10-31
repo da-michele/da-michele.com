@@ -96,7 +96,7 @@
             "priceeuro": 45
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "cannonau-di-sardegna-jankara",
             "name": "Cannonau di Sardegna DOC, Jankara",
             "desc": {
