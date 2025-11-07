@@ -31,7 +31,7 @@
             "priceeuro": 19
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pollo-grigliato",
             "name": "Pollo grigliato",
             "desc": {
@@ -49,16 +49,6 @@
                 "en": "grilled Salsiccia (Italian raw meat sausage)"
             },
             "priceeuro": 21
-        },
-        {
-            "show": true,
-            "anchor": "fegato-di-vitello-alla-veneziana",
-            "name": "Fegato di vitello alla Veneziana",
-            "desc": {
-                "de": "Kalbsleber alla Veneziana",
-                "en": "veal liver alla Veneziana"
-            },
-            "priceeuro": 22
         },
         {
             "show": false,
@@ -81,6 +71,16 @@
             "priceeuro": 21
         },
         {
+            "show": true,
+            "anchor": "fegato-di-vitello-alla-veneziana",
+            "name": "Fegato di vitello alla Veneziana",
+            "desc": {
+                "de": "Kalbsleber alla Veneziana",
+                "en": "veal liver alla Veneziana"
+            },
+            "priceeuro": 24
+        },
+        {
             "show": false,
             "anchor": "agnello",
             "name": "Agnello",
@@ -101,7 +101,7 @@
             "priceeuro": 29
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "scaloppine-al-limone",
             "name": "Scaloppine al Limone",
             "desc": {

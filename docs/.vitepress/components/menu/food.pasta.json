@@ -37,7 +37,7 @@
             "priceeuro": 14
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pasta-verdure",
             "name": "Pasta Verdure",
             "desc": {
@@ -64,7 +64,7 @@
             "priceeuro": 16
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pasta-amatriciana",
             "name": "Pasta Amatriciana",
             "desc": {
@@ -272,7 +272,7 @@
             "priceeuro": 16
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "ravioli-ricotta-limone",
             "name": "Ravioli Ricotta & Limone",
             "desc": {
@@ -285,14 +285,14 @@
             "priceeuro": 16
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pasta-salsiccia-rapa",
             "name": "Pasta Salsiccia & Rapa",
             "desc": {
                 "de": "Pasta mit Salsiccia (ital. Frischwurst) und Rapa (Stängelkohl)",
                 "en": "Pasta with Salsiccia (Italian raw meat sausage) and Rapa (slightly bitter Italian broccoli-like vegetable)"
             },
-            "priceeuro": 16,
+            "priceeuro": 18,
             "img": "pasta/calamarata_salsiccia_rapa.webp"
         },
         {
@@ -370,7 +370,7 @@
             "img": "pasta/pasta_polpette_al_sugo.webp"
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pasta-salsiccia-tartufo",
             "name": "Pasta Salsiccia & Tartufo",
             "desc": {
@@ -401,7 +401,7 @@
             "priceeuro": 18
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pasta-finferli",
             "name": "Pasta Finferli",
             "desc": {
@@ -529,7 +529,7 @@
             "priceeuro": 21
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "spaghetti-polpo",
             "name": "Spaghetti Polpo",
             "desc": {

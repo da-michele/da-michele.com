@@ -11,7 +11,7 @@
             "priceeuro": 25
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "seppia-alla-griglia",
             "name": "Seppia alla griglia",
             "desc": {
@@ -32,7 +32,7 @@
             "priceeuro": 29
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "spigula-al-vino",
             "name": "Spigula al vino",
             "desc": {
@@ -243,7 +243,7 @@
             "priceeuro": 34
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "bistecca-di-tonno-rucola",
             "name": "Bistecca di Tonno & Rucola",
             "desc": {
