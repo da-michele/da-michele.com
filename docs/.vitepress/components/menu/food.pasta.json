@@ -249,7 +249,7 @@
             "priceeuro": 16
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "ravioli-spinaci-noci",
             "name": "Ravioli Spinaci & Noci",
             "desc": {
