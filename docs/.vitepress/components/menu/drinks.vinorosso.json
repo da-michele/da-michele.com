@@ -200,7 +200,7 @@
             "priceeuro": 49
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "il-bruciato-antinori",
             "name": "Il Bruciato, Antinori",
             "desc": {
