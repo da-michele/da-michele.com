@@ -51,7 +51,7 @@
             "priceeuro": 16
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pasta-sorrentina",
             "name": "Pasta Sorrentina",
             "desc": {
@@ -249,7 +249,7 @@
             "priceeuro": 16
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "ravioli-spinaci-noci",
             "name": "Ravioli Spinaci & Noci",
             "desc": {
@@ -285,7 +285,7 @@
             "priceeuro": 16
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pasta-salsiccia-rapa",
             "name": "Pasta Salsiccia & Rapa",
             "desc": {
@@ -346,7 +346,7 @@
             "priceeuro": 18
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "gnocchi-burrata",
             "name": "Gnocchi Burrata",
             "desc": {
@@ -370,7 +370,7 @@
             "img": "pasta/pasta_polpette_al_sugo.webp"
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pasta-salsiccia-tartufo",
             "name": "Pasta Salsiccia & Tartufo",
             "desc": {

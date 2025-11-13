@@ -72,7 +72,7 @@
             "priceeuro": 14
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "insalata-capricciosa",
             "name": "Insalata Capricciosa",
             "desc": {
@@ -140,7 +140,7 @@
             "priceeuro": 16
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "sardelle-marinate",
             "name": "Sardelle marinate",
             "desc": {
@@ -257,7 +257,7 @@
             "priceeuro": 16
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "prosciutto-di-parma-burrata",
             "name": "Prosciutto di Parma & Burrata",
             "desc": {

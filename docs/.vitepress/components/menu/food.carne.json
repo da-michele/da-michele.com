@@ -101,7 +101,7 @@
             "priceeuro": 26
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "scaloppine-al-vino",
             "name": "Scaloppine al Vino",
             "desc": {
@@ -151,7 +151,7 @@
             "priceeuro": 36
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "tagliata",
             "name": "Tagliata",
             "desc": {
