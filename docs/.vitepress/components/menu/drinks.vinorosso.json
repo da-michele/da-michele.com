@@ -112,7 +112,7 @@
             "priceeuro": 49
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "prunotto-mompertone-monferrato-prunotto",
             "name": "Mompertone Monferrato, Prunotto",
             "img": "vino_rosso/prunotto_mompertone_monferrato.webp",
