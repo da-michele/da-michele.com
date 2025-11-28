@@ -17,4 +17,8 @@ Wir bieten eine täglich wechselnde Karte mit frischen Fisch- und Fleischgericht
 
 Deine Bestellungen nehmen wir gerne [telefonisch unter 07221-61541](tel:+49722161541){ target="_blank" rel="noopener noreferrer" } entgegen.
 
+::: warning Hinweis
+Bitte nimm hiermit zur Kenntnis, dass unser Ristorante vom 22. December 2025 bis zum Frühling 2026 geschlossen ist. Wir öffnen nächstes Jahr wieder an einem neuen Standort.
+:::
+
 <MenuItems />
