@@ -22,16 +22,6 @@
         },
         {
             "show": false,
-            "anchor": "pollo-al-vino",
-            "name": "Pollo al vino",
-            "desc": {
-                "de": "Hähnchen in Weißweinsauce",
-                "en": "chicken in white wine"
-            },
-            "priceeuro": 19
-        },
-        {
-            "show": false,
             "anchor": "pollo-grigliato",
             "name": "Pollo grigliato",
             "desc": {
@@ -69,6 +59,16 @@
                 "en": "cooked veal"
             },
             "priceeuro": 21
+        },
+        {
+            "show": true,
+            "anchor": "pollo-al-vino",
+            "name": "Pollo al vino",
+            "desc": {
+                "de": "Hähnchen in Weißweinsauce",
+                "en": "chicken in white wine"
+            },
+            "priceeuro": 22
         },
         {
             "show": true,
@@ -151,7 +151,7 @@
             "priceeuro": 36
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "tagliata",
             "name": "Tagliata",
             "desc": {
