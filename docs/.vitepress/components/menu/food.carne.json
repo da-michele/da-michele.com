@@ -32,16 +32,6 @@
         },
         {
             "show": false,
-            "anchor": "salsiccia-grigliato",
-            "name": "Salsiccia grigliato",
-            "desc": {
-                "de": "gegrillte Salsiccia (ital. Frischwurst)",
-                "en": "grilled Salsiccia (Italian raw meat sausage)"
-            },
-            "priceeuro": 21
-        },
-        {
-            "show": false,
             "anchor": "coda-di-bue-stufato",
             "name": "Coda di bue stufato",
             "desc": {
@@ -61,7 +51,7 @@
             "priceeuro": 21
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pollo-al-vino",
             "name": "Pollo al vino",
             "desc": {
@@ -69,6 +59,16 @@
                 "en": "chicken in white wine"
             },
             "priceeuro": 22
+        },
+        {
+            "show": true,
+            "anchor": "salsiccia-grigliato",
+            "name": "Salsiccia grigliato",
+            "desc": {
+                "de": "gegrillte Salsiccia (ital. Frischwurst)",
+                "en": "grilled Salsiccia (Italian raw meat sausage)"
+            },
+            "priceeuro": 24
         },
         {
             "show": true,
