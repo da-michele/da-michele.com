@@ -244,7 +244,7 @@
             "priceeuro": 60
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pasqua-black-label",
             "name": "Pasqua Black Label, Amarone della Valpolicella",
             "desc": {
