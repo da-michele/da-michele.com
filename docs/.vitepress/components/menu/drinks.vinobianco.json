@@ -57,7 +57,7 @@
             "priceeuro": 39
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "langhe-arneis-cordero-di-montezemmolo",
             "name": "Langhe Arneis, Cordero di Montezemolo",
             "desc": {
@@ -192,7 +192,7 @@
             "priceeuro": 39
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "cuvee-terlaner-alto-adige",
             "name": "Cuvée Terlaner, Alto Adige DOC",
             "desc": {
@@ -250,7 +250,7 @@
             "alcoholcontent": 13.5
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "conte-della-vipera",
             "name": "Antinori, Conte della Vipera",
             "desc": {
