@@ -94,7 +94,7 @@
             "priceeuro": 16
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pasta-ricotta-melanzane",
             "name": "Pasta Ricotta & Melanzane",
             "desc": {
@@ -285,7 +285,7 @@
             "priceeuro": 16
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pasta-salsiccia-rapa",
             "name": "Pasta Salsiccia & Rapa",
             "desc": {
@@ -519,7 +519,7 @@
             "img": "pasta/gnocchi_gambas.webp"
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pasta-gambas-zucchini",
             "name": "Pasta Gambas Zucchini",
             "desc": {
@@ -595,7 +595,7 @@
             "priceeuro": 25
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "tagliolini-tartufo",
             "name": "Tagliolini Tartufo",
             "desc": {

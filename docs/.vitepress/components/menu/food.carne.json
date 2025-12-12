@@ -61,7 +61,7 @@
             "priceeuro": 22
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "salsiccia-grigliato",
             "name": "Salsiccia grigliato",
             "desc": {
@@ -101,7 +101,7 @@
             "priceeuro": 26
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "scaloppine-al-vino",
             "name": "Scaloppine al Vino",
             "desc": {
