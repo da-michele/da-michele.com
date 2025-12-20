@@ -1,13 +1,13 @@
 ---
 editLink: false
-date: 2025-12-17
+date: 2025-12-20
 head:
   - [meta, { property: 'og:title', content: 'Menu | Ristorante da Michele, Baden-Baden' }]
   - [meta, { property: 'og:url', content: 'https://da-michele.com/en/menu/' }]
   - [meta, { property: 'og:type', content: article }]
   - [meta, { property: 'article:section', content: Menu }]
   - [meta, { property: 'article:author', content: 'Vincenzo Romano' }]
-  - [meta, { property: 'article:modified_time', content: 2025-12-17 }]
+  - [meta, { property: 'article:modified_time', content: 2025-12-20 }]
 outline: 2
 ---
 
@@ -21,4 +21,4 @@ Please [call us at 07221-61541](tel:+49722161541){ target="_blank" rel="noopener
 Please note, our Ristorante is closed December 22nd 2025 through Spring 2026. We will reopen at a new location next year.
 :::
 
-<MenuItems />
+<!-- <MenuItems /> -->
