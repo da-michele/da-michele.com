@@ -69,7 +69,7 @@
 
     "address": {
         "@type": "PostalAddress",
-        "streetAddress": "Sinzheimer Str. 4",
+        "streetAddress": "Rheinstr. 109",
         "addressLocality": "Baden-Baden",
         "addressRegion": "Baden-Württemberg",
         "postalCode": "76532",
@@ -79,8 +79,8 @@
 
     "geo": {
         "@type": "GeoCoordinates",
-        "latitude": 48.786975,
-        "longitude": 8.1936724
+        "latitude": 48.7789239,
+        "longitude": 8.2154413
     },
     "hasDriveThroughService": false,
     "logo": "https://da-michele.com/images/logo.svg",

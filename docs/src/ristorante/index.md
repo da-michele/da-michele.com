@@ -14,7 +14,7 @@ head:
         "telephone": "+49722161541",
         "address" :{
             "@type": "PostalAddress",
-            "streetAddress": "Sinzheimer Str. 4",
+            "streetAddress": "Rheinstr. 109",
             "addressLocality": "Baden-Baden",
             "addressRegion": "Baden-Würrtemberg",
             "postalCode": "76532",
