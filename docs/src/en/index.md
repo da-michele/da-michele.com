@@ -49,5 +49,5 @@ hero:
 ---
 
 ::: warning Note
-Please note, our Ristorante is closed December 22nd 2025 through Spring 2026. We will reopen at a new location next year.
+Please note, our Ristorante is closed through end of April 2026. We will reopen at a new location next year.
 :::
