@@ -26,7 +26,7 @@ Amtsgericht Mannheim
 
 ## Inhaber
 
-Michele Romano
+Vincenzo Romano
 
 ## Inhaltlich verantwortlich
 

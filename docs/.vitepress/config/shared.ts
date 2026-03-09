@@ -96,7 +96,7 @@ export const sharedConfig = defineConfig({
   ],
   themeConfig: {
     footer: {
-      copyright: `Copyright © ${new Date().getFullYear()} Michele Romano`,
+      copyright: `Copyright © ${new Date().getFullYear()} Vincenzo Romano`,
       message: 'Ristorante Da Michele Baden-Baden'
     },
     logo: {
