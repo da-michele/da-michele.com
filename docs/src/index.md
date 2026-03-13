@@ -49,5 +49,5 @@ hero:
 ---
 
 ::: warning Hinweis
-Bitte nimm hiermit zur Kenntnis, dass unser Ristorante bis Ende April 2026 geschlossen ist. Wir öffnen nächstes Jahr wieder an einem neuen Standort.
+Bitte nimm hiermit zur Kenntnis, dass unser Ristorante bis Ende April 2026 geschlossen ist. Wir öffnen im Mai an einem neuen Standort.
 :::

@@ -22,7 +22,7 @@ import { withBase } from 'vitepress'
 | Sunday    | Closed                                                                   | <time datetime="18:00">6 pm</time> - <time datetime="21:30">9:30 pm</time> |
 
 ::: warning Note
-Please note, our Ristorante is closed through end of April 2026. We will reopen at a new location next year.
+Please note, our Ristorante is closed through end of April 2026. We will reopen at a new location in May.
 :::
 
 ## Team

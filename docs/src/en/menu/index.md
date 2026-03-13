@@ -1,13 +1,13 @@
 ---
 editLink: false
-date: 2026-03-09
+date: 2026-03-13
 head:
   - [meta, { property: 'og:title', content: 'Menu | Ristorante da Michele, Baden-Baden' }]
   - [meta, { property: 'og:url', content: 'https://da-michele.com/en/menu/' }]
   - [meta, { property: 'og:type', content: article }]
   - [meta, { property: 'article:section', content: Menu }]
   - [meta, { property: 'article:author', content: 'Vincenzo Romano' }]
-  - [meta, { property: 'article:modified_time', content: 2026-03-09 }]
+  - [meta, { property: 'article:modified_time', content: 2026-03-13 }]
 outline: 2
 ---
 
@@ -18,7 +18,7 @@ We offer a daily changing menu with fresh fish and meat dishes as well as the us
 Please [call us at 07221-61541](tel:+49722161541){ target="_blank" rel="noopener noreferrer" } to place an order.
 
 ::: warning Note
-Please note, our Ristorante is closed through end of April 2026. We will reopen at a new location next year.
+Please note, our Ristorante is closed through end of April 2026. We will reopen at a new location in May.
 :::
 
 <!-- <MenuItems /> -->
