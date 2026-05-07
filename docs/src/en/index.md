@@ -49,5 +49,5 @@ hero:
 ---
 
 ::: warning Note
-Please note, our Ristorante is closed through end of April 2026. We will reopen at a new location in May.
+Please note, our Ristorante is closed through mid of May 2026. We will reopen at a new location on May 20th.
 :::
