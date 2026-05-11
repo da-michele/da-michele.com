@@ -1,5 +1,5 @@
 ---
-date: 2026-03-13
+date: 2026-05-11
 editLink: false
 head:
   - [meta, { property: 'og:title', content: 'Tageskarte | Ristorante da Michele, Baden-Baden' }]
@@ -7,7 +7,7 @@ head:
   - [meta, { property: 'og:type', content: article }]
   - [meta, { property: 'article:section', content: Tageskarte }]
   - [meta, { property: 'article:author', content: 'Vincenzo Romano' }]
-  - [meta, { property: 'article:modified_time', content: 2026-03-13 }]
+  - [meta, { property: 'article:modified_time', content: 2026-05-11 }]
 outline: 2
 ---
 
@@ -21,4 +21,4 @@ Deine Bestellungen nehmen wir gerne [telefonisch unter 07221-61541](tel:+4972216
 Bitte nimm hiermit zur Kenntnis, dass unser Ristorante bis Mitte Mai 2026 geschlossen ist. Wir öffnen am 20. Mai an einem neuen Standort.
 :::
 
-<!-- <MenuItems /> -->
+<MenuItems />
