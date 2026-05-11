@@ -22,7 +22,9 @@ import { withBase } from 'vitepress'
 | Sunday    | Closed                                                                   | <time datetime="18:00">6 pm</time> - <time datetime="21:30">9:30 pm</time> |
 
 ::: warning Note
-Please note, our Ristorante is closed through mid of May 2026. We will reopen at a new location on May 20th.
+We will reopen at our new location on May 20th on Rheinstrasse 109.
+
+Please find our vcard in the sidebar on the left.
 :::
 
 ## Team

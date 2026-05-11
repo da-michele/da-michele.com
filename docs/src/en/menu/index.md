@@ -18,7 +18,9 @@ We offer a daily changing menu with fresh fish and meat dishes as well as the us
 Please [call us at 07221-61541](tel:+49722161541){ target="_blank" rel="noopener noreferrer" } to place an order.
 
 ::: warning Note
-Please note, our Ristorante is closed through mid of May 2026. We will reopen at a new location on May 20th.
+We will reopen at our new location on May 20th on Rheinstrasse 109.
+
+Please find our vcard in the sidebar on the left.
 :::
 
 <MenuItems />

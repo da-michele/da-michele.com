@@ -49,5 +49,7 @@ hero:
 ---
 
 ::: warning Hinweis
-Bitte nimm hiermit zur Kenntnis, dass unser Ristorante bis Mitte Mai 2026 geschlossen ist. Wir öffnen am 20. Mai an einem neuen Standort.
+Wir öffnen erneut am 20. Mai an unserem neuen Standort in der Rheinstrasse 109.
+
+Unsere Visitenkarte findest Du links in der Seitenleiste.
 :::
