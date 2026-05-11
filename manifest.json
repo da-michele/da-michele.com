@@ -1,0 +1,37 @@
+{
+  "name": "Ristorante da Michele",
+  "short_name": "Da Michele",
+  "description": "The Ristorante da Michele offers a daily changing menu with fresh fish and meat dishes as well as the usual Italian classics.",
+  "start_url": "/en/index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff",
+  "theme_color": "#6699cc",
+  "icons": [
+    {
+      "src": "/images/logo.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    }
+  ],
+  "categories": [
+    "food",
+    "reference"
+  ],
+  "scope": "https://da-michele.com/",
+  "shortcuts": [
+    {
+      "name": "Today's menu",
+      "url": "/en/menu/",
+      "description": "The Ristorante da Michele offers a daily changing menu with fresh fish and meat dishes as well as the usual Italian classics."
+    },
+    {
+      "name": "Call us to place an order.",
+      "url": "tel:+49722161541"
+    },
+    {
+      "name": "Download vCard",
+      "url": "/en/vcards/Da_Michele_Baden-Baden.vcf"
+    }
+  ]
+}
