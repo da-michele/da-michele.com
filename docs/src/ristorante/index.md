@@ -56,7 +56,7 @@ import { withBase } from 'vitepress'
 | Sonntag    | Geschlossen                                                             | <time datetime="18:00">18</time> - <time datetime="21:30">21:30</time> Uhr |
 
 ::: warning Hinweis
-Wir öffnen erneut am 20. Mai an unserem neuen Standort in der Rheinstrasse 109.
+Unser neuer Standort ist in der Rheinstrasse 109.
 
 Unsere Visitenkarte findest Du links in der Seitenleiste.
 :::

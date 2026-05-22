@@ -49,7 +49,7 @@ hero:
 ---
 
 ::: warning Note
-We will reopen at our new location on May 20th on Rheinstrasse 109.
+Our new location is Rheinstrasse 109.
 
 Please find our vcard in the sidebar on the left.
 :::

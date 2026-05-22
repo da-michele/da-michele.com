@@ -18,7 +18,7 @@ Wir bieten eine täglich wechselnde Karte mit frischen Fisch- und Fleischgericht
 Deine Bestellungen nehmen wir gerne [telefonisch unter 07221-61541](tel:+49722161541){ target="_blank" rel="noopener noreferrer" } entgegen.
 
 ::: warning Hinweis
-Wir öffnen erneut am 20. Mai an unserem neuen Standort in der Rheinstrasse 109.
+Unser neuer Standort ist in der Rheinstrasse 109.
 
 Unsere Visitenkarte findest Du links in der Seitenleiste.
 :::
