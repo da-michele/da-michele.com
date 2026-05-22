@@ -71,7 +71,7 @@
             "priceeuro": 24
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "fegato-di-vitello-alla-veneziana",
             "name": "Fegato di vitello alla Veneziana",
             "desc": {
@@ -91,17 +91,17 @@
             "priceeuro": 25
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "scaloppine-al-limone",
             "name": "Scaloppine al Limone",
             "desc": {
                 "de": "Kalbsschnitzel mit Zitrone",
                 "en": "Veal escalopes with lemon"
             },
-            "priceeuro": 26
+            "priceeuro": 29.50
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "scaloppine-al-vino",
             "name": "Scaloppine al Vino",
             "desc": {
@@ -151,14 +151,14 @@
             "priceeuro": 36
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "tagliata",
             "name": "Tagliata",
             "desc": {
                 "de": "Scheiben vom Rinderfilet eines Dry-Aged Black Angus auf Rucola mit frischen Cocktail-Tomaten und Parmesan",
                 "en": "sliced beef fillet of a Dry-Aged Black Angus with lamb's lettuce, fresh cocktail tomatoes and Parmesan cheese"
             },
-            "priceeuro": 36,
+            "priceeuro": 38,
             "img": "carne/tagliata.webp"
         },
         {

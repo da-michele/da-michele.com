@@ -8,10 +8,10 @@
                 "de": "Tiramisu",
                 "en": "Tiramisu"
             },
-            "priceeuro": 5
+            "priceeuro": 8
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "calzone-nutella",
             "name": "Calzone Nutella",
             "desc": {

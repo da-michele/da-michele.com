@@ -41,8 +41,8 @@
             "anchor": "pasta-verdure",
             "name": "Pasta Verdure",
             "desc": {
-                "de": "Pasta mit Gemüse",
-                "en": "Pasta with vegetables"
+                "de": "Pasta mit Tomatensauce, Gorgonzola & Gemüse",
+                "en": "Pasta with tomato sauce, gorgonzola-cheese & vegetables"
             },
             "tags": [
                 "vegan",
@@ -68,10 +68,10 @@
             "anchor": "pasta-amatriciana",
             "name": "Pasta Amatriciana",
             "desc": {
-                "de": "Pasta mit Guanciale (Speck), Pecorino (ital. Hartkäse) und Tomaten",
-                "en": "Pasta with guanciale (bacon), Pecorino cheese and tomatoes"
+                "de": "Pasta mit Tomatensauce, Guanciale (Speck) & Zwiebeln",
+                "en": "Pasta with tomato sauce, guanciale (bacon) & onions"
             },
-            "priceeuro": 16
+            "priceeuro": 18
         },
         {
             "show": false,
@@ -94,7 +94,7 @@
             "priceeuro": 16
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pasta-ricotta-melanzane",
             "name": "Pasta Ricotta & Melanzane",
             "desc": {
@@ -262,7 +262,7 @@
             "priceeuro": 16
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "spaghetti-cozze",
             "name": "Spaghetti Cozze",
             "desc": {
@@ -309,7 +309,7 @@
             "priceeuro": 18
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pasta-salmone-spinaci",
             "name": "Pasta Salmone & Spinaci",
             "desc": {
@@ -346,7 +346,7 @@
             "priceeuro": 18
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "gnocchi-burrata",
             "name": "Gnocchi Burrata",
             "desc": {
@@ -370,7 +370,7 @@
             "img": "pasta/pasta_polpette_al_sugo.webp"
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pasta-salsiccia-tartufo",
             "name": "Pasta Salsiccia & Tartufo",
             "desc": {
@@ -519,7 +519,7 @@
             "img": "pasta/gnocchi_gambas.webp"
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "pasta-gambas-zucchini",
             "name": "Pasta Gambas Zucchini",
             "desc": {

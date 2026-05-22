@@ -10,6 +10,7 @@ import { carne } from './food.carne.json'
 import { dolci } from './food.dolci.json'
 import { pasta } from './food.pasta.json'
 import { pesce } from './food.pesce.json'
+import { pinse } from './food.pinse.json'
 import { pizze } from './food.pizze.json'
 import { riso } from './food.riso.json'
 
@@ -53,6 +54,7 @@ export interface Data {
   readonly dolci: Food[]
   readonly pasta: Food[]
   readonly pesce: Food[]
+  readonly pinse: Food[]
   readonly pizze: Food[]
   readonly riso: Food[]
 }
@@ -76,6 +78,7 @@ export default defineLoader({
       dolci: dolci,
       pasta: pasta,
       pesce: pesce,
+      pinse: pinse,
       pizze: pizze,
       riso: riso
     }

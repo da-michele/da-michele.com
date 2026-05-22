@@ -42,6 +42,11 @@ hero:
 #     link: '/en/menu/#pasta'
 #     linkText: Read more
 #   - icon: '🍕'
+#     title: Pinse
+#     details: Pinsa
+#     link: '/en/menu/#pinse'
+#     linkText: Read more
+#   - icon: '🍕'
 #     title: Pizze
 #     details: Pizza
 #     link: '/en/menu/#pizze'

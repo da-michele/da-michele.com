@@ -1,0 +1,93 @@
+{
+    "pinse": [
+        {
+            "show": true,
+            "anchor": "pinsa-margherita",
+            "name": "Pinsa Margherita",
+            "desc": {
+                "de": "mit Tomaten und Mozzarella",
+                "en": "with tomatoes and mozzarella-cheese"
+            },
+            "tags": [
+                "vegetarian"
+            ],
+            "priceeuro": 9.50
+        },
+        {
+            "show": true,
+            "anchor": "pinsa-Napoli",
+            "name": "Pinsa Napoli",
+            "desc": {
+                "de": "mit Tomaten, Mozzarella, Sardellen und Knoblauch",
+                "en": "with tomatoes, mozzarella-cheese, anchovies and garlic"
+            },
+            "priceeuro": 12
+        },
+        {
+            "show": true,
+            "anchor": "pinsa-sorrento",
+            "name": "Pinsa Sorrento",
+            "desc": {
+                "de": "mit Tomaten, Mozzarella und Schinken",
+                "en": "with tomatoes, mozzarella-cheese and ham"
+            },
+            "priceeuro": 12
+        },
+        {
+            "show": true,
+            "anchor": "pinsa-romana",
+            "name": "Pinsa Romana",
+            "desc": {
+                "de": "mit Tomaten, Mozzarella und Salami",
+                "en": "with tomatoes, mozzarella-cheese and salami"
+            },
+            "priceeuro": 12
+        },
+        {
+            "show": true,
+            "anchor": "pinsa-verdura",
+            "name": "Pinsa Verdura",
+            "desc": {
+                "de": "mit Tomaten, Mozzarella, frisches Gemüse und Gorgonzola",
+                "en": "with tomatoes, mozzarella-cheese, fresh vegetables and gorgonzola-cheese"
+            },
+            "tags": [
+                "vegetarian"
+            ],
+            "priceeuro": 16
+        },
+        {
+            "show": true,
+            "anchor": "pinsa-calabrese",
+            "name": "Pinsa Calabrese",
+            "desc": {
+                "de": "mit Tomaten, Mozzarella und Salame Calabrese",
+                "en": "with tomatoes, mozzarella-cheese and Salame Calabrese"
+            },
+            "priceeuro": 16
+        },
+        {
+            "show": true,
+            "anchor": "pinsa-crudaiola",
+            "name": "Pinsa Crudaiola",
+            "desc": {
+                "de": "mit Rucola, Mozzarella, Parmiggiano, Tomaten und Oliven",
+                "en": "with lamb's lettuce, mozzarella-cheese, parmiggiano-cheese, tomatoes and olives"
+            },
+            "tags": [
+                "vegetarian"
+            ],
+            "priceeuro": 16
+        },
+        {
+            "show": true,
+            "anchor": "pinsa-parma",
+            "name": "Pinsa Parma",
+            "desc": {
+                "de": "mit Tomaten, Mozzarella, Parmaschinken und Parmiggiano",
+                "en": "with tomatoes, mozzarella-cheese, parma ham and parmiggiano-cheese"
+            },
+            "priceeuro": 18
+        }
+    ]
+}

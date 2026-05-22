@@ -1,6 +1,16 @@
 {
     "antipasti": [
         {
+            "show": true,
+            "anchor": "rucola",
+            "name": "Rucola",
+            "desc": {
+                "de": "Rucolasalat, Tomaten, Parmiggiano",
+                "en": "lamb's lettuce, tomatoes, parmiggiano-cheese"
+            },
+            "priceeuro": 12
+        },
+        {
             "show": false,
             "anchor": "insalata-di-arance",
             "name": "Insalata di Arance",
@@ -16,7 +26,7 @@
             "img": "antipasti/insalata_di_arance.webp"
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "insalata-di-finnochio",
             "name": "Insalata di Finnochio",
             "desc": {
@@ -72,12 +82,12 @@
             "priceeuro": 14
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "insalata-capricciosa",
             "name": "Insalata Capricciosa",
             "desc": {
-                "de": "bunter Veggie-Salat mit Mozzarella und Parmiggiano",
-                "en": "colorful veggie salad with mozzarella-cheese and parmiggiano-cheese"
+                "de": "Grüner Salat, Artischocken, Mozzarella, Parmiggiano, Tomaten, Peperoni, Oliven, Gurken",
+                "en": "green salad, artichokes, mozzarella-cheese, parmiggiano-cheese, tomatoes, peperoni, olives, cucumber"
             },
             "tags": [
                 "vegetarian"
@@ -140,7 +150,7 @@
             "priceeuro": 16
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "sardelle-marinate",
             "name": "Sardelle marinate",
             "desc": {
@@ -150,7 +160,7 @@
             "priceeuro": 16
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "insalata-caprese",
             "name": "Insalata Caprese",
             "desc": {
@@ -160,7 +170,7 @@
             "tags": [
                 "vegetarian"
             ],
-            "priceeuro": 18
+            "priceeuro": 16
         },
         {
             "show": false,
@@ -257,7 +267,7 @@
             "priceeuro": 16
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "prosciutto-di-parma-burrata",
             "name": "Prosciutto di Parma & Burrata",
             "desc": {
@@ -314,7 +324,7 @@
             "img": "antipasti/burrata_caponata.webp"
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "prosciutto-di-parma-mozzarella-di-buffala",
             "name": "Prosciutto di Parma & Mozzarella di Buffala",
             "desc": {
@@ -391,7 +401,7 @@
             "priceeuro": 18
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "calamaretti",
             "name": "Calamaretti",
             "desc": {
@@ -418,16 +428,6 @@
             "desc": {
                 "de": "Rinderzungencarpaccio",
                 "en": "beef tongue carpaccio"
-            },
-            "priceeuro": 19
-        },
-        {
-            "show": false,
-            "anchor": "carpaccio-di-manzo",
-            "name": "Carpaccio di Manzo",
-            "desc": {
-                "de": "Rindercarpaccio",
-                "en": "beef carpaccio"
             },
             "priceeuro": 19
         },
@@ -588,6 +588,16 @@
         },
         {
             "show": true,
+            "anchor": "carpaccio-di-manzo",
+            "name": "Carpaccio di Manzo",
+            "desc": {
+                "de": "Rindercarpaccio",
+                "en": "beef carpaccio"
+            },
+            "priceeuro": 21
+        },
+        {
+            "show": false,
             "anchor": "carpaccio-di-bresaola",
             "name": "Carpaccio di Bresaola",
             "desc": {
@@ -688,7 +698,7 @@
             "priceeuro": 22
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "tartare-di-salmone",
             "name": "Tartare di Salmone",
             "desc": {

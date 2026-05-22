@@ -11,14 +11,14 @@
             "priceeuro": 25
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "seppia-alla-griglia",
             "name": "Seppia alla griglia",
             "desc": {
                 "de": "Krake vom Grill",
                 "en": "Grilled squid"
             },
-            "priceeuro": 29,
+            "priceeuro": 29.50,
             "img": "pesce/seppia.webp"
         },
         {
@@ -72,7 +72,7 @@
             "priceeuro": 29
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "spigula-all-acqua-pazza",
             "name": "Spigula all'acqua pazza",
             "desc": {
@@ -88,16 +88,6 @@
             "desc": {
                 "de": "Schwertfisch in Weißweinsauce",
                 "en": "Swordfish in white wine"
-            },
-            "priceeuro": 29
-        },
-        {
-            "show": false,
-            "anchor": "pesce-spada-alla-griglia",
-            "name": "Pesce Spada alla griglia",
-            "desc": {
-                "de": "Schwertfisch vom Grill",
-                "en": "Grilled swordfish"
             },
             "priceeuro": 29
         },
@@ -160,6 +150,16 @@
                 "en": "Seabream fillet in a tomato broth"
             },
             "priceeuro": 29
+        },
+        {
+            "show": true,
+            "anchor": "pesce-spada-alla-griglia",
+            "name": "Pesce Spada alla griglia",
+            "desc": {
+                "de": "Schwertfisch vom Grill",
+                "en": "Grilled swordfish"
+            },
+            "priceeuro": 32
         },
         {
             "show": false,
@@ -243,7 +243,7 @@
             "priceeuro": 34
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "bistecca-di-tonno-rucola",
             "name": "Bistecca di Tonno & Rucola",
             "desc": {

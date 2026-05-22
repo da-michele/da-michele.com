@@ -34,6 +34,12 @@
             },
             {
                 "@type": "MenuSection",
+                "name": "Pinse",
+                "description": "Pinsa",
+                "url": "https://da-michele.com/en/menu/#pinse"
+            },
+            {
+                "@type": "MenuSection",
                 "name": "Pizze",
                 "description": "Pizza",
                 "url": "https://da-michele.com/en/menu/#pizze"
