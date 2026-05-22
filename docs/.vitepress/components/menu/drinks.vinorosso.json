@@ -137,7 +137,7 @@
             "grapes": "Cabernet Sauvignon, Cabernet Franc",
             "bottlesize": 750,
             "alcoholcontent": 14.5,
-            "priceeuro": 54
+            "priceeuro": 58
         },
         {
             "show": false,
@@ -156,7 +156,7 @@
             "priceeuro": 49
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "barbera-d-alba",
             "name": "Barbera d'Alba, Cordero di Montezemolo",
             "img": "vino_rosso/barbera_cordero_di_montezemolo.webp",
@@ -168,7 +168,7 @@
             "priceeuro": 55
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "jungano",
             "name": "Jungano, San Salvatore 1988",
             "desc": {
@@ -181,7 +181,7 @@
             "grapes": "Aglianico",
             "bottlesize": 750,
             "alcoholcontent": 14,
-            "priceeuro": 49
+            "priceeuro": 48
         },
         {
             "show": false,
@@ -244,7 +244,7 @@
             "priceeuro": 60
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "pasqua-black-label",
             "name": "Pasqua Black Label, Amarone della Valpolicella",
             "desc": {
@@ -257,10 +257,10 @@
             "grapes": "Corvina, Rondinella, Corvinone, Negrara",
             "bottlesize": 750,
             "alcoholcontent": 15,
-            "priceeuro": 75
+            "priceeuro": 65
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "brunello-di-montalcino-mocali",
             "name": "Brunello di Montalcino, Mocali",
             "desc": {
@@ -335,7 +335,7 @@
             "priceeuro": 95
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "barolo-monfalletto-cordero-di-montezemolo",
             "name": "Barolo Monfalletto, Cordero di Montezemolo",
             "desc": {
@@ -351,7 +351,7 @@
             "priceeuro": 110
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "brunello-di-montalcino-villa-poggio-salvi",
             "name": "Brunello di Montalcino, Villa Poggio Salvi",
             "desc": {
@@ -412,7 +412,7 @@
             "alcoholcontent": 14.5
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "tignanello",
             "name": "Tignanello, Rosso di Toscana",
             "desc": {
@@ -424,7 +424,8 @@
             "winery": "Tenuta Marchesi Antinori",
             "grapes": "80% Sangiovese, 15% Cabernet sauvignon, 5% Cabernet Franc",
             "bottlesize": 750,
-            "alcoholcontent": 14.5
+            "alcoholcontent": 14.5,
+            "priceeuro": 245
         }
     ]
 }

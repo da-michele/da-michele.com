@@ -58,22 +58,6 @@
         },
         {
             "show": false,
-            "anchor": "langhe-arneis-cordero-di-montezemmolo",
-            "name": "Langhe Arneis, Cordero di Montezemolo",
-            "desc": {
-                "de": "Diese Piemonteser Spezialität zeichnet sich besonders durch ihren außergewöhnlich feinen Duft nach Pfirsich- und Akazienblüten, Haselnuss und gelben Blumen aus. Am Gaumen überzeugt ein einladender, frischer Geschmack mit einer typischen, leicht herben Note im Abgang.",
-                "en": "This Piedmontese speciality is particularly characterized by its exceptionally fine scent of peach and acacia blossoms, hazelnut and yellow flowers. On the palate, it has an inviting, fresh taste with a typical, slightly bitter note on the finish."
-            },
-            "img": "vino_bianco/langhe_arneis_cordero_di_montezemolo.webp",
-            "region": "La Morra, CN",
-            "winery": "Cordero di Montezemolo",
-            "grapes": "Arneis",
-            "bottlesize": 750,
-            "alcoholcontent": 13.5,
-            "priceeuro": 42
-        },
-        {
-            "show": false,
             "anchor": "greco-di-tufo-feudi-di-san-gregorio",
             "name": "Greco di Tufo, Feudi di San Gregorio",
             "img": "vino_bianco/greco_di_tufo_feudi_di_san_gregorio.webp",
@@ -85,7 +69,7 @@
             "priceeuro": 39
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "l-altro-chardonnay-pio-cesare",
             "name": "L'Altro Chardonnay, Pio Cesare",
             "desc": {
@@ -129,7 +113,7 @@
             "priceeuro": 39
         },
         {
-            "show": true,
+            "show": false,
             "anchor": "terebinto-planeta",
             "name": "Terebinto, Planeta",
             "desc": {
@@ -176,7 +160,7 @@
             "priceeuro": 39
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "trentenare-paestum",
             "name": "Trentenare Paestum, San Salvatore 1988",
             "desc": {
@@ -190,6 +174,22 @@
             "bottlesize": 750,
             "alcoholcontent": 13.5,
             "priceeuro": 39
+        },
+        {
+            "show": true,
+            "anchor": "langhe-arneis-cordero-di-montezemmolo",
+            "name": "Langhe Arneis, Cordero di Montezemolo",
+            "desc": {
+                "de": "Diese Piemonteser Spezialität zeichnet sich besonders durch ihren außergewöhnlich feinen Duft nach Pfirsich- und Akazienblüten, Haselnuss und gelben Blumen aus. Am Gaumen überzeugt ein einladender, frischer Geschmack mit einer typischen, leicht herben Note im Abgang.",
+                "en": "This Piedmontese speciality is particularly characterized by its exceptionally fine scent of peach and acacia blossoms, hazelnut and yellow flowers. On the palate, it has an inviting, fresh taste with a typical, slightly bitter note on the finish."
+            },
+            "img": "vino_bianco/langhe_arneis_cordero_di_montezemolo.webp",
+            "region": "La Morra, CN",
+            "winery": "Cordero di Montezemolo",
+            "grapes": "Arneis",
+            "bottlesize": 750,
+            "alcoholcontent": 13.5,
+            "priceeuro": 45
         },
         {
             "show": false,
@@ -208,7 +208,7 @@
             "priceeuro": 46
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "chardonnay-kreuth",
             "name": "Terlan, Chardonnay Kreuth",
             "img": "vino_bianco/terlan-chardonnay-kreuth.webp",
@@ -217,7 +217,7 @@
             "grapes": "Chardonnay",
             "bottlesize": 750,
             "alcoholcontent": 14,
-            "priceeuro": 42
+            "priceeuro": 52
         },
         {
             "show": false,
@@ -250,7 +250,7 @@
             "alcoholcontent": 13.5
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "conte-della-vipera",
             "name": "Antinori, Conte della Vipera",
             "desc": {
