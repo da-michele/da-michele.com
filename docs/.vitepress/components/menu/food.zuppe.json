@@ -1,0 +1,44 @@
+{
+    "zuppe": [
+        {
+            "show": true,
+            "anchor": "zuppa-di-pomodoro",
+            "name": "Zuppa di Pomodoro",
+            "desc": {
+                "de": "Tomatensuppe",
+                "en": "tomato soup"
+            },
+            "priceeuro": 6
+        },
+        {
+            "show": true,
+            "anchor": "minestrone",
+            "name": "Minestrone",
+            "priceeuro": 9
+        },
+        {
+            "show": false,
+            "anchor": "gazpacho",
+            "name": "Gazpacho",
+            "desc": {
+                "de": "kalte Tomatensuppe",
+                "en": "cold tomatoe soup"
+            },
+            "tags": [
+                "vegan",
+                "vegetarian"
+            ],
+            "priceeuro": 12
+        },
+        {
+            "show": false,
+            "anchor": "zuppa-di-aragosta",
+            "name": "Zuppa di Aragosta",
+            "desc": {
+                "de": "Hummersuppe",
+                "en": "lobster soup"
+            },
+            "priceeuro": 19
+        }
+    ]
+}

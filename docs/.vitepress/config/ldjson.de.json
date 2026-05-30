@@ -16,15 +16,9 @@
             },
             {
                 "@type": "MenuSection",
-                "name": "Pesce",
-                "description": "Fischgerichte",
-                "url": "https://da-michele.com/menu/#pesce"
-            },
-            {
-                "@type": "MenuSection",
-                "name": "Carne",
-                "description": "Fleischgerichte",
-                "url": "https://da-michele.com/menu/#carne"
+                "name": "Zuppe",
+                "description": "Suppen",
+                "url": "https://da-michele.com/menu/#zuppe"
             },
             {
                 "@type": "MenuSection",
@@ -40,9 +34,15 @@
             },
             {
                 "@type": "MenuSection",
-                "name": "Pizze",
-                "description": "Pizza",
-                "url": "https://da-michele.com/menu/#pizze"
+                "name": "Pesce",
+                "description": "Fischgerichte",
+                "url": "https://da-michele.com/menu/#pesce"
+            },
+            {
+                "@type": "MenuSection",
+                "name": "Carne",
+                "description": "Fleischgerichte",
+                "url": "https://da-michele.com/menu/#carne"
             },
             {
                 "@type": "MenuSection",

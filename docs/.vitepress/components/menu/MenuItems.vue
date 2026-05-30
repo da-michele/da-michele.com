@@ -17,6 +17,69 @@ const { lang } = useData()
     v-for="item in data.antipasti"
     :food="item"
   ></MenuItemFood>
+  <h2 id="zuppe" tabindex="-1"><a class="header-anchor" href="#zuppe" aria-label="Permalink to Zuppe"></a> Zuppe</h2>
+  <blockquote>
+    <p v-if="lang == 'en-US'">Soups</p>
+    <p v-else>Suppen</p>
+  </blockquote>
+  <MenuItemFood
+    v-for="item in data.zuppe"
+    :food="item"
+  ></MenuItemFood>
+  <h2 id="pasta" tabindex="-1"><a class="header-anchor" href="#pasta" aria-label="Permalink to Pasta"></a> Pasta</h2>
+  <template v-if="lang == 'en-US'">
+    <blockquote>
+      <p>Noodles</p>
+    </blockquote>
+    <div class="info custom-block">
+      <p class="custom-block-title">Note</p>
+      <p>We also serve gluten free pasta.</p>
+    </div>
+  </template>
+  <template v-else>
+    <blockquote>
+      <p>Nudeln</p>
+    </blockquote>
+    <div class="info custom-block">
+      <p class="custom-block-title">Hinweis</p>
+      <p>Wir servieren auch glutenfreie Pasta.</p>
+    </div>
+  </template>
+  <MenuItemFood
+    v-for="item in data.pasta"
+    :food="item"
+  ></MenuItemFood>
+<!--
+  <h2 id="riso" tabindex="-1"><a class="header-anchor" href="#riso" aria-label="Permalink to Riso"></a> Riso</h2>
+  <blockquote>
+    <p v-if="lang == 'en-US'">Rice</p>
+    <p v-else>Reis</p>
+  </blockquote>
+  <MenuItemFood
+    v-for="item in data.riso"
+    :food="item"
+  ></MenuItemFood>
+-->
+  <h2 id="pinse" tabindex="-1"><a class="header-anchor" href="#pinse" aria-label="Permalink to Pinse"></a> Pinse</h2>
+  <blockquote>
+    <p v-if="lang == 'en-US'">Pinsa</p>
+    <p v-else>Pinsa</p>
+  </blockquote>
+  <MenuItemFood
+    v-for="item in data.pinse"
+    :food="item"
+  ></MenuItemFood>
+<!--
+  <h2 id="pizze" tabindex="-1"><a class="header-anchor" href="#pizze" aria-label="Permalink to Pizze"></a> Pizze</h2>
+  <blockquote>
+    <p v-if="lang == 'en-US'">Pizza</p>
+    <p v-else>Pizza</p>
+  </blockquote>
+  <MenuItemFood
+    v-for="item in data.pizze"
+    :food="item"
+  ></MenuItemFood>
+-->
   <h2 id="pesce" tabindex="-1"><a class="header-anchor" href="#pesce" aria-label="Permalink to Pesce"></a> Pesce</h2>
   <template v-if="lang == 'en-US'">
     <blockquote>
@@ -63,60 +126,6 @@ const { lang } = useData()
     v-for="item in data.carne"
     :food="item"
   ></MenuItemFood>
-<!--
-  <h2 id="riso" tabindex="-1"><a class="header-anchor" href="#riso" aria-label="Permalink to Riso"></a> Riso</h2>
-  <blockquote>
-    <p v-if="lang == 'en-US'">Rice</p>
-    <p v-else>Reis</p>
-  </blockquote>
-  <MenuItemFood
-    v-for="item in data.riso"
-    :food="item"
-  ></MenuItemFood>
--->
-  <h2 id="pasta" tabindex="-1"><a class="header-anchor" href="#pasta" aria-label="Permalink to Pasta"></a> Pasta</h2>
-  <template v-if="lang == 'en-US'">
-    <blockquote>
-      <p>Noodles</p>
-    </blockquote>
-    <div class="info custom-block">
-      <p class="custom-block-title">Note</p>
-      <p>We also serve gluten free pasta.</p>
-    </div>
-  </template>
-  <template v-else>
-    <blockquote>
-      <p>Nudeln</p>
-    </blockquote>
-    <div class="info custom-block">
-      <p class="custom-block-title">Hinweis</p>
-      <p>Wir servieren auch glutenfreie Pasta.</p>
-    </div>
-  </template>
-  <MenuItemFood
-    v-for="item in data.pasta"
-    :food="item"
-  ></MenuItemFood>
-  <h2 id="pinse" tabindex="-1"><a class="header-anchor" href="#pinse" aria-label="Permalink to Pinse"></a> Pinse</h2>
-  <blockquote>
-    <p v-if="lang == 'en-US'">Pinsa</p>
-    <p v-else>Pinsa</p>
-  </blockquote>
-  <MenuItemFood
-    v-for="item in data.pinse"
-    :food="item"
-  ></MenuItemFood>
-<!--
-  <h2 id="pizze" tabindex="-1"><a class="header-anchor" href="#pizze" aria-label="Permalink to Pizze"></a> Pizze</h2>
-  <blockquote>
-    <p v-if="lang == 'en-US'">Pizza</p>
-    <p v-else>Pizza</p>
-  </blockquote>
-  <MenuItemFood
-    v-for="item in data.pizze"
-    :food="item"
-  ></MenuItemFood>
--->
   <h2 id="dolci" tabindex="-1"><a class="header-anchor" href="#dolci" aria-label="Permalink to Dolci"></a> Dolci</h2>
   <blockquote>
     <p v-if="lang == 'en-US'">Desserts</p>

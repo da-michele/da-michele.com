@@ -26,15 +26,10 @@ hero:
 #     details: Vorspeisen
 #     link: '/menu/#antipasti'
 #     linkText: Mehr erfahren
-#   - icon: '🐟'
-#     title: Pesce
-#     details: Fisch
-#     link: '/menu/#pesce'
-#     linkText: Mehr erfahren
-#   - icon: '🥩'
-#     title: Carne
-#     details: Fleisch
-#     link: '/menu/#carne'
+#   - icon: '🍲'
+#     title: Zuppe
+#     details: Suppen
+#     link: '/menu/#zuppe'
 #     linkText: Mehr erfahren
 #   - icon: '🍝'
 #     title: Pasta
@@ -46,10 +41,15 @@ hero:
 #     details: Pinsa
 #     link: '/menu/#pinse'
 #     linkText: Mehr erfahren
-#   - icon: '🍕'
-#     title: Pizze
-#     details: Pizza
-#     link: '/menu/#pizze'
+#   - icon: '🐟'
+#     title: Pesce
+#     details: Fisch
+#     link: '/menu/#pesce'
+#     linkText: Mehr erfahren
+#   - icon: '🥩'
+#     title: Carne
+#     details: Fleisch
+#     link: '/menu/#carne'
 #     linkText: Mehr erfahren
 ---
 

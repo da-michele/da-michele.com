@@ -151,7 +151,7 @@
             "priceeuro": 36
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "tagliata",
             "name": "Tagliata",
             "desc": {

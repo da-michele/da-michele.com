@@ -1,13 +1,13 @@
 ---
 editLink: false
-date: 2026-05-22
+date: 2026-05-30
 head:
   - [meta, { property: 'og:title', content: 'Menu | Ristorante da Michele, Baden-Baden' }]
   - [meta, { property: 'og:url', content: 'https://da-michele.com/en/menu/' }]
   - [meta, { property: 'og:type', content: article }]
   - [meta, { property: 'article:section', content: Menu }]
   - [meta, { property: 'article:author', content: 'Vincenzo Romano' }]
-  - [meta, { property: 'article:modified_time', content: 2026-05-22 }]
+  - [meta, { property: 'article:modified_time', content: 2026-05-30 }]
 outline: 2
 ---
 

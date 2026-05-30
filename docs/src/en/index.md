@@ -26,15 +26,10 @@ hero:
 #     details: Starters
 #     link: '/en/menu/#antipasti'
 #     linkText: Read more
-#   - icon: '🐟'
-#     title: Pesce
-#     details: Fish
-#     link: '/en/menu/#pesce'
-#     linkText: Read more
-#   - icon: '🥩'
-#     title: Carne
-#     details: Meat
-#     link: '/en/menu/#carne'
+#   - icon: '🍲'
+#     title: Zuppe
+#     details: Soups
+#     link: '/en/menu/#zuppe'
 #     linkText: Read more
 #   - icon: '🍝'
 #     title: Pasta
@@ -46,10 +41,15 @@ hero:
 #     details: Pinsa
 #     link: '/en/menu/#pinse'
 #     linkText: Read more
-#   - icon: '🍕'
-#     title: Pizze
-#     details: Pizza
-#     link: '/en/menu/#pizze'
+#   - icon: '🐟'
+#     title: Pesce
+#     details: Fish
+#     link: '/en/menu/#pesce'
+#     linkText: Read more
+#   - icon: '🥩'
+#     title: Carne
+#     details: Meat
+#     link: '/en/menu/#carne'
 #     linkText: Read more
 ---
 

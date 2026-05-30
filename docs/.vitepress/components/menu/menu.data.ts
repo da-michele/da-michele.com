@@ -6,13 +6,14 @@ import { vinorosso } from './drinks.vinorosso.json'
 import { vinospumante } from './drinks.vinospumante.json'
 
 import { antipasti } from './food.antipasti.json'
-import { carne } from './food.carne.json'
-import { dolci } from './food.dolci.json'
+import { zuppe } from './food.zuppe.json'
 import { pasta } from './food.pasta.json'
-import { pesce } from './food.pesce.json'
+import { riso } from './food.riso.json'
 import { pinse } from './food.pinse.json'
 import { pizze } from './food.pizze.json'
-import { riso } from './food.riso.json'
+import { pesce } from './food.pesce.json'
+import { carne } from './food.carne.json'
+import { dolci } from './food.dolci.json'
 
 export interface Drink {
   readonly show: boolean
@@ -50,13 +51,14 @@ export interface Data {
   readonly vinospumante: Drink[]
 
   readonly antipasti: Food[]
-  readonly carne: Food[]
-  readonly dolci: Food[]
+  readonly zuppe: Food[]
   readonly pasta: Food[]
-  readonly pesce: Food[]
+  readonly riso: Food[]
   readonly pinse: Food[]
   readonly pizze: Food[]
-  readonly riso: Food[]
+  readonly pesce: Food[]
+  readonly carne: Food[]
+  readonly dolci: Food[]
 }
 
 declare const data: Data
@@ -74,13 +76,14 @@ export default defineLoader({
       vinorosso: vinorosso,
       vinospumante: vinospumante,
       antipasti: antipasti,
-      carne: carne,
-      dolci: dolci,
+      zuppe: zuppe,
       pasta: pasta,
-      pesce: pesce,
+      riso: riso,
       pinse: pinse,
       pizze: pizze,
-      riso: riso
+      pesce: pesce,
+      carne: carne,
+      dolci: dolci
     }
   }
 })

@@ -1,6 +1,17 @@
 {
     "dolci": [
         {
+            "show": false,
+            "anchor": "calzone-nutella",
+            "name": "Calzone Nutella",
+            "desc": {
+                "de": "Calzone Nutella",
+                "en": "Calzone Nutella"
+            },
+            "priceeuro": 6,
+            "img": "dolci/calzone_nutella.webp"
+        },
+        {
             "show": true,
             "anchor": "tiramisu",
             "name": "Tiramisu",
@@ -11,15 +22,14 @@
             "priceeuro": 8
         },
         {
-            "show": false,
-            "anchor": "calzone-nutella",
-            "name": "Calzone Nutella",
+            "show": true,
+            "anchor": "zabaglione",
+            "name": "Zabaglione",
             "desc": {
-                "de": "Calzone Nutella",
-                "en": "Calzone Nutella"
+                "de": "mit Vanilleeis",
+                "en": "with vanilla icecream"
             },
-            "priceeuro": 6,
-            "img": "dolci/calzone_nutella.webp"
+            "priceeuro": 12
         }
     ]
 }
