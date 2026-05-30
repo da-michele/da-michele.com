@@ -4,16 +4,22 @@
             "show": true,
             "anchor": "bruschette",
             "name": "Bruschette",
+            "tags": [
+                "vegetarian"
+            ],
             "priceeuro": 9.50
         },
         {
             "show": true,
-            "anchor": "rucola",
-            "name": "Rucola",
+            "anchor": "insalata-di-rucola",
+            "name": "Insalata di Rucola",
             "desc": {
                 "de": "Rucolasalat, Tomaten, Parmiggiano",
                 "en": "lamb's lettuce, tomatoes, parmiggiano-cheese"
             },
+            "tags": [
+                "vegetarian"
+            ],
             "priceeuro": 12
         },
         {
