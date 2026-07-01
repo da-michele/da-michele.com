@@ -5,8 +5,8 @@
             "anchor": "rosato-la-mora",
             "name": "La Mora Rosato, Cecchi",
             "desc": {
-                "de": "Mit ihren günstigen klimatischen Eigenschaften und der natürlichen Beschaffenheit der Böden bietet die Maremma ideale Voraussetzungen für die Herstellung eleganter und äußerst angenehmer Weine. La Mora Rosato hat eine leuchtend altrosa Farbe. In der Nase ist er reichhaltig, mit Noten von frischem Obst und aromatischen Kräutern. Gut integrierte Säure garantiert einen langen Abgang.",
-                "en": "With its favorable climatic characteristics, together with the natural vocation of the soils, Maremma guarantees the ideal setting for obtaining elegant and extremely pleasant wines. La Mora Rosato has a bright antique pink color. The nose is rich, with notes of fresh fruit and aromatic herbs. Well integrated acidity that guarantees a good persistence."
+                "de": "Trockener, schmeichelnder Roséwein mit Düften nach frischen Früchten und Kräutern.",
+                "en": "Dry, appealing rosé wine with aromas of fresh fruit and herbs."
             },
             "img": "vino_rosato/rosato_la_mora.webp",
             "region": "Maremma, Toscana",
@@ -21,8 +21,8 @@
             "anchor": "rosato-vetere",
             "name": "Rosato Vetere Paestum, San Salvatore 1988",
             "desc": {
-                "de": "Zeigt in der Nase wunderbare Aromen von Johannisbeeren und Maraschino-Kirschen. Er begeistert mit einer wunderbaren Frische und Eleganz. Ein ausgesprochen mineralischer und süffiger Roséwein.",
-                "en": "Shows wonderful aromas of currants and maraschino cherries on the nose & inspires with a wonderful freshness and elegance. A very mineral and tasty rosé wine."
+                "de": "Eleganter, bio-zertifizierter Aglianico-Rosé mit frischen Beerenaromen.",
+                "en": "Elegant, certified organic Aglianico rosé with fresh berry aromas."
             },
             "img": "vino_rosato/rosato_vetere.webp",
             "region": "Campagnia",

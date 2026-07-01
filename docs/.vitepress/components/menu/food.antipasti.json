@@ -2,12 +2,38 @@
     "antipasti": [
         {
             "show": true,
+            "anchor": "piccola-insalata-mista",
+            "name": "Piccola Insalata mista",
+            "desc": {
+                "de": "kleiner gemischter Salat",
+                "en": "small mixed salad"
+            },
+            "tags": [
+                "vegetarian"
+            ],
+            "priceeuro": 6.5
+        },
+        {
+            "show": true,
             "anchor": "bruschette",
             "name": "Bruschette",
             "tags": [
                 "vegetarian"
             ],
-            "priceeuro": 9.50
+            "priceeuro": 9.5
+        },
+        {
+            "show": true,
+            "anchor": "grande-insalata-mista",
+            "name": "Grande Insalata mista",
+            "desc": {
+                "de": "großer gemischter Salat",
+                "en": "large mixed salad"
+            },
+            "tags": [
+                "vegetarian"
+            ],
+            "priceeuro": 9.5
         },
         {
             "show": true,

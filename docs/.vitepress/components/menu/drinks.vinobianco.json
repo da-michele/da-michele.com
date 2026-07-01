@@ -25,6 +25,20 @@
             "priceeuro": 29
         },
         {
+            "show": true,
+            "anchor": "planeta-grillo",
+            "name": "Planeta, Grillo",
+            "desc": {
+                "de": "Frischer, typisch sizilianischer Weißwein mit Aromen von Zitrusfrüchten, weißem Pfirsich, Aprikose und rosa Grapefruit.",
+                "en": "Fresh, typically Sicilian white wine with aromas of citrus fruits, white peach, apricot, and pink grapefruit."
+            },
+            "region": "Menfi, Sicilia",
+            "winery": "Planeta",
+            "grapes": "Grillo",
+            "bottlesize": 750,
+            "priceeuro": 34
+        },
+        {
             "show": false,
             "anchor": "vermentino-di-gallura-superiore-jankara",
             "name": "Vermentino di Gallura Superiore DOCG, Jankara",
@@ -41,12 +55,12 @@
             "priceeuro": 39
         },
         {
-            "show": false,
+            "show": true,
             "anchor": "lugana-llac",
             "name": "Lugana, 'lLac",
             "desc": {
-                "de": "Wird im Bouquet von grünen Äpfeln und Noten von feinen Gewürzen dominiert. Besitzt einen üppigen Körper. Sein Geschmack nach feinen Früchten in Kombination mit seiner zarten, cremigen Oberfläche verleiht diesem Weisswein eine große Eleganz.",
-                "en": "The bouquet is dominated by green apples and notes of fine spices. It has a rich body. Its taste of fine fruit combined with its delicate, creamy surface gives this white wine great elegance."
+                "de": "Trockener, mineralischer Trebbiano mit perfekter Harmonie aus Frucht, weicher Säure und schöner Struktur.",
+                "en": "Dry, mineral Trebbiano with a perfect harmony of fruit, soft acidity, and beautiful structure."
             },
             "img": "vino_bianco/lugana_llac.webp",
             "region": "Venetia",
@@ -54,6 +68,22 @@
             "grapes": "Trebbiano",
             "bottlesize": 750,
             "alcoholcontent": 13.5,
+            "priceeuro": 36
+        },
+        {
+            "show": false,
+            "anchor": "vermentino-di-gallura-superiore-jankara",
+            "name": "Vermentino di Gallura Superiore DOCG, Jankara",
+            "desc": {
+                "de": "Tolles Gleichgewicht zwischen Säure, Alkohol und Frucht mit extrem reichen, intensiven Aromen von weißen Blüten und Mandeln, zusammen mit komplexen tropischen Nuancen, die angenehm am Gaumen verweilen. Intensive und anhaltende Aromen von sardischer Mandarine und weißen Mandelblüten.",
+                "en": "Great balance between acidity, alcohol, and fruit with extremely rich, intense aromas of white flowers and almonds, along with complex tropical nuances that pleasingly linger on the palate. Intense and persistent aromas of sardinian mandarin and white almond flowers."
+            },
+            "img": "vino_bianco/jankara_vermentino.webp",
+            "region": "Vena di San Leonardo, Cru Jannaca",
+            "winery": "Gianni Menotti, Jankara",
+            "grapes": "Vermentino",
+            "bottlesize": 750,
+            "alcoholcontent": 14.5,
             "priceeuro": 39
         },
         {
@@ -101,8 +131,8 @@
             "anchor": "sauvignon-vendemmia-tunella",
             "name": "Sauvignon Vendemmia, La Tunella",
             "desc": {
-                "de": "Der Wein zeichnet sich durch einen sehr intensiven und beständigen Duft und eine für ihn typische Vielfalt in der Nase aus. Es herrschen intensive und feine Duftnoten mit typisch pflanzlichen Aromen wie Salbei und Tomatenblatt vor, die sich mit fruchtigen und delikaten Anklängen von Honigmelone und gelbem Paprika vermischen. Der Geschmack überzeugt mit seinem perfekt ausgewogenen Verhältnis zwischen Frische und würziger Fülle. Intensives und Gaumen umhüllendes Bukett, der Abgang ist von aromatischer Beständigkeit.",
-                "en": "The wine is characterized by a very intense and persistent scent and a typical variety in the nose. Intense and fine scents predominate with typical herbal aromas such as sage and tomato leaf, which mix with fruity and delicate hints of honeydew melon and yellow pepper. The taste is convincing with its perfectly balanced ratio between freshness and spicy fullness. Intense and palate-enveloping bouquet, the finish is aromatic and persistent."
+                "de": "Trockener, fruchtig-mineralischer Wein mit dezenten Aromen von Salbei und Honigmelone.",
+                "en": "Dry, fruity-mineral wine with subtle aromas of sage and honeydew melon."
             },
             "img": "vino_bianco/vendemmia_tunella.webp",
             "region": "Friuli orientale",
@@ -164,8 +194,8 @@
             "anchor": "trentenare-paestum",
             "name": "Trentenare Paestum, San Salvatore 1988",
             "desc": {
-                "de": "Zeigt in der Nase eine herrliche Aromatik von Honig- und Nussnoten. Am Gaumen kommt eine angenehme Frische und Mineralik hinzu, die Aromen von Honig und Nuss wiederholen sich. Lang anhaltender Abgang.",
-                "en": "Shows a wonderful aroma of honey and nuts on the nose. On the palate there is a pleasant freshness and minerality, aromas of honey and nuts are repeated. Long lasting finish."
+                "de": "Frischer Fiano-Wein mit elegantem und dynamischem Charakter.",
+                "en": "Fresh Fiano wine with an elegant and dynamic character."
             },
             "img": "vino_bianco/trentenare_paestum.webp",
             "region": "Campagnia",
@@ -180,8 +210,8 @@
             "anchor": "langhe-arneis-cordero-di-montezemmolo",
             "name": "Langhe Arneis, Cordero di Montezemolo",
             "desc": {
-                "de": "Diese Piemonteser Spezialität zeichnet sich besonders durch ihren außergewöhnlich feinen Duft nach Pfirsich- und Akazienblüten, Haselnuss und gelben Blumen aus. Am Gaumen überzeugt ein einladender, frischer Geschmack mit einer typischen, leicht herben Note im Abgang.",
-                "en": "This Piedmontese speciality is particularly characterized by its exceptionally fine scent of peach and acacia blossoms, hazelnut and yellow flowers. On the palate, it has an inviting, fresh taste with a typical, slightly bitter note on the finish."
+                "de": "Feiner Duft nach Pfirsich- und Akazienblüten, Haselnuss und gelben Blumen.",
+                "en": "Delicate aroma of peach and acacia blossoms, hazelnut, and yellow flowers."
             },
             "img": "vino_bianco/langhe_arneis_cordero_di_montezemolo.webp",
             "region": "La Morra, CN",
@@ -211,6 +241,10 @@
             "show": true,
             "anchor": "chardonnay-kreuth",
             "name": "Terlan, Chardonnay Kreuth",
+            "desc": {
+                "de": "Kräftiger Chardonnay mit Aprikosen- und tropischen Fruchtaromen.",
+                "en": "Full-bodied Chardonnay with apricot and tropical fruit aromas."
+            },
             "img": "vino_bianco/terlan-chardonnay-kreuth.webp",
             "region": "Alto Adige",
             "winery": "Terlan",
@@ -254,8 +288,8 @@
             "anchor": "conte-della-vipera",
             "name": "Antinori, Conte della Vipera",
             "desc": {
-                "de": "Hat eine strohgelbe Farbe mit hellgrünen Reflexen. Die Nase ist breit und angenehm mit blumigen Noten, weißen Früchten und Ananas, kombiniert mit angenehmen Zitrusnoten. Am Gaumen weicht eine angenehme Frische einem besonders langen Abgang, der von Bergamotte- und Grapefruitnoten geprägt ist.",
-                "en": "Has a straw yellow color with bright green reflections. The nose is broad and pleasant with floral notes, white fruit and pineapple combined with pleasant citrus sensations. On the palate, a pleasant freshness gives way to a particularly long finish characterized by sensations of bergamot and grapefruit."
+                "de": "Markante Zitrusnoten und mineralische Eindrücke mit kräftigem Nachgeschmack.",
+                "en": "Distinctive citrus notes and mineral impressions with a robust finish."
             },
             "img": "vino_bianco/conte-della-vipera.webp",
             "region": "Cortona, Arezzo",

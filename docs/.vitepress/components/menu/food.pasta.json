@@ -1,6 +1,47 @@
 {
     "pasta": [
         {
+            "show": true,
+            "anchor": "pasta-aglio-olio",
+            "name": "Pasta Aglio & Olio",
+            "desc": {
+                "de": "Pasta mit Knoblauch und Olivenöl",
+                "en": "Pasta with garlic and olive oil"
+            },
+            "tags": [
+                "vegan",
+                "vegetarian"
+            ],
+            "priceeuro": 9.5
+        },
+        {
+            "show": true,
+            "anchor": "pasta-napoli",
+            "name": "Pasta Napoli",
+            "desc": {
+                "de": "Pasta mit Tomatensauce und Parmiggiano",
+                "en": "Pasta with tomato sauce and parmiggiano-cheese"
+            },
+            "tags": [
+                "vegetarian"
+            ],
+            "priceeuro": 10
+        },
+        {
+            "show": true,
+            "anchor": "pasta-arrabbiata",
+            "name": "Pasta Arrabbiata",
+            "desc": {
+                "de": "Pasta mit Tomatensauce, Peperoncino und Knoblauch",
+                "en": "Pasta with tomato sauce, peperoncino and garlic"
+            },
+            "tags": [
+                "vegan",
+                "vegetarian"
+            ],
+            "priceeuro": 11
+        },
+        {
             "show": false,
             "anchor": "pasta-pesto-pomodorini",
             "name": "Pasta Pesto Pomodorini",
@@ -37,6 +78,16 @@
             "priceeuro": 14
         },
         {
+            "show": false,
+            "anchor": "pasta-al-forno",
+            "name": "Pasta al Forno",
+            "desc": {
+                "de": "Pasta überbacken mit Tomaten-Sahnesauce und Schinken",
+                "en": "Gratinated pasta with tomato-cream-sauce and ham"
+            },
+            "priceeuro": 15
+        },
+        {
             "show": true,
             "anchor": "pasta-verdure",
             "name": "Pasta Verdure",
@@ -45,7 +96,6 @@
                 "en": "Pasta with tomato sauce, gorgonzola-cheese & vegetables"
             },
             "tags": [
-                "vegan",
                 "vegetarian"
             ],
             "priceeuro": 16
@@ -65,8 +115,8 @@
         },
         {
             "show": true,
-            "anchor": "pasta-amatriciana",
-            "name": "Pasta Amatriciana",
+            "anchor": "pasta-all-amatriciana",
+            "name": "Pasta All'Amatriciana",
             "desc": {
                 "de": "Pasta mit Tomatensauce, Guanciale (Speck) & Zwiebeln",
                 "en": "Pasta with tomato sauce, guanciale (bacon) & onions"

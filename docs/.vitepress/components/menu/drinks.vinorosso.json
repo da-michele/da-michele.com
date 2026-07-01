@@ -96,6 +96,54 @@
             "priceeuro": 45
         },
         {
+            "show": true,
+            "anchor": "jungano-rosso",
+            "name": "Jungano Rosso, San Salvatore 1988",
+            "desc": {
+                "de": "Kraftvoll und vollmundig mit eleganten Tanninen.",
+                "en": "Powerful and full-bodied with elegant tannins."
+            },
+            "img": "vino_rosso/jungano.webp",
+            "region": "Paestum, Campagnia",
+            "winery": "San Salvatore 1988",
+            "grapes": "Aglianico",
+            "bottlesize": 750,
+            "alcoholcontent": 14,
+            "priceeuro": 48
+        },
+        {
+            "show": false,
+            "anchor": "rosso-di-montalcino-argiano",
+            "name": "Rosso di Montalcino, Argiano",
+            "desc": {
+                "de": "Lebendiges Rubinrot mit Aromen von Kirschen, roten Beerenfrüchten und großer Salzigkeit, umhüllt von Noten mediterraner Macchia. Am Gaumen ist er frisch, direkt mit integrierten Tanninen und ausgeprägter Würze.",
+                "en": "Lively ruby red, with aromas of cherry, red berry fruit and great saltiness wrapped in notes of Mediterranean scrub. The palate is fresh, direct with integrated tannins and distinct savouriness."
+            },
+            "img": "vino_rosso/rosso_di_montalcino_argiano.webp",
+            "region": "Rosso di Montalcino, Toscana",
+            "winery": "Argiano",
+            "grapes": "Sangiovese",
+            "bottlesize": 750,
+            "alcoholcontent": 14.5,
+            "priceeuro": 49
+        },
+        {
+            "show": false,
+            "anchor": "rosso-di-montalcino-campo-ai-sassi",
+            "name": "Rosso di Montalcino, Campo ai Sassi",
+            "desc": {
+                "de": "Ein Wein von eleganter Struktur mit feinen Aromen von Blumen und roten Früchten. Seine feine Tanninstruktur macht ihn angenehm weich am Gaumen.",
+                "en": "An elegantly-structured red wine, with delicate notes of blossoms and ripe fruit. Subtle tannins give it a delicious appeal."
+            },
+            "img": "vino_rosso/rosso_di_montalcino_campo_ai_sassi.webp",
+            "region": "Rosso di Montalcino, Toscana",
+            "winery": "Campo ai Sassi",
+            "grapes": "Sangiovese",
+            "bottlesize": 750,
+            "alcoholcontent": 13.5,
+            "priceeuro": 49
+        },
+        {
             "show": false,
             "anchor": "cannonau-di-sardegna-jankara",
             "name": "Cannonau di Sardegna DOC, Jankara",
@@ -124,38 +172,6 @@
             "priceeuro": 49
         },
         {
-            "show": true,
-            "anchor": "botrosecco-le-mortelle",
-            "name": "Botrosecco, Le Mortelle",
-            "desc": {
-                "de": "Dichtes Rubinrot mit violettem Saum prägt die Farbe. Das auffallende Bouquet zeigt vollreife Kirschen, sanfte Beerenfrucht, cremiges Eichenholz, Edelschokolade und einen Anflug balsamischer Noten. Am Gaumen mit jenem vielgestaltigen, verführerischen Reichtum, das nur ein Supertuscan dieses Zuschnitts mitbringt. Kraft vereinigt sich mit Finesse, Frucht mit Eleganz, Fassaromen mit harmonischer Weinsäure, dabei bleibt alles perfekt in der Waage gehalten und mit reifen Tanninen garniert. Auch der Klasse-Nachhall ist eines Supertuscans würdig.",
-                "en": "The color is characterized by a dense ruby-red with a violet edge. The striking bouquet shows fully ripe cherries, gentle berries, creamy oak, fine chocolate and a hint of balsamic notes. On the palate, it has that multifaceted, seductive richness that only a Supertuscan of this cut can bring. Power combines with finesse, fruit with elegance, barrel aromas with harmonious tartaric acid, everything remains perfectly balanced and garnished with ripe tannins. The classy aftertaste is also worthy of a Supertuscan."
-            },
-            "img": "vino_rosso/botrosecco_le_mortelle.webp",
-            "region": "Maremma, Toscana",
-            "winery": "Le Mortelle",
-            "grapes": "Cabernet Sauvignon, Cabernet Franc",
-            "bottlesize": 750,
-            "alcoholcontent": 14.5,
-            "priceeuro": 58
-        },
-        {
-            "show": false,
-            "anchor": "rosso-di-montalcino-campo-ai-sassi",
-            "name": "Rosso di Montalcino, Campo ai Sassi",
-            "desc": {
-                "de": "Ein Wein von eleganter Struktur mit feinen Aromen von Blumen und roten Früchten. Seine feine Tanninstruktur macht ihn angenehm weich am Gaumen.",
-                "en": "An elegantly-structured red wine, with delicate notes of blossoms and ripe fruit. Subtle tannins give it a delicious appeal."
-            },
-            "img": "vino_rosso/rosso_di_montalcino_campo_ai_sassi.webp",
-            "region": "Rosso di Montalcino, Toscana",
-            "winery": "Campo ai Sassi",
-            "grapes": "Sangiovese",
-            "bottlesize": 750,
-            "alcoholcontent": 13.5,
-            "priceeuro": 49
-        },
-        {
             "show": false,
             "anchor": "barbera-d-alba",
             "name": "Barbera d'Alba, Cordero di Montezemolo",
@@ -169,35 +185,19 @@
         },
         {
             "show": true,
-            "anchor": "jungano",
-            "name": "Jungano, San Salvatore 1988",
+            "anchor": "botrosecco-le-mortelle",
+            "name": "Botrosecco, Le Mortelle",
             "desc": {
-                "de": "Die Nase ist aromatisch, schön kraftvoll und bietet Tiefe sowie eine aromatische Reinheit und Kontrolle. Es offenbart Noten von Brombeere, heller Cassis, kleine Noten von kleinen schwarzen Beeren, verbunden mit einem Hauch von Erdbeere, Bigarreau-Kirsche sowie Anklängen von Lakritz, Karamellisierung, feinen Anklängen von Tonkabohne, dezenten Anklängen von Rosmarin, frischer lokaler Garrigue, schwarzer Olive und dezente Röstnoten. Der Gaumen ist elegant, zart, fruchtig, schön gebaut und bietet Kraft (in Kontrolle), Tiefe, eine aromatische Reinheit, einen säuerlichen Rahmen und eine kleine Spannung. Am Gaumen drückt dieser Wein Noten von Schwarzkirsche, Bigarreau-Kirsche, helle Cassis, kleine Noten von kleinen leuchtend schwarzen Beeren verbunden mit einem Hauch von kleinen roten Waldbeeren, Blumen, Ortsgefühl (lokales Biotop) sowie eine dezente Andeutung aus Olivenbaum, schwarze Olive, milder Tabak, ein dezenter Hauch von Lakritze, Schokolade und Vanille (im Hintergrund).",
-                "en": "The nose is aromatic, beautifully power and offers deepness as well as an aromatic purity and control. It reveals notes of blackberry, bright cassis, small nots of small black berries associated with touches of strawberry, bigarreau cherry as well as hints of liquorice, caramelization, fine hints of tonka bean, discreet hints of rosemary, fresh local garrigue, black olive and discreet hints of toasted. The palate is elegant, delicate, fruity, beautifully build and offers power (in control), deepness, an aromatic purity, an acidulous frame and a small tension. On the palate this wine expresses notes of black cherry, bigarreau cherry, bright cassis, small notes of small bright black berries associated with a touch of small red wild berries, flowers, sense of the place (local biotope) as well as a discreet hint of olive tree, black olive, mild tobacco, a subtle hint of liquorice, chocolate and vanilla (in the background)."
+                "de": "Aromen von Himbeere, Brombeere und frischem Finale.",
+                "en": "Aromas of raspberry and blackberry, with a fresh finish."
             },
-            "img": "vino_rosso/jungano.webp",
-            "region": "Paestum, Campagnia",
-            "winery": "San Salvatore 1988",
-            "grapes": "Aglianico",
-            "bottlesize": 750,
-            "alcoholcontent": 14,
-            "priceeuro": 48
-        },
-        {
-            "show": false,
-            "anchor": "rosso-di-montalcino-argiano",
-            "name": "Rosso di Montalcino, Argiano",
-            "desc": {
-                "de": "Lebendiges Rubinrot mit Aromen von Kirschen, roten Beerenfrüchten und großer Salzigkeit, umhüllt von Noten mediterraner Macchia. Am Gaumen ist er frisch, direkt mit integrierten Tanninen und ausgeprägter Würze.",
-                "en": "Lively ruby red, with aromas of cherry, red berry fruit and great saltiness wrapped in notes of Mediterranean scrub. The palate is fresh, direct with integrated tannins and distinct savouriness."
-            },
-            "img": "vino_rosso/rosso_di_montalcino_argiano.webp",
-            "region": "Rosso di Montalcino, Toscana",
-            "winery": "Argiano",
-            "grapes": "Sangiovese",
+            "img": "vino_rosso/botrosecco_le_mortelle.webp",
+            "region": "Maremma, Toscana",
+            "winery": "Le Mortelle",
+            "grapes": "Cabernet Sauvignon, Cabernet Franc",
             "bottlesize": 750,
             "alcoholcontent": 14.5,
-            "priceeuro": 49
+            "priceeuro": 58
         },
         {
             "show": false,
@@ -248,8 +248,8 @@
             "anchor": "pasqua-black-label",
             "name": "Pasqua Black Label, Amarone della Valpolicella",
             "desc": {
-                "de": "Intensive rote Farbe. Die Nase ist fruchtig mit Noten von Brombeeren und dunkler Schokolade. Am Gaumen ist dieser Amarone elegant und raffiniert mit seidigen Tanninen.",
-                "en": "Intense red colour. The nose is fruity with notes of blackberries and dark chocolate. On the palate this Amarone is elegant and refined with silky tannins."
+                "de": "Sehr körperreicher und samtiger Rotwein.",
+                "en": "A very full-bodied and velvety red wine."
             },
             "img": "vino_rosso/pasqua_black_label.webp",
             "region": "Valpolicella, Venecia",
@@ -416,8 +416,8 @@
             "anchor": "tignanello",
             "name": "Tignanello, Rosso di Toscana",
             "desc": {
-                "de": "An der Nase betören Waldbeeren und rote Früchte, dunkle Kirsche sowie Gewürz- und Kräuternoten. Erdig und von Veilchen umflort. Noch jung, dennoch bereits mit harmonischem Auftritt. Tannine, Säure und Aromenkonzert finden wunderbar zusammen, um im langen Finale noch einmal ordentlich aufzuspielen.",
-                "en": "Wild berries and red fruits, dark cherries as well as spice and herbal notes beguile on the nose. Earthy and tinged with violets. Still young, but already with a harmonious appearance. Tannins, acidity and a concert of aromas come together wonderfully to play properly again in the long finale."
+                "de": "Komplexer Spitzenwein mit reifer roter Frucht, Vanille und Gewürznoten.",
+                "en": "Complex, top-tier wine with ripe red fruit, vanilla, and spice notes."
             },
             "img": "vino_rosso/tignanello.webp",
             "region": "Rosso di Toscana",
