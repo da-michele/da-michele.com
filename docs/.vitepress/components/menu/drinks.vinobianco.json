@@ -36,7 +36,7 @@
             "winery": "Planeta",
             "grapes": "Grillo",
             "bottlesize": 750,
-            "priceeuro": 34
+            "priceeuro": 39
         },
         {
             "show": false,
@@ -68,7 +68,7 @@
             "grapes": "Trebbiano",
             "bottlesize": 750,
             "alcoholcontent": 13.5,
-            "priceeuro": 36
+            "priceeuro": 39
         },
         {
             "show": false,
