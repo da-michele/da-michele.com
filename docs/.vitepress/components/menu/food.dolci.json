@@ -1,17 +1,6 @@
 {
     "dolci": [
         {
-            "show": false,
-            "anchor": "calzone-nutella",
-            "name": "Calzone Nutella",
-            "desc": {
-                "de": "Calzone Nutella",
-                "en": "Calzone Nutella"
-            },
-            "priceeuro": 6,
-            "img": "dolci/calzone_nutella.webp"
-        },
-        {
             "show": true,
             "anchor": "tiramisu",
             "name": "Tiramisu",

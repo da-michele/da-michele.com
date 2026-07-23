@@ -49,17 +49,6 @@ const { lang } = useData()
     v-for="item in data.pasta"
     :food="item"
   ></MenuItemFood>
-<!--
-  <h2 id="riso" tabindex="-1"><a class="header-anchor" href="#riso" aria-label="Permalink to Riso"></a> Riso</h2>
-  <blockquote>
-    <p v-if="lang == 'en-US'">Rice</p>
-    <p v-else>Reis</p>
-  </blockquote>
-  <MenuItemFood
-    v-for="item in data.riso"
-    :food="item"
-  ></MenuItemFood>
--->
   <h2 id="pinse" tabindex="-1"><a class="header-anchor" href="#pinse" aria-label="Permalink to Pinse"></a> Pinse</h2>
   <blockquote>
     <p v-if="lang == 'en-US'">Pinsa</p>
@@ -69,17 +58,6 @@ const { lang } = useData()
     v-for="item in data.pinse"
     :food="item"
   ></MenuItemFood>
-<!--
-  <h2 id="pizze" tabindex="-1"><a class="header-anchor" href="#pizze" aria-label="Permalink to Pizze"></a> Pizze</h2>
-  <blockquote>
-    <p v-if="lang == 'en-US'">Pizza</p>
-    <p v-else>Pizza</p>
-  </blockquote>
-  <MenuItemFood
-    v-for="item in data.pizze"
-    :food="item"
-  ></MenuItemFood>
--->
   <h2 id="pesce" tabindex="-1"><a class="header-anchor" href="#pesce" aria-label="Permalink to Pesce"></a> Pesce</h2>
   <template v-if="lang == 'en-US'">
     <blockquote>

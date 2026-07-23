@@ -8,9 +8,7 @@ import { vinospumante } from './drinks.vinospumante.json'
 import { antipasti } from './food.antipasti.json'
 import { zuppe } from './food.zuppe.json'
 import { pasta } from './food.pasta.json'
-import { riso } from './food.riso.json'
 import { pinse } from './food.pinse.json'
-import { pizze } from './food.pizze.json'
 import { pesce } from './food.pesce.json'
 import { carne } from './food.carne.json'
 import { dolci } from './food.dolci.json'
@@ -53,9 +51,7 @@ export interface Data {
   readonly antipasti: Food[]
   readonly zuppe: Food[]
   readonly pasta: Food[]
-  readonly riso: Food[]
   readonly pinse: Food[]
-  readonly pizze: Food[]
   readonly pesce: Food[]
   readonly carne: Food[]
   readonly dolci: Food[]
@@ -78,9 +74,7 @@ export default defineLoader({
       antipasti: antipasti,
       zuppe: zuppe,
       pasta: pasta,
-      riso: riso,
       pinse: pinse,
-      pizze: pizze,
       pesce: pesce,
       carne: carne,
       dolci: dolci
