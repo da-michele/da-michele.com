@@ -1,13 +1,13 @@
 ---
 editLink: false
-date: 2026-07-23
+date: 2026-10-23
 head:
   - [meta, { property: 'og:title', content: 'Menu | Ristorante da Michele, Baden-Baden' }]
   - [meta, { property: 'og:url', content: 'https://da-michele.com/en/menu/' }]
   - [meta, { property: 'og:type', content: article }]
   - [meta, { property: 'article:section', content: Menu }]
   - [meta, { property: 'article:author', content: 'Vincenzo Romano' }]
-  - [meta, { property: 'article:modified_time', content: 2026-07-23 }]
+  - [meta, { property: 'article:modified_time', content: 2026-10-23 }]
 outline: 2
 ---
 
@@ -23,4 +23,12 @@ Our new location is Rheinstrasse 109.
 Please find our vcard in the sidebar on the left.
 :::
 
-<MenuItems />
+<!-- <MenuItems /> -->
+
+Our menu changes daily.
+
+We cook using whatever is fresh, seasonal, and of the best quality.
+For this reason, our menu shifts from day to day — and is intentionally not available online.
+
+To find out what’s being served today, simply visit us at the restaurant.
+We look forward to seeing you!

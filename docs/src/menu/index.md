@@ -1,5 +1,5 @@
 ---
-date: 2026-07-23
+date: 2026-10-23
 editLink: false
 head:
   - [meta, { property: 'og:title', content: 'Tageskarte | Ristorante da Michele, Baden-Baden' }]
@@ -7,7 +7,7 @@ head:
   - [meta, { property: 'og:type', content: article }]
   - [meta, { property: 'article:section', content: Tageskarte }]
   - [meta, { property: 'article:author', content: 'Vincenzo Romano' }]
-  - [meta, { property: 'article:modified_time', content: 2026-07-23 }]
+  - [meta, { property: 'article:modified_time', content: 2026-10-23 }]
 outline: 2
 ---
 
@@ -23,4 +23,12 @@ Unser neuer Standort ist in der Rheinstrasse 109.
 Unsere Visitenkarte findest Du links in der Seitenleiste.
 :::
 
-<MenuItems />
+<!-- <MenuItems /> -->
+
+Unsere Karte wechselt täglich.
+
+Wir kochen mit dem, was gerade frisch, saisonal und gut ist.
+Deshalb verändert sich unsere Speisekarte von Tag zu Tag – und ist bewusst nicht online zu finden.
+
+Was heute auf den Tisch kommt, erfahrt ihr direkt bei uns im Restaurant.
+Wir freuen uns auf euch!
